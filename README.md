@@ -72,7 +72,7 @@
 | Kaggle - 泰坦尼克号 | Kaggle 初级比赛 | 
 | Kaggle - 房价预测 | Kaggle 初级比赛 |
 
-## 学习交流群
+## 学习交流
 
 | 时间 | 群名称  | 群号  | 群人数  |
 | ------------ | ------------ | ------------ | ------------ |
@@ -86,17 +86,15 @@
 
 ## 组织成员
 
-> 第一届 组织委员会
+> 【2018-07-19】第一届 组织委员会
 
-* [@那伊抹微笑](https://github.com/wangyangting)
-* [@片刻](https://github.com/jiangzhonglian)
 * [@瑶妹](https://github.com/chenyyx)
 * [@飞龙](https://github.com/wizardforcel)
+* [@片刻](https://github.com/jiangzhonglian)
 * [@伪文艺.](https://github.com/Watermelon233)
-
+* [@那伊抹微笑](https://github.com/wangyangting)
 
 ## 捐赠列表
-
 
 | 捐赠者 | 金额(元) | 时间| 收入类型 | Issue |
 |--------|----------|-----|----------|------------|
@@ -111,6 +109,7 @@
 | [@追随者-足下](1195862494) | 100.00 |	2018-05-18 | 个人赞助 | [#0]() |
 | [@白鸟无言](398049343) | 18.00 | 2018-05-20 | 个人赞助 | [#0]() |
 
-* **<font color=green>ApacheCN 网友捐赠页面</font>：http://www.apachecn.org/organization/664.html**
+![](/images/about/donate.png)
 
-![](http://www.apachecn.org/wp-content/uploads/2018/02/%E6%94%AF%E4%BB%98-%E5%BE%AE%E4%BF%A1%E5%92%8C%E6%94%AF%E4%BB%98%E5%AE%9D-1024x591.png)
+* 参考添加捐赠方式: https://github.com/apachecn/organization/issues/1
+* **<font color=green>~~【历史】ApacheCN 网友捐赠页面</font>~~：http://www.apachecn.org/organization/664.html**
