@@ -29,9 +29,9 @@
 
 > Python 基础
 
-1. [numpy 中文文档](https://github.com/apachecn/numpy-ref-zh): http://beam.apachecn.org
-2. [pandas 中文文档](https://github.com/apachecn/pandas-doc-zh): http://beam.apachecn.org
-3. [matplotlib 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh): http://beam.apachecn.org
+1. [numpy 中文文档](https://github.com/apachecn/numpy-ref-zh): https://apachecn.github.io/numpy-ref-zh
+2. [pandas 中文文档](https://github.com/apachecn/pandas-doc-zh): https://apachecn.github.io/pandas-doc-zh
+3. [matplotlib 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh): https://github.com/apachecn/matplotlib-user-guide-zh
 
 > LeetCode 刷题
 
@@ -41,8 +41,8 @@
 
 1. [sklearn 中文文档](https://github.com/apachecn/scikit-learn-doc-zh): http://sklearn.apachecn.org
 2. [pytorch 0.3 中文文档](https://github.com/apachecn/pytorch-doc-zh): http://pytorch.apachecn.org
-3. [xgboost 中文文档](https://github.com/apachecn/xgboost-doc-zh): http://xgboost.apachecn.org
-4. [TensorFlow R1.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030122)
+3. [TensorFlow R1.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030122)
+4. [xgboost 中文文档](https://github.com/apachecn/xgboost-doc-zh): http://xgboost.apachecn.org
 5. [lightgbm 中文文档](https://github.com/apachecn/lightgbm-doc-zh): http://lightgbm.apachecn.org
 6. [fasttext 中文文档](https://github.com/apachecn/fasttext-doc-zh): http://fasttext.apachecn.org
 
