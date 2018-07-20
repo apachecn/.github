@@ -29,8 +29,8 @@
 
 > Python 基础
 
-1. [numpy 中文文档](https://github.com/apachecn/numpy-ref-zh): https://apachecn.github.io/numpy-ref-zh/
-2. [pandas 中文文档](https://github.com/apachecn/pandas-doc-zh): https://github.com/apachecn/pandas-doc-zh
+1. [numpy 中文文档](https://github.com/apachecn/numpy-ref-zh): https://apachecn.github.io/numpy-ref-zh
+2. [pandas 中文文档](https://github.com/apachecn/pandas-doc-zh): https://apachecn.github.io/pandas-doc-zh
 3. [matplotlib 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh): https://github.com/apachecn/matplotlib-user-guide-zh
 
 > LeetCode 刷题
