@@ -110,7 +110,7 @@
 | [@白鸟无言](398049343) | 18.00 | 2018-05-20 | 个人赞助 | [#0]() |
  [@忠维]() | 10.24 |	2018-07-20 | 个人赞助 | [#4](https://github.com/apachecn/organization/issues/4) |
 | [@茂林]() | 10.00 | 2018-07-20 | 个人赞助 | [#5](https://github.com/apachecn/organization/issues/5) |
-
+| [@德兆]() | 50.00 | 2018-07-22 | 个人赞助 | [#10](https://github.com/apachecn/organization/issues/10) |
 
 ![](/images/about/donate.png)
 
