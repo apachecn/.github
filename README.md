@@ -52,9 +52,15 @@
 
 ## 翻译书籍
 
+> 已完成（需要迭代）
+
 1. [Feature Engineering for Machine Learning - Early Release](https://github.com/apachecn/feature-engineering-for-ml-zh)
 2. [OReilly Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
 3. [Speech and Language Processing - 3rd ed. draft](https://github.com/apachecn/slp-3e-zh)
+
+> **正在进行**（是兄弟就来报名吧！！！）
+
+[面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
 
 ## 整理书籍
 
@@ -111,6 +117,7 @@
  [@忠维]() | 10.24 |	2018-07-20 | 个人赞助 | [#4](https://github.com/apachecn/organization/issues/4) |
 | [@茂林]() | 10.00 | 2018-07-20 | 个人赞助 | [#5](https://github.com/apachecn/organization/issues/5) |
 | [@德兆]() | 50.00 | 2018-07-22 | 个人赞助 | [#10](https://github.com/apachecn/organization/issues/10) |
+| [@袵]() | 6.60 | 2018-07-31 | 个人赞助 | [#12](https://github.com/apachecn/organization/issues/12) |
 
 ![](/images/about/donate.png)
 
