@@ -60,7 +60,7 @@
 
 > **正在进行**（是兄弟就来报名吧！！！）
 
-[面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
+[面向数据科学的概率论](docs/书籍翻译/《面向数据科学的概率论》.md): https://github.com/apachecn/organization/blob/master/docs/书籍翻译/《面向数据科学的概率论》.md
 
 ## 整理书籍
 
