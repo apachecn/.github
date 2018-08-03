@@ -5,7 +5,17 @@
 * 首页地址: http://www.apachecn.org
 * 关于我们: https://github.com/apachecn/organization/blob/master/docs/关于我们.md
 
-## 翻译网站
+## 正在进行的活动
+
+> 书籍翻译
+
+**是兄弟就来报名！！！**
+
+* [面向数据科学的概率论](docs/书籍翻译/《面向数据科学的概率论》.md): 
+    * https://github.com/apachecn/organization/blob/master/docs/书籍翻译/《面向数据科学的概率论》.md
+* 记得在 [issues](https://github.com/apachecn/organization/issues/13) 中 [@飞龙](https://github.com/wizardforcel)
+
+## 翻译资源
 
 > 大数据
 
@@ -29,9 +39,10 @@
 
 > Python 基础
 
-1. [numpy 中文文档](https://github.com/apachecn/numpy-ref-zh): https://apachecn.github.io/numpy-ref-zh
-2. [pandas 中文文档](https://github.com/apachecn/pandas-doc-zh): https://apachecn.github.io/pandas-doc-zh
-3. [matplotlib 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh): https://wizardforcel.gitbooks.io/matplotlib-user-guide/content
+| | | |
+| --- | --- | --- | 
+| [numpy 中文文档](https://github.com/apachecn/numpy-ref-zh) | [pandas 中文文档](https://github.com/apachecn/pandas-doc-zh) | [matplotlib 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh) |
+| <a title="numpy 中文文档" href="https://apachecn.github.io/numpy-ref-zh" target="_blank"><img width="290" src="images/skill/numpy_logo.png"></a> | <a title="pandas 中文文档" href="https://apachecn.github.io/pandas-doc-zh" target="_blank"><img width="290" src="images/skill/pandas_logo.png"></a>  | <a title="matplotlib 中文文档" href="https://wizardforcel.gitbooks.io/matplotlib-user-guide/content" target="_blank"><img width="290" src="images/skill/matplotlib_logo.png"></a> | 
 
 > LeetCode 刷题
 
@@ -52,20 +63,31 @@
 
 ## 翻译书籍
 
-> 已完成（需要迭代）
-
 1. [Feature Engineering for Machine Learning - Early Release](https://github.com/apachecn/feature-engineering-for-ml-zh)
 2. [OReilly Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
 3. [Speech and Language Processing - 3rd ed. draft](https://github.com/apachecn/slp-3e-zh)
 
-> **正在进行**（是兄弟就来报名吧！！！）
-
-[面向数据科学的概率论](docs/书籍翻译/《面向数据科学的概率论》.md): https://github.com/apachecn/organization/blob/master/docs/书籍翻译/《面向数据科学的概率论》.md
-
 ## 整理书籍
 
-1. [Machine Learning in Action - 机器学习实战](https://github.com/apachecn/MachineLearning)
+1. [Machine Learning in Action - 机器学习实战（已追加部分 自然语言处理+深度学习 相关内容）](https://github.com/apachecn/MachineLearning)
 2. [Python 数据分析与挖掘实战](https://github.com/apachecn/python_data_analysis_and_mining_action)
+
+## 社交需求
+
+[issues 信息汇总：大数据、区块链、机器学习、深度学习、自然语言处理](docs/social/README.md)
+
+> 个人交友
+
+* 此栏目为个人交友的介绍：个人介绍、交友需求、等着py （请直接通过 issues）
+* 为了防止骗炮: 配上自己的GitHub地址(如果对方没有GitHub地址，建议拒绝聊天)
+
+> 个人求职
+
+此栏目为个人求职的介绍：个人简历、项目描述 等等（请直接通过 issues）
+
+> 企业招聘
+
+此栏目为企业招聘的介绍：企业介绍、项目要求、技能特招 等等（请直接通过 issues）
 
 ## 学习活动
 
@@ -78,7 +100,7 @@
 | Kaggle - 泰坦尼克号 | Kaggle 初级比赛 | 
 | Kaggle - 房价预测 | Kaggle 初级比赛 |
 
-## 学习交流
+## 交流方式
 
 | 时间 | 群名称  | 群号  | 群人数  |
 | ------------ | ------------ | ------------ | ------------ |
