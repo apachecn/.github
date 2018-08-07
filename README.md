@@ -19,19 +19,18 @@
 
 **是兄弟就来报名！！！**
 
-* [面向数据科学的概率论](docs/translate/prob140-textbook-zh.md): 
-    * https://github.com/apachecn/organization/blob/master/docs/translate/prob140-textbook-zh.md
+* [面向数据科学的概率论](https://apachecn.github.io/organization/translate/prob140-textbook-zh/): 
 * 记得在 [issues](https://github.com/apachecn/organization/issues/13) 中 [@飞龙](https://github.com/wizardforcel)
 
 ## 翻译资源
 
 > 大数据
 
-1. [Spark 中文文档](https://github.com/apachecn/spark-doc-zh): http://spark.apachecn.org
-2. [Storm 中文文档](https://github.com/apachecn/storm-doc-zh): http://storm.apachecn.org
-3. [Kafka 中文文档](https://github.com/apachecn/kafka-doc-zh): http://kafka.apachecn.org
-4. [Flink 中文文档](https://github.com/apachecn/flink-doc-zh): http://flink.apachecn.org
-5. [Beam 中文文档](https://github.com/apachecn/beam-site-zh): http://beam.apachecn.org
+1. [Spark 中文文档](https://github.com/apachecn/spark-doc-zh): <http://spark.apachecn.org>
+2. [Storm 中文文档](https://github.com/apachecn/storm-doc-zh): <http://storm.apachecn.org>
+3. [Kafka 中文文档](https://github.com/apachecn/kafka-doc-zh): <http://kafka.apachecn.org>
+4. [Flink 中文文档](https://github.com/apachecn/flink-doc-zh): <http://flink.apachecn.org>
+5. [Beam 中文文档](https://github.com/apachecn/beam-site-zh): <http://beam.apachecn.org>
 6. [Zeppelin 0.7.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030467)
 7. [Elasticsearch 5.4 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=4260364)
 8. [Kibana 5.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=8159377)
@@ -39,35 +38,36 @@
 
 > 区块链
 
-1. [Solidity 中文文档](https://github.com/apachecn/solidity-doc-zh): https://github.com/apachecn/solidity-doc-zh
+1. [Solidity 中文文档](https://github.com/apachecn/solidity-doc-zh): <https://github.com/apachecn/solidity-doc-zh>
 
 > 数学笔记
 
-1. [麻省理工公开课-线性代数-笔记](https://github.com/apachecn/math): https://github.com/apachecn/math
+1. [麻省理工公开课-线性代数-笔记](https://github.com/apachecn/math): <https://github.com/apachecn/math>
 
 > Python 基础
 
 | | | |
 | --- | --- | --- | 
 | [numpy 中文文档](https://github.com/apachecn/numpy-ref-zh) | [pandas 中文文档](https://github.com/apachecn/pandas-doc-zh) | [matplotlib 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh) |
-| <a title="numpy 中文文档" href="https://apachecn.github.io/numpy-ref-zh" target="_blank"><img width="290" src="docs/img/skill/numpy_logo.png"></a> | <a title="pandas 中文文档" href="https://apachecn.github.io/pandas-doc-zh" target="_blank"><img width="290" src="docs/img/skill/pandas_logo.png"></a>  | <a title="matplotlib 中文文档" href="https://wizardforcel.gitbooks.io/matplotlib-user-guide/content" target="_blank"><img width="290" src="docs/img/skill/matplotlib_logo.png"></a> | 
+| <a title="numpy 中文文档" href="https://apachecn.github.io/numpy-ref-zh" target="_blank"><img width="290" src="img/skill/numpy_logo.png"></a> | <a title="pandas 中文文档" href="https://apachecn.github.io/pandas-doc-zh" target="_blank"><img width="290" src="img/skill/pandas_logo.png"></a>  | <a title="matplotlib 中文文档" href="https://wizardforcel.gitbooks.io/matplotlib-user-guide/content" target="_blank"><img width="290" src="img/skill/matplotlib_logo.png"></a> | 
 
 > LeetCode 刷题
 
-1. [LeetCode 中文文档](https://github.com/apachecn/LeetCode): https://github.com/apachecn/LeetCode
+1. [LeetCode 中文文档](https://github.com/apachecn/LeetCode): <https://github.com/apachecn/LeetCode>
 
 > AI 学习文档
 
-1. [sklearn 中文文档](https://github.com/apachecn/scikit-learn-doc-zh): http://sklearn.apachecn.org
-2. [pytorch 0.3 中文文档](https://github.com/apachecn/pytorch-doc-zh): http://pytorch.apachecn.org
+1. [sklearn 中文文档](https://github.com/apachecn/scikit-learn-doc-zh): <http://sklearn.apachecn.org>
+2. [pytorch 0.3 中文文档](https://github.com/apachecn/pytorch-doc-zh): <http://pytorch.apachecn.org>
 3. [TensorFlow R1.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030122)
-4. [xgboost 中文文档](https://github.com/apachecn/xgboost-doc-zh): http://xgboost.apachecn.org
-5. [lightgbm 中文文档](https://github.com/apachecn/lightgbm-doc-zh): http://lightgbm.apachecn.org
-6. [fasttext 中文文档](https://github.com/apachecn/fasttext-doc-zh): http://fasttext.apachecn.org
+4. [xgboost 中文文档](https://github.com/apachecn/xgboost-doc-zh): <http://xgboost.apachecn.org>
+5. [lightgbm 中文文档](https://github.com/apachecn/lightgbm-doc-zh): <http://lightgbm.apachecn.org>
+6. [fasttext 中文文档](https://github.com/apachecn/fasttext-doc-zh): <http://fasttext.apachecn.org>
 
 > AI 学习比赛
 
-1. [Kaggle 中文文档](https://github.com/apachecn/kaggle): https://github.com/apachecn/kaggle
+1. [Kaggle 中文文档](https://github.com/apachecn/kaggle): <https://github.com/apachecn/kaggle>
+2. 【比赛收集平台】: <https://github.com/iphysresearch/DataSciComp>
 
 ## 翻译书籍
 
@@ -82,7 +82,7 @@
 
 ## 社交需求
 
-[issues 信息汇总：大数据、区块链、机器学习、深度学习、自然语言处理](docs/social/README.md)
+[issues 信息汇总：大数据、区块链、机器学习、深度学习、自然语言处理](https://apachecn.github.io/organization/social/)
 
 > 个人交友
 
@@ -151,5 +151,5 @@
 
 ![](docs/img/about/donate.png)
 
-* 参考添加捐赠方式: https://github.com/apachecn/organization/issues/1
+* 参考添加捐赠方式: <https://github.com/apachecn/organization/issues/1>
 * **<font color=green>~~【历史】ApacheCN 网友捐赠页面</font>~~：http://www.apachecn.org/organization/664.html**
