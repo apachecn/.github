@@ -2,32 +2,12 @@ body {
     padding-top: 70px;
 }
 
-/* Replacement for `body { background-attachment: fixed; }`, which has
-   performance issues when scrolling on large displays. See #1394. */
-body::before {
-    content: ' ';
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    background-color: #f8f8f8;
-    background: url(../img/grid.png) repeat-x;
-    will-change: transform;
-    z-index: -1;
-}
-
-body > .container {
-    min-height: 400px;
-}
-
 ul.nav .main {
     font-weight: bold;
 }
 
 .col-md-3 {
     padding-left: 0;
-    z-index: 1;
 }
 
 .col-md-9 {
@@ -40,19 +20,18 @@ ul.nav .main {
 
 .col-md-9 img {
     max-width: 100%;
-    display: inline-block;
-    padding: 4px;
-    line-height: 1.428571429;
-    background-color: #fff;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    margin: 20px auto 30px auto;
 }
 
 /*
  * The code below adds some padding to the top of the current anchor target so
  * that, when navigating to it, the header isn't hidden by the navbar at the
- * top.
+ * top. This is especially complicated because we want to *remove* the padding
+ * after navigation so that hovering over the header shows the permalink icon
+ * correctly. Thus, we create a CSS animation to remove the extra padding after
+ * a second. We have two animations so that navigating to an anchor within the
+ * page always restarts the animation.
+ *
+ * See <https://github.com/mkdocs/mkdocs/issues/843> for more details.
  */
 :target::before {
     content: "";
@@ -60,51 +39,45 @@ ul.nav .main {
     margin-top: -75px;
     height: 75px;
     pointer-events: none;
+    animation: 0s 1s forwards collapse-anchor-padding-1;
 }
 
-h1 {
-    color: #444;
-    font-weight: 400;
-    font-size: 42px;
+.clicky :target::before {
+    animation-name: collapse-anchor-padding-2;
 }
 
-h2, h3, h4, h5, h6 {
-    color: #444;
-    font-weight: 300;
+@keyframes collapse-anchor-padding-1 {
+    to {
+        margin-top: 0;
+        height: 0;
+    }
 }
 
-hr {
-    border-top: 1px solid #aaa;
-}
-
-pre, .rst-content tt {
-    max-width: 100%;
-    background: #fff;
-    border: solid 1px #e1e4e5;
-    color: #333;
-    overflow-x: auto;
-}
-
-code.code-large, .rst-content tt.code-large {
-    font-size: 90%;
+@keyframes collapse-anchor-padding-2 {
+    to {
+        margin-top: 0;
+        height: 0;
+    }
 }
 
 code {
-    padding: 2px 5px;
-    background: #fff;
-    border: solid 1px #e1e4e5;
+    padding: 1px 3px;
+    background: #f5f5f5;
+    border: solid 1px #ccc;
     color: #333;
-    white-space: pre-wrap;
-    word-wrap: break-word;
 }
 
 pre code {
     background: transparent;
     border: none;
-    white-space: pre;
-    word-wrap: normal;
-    font-family: monospace,serif;
-    font-size: 12px;
+}
+
+a code {
+    color: #008cba;
+}
+
+a:hover code, a:focus code {
+    color: #00526e;
 }
 
 kbd {
@@ -115,14 +88,6 @@ kbd {
     border-radius: 3px;
     -webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,.25);
     box-shadow: inset 0 -1px 0 rgba(0,0,0,.25);
-}
-
-a code {
-    color: #2FA4E7;
-}
-
-a:hover code, a:focus code {
-    color: #157AB5;
 }
 
 footer {
@@ -136,6 +101,69 @@ footer {
     margin-top: 60px;
 }
 
+/* Style the admonitions. */
+
+.admonition {
+    margin-bottom: 21px;
+    border: 1px solid #ddd;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+}
+
+.admonition > .admonition-title {
+    margin: 0;
+    padding: 10px 15px;
+    border-bottom: 1px solid #ddd;
+    color: #333;
+    background-color: #f5f5f5;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 1.1;
+}
+
+.admonition > * {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.admonition > *:not(.admonition-title):first-of-type,
+.admonition > .admonition-title + * {
+    margin-top: 15px;
+}
+
+.admonition > *:last-child {
+    margin-bottom: 15px;
+}
+
+/* Style each kind of admonition. */
+
+.admonition.note, .admonition.note > .admonition-title {
+    border-color: #3db5d8;
+}
+
+.admonition.note > .admonition-title {
+    color: #fff;
+    background-color: #5bc0de;
+}
+
+.admonition.warning, .admonition.warning > .admonition-title {
+    border-color: #d08002;
+}
+
+.admonition.warning > .admonition-title {
+    color: #fff;
+    background-color: #e99002;
+}
+
+.admonition.danger, .admonition.danger > .admonition-title {
+    border-color: #ea2f10;
+}
+
+.admonition.danger > .admonition-title {
+    color: #fff;
+    background-color: #f04124;
+}
+
 /*
  * Side navigation
  *
@@ -144,18 +172,18 @@ footer {
  */
 
 /* By default it's not affixed in mobile views, so undo that */
-.bs-sidebar.affix { /* csslint allow: adjoining-classes */
+.bs-sidebar.affix {
     position: static;
 }
 
-.bs-sidebar.well { /* csslint allow: adjoining-classes */
+.bs-sidebar.well {
     padding: 0;
-    max-height: 90%;
-    overflow-y: auto;
 }
 
 /* First level of nav */
 .bs-sidenav {
+    margin-top: 30px;
+    margin-bottom: 30px;
     padding-top:    10px;
     padding-bottom: 10px;
     border-radius: 5px;
@@ -194,45 +222,36 @@ footer {
 
 /* Show and affix the side nav when space allows it */
 @media (min-width: 992px) {
-    /* Workaround a Safari bug when zooming to < 100%
-       https://github.com/mkdocs/mkdocs/issues/1050 */
-    .col-md-9 {
-        box-sizing: border-box;  /* csslint allow: box-sizing */
-        padding-left: 25%;
-        width: 100%;
-    }
     .bs-sidebar .nav > .active > ul {
         display: block;
     }
     /* Widen the fixed sidebar */
-    .bs-sidebar.affix, /* csslint allow: adjoining-classes */
-    .bs-sidebar.affix-bottom { /* csslint allow: adjoining-classes */
+    .bs-sidebar.affix,
+    .bs-sidebar.affix-bottom {
         width: 213px;
     }
-    .bs-sidebar.affix { /* csslint allow: adjoining-classes */
+    .bs-sidebar.affix {
         position: fixed; /* Undo the static from mobile first approach */
         top: 80px;
     }
-    .bs-sidebar.affix-bottom { /* csslint allow: adjoining-classes */
+    .bs-sidebar.affix-bottom {
         position: absolute; /* Undo the static from mobile first approach */
     }
-    .bs-sidebar.affix-bottom .bs-sidenav, /* csslint allow: adjoining-classes */
-    .bs-sidebar.affix .bs-sidenav { /* csslint allow: adjoining-classes */
+    .bs-sidebar.affix-bottom .bs-sidenav,
+    .bs-sidebar.affix .bs-sidenav {
         margin-top: 0;
         margin-bottom: 0;
     }
 }
 @media (min-width: 1200px) {
     /* Widen the fixed sidebar again */
-    .bs-sidebar.affix-bottom, /* csslint allow: adjoining-classes */
-    .bs-sidebar.affix { /* csslint allow: adjoining-classes */
+    .bs-sidebar.affix-bottom,
+    .bs-sidebar.affix {
         width: 263px;
     }
 }
 
 .headerlink {
-    font-family: FontAwesome;
-    font-size: 14px;
     display: none;
     padding-left: .5em;
 }
@@ -241,58 +260,25 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
     display:inline-block;
 }
 
-
-
-.admonition {
-    padding: 15px;
-    margin-bottom: 20px;
-    border: 1px solid transparent;
-    border-radius: 4px;
-    text-align: left;
-}
-
-.admonition.note { /* csslint allow: adjoining-classes */
-    color: #3a87ad;
-    background-color: #d9edf7;
-    border-color: #bce8f1;
-}
-
-.admonition.warning { /* csslint allow: adjoining-classes */
-    color: #c09853;
-    background-color: #fcf8e3;
-    border-color: #fbeed5;
-}
-
-.admonition.danger { /* csslint allow: adjoining-classes */
-    color: #b94a48;
-    background-color: #f2dede;
-    border-color: #eed3d7;
-}
-
-.admonition-title {
-    font-weight: bold;
-    text-align: left;
-}
-
-
+/* display submenu relative to parent*/
 .dropdown-submenu {
     position: relative;
 }
 
+/* sub menu stlye */
 .dropdown-submenu>.dropdown-menu {
     top: 0;
     left: 100%;
-    margin-top: -6px;
+    margin-top: 0px;
     margin-left: -1px;
-    -webkit-border-radius: 0 6px 6px 6px;
-    -moz-border-radius: 0 6px 6px;
-    border-radius: 0 6px 6px 6px;
 }
 
+/* display sub menu on hover*/
 .dropdown-submenu:hover>.dropdown-menu {
     display: block;
 }
 
+/* little arrow */
 .dropdown-submenu>a:after {
     display: block;
     content: " ";
@@ -307,18 +293,7 @@ h1:hover .headerlink, h2:hover .headerlink, h3:hover .headerlink, h4:hover .head
     margin-right: -10px;
 }
 
+/* little arrow of parent menu */
 .dropdown-submenu:hover>a:after {
     border-left-color: #fff;
-}
-
-.dropdown-submenu.pull-left { /* csslint allow: adjoining-classes */
-    float: none;
-}
-
-.dropdown-submenu.pull-left>.dropdown-menu { /* csslint allow: adjoining-classes */
-    left: -100%;
-    margin-left: 10px;
-    -webkit-border-radius: 6px 0 6px 6px;
-    -moz-border-radius: 6px 0 6px 6px;
-    border-radius: 6px 0 6px 6px;
 }

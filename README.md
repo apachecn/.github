@@ -1,9 +1,17 @@
-# ApacheCN  开源组织
+# <center>ApacheCN  开源组织</center>
+<center>专注于优秀项目维护的开源组织</center>
+
+---
+
+* 请直接看页面详情: https://apachecn.github.io/organization
+* 下面信息可直接忽略，谢谢
+
+--- 
 
 ## 组织介绍
 
 * 首页地址: http://www.apachecn.org
-* 关于我们: https://github.com/apachecn/organization/blob/master/docs/关于我们.md
+* 关于我们: https://apachecn.github.io/organization/about
 
 ## 正在进行的活动
 
@@ -11,8 +19,8 @@
 
 **是兄弟就来报名！！！**
 
-* [面向数据科学的概率论](docs/书籍翻译/《面向数据科学的概率论》.md): 
-    * https://github.com/apachecn/organization/blob/master/docs/书籍翻译/《面向数据科学的概率论》.md
+* [面向数据科学的概率论](docs/translate/prob140-textbook-zh.md): 
+    * https://github.com/apachecn/organization/blob/master/docs/translate/prob140-textbook-zh.md
 * 记得在 [issues](https://github.com/apachecn/organization/issues/13) 中 [@飞龙](https://github.com/wizardforcel)
 
 ## 翻译资源
@@ -42,7 +50,7 @@
 | | | |
 | --- | --- | --- | 
 | [numpy 中文文档](https://github.com/apachecn/numpy-ref-zh) | [pandas 中文文档](https://github.com/apachecn/pandas-doc-zh) | [matplotlib 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh) |
-| <a title="numpy 中文文档" href="https://apachecn.github.io/numpy-ref-zh" target="_blank"><img width="290" src="images/skill/numpy_logo.png"></a> | <a title="pandas 中文文档" href="https://apachecn.github.io/pandas-doc-zh" target="_blank"><img width="290" src="images/skill/pandas_logo.png"></a>  | <a title="matplotlib 中文文档" href="https://wizardforcel.gitbooks.io/matplotlib-user-guide/content" target="_blank"><img width="290" src="images/skill/matplotlib_logo.png"></a> | 
+| <a title="numpy 中文文档" href="https://apachecn.github.io/numpy-ref-zh" target="_blank"><img width="290" src="docs/img/skill/numpy_logo.png"></a> | <a title="pandas 中文文档" href="https://apachecn.github.io/pandas-doc-zh" target="_blank"><img width="290" src="docs/img/skill/pandas_logo.png"></a>  | <a title="matplotlib 中文文档" href="https://wizardforcel.gitbooks.io/matplotlib-user-guide/content" target="_blank"><img width="290" src="docs/img/skill/matplotlib_logo.png"></a> | 
 
 > LeetCode 刷题
 
@@ -141,7 +149,7 @@
 | [@德兆]() | 50.00 | 2018-07-22 | 个人赞助 | [#10](https://github.com/apachecn/organization/issues/10) |
 | [@袵]() | 6.60 | 2018-07-31 | 个人赞助 | [#12](https://github.com/apachecn/organization/issues/12) |
 
-![](/images/about/donate.png)
+![](docs/img/about/donate.png)
 
 * 参考添加捐赠方式: https://github.com/apachecn/organization/issues/1
 * **<font color=green>~~【历史】ApacheCN 网友捐赠页面</font>~~：http://www.apachecn.org/organization/664.html**
