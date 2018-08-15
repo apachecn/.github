@@ -149,7 +149,7 @@
 | [@德兆]() | 50.00 | 2018-07-22 | 个人赞助 | [#10](https://github.com/apachecn/organization/issues/10) |
 | [@袵]() | 6.60 | 2018-07-31 | 个人赞助 | [#12](https://github.com/apachecn/organization/issues/12) |
 
-![](docs/img/about/donate.png)
+![](docs/img/about/donate.jpg)
 
 * 参考添加捐赠方式: <https://github.com/apachecn/organization/issues/1>
 * **<font color=green>~~【历史】ApacheCN 网友捐赠页面</font>~~：http://www.apachecn.org/organization/664.html**
