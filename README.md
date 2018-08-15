@@ -6,12 +6,12 @@
 * 请直接看页面详情: https://apachecn.github.io/organization
 * 下面信息可直接忽略，谢谢
 
---- 
+---
 
 ## 组织介绍
 
 * 首页地址: http://www.apachecn.org
-* 关于我们: https://apachecn.github.io/organization/about
+* 关于我们: https://apachecn.github.io/organization/organization/about
 
 ## 正在进行的活动
 
@@ -19,7 +19,7 @@
 
 **是兄弟就来报名！！！**
 
-* [面向数据科学的概率论](https://apachecn.github.io/organization/translate/prob140-textbook-zh/): 
+* [面向数据科学的概率论](https://apachecn.github.io/organization/translate/prob140-textbook-zh/)
 * 记得在 [issues](https://github.com/apachecn/organization/issues/13) 中 [@飞龙](https://github.com/wizardforcel)
 
 ## 翻译资源
