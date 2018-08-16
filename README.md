@@ -19,7 +19,7 @@
 
 **是兄弟就来报名！！！**
 
-* [面向数据科学的概率论](https://apachecn.github.io/organization/translate/prob140-textbook-zh/)
+* [面向数据科学的概率论](https://apachecn.github.io/home/translate/prob140-textbook-zh/)
 * 记得在 [issues](https://github.com/apachecn/home/issues/13) 中 [@飞龙](https://github.com/wizardforcel)
 
 ## 翻译资源
@@ -82,7 +82,7 @@
 
 ## 社交需求
 
-[issues 信息汇总：大数据、区块链、机器学习、深度学习、自然语言处理](https://apachecn.github.io/organization/social/)
+[issues 信息汇总：大数据、区块链、机器学习、深度学习、自然语言处理](https://apachecn.github.io/home/social/)
 
 > 个人交友
 
