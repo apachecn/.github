@@ -3,7 +3,7 @@
 
 ---
 
-* 请直接看页面详情: https://apachecn.github.io/organization
+* 请直接看页面详情: https://apachecn.github.io/home
 * 下面信息可直接忽略，谢谢
 
 ---
@@ -11,7 +11,7 @@
 ## 组织介绍
 
 * 首页地址: http://www.apachecn.org
-* 关于我们: https://apachecn.github.io/organization/organization/about
+* 关于我们: https://apachecn.github.io/home/about
 
 ## 正在进行的活动
 
@@ -20,7 +20,7 @@
 **是兄弟就来报名！！！**
 
 * [面向数据科学的概率论](https://apachecn.github.io/organization/translate/prob140-textbook-zh/)
-* 记得在 [issues](https://github.com/apachecn/organization/issues/13) 中 [@飞龙](https://github.com/wizardforcel)
+* 记得在 [issues](https://github.com/apachecn/home/issues/13) 中 [@飞龙](https://github.com/wizardforcel)
 
 ## 翻译资源
 
@@ -134,7 +134,7 @@
 
 | 捐赠者 | 金额(元) | 时间| 收入类型 | Issue |
 |--------|----------|-----|----------|------------|
-| 例如: [@片刻](https://github.com/jiangzhonglian) | 666 | 2018-07-19 | 个人赞助 | [#1](https://github.com/apachecn/organization/issues/1) |
+| 例如: [@片刻](https://github.com/jiangzhonglian) | 666 | 2018-07-19 | 个人赞助 | [#1](https://github.com/apachecn/home/issues/1) |
 | [@桑](437542541) | 8.88 |	 2017-11-16 | 个人赞助 | [#0]() |
 | [@煜炅](760514101) | 3.34 |	 2018-03-23 | 个人赞助 | [#0]() |
 | [@涅槃之光](447111167) | 2.22 | 2018-03-25 | 个人赞助 | [#0]() |
@@ -144,12 +144,12 @@
 | [@自由精灵](315920958) | 66.66 | 2018-05-17 | 个人赞助 | [#0]() |
 | [@追随者-足下](1195862494) | 100.00 |	2018-05-18 | 个人赞助 | [#0]() |
 | [@白鸟无言](398049343) | 18.00 | 2018-05-20 | 个人赞助 | [#0]() |
- [@忠维]() | 10.24 |	2018-07-20 | 个人赞助 | [#4](https://github.com/apachecn/organization/issues/4) |
-| [@茂林]() | 10.00 | 2018-07-20 | 个人赞助 | [#5](https://github.com/apachecn/organization/issues/5) |
-| [@德兆]() | 50.00 | 2018-07-22 | 个人赞助 | [#10](https://github.com/apachecn/organization/issues/10) |
-| [@袵]() | 6.60 | 2018-07-31 | 个人赞助 | [#12](https://github.com/apachecn/organization/issues/12) |
+ [@忠维]() | 10.24 |	2018-07-20 | 个人赞助 | [#4](https://github.com/apachecn/home/issues/4) |
+| [@茂林]() | 10.00 | 2018-07-20 | 个人赞助 | [#5](https://github.com/apachecn/home/issues/5) |
+| [@德兆]() | 50.00 | 2018-07-22 | 个人赞助 | [#10](https://github.com/apachecn/home/issues/10) |
+| [@袵]() | 6.60 | 2018-07-31 | 个人赞助 | [#12](https://github.com/apachecn/home/issues/12) |
 
 ![](docs/img/about/donate.jpg)
 
-* 参考添加捐赠方式: <https://github.com/apachecn/organization/issues/1>
+* 参考添加捐赠方式: <https://github.com/apachecn/home/issues/1>
 * **<font color=green>~~【历史】ApacheCN 网友捐赠页面</font>~~：http://www.apachecn.org/organization/664.html**
