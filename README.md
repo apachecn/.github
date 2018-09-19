@@ -13,15 +13,6 @@
 * 首页地址: http://www.apachecn.org
 * 关于我们: https://apachecn.github.io/home/about
 
-## 正在进行的活动
-
-> 书籍翻译
-
-**是兄弟就来报名！！！**
-
-* [面向数据科学的概率论](https://apachecn.github.io/home/translate/prob140-textbook-zh/)
-* 记得在 [issues](https://github.com/apachecn/home/issues/13) 中 [@飞龙](https://github.com/wizardforcel)
-
 ## 翻译资源
 
 > 大数据
