@@ -30,9 +30,9 @@
 
 【翻译征集】: <https://github.com/apachecn/home/issues/59>
 
-> 【个性化 - 学习咨询 - 收费】
+> [【个性化 - 学习咨询 - 收费】](docs/map)
 
-【学习咨询】: <https://github.com/apachecn/home/issues/59>
+【学习咨询】: <http://www.apachecn.org/map>
 
 > [书籍翻译（2018-08-01 开始）](docs/translate)
 
