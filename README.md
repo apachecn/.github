@@ -1,17 +1,54 @@
-# <center>ApacheCN  开源组织</center>
-<center>专注于优秀项目维护的开源组织</center>
-
----
-
-* 请直接看页面详情: https://apachecn.github.io/home
-* 下面信息可直接忽略，谢谢
+# <center>ApacheCN 中文开源组织</center>
+<center>代码: 让学习变得更简单</center>
 
 ---
 
 ## 组织介绍
 
-* 首页地址: http://www.apachecn.org
-* 关于我们: https://apachecn.github.io/home/about
+* 首页地址: <http://www.apachecn.org>
+* 关于我们: <http://www.apachecn.org/about>
+* 我们与Apache没关系，只是Apache狂热的粉丝，才成立中文开源组织！
+* 如有侵权，请联系邮箱: 【片刻】 <jiang-s@163.com>  (如果需要合作，也可以私聊我)
+
+## 活动
+
+> 学习活动
+
+| 活动名称 | 活动描述 |
+| --- | --- |
+| ML 读书会 | 机器学习入门 - 读书会 |
+| DL 读书会 | 深度学习入门 - 读书会 |
+| NLP 读书会 | 自然语音处理 - 读书会 |
+| Kaggle - 数字识别 | Kaggle 入门比赛 |
+| Kaggle - 泰坦尼克号 | Kaggle 初级比赛 |
+| Kaggle - 房价预测 | Kaggle 初级比赛 |
+| LeetCode 面试 | LeetCode 面试必备 |
+
+### **正在进行**
+
+> 【翻译征集】
+
+【翻译征集】: <https://github.com/apachecn/home/issues/59>
+
+> 【个性化 - 学习咨询 - 收费】
+
+【学习咨询】: <https://github.com/apachecn/home/issues/59>
+
+> [书籍翻译（2018-08-01 开始）](docs/translate)
+
+* 【点击参与】[面向数据科学的概率论](docs/translate/prob140-textbook-zh.md)
+    * 记得在 [issues](https://github.com/apachecn/home/issues/13) 中 [@飞龙](https://github.com/wizardforcel)
+
+### **已经结束**
+
+> [社交活动（2018-09-19 开始）](docs/social)
+
+* 【点击参与】[北京2期: 线下一日游](docs/social/beijing-2.md)
+
+> [读书会（2018-08-20 开始）](docs/read)
+
+* 【点击参与】[kg - 第1期: 知识图谱](docs/read/kg-1-learning.md)
+* 【点击参与】[nlp - 第2期: Python自然语言处理](docs/read/nlp-2-python-nltk.md)
 
 ## 翻译资源
 
@@ -68,12 +105,12 @@
 
 ## 整理书籍
 
-1. [Machine Learning in Action - 机器学习实战（已追加部分 自然语言处理+深度学习 相关内容）](https://github.com/apachecn/MachineLearning)
+1. [Machine Learning in Action - 机器学习实战（已追加部分 自然语言处理+深度学习 相关内容）](https://github.com/apachecn/AiLearning)
 2. [Python 数据分析与挖掘实战](https://github.com/apachecn/python_data_analysis_and_mining_action)
 
 ## 社交需求
 
-[issues 信息汇总：大数据、区块链、机器学习、深度学习、自然语言处理](https://apachecn.github.io/home/social/)
+[issues 信息汇总：大数据、区块链、机器学习、深度学习、自然语言处理](docs/social/README.md)
 
 > 个人交友
 
@@ -106,8 +143,8 @@
 | 2014-04-12 | 大数据-1(满) | <a href="//shang.qq.com/wpa/qunwpa?idkey=952c3066344564ac53131f7e101948b0b5e5814390fa24bbfa69e76ff915beb7" target="_blank" rel="noopener">214293307</a> | 2000 |
 | 2017-09-01 | 机器/深度学习 | <a href="//shang.qq.com/wpa/qunwpa?idkey=bcee938030cc9e1552deb3bd9617bbbf62d3ec1647e4b60d9cd6b6e8f78ddc03" target="_blank" rel="noopener">629470233</a> | 5000 |
 | 2017-11-29 | Kaggle | <a href="//shang.qq.com/wpa/qunwpa?idkey=716b584bbd7cdf64e961b499c7fb5891faf1f6c92dad026e3c596a57c834f1ec" target="_blank" rel="noopener">686932392</a> | 2000 |
-| 2018-05-02 | 大数据-2 | <a href="//shang.qq.com/wpa/qunwpa?idkey=5d65b0774e5750e97e5725a201ccf158c84056ab77630223f854f57fa2fb544a">152622464</a> | 500 |
-| 2018-06-26 | LeetCode 刷题 | <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=fb51367d7878250980024da7f1bdca8d4dab15e6c9864dba29aff27a407f4436">812791932</a> | 500 |
+| 2018-05-02 | 大数据-2 | <a href="//shang.qq.com/wpa/qunwpa?idkey=5d65b0774e5750e97e5725a201ccf158c84056ab77630223f854f57fa2fb544a">152622464</a> | 2000 |
+| 2018-06-26 | LeetCode 刷题 | <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=fb51367d7878250980024da7f1bdca8d4dab15e6c9864dba29aff27a407f4436">812791932</a> | 1000 |
 
 组织口号: <strong><span style="color: #ff0000;">不装逼的朋友，我们都不想认识 。。。</span></strong>
 
@@ -123,24 +160,9 @@
 
 ## 捐赠列表
 
-| 捐赠者 | 金额(元) | 时间| 收入类型 | Issue |
-|--------|----------|-----|----------|------------|
-| 例如: [@片刻](https://github.com/jiangzhonglian) | 666 | 2018-07-19 | 个人赞助 | [#1](https://github.com/apachecn/home/issues/1) |
-| [@桑](437542541) | 8.88 |	 2017-11-16 | 个人赞助 | [#0]() |
-| [@煜炅](760514101) | 3.34 |	 2018-03-23 | 个人赞助 | [#0]() |
-| [@涅槃之光](447111167) | 2.22 | 2018-03-25 | 个人赞助 | [#0]() |
-| [@凯瑟王·璨星【星辰帝国秘科】](1076003661) | 2.22 | 2018-04-16 | 个人赞助 | [#0]() |
-| [@长风](763752138) | 3.34 |	2018-04-16 | 个人赞助 | [#0]() |
-| [@draw](782478557) | 10.00 | 2018-05-03 | 个人赞助 | [#0]() |
-| [@自由精灵](315920958) | 66.66 | 2018-05-17 | 个人赞助 | [#0]() |
-| [@追随者-足下](1195862494) | 100.00 |	2018-05-18 | 个人赞助 | [#0]() |
-| [@白鸟无言](398049343) | 18.00 | 2018-05-20 | 个人赞助 | [#0]() |
- [@忠维]() | 10.24 |	2018-07-20 | 个人赞助 | [#4](https://github.com/apachecn/home/issues/4) |
-| [@茂林]() | 10.00 | 2018-07-20 | 个人赞助 | [#5](https://github.com/apachecn/home/issues/5) |
-| [@德兆]() | 50.00 | 2018-07-22 | 个人赞助 | [#10](https://github.com/apachecn/home/issues/10) |
-| [@袵]() | 6.60 | 2018-07-31 | 个人赞助 | [#12](https://github.com/apachecn/home/issues/12) |
+* 捐赠格式[#1](https://github.com/apachecn/home/issues/1): <https://github.com/apachecn/home/issues/1>
+* [捐赠名单](/donate/README.md): <http://www.apachecn.org/donate/>
 
 ![](docs/img/about/donate.jpg)
 
 * 参考添加捐赠方式: <https://github.com/apachecn/home/issues/1>
-* **<font color=green>~~【历史】ApacheCN 网友捐赠页面</font>~~：http://www.apachecn.org/organization/664.html**
