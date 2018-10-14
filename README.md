@@ -54,11 +54,11 @@
 
 > 大数据
 
-1. [Spark 中文文档](https://github.com/apachecn/spark-doc-zh): <http://spark.apachecn.org>
-2. [Storm 中文文档](https://github.com/apachecn/storm-doc-zh): <http://storm.apachecn.org>
-3. [Kafka 中文文档](https://github.com/apachecn/kafka-doc-zh): <http://kafka.apachecn.org>
-4. [Flink 中文文档](https://github.com/apachecn/flink-doc-zh): <http://flink.apachecn.org>
-5. [Beam 中文文档](https://github.com/apachecn/beam-site-zh): <http://beam.apachecn.org>
+1. [Spark 中文文档](https://github.com/apachecn/spark-doc-zh)
+2. [Storm 中文文档](https://github.com/apachecn/storm-doc-zh)
+3. [Kafka 中文文档](https://github.com/apachecn/kafka-doc-zh)
+4. [Flink 中文文档](https://github.com/apachecn/flink-doc-zh)
+5. [Beam 中文文档](https://github.com/apachecn/beam-site-zh)
 6. [Zeppelin 0.7.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030467)
 7. [Elasticsearch 5.4 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=4260364)
 8. [Kibana 5.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=8159377)
@@ -66,7 +66,7 @@
 
 > 区块链
 
-1. [Solidity 中文文档](https://github.com/apachecn/solidity-doc-zh): <https://github.com/apachecn/solidity-doc-zh>
+1. [Solidity 中文文档](https://github.com/apachecn/solidity-doc-zh)
 
 > 数学笔记
 
@@ -83,9 +83,20 @@
 
 > LeetCode 刷题
 
-1. [LeetCode 中文文档](https://github.com/apachecn/LeetCode): <https://github.com/apachecn/LeetCode>
+1. [LeetCode 中文文档](https://github.com/apachecn/LeetCode)
 
-> AI 学习文档
+> CS 教程
+
+1. [GeeksForGeeks 翻译计划](https://github.com/apachecn/geeksforgeeks-zh)
+
+> AI 教程
+
+1. [Machine Learning in Action - 机器学习实战（已追加部分 自然语言处理+深度学习 相关内容）](https://github.com/apachecn/AiLearning)
+2. [Python 数据分析与挖掘实战（带注释源码）](https://github.com/apachecn/python_data_analysis_and_mining_action)
+3. [SciPyCon 2018 Sklearn 教程](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh)
+4. [TensorFlow 学习指南](https://github.com/apachecn/learning-tf-zh)
+
+> AI 文档
 
 1. [sklearn 中文文档](https://github.com/apachecn/scikit-learn-doc-zh)
 2. [pytorch 0.3 中文文档](https://github.com/apachecn/pytorch-doc-zh)
@@ -95,24 +106,20 @@
 6. [fasttext 中文文档](https://github.com/apachecn/fasttext-doc-zh)
 7. [gensim 中文文档](https://github.com/apachecn/gensim-doc-zh)
 
-> AI 学习比赛
+> AI 比赛
 
-1. [Kaggle 中文文档](https://github.com/apachecn/kaggle): <https://github.com/apachecn/kaggle>
-2. 【比赛收集平台】: <https://github.com/iphysresearch/DataSciComp>
+1. [Kaggle 中文文档](https://github.com/apachecn/kaggle)
+2. [比赛收集平台](https://github.com/iphysresearch/DataSciComp)
+
+> 其它
+
+1. [Quant Wiki](https://github.com/apachecn/quant-wiki)
 
 ## 翻译书籍
 
 1. [Feature Engineering for Machine Learning - Early Release](https://github.com/apachecn/feature-engineering-for-ml-zh)
 2. [OReilly Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
 3. [Speech and Language Processing - 3rd ed. draft](https://github.com/apachecn/slp-3e-zh)
-5. [SciPyCon 2018 Sklearn 教程](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh)
-6. [TensorFlow 学习指南](https://github.com/apachecn/learning-tf-zh)
-
-## 整理书籍
-
-1. [Machine Learning in Action - 机器学习实战（已追加部分 自然语言处理+深度学习 相关内容）](https://github.com/apachecn/AiLearning)
-2. [Python 数据分析与挖掘实战](https://github.com/apachecn/python_data_analysis_and_mining_action)
-3. [Quant Wiki](https://github.com/apachecn/quant-wiki)
 
 ## 社交需求
 
