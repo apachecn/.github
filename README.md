@@ -70,7 +70,9 @@
 
 > 数学笔记
 
-1. [麻省理工公开课-线性代数-笔记](https://github.com/apachecn/math): <https://github.com/apachecn/math>
+1. [MIT 18.06 线性代数笔记](https://github.com/apachecn/math)
+2. [UCB Prob140 讲义：面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
+3. [fast.ai 数值线性代数讲义 v2](https://github.com/apachecn/fastai-num-linalg-v2-zh)
 
 > Python 基础
 
@@ -85,12 +87,13 @@
 
 > AI 学习文档
 
-1. [sklearn 中文文档](https://github.com/apachecn/scikit-learn-doc-zh): <http://sklearn.apachecn.org>
-2. [pytorch 0.3 中文文档](https://github.com/apachecn/pytorch-doc-zh): <http://pytorch.apachecn.org>
+1. [sklearn 中文文档](https://github.com/apachecn/scikit-learn-doc-zh)
+2. [pytorch 0.3 中文文档](https://github.com/apachecn/pytorch-doc-zh)
 3. [TensorFlow R1.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030122)
-4. [xgboost 中文文档](https://github.com/apachecn/xgboost-doc-zh): <http://xgboost.apachecn.org>
-5. [lightgbm 中文文档](https://github.com/apachecn/lightgbm-doc-zh): <http://lightgbm.apachecn.org>
-6. [fasttext 中文文档](https://github.com/apachecn/fasttext-doc-zh): <http://fasttext.apachecn.org>
+4. [xgboost 中文文档](https://github.com/apachecn/xgboost-doc-zh)
+5. [lightgbm 中文文档](https://github.com/apachecn/lightgbm-doc-zh)
+6. [fasttext 中文文档](https://github.com/apachecn/fasttext-doc-zh)
+7. [gensim 中文文档](https://github.com/apachecn/gensim-doc-zh)
 
 > AI 学习比赛
 
@@ -102,11 +105,14 @@
 1. [Feature Engineering for Machine Learning - Early Release](https://github.com/apachecn/feature-engineering-for-ml-zh)
 2. [OReilly Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
 3. [Speech and Language Processing - 3rd ed. draft](https://github.com/apachecn/slp-3e-zh)
+5. [SciPyCon 2018 Sklearn 教程](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh)
+6. [TensorFlow 学习指南](https://github.com/apachecn/learning-tf-zh)
 
 ## 整理书籍
 
 1. [Machine Learning in Action - 机器学习实战（已追加部分 自然语言处理+深度学习 相关内容）](https://github.com/apachecn/AiLearning)
 2. [Python 数据分析与挖掘实战](https://github.com/apachecn/python_data_analysis_and_mining_action)
+3. [Quant Wiki](https://github.com/apachecn/quant-wiki)
 
 ## 社交需求
 
