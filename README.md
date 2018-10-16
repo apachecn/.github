@@ -30,7 +30,7 @@
 
 【翻译征集】: <https://github.com/apachecn/home/issues/59>
 
-> [【个性化 - 学习咨询 - 收费】](docs/map)
+> [【个性化 - 学习咨询】](docs/map)
 
 【学习咨询】: <http://www.apachecn.org/map>
 
