@@ -142,11 +142,12 @@
 
 | 时间 | 群名称  | 群号  | 群人数  |
 | ------------ | ------------ | ------------ | ------------ |
-| 2014-04-12 | 大数据-1(满) | <a href="//shang.qq.com/wpa/qunwpa?idkey=952c3066344564ac53131f7e101948b0b5e5814390fa24bbfa69e76ff915beb7" target="_blank" rel="noopener">214293307</a> | 2000 |
-| 2017-09-01 | 机器/深度学习 | <a href="//shang.qq.com/wpa/qunwpa?idkey=bcee938030cc9e1552deb3bd9617bbbf62d3ec1647e4b60d9cd6b6e8f78ddc03" target="_blank" rel="noopener">629470233</a> | 5000 |
+| 2018-10-16 | 深度学习 | <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=8105fc3899b7e5e755988b7825a121d2115ce453d57a6561aa08d90a7b546401" target="_blank" rel="noopener">780658835</a> | 1000 |
+| 2018-06-26 | LeetCode 刷题 | <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=fb51367d7878250980024da7f1bdca8d4dab15e6c9864dba29aff27a407f4436" target="_blank" rel="noopener">812791932</a> | 1000 |
+| 2018-05-02 | 大数据-2 | <a href="//shang.qq.com/wpa/qunwpa?idkey=5d65b0774e5750e97e5725a201ccf158c84056ab77630223f854f57fa2fb544a" target="_blank" rel="noopener">152622464</a> | 2000 |
 | 2017-11-29 | Kaggle | <a href="//shang.qq.com/wpa/qunwpa?idkey=716b584bbd7cdf64e961b499c7fb5891faf1f6c92dad026e3c596a57c834f1ec" target="_blank" rel="noopener">686932392</a> | 2000 |
-| 2018-05-02 | 大数据-2 | <a href="//shang.qq.com/wpa/qunwpa?idkey=5d65b0774e5750e97e5725a201ccf158c84056ab77630223f854f57fa2fb544a">152622464</a> | 2000 |
-| 2018-06-26 | LeetCode 刷题 | <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=fb51367d7878250980024da7f1bdca8d4dab15e6c9864dba29aff27a407f4436">812791932</a> | 1000 |
+| 2017-09-01 | 机器学习 | <a href="//shang.qq.com/wpa/qunwpa?idkey=bcee938030cc9e1552deb3bd9617bbbf62d3ec1647e4b60d9cd6b6e8f78ddc03" target="_blank" rel="noopener">629470233</a> | 5000 |
+| 2014-04-12 | 大数据-1(满) | <a href="//shang.qq.com/wpa/qunwpa?idkey=952c3066344564ac53131f7e101948b0b5e5814390fa24bbfa69e76ff915beb7" target="_blank" rel="noopener">214293307</a> | 2000 |
 
 组织口号: <strong><span style="color: #ff0000;">不装逼的朋友，我们都不想认识 。。。</span></strong>
 
@@ -162,7 +163,7 @@
 
 ## 捐赠列表
 
-* 捐赠格式[#1](https://github.com/apachecn/home/issues/1): <https://github.com/apachecn/home/issues/1>
+* 捐赠格式 [#1](https://github.com/apachecn/home/issues/1) : <https://github.com/apachecn/home/issues/1>
 * [捐赠名单](/donate/README.md): <http://www.apachecn.org/donate/>
 
 ![](docs/img/about/donate.jpg)
