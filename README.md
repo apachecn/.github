@@ -95,6 +95,8 @@
 2. [Python 数据分析与挖掘实战（带注释源码）](https://github.com/apachecn/python_data_analysis_and_mining_action)
 3. [SciPyCon 2018 Sklearn 教程](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh)
 4. [TensorFlow 学习指南](https://github.com/apachecn/learning-tf-zh)
+5. [fast.ai 机器学习和深度学习中文笔记](https://github.com/apachecn/fastai-ml-dl-notes-zh)
+6. [HackCV 网站文章翻译](https://github.com/apachecn/HackCV-Translate)
 
 > AI 文档
 
