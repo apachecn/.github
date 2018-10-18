@@ -36,8 +36,10 @@
 
 > [书籍翻译（2018-08-01 开始）](docs/translate)
 
-* 【点击参与】[面向数据科学的概率论](docs/translate/prob140-textbook-zh.md)
-    * 记得在 [issues](https://github.com/apachecn/home/issues/13) 中 [@飞龙](https://github.com/wizardforcel)
+* 【点击参与】[面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
+    * 在 [issues](https://github.com/apachecn/prob140-textbook-zh/issues/2) 中领取任务
+* 【点击参与】[fast.ai 机器学习和深度学习中文笔记](https://github.com/apachecn/fastai-ml-dl-notes-zh)
+* 【点击参与】[HackCV 网站文章翻译](https://github.com/apachecn/HackCV-Translate)
 
 ### **已经结束**
 
