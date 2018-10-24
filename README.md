@@ -121,9 +121,10 @@
 
 ## 翻译书籍
 
-1. [Feature Engineering for Machine Learning - Early Release](https://github.com/apachecn/feature-engineering-for-ml-zh)
-2. [OReilly Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
-3. [Speech and Language Processing - 3rd ed. draft](https://github.com/apachecn/slp-3e-zh)
+1. [利用 Python 进行数据分析 · 第 2 版](https://github.com/apachecn/pyda-2e-zh)
+2. [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
+3. [面向机器学习的特征工程](https://github.com/apachecn/feature-engineering-for-ml-zh)
+4. [自然语言处理综论（第三版）](https://github.com/apachecn/slp-3e-zh)
 
 ## 社交需求
 
