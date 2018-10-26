@@ -104,6 +104,7 @@
 5. [fast.ai 机器学习和深度学习中文笔记](https://github.com/apachecn/fastai-ml-dl-notes-zh)
 6. [HackCV 网站文章翻译](https://github.com/apachecn/HackCV-Translate)
 7. [台湾大学林轩田机器学习笔记](https://github.com/apachecn/ntu-hsuantienlin-ml)
+8. [Pandas Cookbook 带注释源码](https://github.com/apachecn/pandas-cookbook-code-notes)
 
 > AI 文档
 
