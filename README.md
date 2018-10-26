@@ -54,6 +54,10 @@
 
 ## 翻译资源
 
+> Java 基础
+
+1. [Java 编程思想](https://github.com/apachecn/thinking-in-java-zh)
+
 > 大数据
 
 1. [Spark 中文文档](https://github.com/apachecn/spark-doc-zh)
@@ -99,6 +103,7 @@
 4. [TensorFlow 学习指南](https://github.com/apachecn/learning-tf-zh)
 5. [fast.ai 机器学习和深度学习中文笔记](https://github.com/apachecn/fastai-ml-dl-notes-zh)
 6. [HackCV 网站文章翻译](https://github.com/apachecn/HackCV-Translate)
+7. [台湾大学林轩田机器学习笔记](https://github.com/apachecn/ntu-hsuantienlin-ml)
 
 > AI 文档
 
