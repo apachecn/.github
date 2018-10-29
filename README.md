@@ -36,8 +36,10 @@
 
 > [书籍翻译（2018-08-01 开始）](docs/translate)
 
-* 【点击参与】[面向数据科学的概率论](docs/translate/prob140-textbook-zh.md)
-    * 记得在 [issues](https://github.com/apachecn/home/issues/13) 中 [@飞龙](https://github.com/wizardforcel)
+* 【点击参与】[面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
+    * 在 [issues](https://github.com/apachecn/prob140-textbook-zh/issues/2) 中领取任务
+* 【点击参与】[fast.ai 机器学习和深度学习中文笔记](https://github.com/apachecn/fastai-ml-dl-notes-zh)
+* 【点击参与】[HackCV 网站文章翻译](https://github.com/apachecn/HackCV-Translate)
 
 ### **已经结束**
 
@@ -51,6 +53,10 @@
 * 【点击参与】[nlp - 第2期: Python自然语言处理](docs/read/nlp-2-python-nltk.md)
 
 ## 翻译资源
+
+> Java 基础
+
+1. [Java 编程思想](https://github.com/apachecn/thinking-in-java-zh)
 
 > 大数据
 
@@ -95,6 +101,10 @@
 2. [Python 数据分析与挖掘实战（带注释源码）](https://github.com/apachecn/python_data_analysis_and_mining_action)
 3. [SciPyCon 2018 Sklearn 教程](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh)
 4. [TensorFlow 学习指南](https://github.com/apachecn/learning-tf-zh)
+5. [fast.ai 机器学习和深度学习中文笔记](https://github.com/apachecn/fastai-ml-dl-notes-zh)
+6. [HackCV 网站文章翻译](https://github.com/apachecn/HackCV-Translate)
+7. [台湾大学林轩田机器学习笔记](https://github.com/apachecn/ntu-hsuantienlin-ml)
+8. [Pandas Cookbook 带注释源码](https://github.com/apachecn/pandas-cookbook-code-notes)
 
 > AI 文档
 
@@ -117,9 +127,10 @@
 
 ## 翻译书籍
 
-1. [Feature Engineering for Machine Learning - Early Release](https://github.com/apachecn/feature-engineering-for-ml-zh)
-2. [OReilly Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
-3. [Speech and Language Processing - 3rd ed. draft](https://github.com/apachecn/slp-3e-zh)
+1. [利用 Python 进行数据分析 · 第 2 版](https://github.com/apachecn/pyda-2e-zh)
+2. [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
+3. [面向机器学习的特征工程](https://github.com/apachecn/feature-engineering-for-ml-zh)
+4. [自然语言处理综论（第三版）](https://github.com/apachecn/slp-3e-zh)
 
 ## 社交需求
 
