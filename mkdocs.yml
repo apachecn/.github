@@ -1,0 +1,40 @@
+site_name: ApacheCN
+site_url: http://www.apachecn.org
+site_description: ApacheCN 专注于优秀项目维护的开源组织
+site_author: ApacheCN Team
+
+repo_url: https://github.com/apachecn/home
+repo_name: GitHub
+
+nav:
+- 首页: index.md
+- 翻译: translate/README.md
+- 读书: read/README.md
+- 比赛: game/README.md
+- 咨询: map/README.md
+- 热点: news/README.md
+- 社交: social/README.md
+- 组织:
+    - 关于: about.md
+    - 成员: member.md
+    - 免费: free/README.md
+    - 捐赠: donate/README.md
+    - 'Release Notes': 'release-notes.md'
+
+theme:
+    name: mkdocs
+    custom_dir: 'custom_theme/'
+
+# theme: readthedocs
+# theme: bootstrap
+# theme: amelia
+# theme: cosmo
+# theme: slate
+# theme: yeti
+# theme: united
+# theme: journal
+
+google_analytics: ['UA-127082511-1', 'apachecn.org']
+
+plugins:
+    - search

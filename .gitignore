@@ -1,0 +1,5 @@
+_book
+Thumbs.db
+node_modules
+.DS_Store
+docs/index.md
