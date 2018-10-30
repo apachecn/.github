@@ -6,6 +6,7 @@ install:
 
 script:
   - cp README.md docs/index.md
+  - sed -i "s?docs/??g" docs/index.md
   - mkdocs build
 
 after_script:

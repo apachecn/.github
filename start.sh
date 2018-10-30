@@ -2,6 +2,7 @@
 echo "1. 开始编译生成网站"
 rm -rf /opt/mkdocs/home/site
 cp README.md docs/index.md
+sed -i "s?docs/??g" docs/index.md
 mkdocs build
 
 if [ -d "/opt/mkdocs/home/site" ];then
