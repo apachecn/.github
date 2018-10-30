@@ -77,16 +77,20 @@
 > 数学笔记
 
 1. [MIT 18.06 线性代数笔记](https://github.com/apachecn/math)
-2. [UCB Prob140 课本：面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
-3. [UCB Data8 课本：计算与推断思维](https://github.com/apachecn/data8-textbook-zh)
-4. [fast.ai 数值线性代数讲义 v2](https://github.com/apachecn/fastai-num-linalg-v2-zh)
 
-> Python 基础
+> Python 数据科学
 
 | | | |
 | --- | --- | --- | 
 | [numpy 中文文档](https://github.com/apachecn/numpy-ref-zh) | [pandas 中文文档](https://github.com/apachecn/pandas-doc-zh) | [matplotlib 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh) |
 | <a title="numpy 中文文档" href="https://apachecn.github.io/numpy-ref-zh" target="_blank"><img width="290" src="docs/img/skill/numpy_logo.png"></a> | <a title="pandas 中文文档" href="https://apachecn.github.io/pandas-doc-zh" target="_blank"><img width="290" src="docs/img/skill/pandas_logo.png"></a>  | <a title="matplotlib 中文文档" href="https://wizardforcel.gitbooks.io/matplotlib-user-guide/content" target="_blank"><img width="290" src="docs/img/skill/matplotlib_logo.png"></a> | 
+
+1. [UCB Data8 课本：计算与推断思维](https://github.com/apachecn/data8-textbook-zh)
+1. [UCB Prob140 课本：面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
+1. [利用 Python 进行数据分析 · 第 2 版](https://github.com/apachecn/pyda-2e-zh)
+1. [Quant Wiki](https://github.com/apachecn/quant-wiki)
+1. [fast.ai 数值线性代数讲义 v2](https://github.com/apachecn/fastai-num-linalg-v2-zh)
+1. [Pandas Cookbook 带注释源码](https://github.com/apachecn/pandas-cookbook-code-notes)
 
 > LeetCode 刷题
 
@@ -101,7 +105,6 @@
 > AI 教程
 
 1. [Machine Learning in Action - 机器学习实战（已追加部分 自然语言处理+深度学习 相关内容）](https://github.com/apachecn/AiLearning)
-1. [利用 Python 进行数据分析 · 第 2 版](https://github.com/apachecn/pyda-2e-zh)
 1. [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
 1. [面向机器学习的特征工程](https://github.com/apachecn/feature-engineering-for-ml-zh)
 1. [自然语言处理综论（第三版）](https://github.com/apachecn/slp-3e-zh)
@@ -111,7 +114,6 @@
 1. [fast.ai 机器学习和深度学习中文笔记](https://github.com/apachecn/fastai-ml-dl-notes-zh)
 1. [HackCV 网站文章翻译](https://github.com/apachecn/HackCV-Translate)
 1. [台湾大学林轩田机器学习笔记](https://github.com/apachecn/ntu-hsuantienlin-ml)
-1. [Pandas Cookbook 带注释源码](https://github.com/apachecn/pandas-cookbook-code-notes)
 
 > AI 文档
 
@@ -127,10 +129,6 @@
 
 1. [Kaggle 中文文档](https://github.com/apachecn/kaggle)
 2. [比赛收集平台](https://github.com/iphysresearch/DataSciComp)
-
-> 其它
-
-1. [Quant Wiki](https://github.com/apachecn/quant-wiki)
 
 ## 社交需求
 
