@@ -3,3 +3,5 @@ Thumbs.db
 node_modules
 .DS_Store
 docs/index.md
+site
+__pycache__
