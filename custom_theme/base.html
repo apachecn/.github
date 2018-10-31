@@ -5,7 +5,8 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        {% if page and page.is_homepage %}<meta name="description" content="{{ config['site_description'] }}">{% endif %}
+        {% if page and page.is_homepage and config.site_description %}<meta name="description" content="{{ config.site_description }}">{% endif %}
+        {% if page and page.is_homepage and config.site_keywords %}<meta name="keywords" content="{{ config.site_keywords }}">{% endif %}
         {% if config.site_author %}<meta name="author" content="{{ config.site_author }}">{% endif %}
         {% if page and page.canonical_url %}<link rel="canonical" href="{{ page.canonical_url }}">{% endif %}
         {% if config.site_favicon %}<link rel="shortcut icon" href="{{ config.site_favicon|url }}">
@@ -62,6 +63,29 @@
 
       {%- block extrahead %} {% endblock %}
       <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+      
+      {% if config.google_site_verification %}
+      <meta name="google-site-verification" content="{{ config.google_site_verification }}">
+      {% endif %}
+      
+      {% if config.baidu_site_verification %}
+      <meta name="baidu-site-verification" content="{{ config.baidu_site_verification }}">
+      {% endif %}
+      
+      {% if config.bing_site_verification %}
+      <meta name="msvalidate.01" content="{{ config.bing_site_verification }}">
+      {% endif %}
+      
+      {% if config.sogou_site_verification %}
+      <meta name="sogou_site_verification" content="{{ config.sogou_site_verification }}">
+      {% endif %}
+      
+      {% if config.haosou_site_verification %}
+      <meta name="360-site-verification" content="{{ config.haosou_site_verification }}">
+      {% endif %}
+      
+      <!-- baidu webmaster push -->
+      <script src="//push.zhanzhang.baidu.com/push.js"></script>
     </head>
 
     <body{% if page and page.is_homepage %} class="homepage"{% endif %}>
