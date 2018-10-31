@@ -58,7 +58,7 @@
 
 1. [Java 编程思想](https://github.com/apachecn/thinking-in-java-zh)
 
-> 大数据
+> Java Web 和大数据
 
 1. [Spark 中文文档](https://github.com/apachecn/spark-doc-zh)
 2. [Storm 中文文档](https://github.com/apachecn/storm-doc-zh)
@@ -69,6 +69,7 @@
 7. [Elasticsearch 5.4 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=4260364)
 8. [Kibana 5.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=8159377)
 9. [Kudu 1.4.0 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10813594) 
+0. [Spring Boot 中文文档 1.5.2.RELEASE](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10027628)
 
 > 区块链
 
@@ -169,6 +170,12 @@
 * [@片刻](https://github.com/jiangzhonglian)
 * [@伪文艺.](https://github.com/Watermelon233)
 * [@那伊抹微笑](https://github.com/wangyangting)
+
+## 协议
+
+以各项目协议为准。
+
+ApacheCN 账号下没有协议的项目，一律视为公有领域。
 
 ## 捐赠列表
 
