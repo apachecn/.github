@@ -175,7 +175,7 @@
 
 以各项目协议为准。
 
-ApacheCN 账号下没有协议的项目，一律视为公有领域。
+ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)。
 
 ## 捐赠列表
 
