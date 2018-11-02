@@ -13,14 +13,16 @@ nav:
 - 读书: read/README.md
 - 比赛: game/README.md
 - 咨询: map/README.md
-- 热点: news/README.md
-- 社交: social/README.md
+- 更多:
+    - 热点: news/README.md
+    - 免费: free/README.md
+    - 远程: https://github.com/apachecn/awesome-indie-zh
+    - 电子书: https://it-ebooks.flygon.net
 - 组织:
     - 关于: about.md
     - 成员: member.md
-    - 免费: free/README.md
+    - 社交: social/README.md
     - 捐赠: donate/README.md
-    - 'Release Notes': 'release-notes.md'
 
 theme:
     name: mkdocs
