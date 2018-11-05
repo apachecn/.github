@@ -5,10 +5,10 @@
 
 ## 组织介绍
 
-* 首页地址: <http://www.apachecn.org>
-* 关于我们: <http://www.apachecn.org/about>
-* 我们与Apache没关系，只是Apache狂热的粉丝，才成立中文开源组织！
-* 如有侵权，请联系邮箱: 【片刻】 <jiang-s@163.com>  (如果需要合作，也可以私聊我)
+* 首页地址：<http://www.apachecn.org>
+* 关于我们：<http://www.apachecn.org/about>
+* **我们不是 Apache 的官方组织/机构/团体，只是 Apache 技术栈（以及 AI）的爱好者！**
+* 如有侵权，请联系邮箱：【片刻】<jiang-s@163.com>（如果需要合作，也可以私聊我）
 
 ## 活动
 
