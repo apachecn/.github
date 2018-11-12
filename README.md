@@ -116,6 +116,8 @@
 1. [fast.ai 机器学习和深度学习中文笔记](https://github.com/apachecn/fastai-ml-dl-notes-zh)
 1. [HackCV 网站文章翻译](https://github.com/apachecn/HackCV-Translate)
 1. [台湾大学林轩田机器学习笔记](https://github.com/apachecn/ntu-hsuantienlin-ml)
+1. [Scikit-learn 秘籍](https://github.com/apachecn/sklearn-cookbook-zh)
+1. [写给人类的机器学习](https://github.com/apachecn/ml-for-humans-zh)
 1. [数据科学和人工智能技术笔记](https://github.com/apachecn/ds-ai-tech-notes)
 
 > AI 文档
@@ -172,7 +174,7 @@ Github 组织账号只允许贡献者加入。
 * [@瑶妹](https://github.com/chenyyx)
 * [@飞龙](https://github.com/wizardforcel)
 * [@片刻](https://github.com/jiangzhonglian)
-* [@伪文艺.](https://github.com/Watermelon233)
+* [@咸鱼](https://github.com/Watermelon233)
 * [@那伊抹微笑](https://github.com/wangyangting)
 
 ## 协议
