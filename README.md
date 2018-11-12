@@ -38,7 +38,8 @@
 
 * 【点击参与】[面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
     * 在 [issues](https://github.com/apachecn/prob140-textbook-zh/issues/2) 中领取任务
-* 【点击参与】[fast.ai 机器学习和深度学习中文笔记](https://github.com/apachecn/fastai-ml-dl-notes-zh)
+* 【点击参与】[UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
+    * 在 [issues](https://github.com/apachecn/cs61b-textbook-zh/issues/1) 中领取任务
 * 【点击参与】[HackCV 网站文章翻译](https://github.com/apachecn/HackCV-Translate)
 
 ### **已经结束**
@@ -102,19 +103,20 @@
 1. [GeeksForGeeks 翻译计划](https://github.com/apachecn/geeksforgeeks-zh)
 2. [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh)
 3. [数据结构思维](https://github.com/apachecn/think-dast-zh)
+4. [UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
 
 > AI 教程
 
 1. [Machine Learning in Action - 机器学习实战（已追加部分 自然语言处理+深度学习 相关内容）](https://github.com/apachecn/AiLearning)
 1. [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
 1. [面向机器学习的特征工程](https://github.com/apachecn/feature-engineering-for-ml-zh)
-1. [自然语言处理综论（第三版）](https://github.com/apachecn/slp-3e-zh)
 1. [Python 数据分析与挖掘实战（带注释源码）](https://github.com/apachecn/python_data_analysis_and_mining_action)
 1. [SciPyCon 2018 Sklearn 教程](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh)
 1. [TensorFlow 学习指南](https://github.com/apachecn/learning-tf-zh)
 1. [fast.ai 机器学习和深度学习中文笔记](https://github.com/apachecn/fastai-ml-dl-notes-zh)
 1. [HackCV 网站文章翻译](https://github.com/apachecn/HackCV-Translate)
 1. [台湾大学林轩田机器学习笔记](https://github.com/apachecn/ntu-hsuantienlin-ml)
+1. [数据科学和人工智能技术笔记](https://github.com/apachecn/ds-ai-tech-notes)
 
 > AI 文档
 
