@@ -86,6 +86,17 @@
       
       <!-- baidu webmaster push -->
       <script src="//push.zhanzhang.baidu.com/push.js"></script>
+      
+      <!-- baidu stats -->
+      <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?84fca651656bc67b4b2d56605b6d0852";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+      </script>
     </head>
 
     <body{% if page and page.is_homepage %} class="homepage"{% endif %}>
