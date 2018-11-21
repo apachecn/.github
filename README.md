@@ -5,8 +5,12 @@
 
 ## 组织介绍
 
-* 首页地址：<http://www.apachecn.org>
-* 关于我们：<http://www.apachecn.org/about>
+* 主页：[apachecn.org](http://www.apachecn.org)
+* Github：[@ApacheCN](https://github.com/apachecn)
+* 微博：[@ApacheCN](https://weibo.com/u/6326715527)
+* 知乎：[@ApacheCN](https://www.zhihu.com/people/apachecn)
+* 社区：[community.apachecn.org](http://community.apachecn.org)
+* 知识库：[cwiki.apachecn.org](http://cwiki.apachecn.org/)
 * **我们不是 Apache 的官方组织/机构/团体，只是 Apache 技术栈（以及 AI）的爱好者！**
 * 如有侵权，请联系邮箱：【片刻】<jiang-s@163.com>（如果需要合作，也可以私聊我）
 
