@@ -42,8 +42,8 @@
 
 * 【点击参与】[面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
     * 在 [issues](https://github.com/apachecn/prob140-textbook-zh/issues/2) 中领取任务
-* 【点击参与】[UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
-    * 在 [issues](https://github.com/apachecn/cs61b-textbook-zh/issues/1) 中领取任务
+* 【点击参与】[Airflow 中文文档](https://github.com/apachecn/airflow-doc-zh)
+    * 在 [issues](https://github.com/apachecn/airflow-doc-zh/issues/1) 中领取任务
 * 【点击参与】[HackCV 网站文章翻译](https://github.com/apachecn/HackCV-Translate)
 
 ### **已经结束**
@@ -70,11 +70,12 @@
 3. [Kafka 中文文档](https://github.com/apachecn/kafka-doc-zh)
 4. [Flink 中文文档](https://github.com/apachecn/flink-doc-zh)
 5. [Beam 中文文档](https://github.com/apachecn/beam-site-zh)
-6. [Zeppelin 0.7.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030467)
-7. [Elasticsearch 5.4 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=4260364)
-8. [Kibana 5.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=8159377)
-9. [Kudu 1.4.0 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10813594) 
-0. [Spring Boot 中文文档 1.5.2.RELEASE](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10027628)
+6. [Zeppelin 0.7.2 中文文档](https://github.com/apachecn/zeppelin-doc-zh)
+7. [Elasticsearch 5.4 中文文档](https://github.com/apachecn/elasticsearch-doc-zh)
+8. [Kibana 5.2 中文文档](https://github.com/apachecn/kibana-doc-zh)
+9. [Kudu 1.4.0 中文文档](https://github.com/apachecn/kudu-doc-zh) 
+0. [Spring Boot 1.5.2 中文文档](https://github.com/apachecn/spring-boot-doc-zh)
+1. [Airflow 中文文档](https://github.com/apachecn/airflow-doc-zh)
 
 > 区块链
 
