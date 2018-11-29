@@ -10,9 +10,9 @@
 * 社区：[community.apachecn.org](http://community.apachecn.org)
 * 知识库：[cwiki.apachecn.org](http://cwiki.apachecn.org/)
 * 自媒体平台：
-  * [微博：@ApacheCN](https://weibo.com/u/6326715527)
-  * [知乎：@ApacheCN](https://www.zhihu.com/people/apachecn)
-  * [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073)、[简书](https://www.jianshu.com/c/4ee721d0c474)、[OSChina](https://my.oschina.net/repine/)、[博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html)
+    * [微博：@ApacheCN](https://weibo.com/u/6326715527)
+    * [知乎：@ApacheCN](https://www.zhihu.com/people/apachecn)
+    * [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073)、[简书](https://www.jianshu.com/c/4ee721d0c474)、[OSChina](https://my.oschina.net/repine/)、[博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html)
 * **我们不是 Apache 的官方组织/机构/团体，只是 Apache 技术栈（以及 AI）的爱好者！**
 * 如有侵权，请联系邮箱：【片刻】<jiang-s@163.com>（如果需要合作，也可以私聊我）
 
