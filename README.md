@@ -108,9 +108,11 @@
 > CS 教程
 
 1. [GeeksForGeeks 翻译计划](https://github.com/apachecn/geeksforgeeks-zh)
-2. [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh)
-3. [数据结构思维](https://github.com/apachecn/think-dast-zh)
-4. [UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
+1. [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh)
+1. [数据结构思维](https://github.com/apachecn/think-dast-zh)
+1. [UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
+1. [中国大学 MOOC 计算机操作系统笔记](https://github.com/apachecn/Computer-operating-system-notes)
+1. [简单数据结构实现](https://github.com/apachecn/DataStructure)
 
 > AI 教程
 
