@@ -1,4 +1,4 @@
-# 【读书会】深度学习 TensorFlow 从0～1入门 - 第1期
+# 【读书会】深度学习 TensorFlow - 第1期
 
 * 【推荐】深度学习 TensorFlow 从0～1入门
 * TensorFlow 文档: <https://tensorflow.google.cn/tutorials>
