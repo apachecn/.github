@@ -211,7 +211,6 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 
 * 捐赠格式 [#1](https://github.com/apachecn/home/issues/1) : <https://github.com/apachecn/home/issues/1>
 * [捐赠名单](/donate/README.md): <http://www.apachecn.org/donate/>
-
-![](docs/img/about/donate.jpg)
-
 * 参考添加捐赠方式: <https://github.com/apachecn/home/issues/1>
+
+<img src="http://www.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
