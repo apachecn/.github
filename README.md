@@ -60,7 +60,8 @@
     * 在 [issues](https://github.com/apachecn/prob140-textbook-zh/issues/2) 中领取任务
 * 【点击参与】[Airflow 中文文档](https://github.com/apachecn/airflow-doc-zh)
     * 在 [issues](https://github.com/apachecn/airflow-doc-zh/issues/1) 中领取任务
-* 【点击参与】[HackCV 网站文章翻译](https://github.com/apachecn/HackCV-Translate)
+* 【点击参与】[statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
+    * 在 [issues](https://github.com/apachecn/statsmodels_doc_zh/issues/1) 中领取任务
 
 ### **已经结束**
 
@@ -114,6 +115,7 @@
 1. [Quant Wiki](https://github.com/apachecn/quant-wiki)
 1. [fast.ai 数值线性代数讲义 v2](https://github.com/apachecn/fastai-num-linalg-v2-zh)
 1. [Pandas Cookbook 带注释源码](https://github.com/apachecn/pandas-cookbook-code-notes)
+1. [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
 
 > LeetCode 刷题
 
