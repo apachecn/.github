@@ -5,26 +5,16 @@
 
 ## 组织介绍
 
-* 主页：[apachecn.org](http://www.apachecn.org)
-* Github：[@ApacheCN](https://github.com/apachecn)
-* 社区：[community.apachecn.org](http://community.apachecn.org)
-* 知识库：[cwiki.apachecn.org](http://cwiki.apachecn.org/)
-* 自媒体平台：
+* 【主页】 [apachecn.org](http://www.apachecn.org)
+* 【Github】[@ApacheCN](https://github.com/apachecn)
+* 暂时下线: [社区](community.apachecn.org)(http://community.apachecn.org)
+* 暂时下线: [cwiki 知识库](http://cwiki.apachecn.org/)
+* 自媒体平台
     * [微博：@ApacheCN](https://weibo.com/u/6326715527)
     * [知乎：@ApacheCN](https://www.zhihu.com/people/apachecn)
     * [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073)、[简书](https://www.jianshu.com/c/4ee721d0c474)、[OSChina](https://my.oschina.net/repine/)、[博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html)
 * **我们不是 Apache 的官方组织/机构/团体，只是 Apache 技术栈（以及 AI）的爱好者！**
-* 如有侵权，请联系邮箱：【片刻】<jiang-s@163.com>（如果需要合作，也可以私聊我）
-
-## 招募
-
-* 1位: 前端 UI
-* 1位: 服务器和软件运维
-* 要求:
-    * 至少做过相关的事情1年左右（不要求一定工作）
-    * 会装逼，特别是前端 UI （我们组织一定要是最气质的首页）
-    * 核心开发会在首页展示（有兴趣私聊，各1位）
-* 联系方式: QQ 529815144  [片刻 - 希望你的主动换来我们的故事]
+* 合作or侵权，请联系【fonttian】<fonttian@gmail.com> | 请抄送一份到 apachecn@163.com
 
 ## 活动
 
@@ -73,6 +63,10 @@
 
 * 【点击参与】[kg - 第1期: 知识图谱](docs/read/kg-1-learning.md)
 * 【点击参与】[nlp - 第2期: Python自然语言处理](docs/read/nlp-2-python-nltk.md)
+
+> 招募完成
+
+谢谢各位，招募成员已经完成，首页上周统一公布
 
 ## 翻译资源
 
