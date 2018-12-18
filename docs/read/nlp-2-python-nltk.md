@@ -1,4 +1,4 @@
-# 【读书会】Python自然语言处理 - 第2期
+# <center>【读书会】Python自然语言处理 - 第2期<center>
 
 * 【推荐】书籍名称《Python自然语言处理》
 * 【推荐】英文地址: <https://www.nltk.org/book>

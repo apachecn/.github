@@ -1,4 +1,4 @@
-# 【读书会】知识图谱 - 第1期
+# <center>【读书会】知识图谱 - 第1期<center>
 
 * 【推荐】知识图谱
 * 知识图谱文档: <http://pelhans.com/2018/03/15/xiaoxiangkg-note1>
