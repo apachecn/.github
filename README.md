@@ -32,6 +32,10 @@
 
 ### **正在进行**
 
+> 【公益捐赠】图书捐赠
+
+* 【点击参与】[图书捐赠 - 捐赠不只是眼前的物质和现金，还有书和智慧](docs/donate/1-book.md)
+
 > 【读书会】深度学习 TensorFlow - 第1期
 
 * 【点击参与】[dl - 第1期: TensorFlow 从0～1入门](docs/read/dl-1-tensorflow.md)
