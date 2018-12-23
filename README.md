@@ -7,12 +7,15 @@
 
 * 【主页】 [apachecn.org](http://www.apachecn.org)
 * 【Github】[@ApacheCN](https://github.com/apachecn)
-* 暂时下线: [社区](community.apachecn.org)(http://community.apachecn.org)
-* 暂时下线: [cwiki 知识库](http://cwiki.apachecn.org/)
+* 暂时下线: [社区](community.apachecn.org)
+* 暂时下线: [cwiki 知识库](http://cwiki.apachecn.org)
 * 自媒体平台
     * [微博：@ApacheCN](https://weibo.com/u/6326715527)
     * [知乎：@ApacheCN](https://www.zhihu.com/people/apachecn)
-    * [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073)、[简书](https://www.jianshu.com/c/4ee721d0c474)、[OSChina](https://my.oschina.net/repine/)、[博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html)
+    * [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073)
+    * [简书](https://www.jianshu.com/c/4ee721d0c474)
+    * [OSChina](https://my.oschina.net/repine/)
+    * [博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html)
 * **我们不是 Apache 的官方组织/机构/团体，只是 Apache 技术栈（以及 AI）的爱好者！**
 * 合作or侵权，请联系【fonttian】<fonttian@gmail.com> | 请抄送一份到 <apachecn@163.com>
 
