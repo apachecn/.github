@@ -7,8 +7,8 @@
 
 * 【主页】 [apachecn.org](http://www.apachecn.org)
 * 【Github】[@ApacheCN](https://github.com/apachecn)
-* 暂时下线: [社区](community.apachecn.org)(http://community.apachecn.org)
-* 暂时下线: [cwiki 知识库](http://cwiki.apachecn.org/)
+* 暂时下线: [社区](community.apachecn.org)
+* 暂时下线: [cwiki 知识库](http://cwiki.apachecn.org)
 * 自媒体平台
     * [微博：@ApacheCN](https://weibo.com/u/6326715527)
     * [知乎：@ApacheCN](https://www.zhihu.com/people/apachecn)
