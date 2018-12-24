@@ -117,14 +117,14 @@
 1. [Quant Wiki](https://github.com/apachecn/quant-wiki)
 1. [fast.ai 数值线性代数讲义 v2](https://github.com/apachecn/fastai-num-linalg-v2-zh)
 1. [Pandas Cookbook 带注释源码](https://github.com/apachecn/pandas-cookbook-code-notes)
-1. [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
+1. [**statsmodels 中文文档**](https://github.com/apachecn/statsmodels_doc_zh)
 
 > CS 教程
 
 1. [**LeetCode 中文文档**](https://github.com/apachecn/LeetCode)
 1. [GeeksForGeeks 翻译计划](https://github.com/apachecn/geeksforgeeks-zh)
 1. [**UCB CS61a 课本：SICP Python 描述**](https://github.com/apachecn/sicp-py-zh)
-1. [UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
+1. [**UCB CS61b 课本：Java 中的数据结构**](https://github.com/apachecn/cs61b-textbook-zh)
 1. [**数据结构思维**](https://github.com/apachecn/think-dast-zh)
 1. [中国大学 MOOC 计算机操作系统笔记](https://github.com/apachecn/Computer-operating-system-notes)
 1. [简单数据结构实现](https://github.com/apachecn/DataStructure)
