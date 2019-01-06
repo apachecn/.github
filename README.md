@@ -118,6 +118,7 @@
 1. [fast.ai 数值线性代数讲义 v2](https://github.com/apachecn/fastai-num-linalg-v2-zh)
 1. [Pandas Cookbook 带注释源码](https://github.com/apachecn/pandas-cookbook-code-notes)
 1. [**statsmodels 中文文档**](https://github.com/apachecn/statsmodels_doc_zh)
+1. [**数据科学 IPython 笔记本**](https://github.com/apachecn/ds-ipynb-zh)
 
 > CS 教程
 
