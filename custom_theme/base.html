@@ -128,7 +128,7 @@
                     {%- endif %}
 
                   {%- block site_name %}
-                    <a class="navbar-brand" href="{{ nav.homepage.url|url }}">{{ config.site_name }}</a>
+                    <a class="navbar-brand" href="{{ config.site_url|'/' }}">{{ config.site_name|'首页' }}</a>
                   {%- endblock %}
                 </div>
 
