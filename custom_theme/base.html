@@ -128,7 +128,17 @@
                     {%- endif %}
 
                   {%- block site_name %}
-                    <a class="navbar-brand" href="{{ config.site_url|'/' }}">{{ config.site_name|'首页' }}</a>
+                    {%- if config.site_url %}
+                    <a class="navbar-brand" href="{{ config.site_url }}">
+                    {%- else %}
+                    <a class="navbar-brand" href="/">
+                    {%- endif %}
+                        {%- if config.site_name %}
+                        {{ config.site_name }}
+                        {%- else %}
+                        首页
+                        {%- endif %}
+                    </a>
                   {%- endblock %}
                 </div>
 
