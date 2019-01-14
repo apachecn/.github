@@ -8,7 +8,7 @@ repo_url: https://github.com/apachecn/home
 repo_name: GitHub
 
 nav:
-- 首页: index.md
+- 知识树: tree/README.md
 - 翻译: translate/README.md
 - 读书: read/README.md
 - 比赛: game/README.md
