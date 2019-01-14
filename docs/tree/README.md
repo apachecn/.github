@@ -5,7 +5,7 @@
 
 ---
 
-+   [预处理](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E9%A2%84%E5%A4%84%E7%90%86&type=Code)
++   [预处理](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E9%A2%84%E5%A4%84%E7%90%86type=Code)
     +   [离散化](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E7%A6%BB%E6%95%A3%E5%8C%96&type=Code)
         +   [等值分箱](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E7%AD%89%E5%80%BC%E5%88%86%E7%AE%B1&type=Code)
         +   [等量分箱](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E7%AD%89%E9%87%8F%E5%88%86%E7%AE%B1&type=Code)
@@ -18,7 +18,7 @@
     +   [特征选择](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E7%89%B9%E5%BE%81%E9%80%89%E6%8B%A9&type=Code)
         +   [ANOVA](https://github.com/search?l=Markdown&q=org%3Aapachecn+ANOVA&type=Code)
         +   [信息增益/信息增益率](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E4%BF%A1%E6%81%AF%E5%A2%9E%E7%9B%8A%20%E4%BF%A1%E6%81%AF%E5%A2%9E%E7%9B%8A%E7%8E%87&type=Code)
-        
+
 +   [模型验证](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E6%A8%A1%E5%9E%8B%E9%AA%8C%E8%AF%81&type=Code)
     +   [评价指标](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E8%AF%84%E4%BB%B7%E6%8C%87%E6%A0%87&type=Code)
         +   [回归](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E5%9B%9E%E5%BD%92&type=Code)
@@ -37,14 +37,15 @@
     +   [交叉验证](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E4%BA%A4%E5%8F%89%E9%AA%8C%E8%AF%81&type=Code)
         +   [K 折](https://github.com/search?l=Markdown&q=org%3Aapachecn+K%20%E6%8A%98&type=Code)
     +   [网格搜索](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E7%BD%91%E6%A0%BC%E6%90%9C%E7%B4%A2&type=Code)
+
 +   [最优化方法](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E6%9C%80%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95&type=Code)
-    +   [损失函数](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0&type=Code)
     +   [梯度下降](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D&type=Code)
     +   [随机梯度下降 SGD](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E9%9A%8F%E6%9C%BA%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%20SGD&type=Code)
     +   [牛顿法/拟牛顿法](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E7%89%9B%E9%A1%BF%E6%B3%95%20%E6%8B%9F%E7%89%9B%E9%A1%BF%E6%B3%95&type=Code)
     +   [动量法](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E5%8A%A8%E9%87%8F%E6%B3%95&type=Code)
     +   [RMSProp](https://github.com/search?l=Markdown&q=org%3Aapachecn+RMSProp&type=Code)
     +   [Adam](https://github.com/search?l=Markdown&q=org%3Aapachecn+Adam&type=Code)
+
 +   [传统机器学习](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E4%BC%A0%E7%BB%9F%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0&type=Code)
     +   [基本概念](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5&type=Code)
         +   [欠拟合/过拟合](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E6%AC%A0%E6%8B%9F%E5%90%88%20%E8%BF%87%E6%8B%9F%E5%90%88&type=Code)
@@ -55,6 +56,10 @@
             +   [切比雪夫距离](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E5%88%87%E6%AF%94%E9%9B%AA%E5%A4%AB%E8%B7%9D%E7%A6%BB&type=Code)
             +   [余弦相似度](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E4%BD%99%E5%BC%A6%E7%9B%B8%E4%BC%BC%E5%BA%A6&type=Code)
             +   [pearson 相似度](https://github.com/search?l=Markdown&q=org%3Aapachecn+pearson%20%E7%9B%B8%E4%BC%BC%E5%BA%A6&type=Code)
+        +   [损失函数](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E6%8D%9F%E5%A4%B1%E5%87%BD%E6%95%B0&type=Code)
+            +   [MSE](https://github.com/search?l=Markdown&q=org%3Aapachecn+MSE&type=Code)
+            +   [交叉熵](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E4%BA%A4%E5%8F%89%E7%86%B5&type=Code)
+            +   [Hinge](https://github.com/search?l=Markdown&q=org%3Aapachecn+Hinge&type=Code)
     +   [线性模型](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E7%BA%BF%E6%80%A7%E6%A8%A1%E5%9E%8B&type=Code)
         +   [线性回归](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92&type=Code)
         +   [Lasso/岭回归](https://github.com/search?l=Markdown&q=org%3Aapachecn+Lasso%20%E5%B2%AD%E5%9B%9E%E5%BD%92&type=Code)
@@ -90,6 +95,7 @@
     +   [降维](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E9%99%8D%E7%BB%B4&type=Code)
         +   [PCA/SVD](https://github.com/search?l=Markdown&q=org%3Aapachecn+PCA%20SVD&type=Code)
         +   [T-SNE](https://github.com/search?l=Markdown&q=org%3Aapachecn+T-SNE&type=Code)
+
 +   [深度学习](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0&type=Code)
     +   [基本概念](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5&type=Code)
         +   [正向传播](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E6%AD%A3%E5%90%91%E4%BC%A0%E6%92%AD&type=Code)
@@ -136,11 +142,13 @@
         +   [变分自编码器](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E5%8F%98%E5%88%86%E8%87%AA%E7%BC%96%E7%A0%81%E5%99%A8&type=Code)
     +   [生成对抗网络 GAN](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C%20GAN&type=Code)
         +   [DCGAN](https://github.com/search?l=Markdown&q=org%3Aapachecn+DCGAN&type=Code)
+
 +   [应用领域（待扩展）](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E5%BA%94%E7%94%A8%E9%A2%86%E5%9F%9F%EF%BC%88%E5%BE%85%E6%89%A9%E5%B1%95%EF%BC%89&type=Code)
     +   [推荐系统](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F&type=Code)
     +   [机器视觉 CV](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E6%9C%BA%E5%99%A8%E8%A7%86%E8%A7%89%20CV&type=Code)
     +   [自然语言处理 NLP](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%20NLP&type=Code)
     +   [生物信息](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF&type=Code)
+
 +   [常用工具](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7&type=Code)
     +   [数据分析](https://github.com/search?l=Markdown&q=org%3Aapachecn+%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90&type=Code)
         +   [NumPy](https://github.com/search?l=Markdown&q=org%3Aapachecn+NumPy&type=Code)
