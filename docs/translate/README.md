@@ -3,9 +3,17 @@
 
 ---
 
-> 书籍翻译（2018-08-01 开始）
+从今年（2019）开始，我们每月会发布一个翻译项目，大家可以选择感兴趣的项目积极参与。
 
-**是兄弟就来报名！！！**
+计划中的项目：
 
-* [面向数据科学的概率论](/translate/prob140-textbook-zh.md)
-* 记得在 [issues](https://github.com/apachecn/home/issues/13) 中 [@飞龙](https://github.com/wizardforcel)
++   Pytorch 1.0 文档
++   Flink 文档
++   Hbase 参考
++   Seaborn 文档
++   Hands on ML 第二版
++   Pymc3 文档
++   Numba 文档
++   Cython 文档
++   UCB DS100 讲义
++   ...
