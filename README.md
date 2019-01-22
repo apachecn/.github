@@ -148,12 +148,11 @@
 > AI 文档
 
 1. [**sklearn 中文文档**](https://github.com/apachecn/scikit-learn-doc-zh)
-2. [**pytorch 0.3 中文文档**](https://github.com/apachecn/pytorch-doc-zh)
-3. [TensorFlow R1.2 中文文档](http://cwiki.apachecn.org/pages/viewpage.action?pageId=10030122)
-4. [**xgboost 中文文档**](https://github.com/apachecn/xgboost-doc-zh)
-5. [**lightgbm 中文文档**](https://github.com/apachecn/lightgbm-doc-zh)
-6. [fasttext 中文文档](https://github.com/apachecn/fasttext-doc-zh)
-7. [gensim 中文文档](https://github.com/apachecn/gensim-doc-zh)
+1. [**pytorch 中文文档**](https://github.com/apachecn/pytorch-doc-zh)
+1. [**xgboost 中文文档**](https://github.com/apachecn/xgboost-doc-zh)
+1. [**lightgbm 中文文档**](https://github.com/apachecn/lightgbm-doc-zh)
+1. [fasttext 中文文档](https://github.com/apachecn/fasttext-doc-zh)
+1. [gensim 中文文档](https://github.com/apachecn/gensim-doc-zh)
 
 > AI 比赛
 
