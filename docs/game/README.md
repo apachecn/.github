@@ -1,5 +1,6 @@
 # <center>比赛</center>
-<center>关于 Kaggle 的一些学习竞赛</center>
+
+<center>你已经抓住了石头，现在是挥舞它的时候了！</center>
 
 ---
 

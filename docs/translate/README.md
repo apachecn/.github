@@ -1,5 +1,6 @@
 # <center>翻译</center>
-<center>关于一些优质内容的翻译活动</center>
+
+<center>集中力量办大事</center>
 
 ---
 
