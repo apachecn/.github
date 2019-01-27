@@ -9,13 +9,18 @@
 | 序号 | 捐赠者 | 金额(元) | 时间| 收入类型 | Issue |
 | --- | --- | --- | --- | --- | --- |
 | 例如 | [@片刻](https://github.com/jiangzhonglian) | 666 | 2018-07-19 | 个人赞助 | [#1](https://github.com/apachecn/home/issues/1) |
-| 47 | [@N*r]()                   |    5.00 | 2018-12-19 | 个人赞助 |  |
-| 46 | [@*林]()                   |    2.00 | 2018-12-19 | 个人赞助 |  |
-| 45 | [@S*F]()                   |    1.88 | 2018-12-17 | 个人赞助 |  |
-| 44 | [@*萍]()                   |    1.00 | 2018-12-15 | 个人赞助 |  |
-| 43 | [@*袋]()                   |    1.79 | 2018-12-13 | 个人赞助 |  |
-| 42 | [@F*Y]()                   |    9.99 | 2018-12-12 | 个人赞助 |  |
-| 41 | [@e*o]()                   |    2.33 | 2018-12-10 | 个人赞助 |  |
+| 52 | [@*超]()                   |    1.00 | 2019-01-25 | 个人赞助 | [#118](https://github.com/apachecn/home/issues/118) |
+| 51 | [@J*n]()                   |    1.00 | 2019-01-21 | 个人赞助 | [#117](https://github.com/apachecn/home/issues/117) |
+| 50 | [@M*e]()                   |   20.00 | 2019-01-14 | 个人赞助 | [#116](https://github.com/apachecn/home/issues/116) |
+| 49 | [@*徐]()                   |    1.00 | 2019-01-08 | 个人赞助 | [#115](https://github.com/apachecn/home/issues/115) |
+| 48 | [@*P]()                    |    1.00 | 2019-01-04 | 个人赞助 | [#114](https://github.com/apachecn/home/issues/114) |
+| 47 | [@*晦]()                   |    5.00 | 2019-01-04 | 个人赞助 | [#113](https://github.com/apachecn/home/issues/113) |
+| 46 | [@P*I]()                   |    1.00 | 2019-01-02 | 个人赞助 | [#112](https://github.com/apachecn/home/issues/112) |
+| 45 | [@*穆]()                   |    8.00 | 2018-12-29 | 个人赞助 | [#111](https://github.com/apachecn/home/issues/111) |
+| 44 | [@T*s]()                   |    6.66 | 2018-12-26 | 个人赞助 | [#110](https://github.com/apachecn/home/issues/110) |
+| 43 | [@*因]()                   |   20.00 | 2018-12-22 | 个人赞助 | [#105](https://github.com/apachecn/home/issues/105) |
+| 42 | [@N*r]()                   |    5.00 | 2018-12-19 | 个人赞助 | [#70](https://github.com/apachecn/home/issues/70) |
+| 41 | [@*林]()                   |    2.00 | 2018-12-19 | 个人赞助 | [#13](https://github.com/apachecn/home/issues/13) |
 | 40 | [@*涛]()                   |    5.00 | 2018-11-07 | 个人赞助 | [#81](https://github.com/apachecn/home/issues/81) |
 | 39 | [@S*F]()                   |    1.88 | 2018-11-07 | 个人赞助 | [#80](https://github.com/apachecn/home/issues/80) |
 | 38 | [@*萍]()                   |    1.00 | 2018-11-07 | 个人赞助 | [#79](https://github.com/apachecn/home/issues/79) |
@@ -35,9 +40,9 @@
 | 24 | [@*洋]()                   |   15.00 | 2018-10-22 | 个人赞助 | [#50](https://github.com/apachecn/home/issues/50) |
 | 23 | [@S*n]()                   |    5.00 | 2018-10-22 | 个人赞助 | [#49](https://github.com/apachecn/home/issues/49) |
 | 22 | [@O*e]()                   |    6.66 | 2018-10-21 | 个人赞助 | [#47](https://github.com/apachecn/home/issues/47) |
-| 21 | [@时空守望者]()              |    1.00 | 2018-10-18 | 个人赞助 | [#46](https://github.com/apachecn/home/issues/46) |
-| 20 | [@*丰瑞]()                  |    1.00 | 2018-10-11 | 个人赞助 | [#45](https://github.com/apachecn/home/issues/45) |
-| 19 | [@*宾乐]()                  |    5.00 | 2018-10-07 | 个人赞助 | [#33](https://github.com/apachecn/home/issues/33) |
+| 21 | [@时空守望者]()              |   1.00 | 2018-10-18 | 个人赞助 | [#46](https://github.com/apachecn/home/issues/46) |
+| 20 | [@*丰瑞]()                  |   1.00 | 2018-10-11 | 个人赞助 | [#45](https://github.com/apachecn/home/issues/45) |
+| 19 | [@*宾乐]()                  |   5.00 | 2018-10-07 | 个人赞助 | [#33](https://github.com/apachecn/home/issues/33) |
 | 18 | [@v*g]()                   |   16.80 | 2018-09-04 | 个人赞助 | [#44](https://github.com/apachecn/home/issues/44) |
 | 17 | [@面]()                    |    2.33 | 2018-08-25 | 个人赞助 | [#30](https://github.com/apachecn/home/issues/30) |
 | 16 | [@林*n]()                  |   10.00 | 2018-08-24 | 个人赞助 | [#29](https://github.com/apachecn/home/issues/29) |
