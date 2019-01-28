@@ -1,8 +1,8 @@
 # <center>捐赠列表<center>
 
-> 【公益捐赠】图书捐赠
+> [【公益捐赠】图书捐赠](http://www.apachecn.org/donate/1-book/)
 
-* 【点击参与】[图书捐赠 - 捐赠不只是眼前的物质和现金，还有书和智慧](/donate/1-book)
+* 【点击参与】[图书捐赠 - 捐赠不只是眼前的物质和现金，还有书和智慧](http://www.apachecn.org/donate/1-book/)
 
 > 捐赠列表
 
