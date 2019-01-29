@@ -1,15 +1,16 @@
 # <center>捐赠列表<center>
 
-> 【公益捐赠】图书捐赠
+> [【公益捐赠】图书捐赠](http://www.apachecn.org/donate/1-book/)
 
-* 【点击参与】[图书捐赠 - 捐赠不只是眼前的物质和现金，还有书和智慧](/donate/1-book)
+* 【点击参与】[图书捐赠 - 捐赠不只是眼前的物质和现金，还有书和智慧](http://www.apachecn.org/donate/1-book/)
 
 > 捐赠列表
 
 | 序号 | 捐赠者 | 金额(元) | 时间| 收入类型 | Issue |
 | --- | --- | --- | --- | --- | --- |
 | 例如 | [@片刻](https://github.com/jiangzhonglian) | 666 | 2018-07-19 | 个人赞助 | [#1](https://github.com/apachecn/home/issues/1) |
-| 52 | [@*超]()                   |    1.00 | 2019-01-25 | 个人赞助 | [#118](https://github.com/apachecn/home/issues/118) |
+| 53 | [@*超]()                   |    1.00 | 2019-01-25 | 个人赞助 | [#118](https://github.com/apachecn/home/issues/118) |
+| 52 | [@Datawhale](https://datawhale.club) |   66.66 | 2019-01-24 | 个人赞助 | [#119](https://github.com/apachecn/home/issues/119) |
 | 51 | [@J*n]()                   |    1.00 | 2019-01-21 | 个人赞助 | [#117](https://github.com/apachecn/home/issues/117) |
 | 50 | [@M*e]()                   |   20.00 | 2019-01-14 | 个人赞助 | [#116](https://github.com/apachecn/home/issues/116) |
 | 49 | [@*徐]()                   |    1.00 | 2019-01-08 | 个人赞助 | [#115](https://github.com/apachecn/home/issues/115) |
