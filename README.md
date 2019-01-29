@@ -87,10 +87,9 @@
 
 > Java Web 和大数据
 
-1. [**Spark 中文文档**](https://github.com/apachecn/spark-doc-zh)
-2. [**Storm 中文文档**](https://github.com/apachecn/storm-doc-zh)
-3. [**Kafka 中文文档**](https://github.com/apachecn/kafka-doc-zh)
-4. [Flink 中文文档](https://github.com/apachecn/flink-doc-zh)
+1. [**Spark 2.2.0 中文文档**](https://github.com/apachecn/spark-doc-zh)
+2. [**Storm 1.1.0 中文文档**](https://github.com/apachecn/storm-doc-zh)
+3. [**Kafka 1.0.0 中文文档**](https://github.com/apachecn/kafka-doc-zh)
 5. [Beam 中文文档](https://github.com/apachecn/beam-site-zh)
 6. [Zeppelin 0.7.2 中文文档](https://github.com/apachecn/zeppelin-doc-zh)
 7. [**Elasticsearch 5.4 中文文档**](https://github.com/apachecn/elasticsearch-doc-zh)
@@ -118,7 +117,6 @@
 1. [**UCB Prob140 课本：面向数据科学的概率论**](https://github.com/apachecn/prob140-textbook-zh)
 1. [**UCB DS100 课本：数据科学的原理与技巧**](https://github.com/apachecn/ds100-textbook-zh)
 1. [**利用 Python 进行数据分析 · 第 2 版**](https://github.com/apachecn/pyda-2e-zh)
-1. [Quant Wiki](https://github.com/apachecn/quant-wiki)
 1. [fast.ai 数值线性代数讲义 v2](https://github.com/apachecn/fastai-num-linalg-v2-zh)
 1. [Pandas Cookbook 带注释源码](https://github.com/apachecn/pandas-cookbook-code-notes)
 1. [**statsmodels 中文文档**](https://github.com/apachecn/statsmodels_doc_zh)
@@ -151,16 +149,16 @@
 
 > AI 文档
 
-1. [**sklearn 中文文档**](https://github.com/apachecn/scikit-learn-doc-zh)
-1. [**pytorch 中文文档**](https://github.com/apachecn/pytorch-doc-zh)
-1. [**xgboost 中文文档**](https://github.com/apachecn/xgboost-doc-zh)
-1. [**lightgbm 中文文档**](https://github.com/apachecn/lightgbm-doc-zh)
-1. [fasttext 中文文档](https://github.com/apachecn/fasttext-doc-zh)
-1. [gensim 中文文档](https://github.com/apachecn/gensim-doc-zh)
+1. [**Sklearn 0.19 中文文档**](https://github.com/apachecn/scikit-learn-doc-zh)
+1. [**PyTorch 1.0 中文文档**](https://github.com/apachecn/pytorch-doc-zh)
+1. [**XGBoost 中文文档**](https://github.com/apachecn/xgboost-doc-zh)
+1. [**LightGBM 中文文档**](https://github.com/apachecn/lightgbm-doc-zh)
+1. [FastText 中文文档](https://github.com/apachecn/fasttext-doc-zh)
+1. [Gensim 中文文档](https://github.com/apachecn/gensim-doc-zh)
 
 > AI 比赛
 
-1. [**Kaggle 中文文档**](https://github.com/apachecn/kaggle)
+1. [**Kaggle 项目实战教程：文档 + 代码 + 视频**](https://github.com/apachecn/kaggle)
 2. [比赛收集平台](https://github.com/iphysresearch/DataSciComp)
 
 > 其它
