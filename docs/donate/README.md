@@ -10,7 +10,7 @@
 | --- | --- | --- | --- | --- | --- |
 | 例如 | [@片刻](https://github.com/jiangzhonglian) | 666 | 2018-07-19 | 个人赞助 | [#1](https://github.com/apachecn/home/issues/1) |
 | 53 | [@*超]()                   |    1.00 | 2019-01-25 | 个人赞助 | [#118](https://github.com/apachecn/home/issues/118) |
-| 52 | [@Datawhale](https://datawhale.club) |   66.66 | 2019-01-24 | 个人赞助 | [#119](https://github.com/apachecn/home/issues/119) |
+| 52 | [@Datawhale](https://datawhale.club) |   66.66 | 2019-01-24 | 组织赞助 | [#119](https://github.com/apachecn/home/issues/119) |
 | 51 | [@J*n]()                   |    1.00 | 2019-01-21 | 个人赞助 | [#117](https://github.com/apachecn/home/issues/117) |
 | 50 | [@M*e]()                   |   20.00 | 2019-01-14 | 个人赞助 | [#116](https://github.com/apachecn/home/issues/116) |
 | 49 | [@*徐]()                   |    1.00 | 2019-01-08 | 个人赞助 | [#115](https://github.com/apachecn/home/issues/115) |

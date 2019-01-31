@@ -35,6 +35,23 @@
 
 ### **正在进行**
 
+* --> 困扰已久的域名问题（征集域名）
+* --> 踊跃号召敢兴趣参与项目维护的负责人（各个学习领域）
+* --> 欢迎做实事的人参与到组织建设中来（开源不是一个人的事，一起来做对开源有价值的社区吧！）
+
+> [书籍翻译](docs/translate)
+
+**更新时间: 2019-01-22[项目从近到远]**
+
+* 1.【点击参与】[Pytorch 1.0 开车翻译了！ <= 坐等装逼的你！](https://github.com/apachecn/pytorch-doc-zh) 中领取任务
+    * 在 [issues](https://github.com/apachecn/pytorch-doc-zh/issues/274) 中领取任务
+* 2.【点击参与】[面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
+    * 在 [issues](https://github.com/apachecn/prob140-textbook-zh/issues/2) 中领取任务
+* 3.【点击参与】[Airflow 中文文档](https://github.com/apachecn/airflow-doc-zh)
+    * 在 [issues](https://github.com/apachecn/airflow-doc-zh/issues/1) 中领取任务
+* 4.【点击参与】[statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
+    * 在 [issues](https://github.com/apachecn/statsmodels_doc_zh/issues/1) 中领取任务
+
 > [【公益捐赠】图书捐赠](docs/donate)
 
 * 【点击参与】[图书捐赠 - 捐赠不只是眼前的物质和现金，还有书和智慧](docs/donate/1-book.md)
@@ -50,19 +67,6 @@
 > [【个性化 - 学习咨询】](docs/map)
 
 【学习咨询】: <http://www.apachecn.org/map>
-
-> [书籍翻译](docs/translate)
-
-**更新时间: 2019-01-22[项目从近到远]**
-
-* 1.【点击参与】[Pytorch 1.0 开车翻译了！ <= 坐等装逼的你！](https://github.com/apachecn/pytorch-doc-zh) 中领取任务
-    * 在 [issues](https://github.com/apachecn/pytorch-doc-zh/issues/274) 中领取任务
-* 2.【点击参与】[面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
-    * 在 [issues](https://github.com/apachecn/prob140-textbook-zh/issues/2) 中领取任务
-* 3.【点击参与】[Airflow 中文文档](https://github.com/apachecn/airflow-doc-zh)
-    * 在 [issues](https://github.com/apachecn/airflow-doc-zh/issues/1) 中领取任务
-* 4.【点击参与】[statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
-    * 在 [issues](https://github.com/apachecn/statsmodels_doc_zh/issues/1) 中领取任务
 
 ### **已经结束**
 
