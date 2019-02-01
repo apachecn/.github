@@ -39,9 +39,13 @@
 * --> 踊跃号召敢兴趣参与项目维护的负责人（各个学习领域）
 * --> 欢迎做实事的人参与到组织建设中来（开源不是一个人的事，一起来做对开源有价值的社区吧！）
 
-> [书籍翻译](docs/translate)
+> 【翻译征集】
 
-**更新时间: 2019-01-31[项目从近到远]**
+【请在此留言】: <https://apachecn.org/translate>
+
+> [【书籍翻译】](docs/translate)
+
+> **更新时间: 2019-01-31[项目从近到远]**
 
 1.  【点击参与】[HBase 中文参考指南 3.0](https://github.com/apachecn/hbase-doc-zh) 
     
@@ -51,17 +55,17 @@
     
     在 [issues](https://github.com/apachecn/pytorch-doc-zh/issues/274) 中领取任务
 
-1.  【点击参与】[面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
+1.  【点击参与】[statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
     
-    在 [issues](https://github.com/apachecn/prob140-textbook-zh/issues/2) 中领取任务
+    在 [issues](https://github.com/apachecn/statsmodels_doc_zh/issues/1) 中领取任务
 
 1.  【点击参与】[Airflow 中文文档](https://github.com/apachecn/airflow-doc-zh)
     
     在 [issues](https://github.com/apachecn/airflow-doc-zh/issues/1) 中领取任务
 
-1.  【点击参与】[statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
+1.  【点击参与】[面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
     
-    在 [issues](https://github.com/apachecn/statsmodels_doc_zh/issues/1) 中领取任务
+    在 [issues](https://github.com/apachecn/prob140-textbook-zh/issues/2) 中领取任务
 
 > [【公益捐赠】图书捐赠](docs/donate)
 
@@ -70,10 +74,6 @@
 > 【读书会】深度学习 TensorFlow - 第1期
 
 * 【点击参与】[dl - 第1期: TensorFlow 从0～1入门](docs/read/dl-1-tensorflow.md)
-
-> 【翻译征集】
-
-【翻译征集】: <https://github.com/apachecn/home/issues/59>
 
 > [【个性化 - 学习咨询】](docs/map)
 
