@@ -21,7 +21,7 @@
 
 ## 活动
 
-> 学习活动
+### 学习活动
 
 | 活动名称 | 活动描述 |
 | --- | --- |
@@ -35,19 +35,21 @@
 
 ### **正在进行**
 
+#### 【招贤纳士】
+
 * --> 困扰已久的域名问题（征集域名）
 * --> 征集网站设计人员（设计网站整体布局和未来）
 * --> 踊跃号召敢兴趣参与项目维护的负责人（各个学习领域）
 * --> 欢迎做实事的人参与到组织建设中来（开源不是一个人的事，一起来做对开源有价值的社区吧！）
-* 联系方式 QQ: 529815144 （权利分配**灵活**：能者居者！欢迎你们的到来）
+* 联系方式 QQ: 529815144 （权利分配**灵活**：能者居之！欢迎你们的到来）
 
-> 【翻译征集】
+####【翻译征集】
 
 【请在此留言】: <https://apachecn.org/translate>
 
-> [【书籍翻译】](docs/translate)
+#### [【书籍翻译】](docs/translate)
 
-> **更新时间: 2019-01-31[项目从近到远]**
+**更新时间: 2019-01-31[项目从近到远]**
 
 1.  【点击参与】[HBase 中文参考指南 3.0](https://github.com/apachecn/hbase-doc-zh) 
     
@@ -69,40 +71,38 @@
     
     在 [issues](https://github.com/apachecn/prob140-textbook-zh/issues/2) 中领取任务
 
-> [【公益捐赠】图书捐赠](docs/donate)
+#### [【公益捐赠】图书捐赠](docs/donate)
 
-* 【点击参与】[图书捐赠 - 捐赠不只是眼前的物质和现金，还有书和智慧](docs/donate/1-book.md)
+【点击参与】[图书捐赠 - 捐赠不只是眼前的物质和现金，还有书和智慧](docs/donate/1-book.md)
 
-> 【读书会】深度学习 TensorFlow - 第1期
+#### 【读书会】深度学习 TensorFlow - 第1期
 
-* 【点击参与】[dl - 第1期: TensorFlow 从0～1入门](docs/read/dl-1-tensorflow.md)
+【点击参与】[dl - 第1期: TensorFlow 从0～1入门](docs/read/dl-1-tensorflow.md)
 
-> [【个性化 - 学习咨询】](docs/map)
+#### [【个性化 - 学习咨询】](docs/map)
+
+**接受各种环材化生转行咨询**
 
 【学习咨询】: <http://www.apachecn.org/map>
 
 ### **已经结束**
 
-> [社交活动（2018-09-19 开始）](docs/social)
+#### [社交活动（2018-09-19 开始）](docs/social)
 
 * 【点击参与】[北京2期: 线下一日游](docs/social/beijing-2.md)
 
-> [读书会（2018-08-20 开始）](docs/read)
+#### [读书会（2018-08-20 开始）](docs/read)
 
 * 【点击参与】[kg - 第1期: 知识图谱](docs/read/kg-1-learning.md)
 * 【点击参与】[nlp - 第2期: Python自然语言处理](docs/read/nlp-2-python-nltk.md)
 
-> 招募完成
-
-谢谢各位，招募成员已经完成，首页上周统一公布
-
 ## 翻译资源
 
-> Java 基础
+### Java 基础
 
 1. [Java 编程思想](https://github.com/apachecn/thinking-in-java-zh)
 
-> Java Web 和大数据
+### Java Web 和大数据
 
 1. [**Spark 2.2.0 中文文档**](https://github.com/apachecn/spark-doc-zh)
 2. [**Storm 1.1.0 中文文档**](https://github.com/apachecn/storm-doc-zh)
@@ -115,15 +115,15 @@
 0. [**Spring Boot 1.5.2 中文文档**](https://github.com/apachecn/spring-boot-doc-zh)
 1. [Airflow 中文文档](https://github.com/apachecn/airflow-doc-zh)
 
-> 区块链
+### 区块链
 
 1. [Solidity 中文文档](https://github.com/apachecn/solidity-doc-zh)
 
-> 数学笔记
+### 数学笔记
 
 1. [MIT 18.06 线性代数笔记](https://github.com/apachecn/math)
 
-> Python 数据科学
+### Python 数据科学
 
 | | | |
 | --- | --- | --- | 
@@ -139,7 +139,7 @@
 1. [**statsmodels 中文文档**](https://github.com/apachecn/statsmodels_doc_zh)
 1. [**数据科学 IPython 笔记本**](https://github.com/apachecn/ds-ipynb-zh)
 
-> CS 教程
+### CS 教程
 
 1. [**LeetCode 中文文档**](https://github.com/apachecn/LeetCode)
 1. [GeeksForGeeks 翻译计划](https://github.com/apachecn/geeksforgeeks-zh)
@@ -149,7 +149,7 @@
 1. [中国大学 MOOC 计算机操作系统笔记](https://github.com/apachecn/Computer-operating-system-notes)
 1. [简单数据结构实现](https://github.com/apachecn/DataStructure)
 
-> AI 教程
+### AI 教程
 
 1. [**AILearning - 机器学习实战**](https://github.com/apachecn/AiLearning)
 1. [**Sklearn 与 TensorFlow 机器学习实用指南**](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
@@ -164,7 +164,7 @@
 1. [写给人类的机器学习](https://github.com/apachecn/ml-for-humans-zh)
 1. [数据科学和人工智能技术笔记](https://github.com/apachecn/ds-ai-tech-notes)
 
-> AI 文档
+### AI 文档
 
 1. [**Sklearn 0.19 中文文档**](https://github.com/apachecn/scikit-learn-doc-zh)
 1. [**PyTorch 1.0 中文文档**](https://github.com/apachecn/pytorch-doc-zh)
@@ -173,12 +173,12 @@
 1. [FastText 中文文档](https://github.com/apachecn/fasttext-doc-zh)
 1. [Gensim 中文文档](https://github.com/apachecn/gensim-doc-zh)
 
-> AI 比赛
+### AI 比赛
 
 1. [**Kaggle 项目实战教程：文档 + 代码 + 视频**](https://github.com/apachecn/kaggle)
 2. [比赛收集平台](https://github.com/iphysresearch/DataSciComp)
 
-> 其它
+### 其它
 
 1. [独立开发/自由职业/远程工作资源列表](https://github.com/apachecn/awesome-indie-zh)
 1. [通往财富自由之路精细笔记](https://github.com/apachecn/the-way-to-wealth-freedom-notes)
@@ -188,16 +188,16 @@
 
 [issues 信息汇总：大数据、区块链、机器学习、深度学习、自然语言处理](docs/social/README.md)
 
-> 个人交友
+### 个人交友
 
 * 此栏目为个人交友的介绍：个人介绍、交友需求、等着py （请直接通过 issues）
 * 为了防止骗炮: 配上自己的GitHub地址(如果对方没有GitHub地址，建议拒绝聊天)
 
-> 个人求职
+### 个人求职
 
 此栏目为个人求职的介绍：个人简历、项目描述 等等（请直接通过 issues）
 
-> 企业招聘
+### 企业招聘
 
 此栏目为企业招聘的介绍：企业介绍、项目要求、技能特招 等等（请直接通过 issues）
 
@@ -219,7 +219,7 @@ Github 组织账号只允许贡献者加入。
 
 ## 组织成员
 
-> 【2018-07-19】第一届 组织委员会
+###【2018-07-19】第一届 组织委员会
 
 * [@瑶妹](https://github.com/chenyyx)
 * [@飞龙](https://github.com/wizardforcel)
