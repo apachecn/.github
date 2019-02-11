@@ -3,7 +3,7 @@
 
 ---
 
-## 组织介绍
+## **组织介绍**
 
 * 【主页】 [apachecn.org](http://www.apachecn.org)
 * 【Github】[@ApacheCN](https://github.com/apachecn)
@@ -19,7 +19,7 @@
 * **我们不是 Apache 的官方组织/机构/团体，只是 Apache 技术栈（以及 AI）的爱好者！**
 * 合作or侵权，请联系【fonttian】<fonttian@gmail.com> | 请抄送一份到 <apachecn@163.com>
 
-## 活动
+## **活动**
 
 ### 学习活动
 
@@ -33,9 +33,9 @@
 | Kaggle - 房价预测 | Kaggle 初级比赛 |
 | LeetCode 面试 | LeetCode 面试必备 |
 
-### **正在进行**
+### 正在进行
 
-#### 【招贤纳士】
+> #### 【招贤纳士】
 
 * --> 困扰已久的域名问题（征集域名）
 * --> 征集网站设计人员（设计网站整体布局和未来）
@@ -43,11 +43,11 @@
 * --> 欢迎做实事的人参与到组织建设中来（开源不是一个人的事，一起来做对开源有价值的社区吧！）
 * 联系方式 QQ: 529815144 （权利分配**灵活**：能者居之！欢迎你们的到来）
 
-#### 【翻译征集】
+> #### 【翻译征集】
 
 【请在此留言】: <https://apachecn.org/translate>
 
-#### [【书籍翻译】](docs/translate)
+> #### [【书籍翻译】](docs/translate)
 
 **更新时间: 2019-01-31[项目从近到远]**
 
@@ -71,32 +71,32 @@
     
     在 [issues](https://github.com/apachecn/prob140-textbook-zh/issues/2) 中领取任务
 
-#### [【公益捐赠】图书捐赠](docs/donate)
+> #### [【公益捐赠】图书捐赠](docs/donate)
 
 【点击参与】[图书捐赠 - 捐赠不只是眼前的物质和现金，还有书和智慧](docs/donate/1-book.md)
 
-#### 【读书会】深度学习 TensorFlow - 第1期
+> #### 【读书会】深度学习 TensorFlow - 第1期
 
 【点击参与】[dl - 第1期: TensorFlow 从0～1入门](docs/read/dl-1-tensorflow.md)
 
-#### [【个性化 - 学习咨询】](docs/map)
+> #### [【个性化 - 学习咨询】](docs/map)
 
 **接受各种环材化生转行咨询**
 
 【学习咨询】: <http://www.apachecn.org/map>
 
-### **已经结束**
+### 已经结束
 
-#### [社交活动（2018-09-19 开始）](docs/social)
+> #### [社交活动（2018-09-19 开始）](docs/social)
 
 * 【点击参与】[北京2期: 线下一日游](docs/social/beijing-2.md)
 
-#### [读书会（2018-08-20 开始）](docs/read)
+> #### [读书会（2018-08-20 开始）](docs/read)
 
 * 【点击参与】[kg - 第1期: 知识图谱](docs/read/kg-1-learning.md)
 * 【点击参与】[nlp - 第2期: Python自然语言处理](docs/read/nlp-2-python-nltk.md)
 
-## 翻译资源
+## **翻译资源**
 
 ### Java 基础
 
@@ -184,7 +184,7 @@
 1. [通往财富自由之路精细笔记](https://github.com/apachecn/the-way-to-wealth-freedom-notes)
 1. [5 分钟商学院精细笔记](https://github.com/apachecn/5min-business-notes)
 
-## 社交需求
+## **社交需求**
 
 [issues 信息汇总：大数据、区块链、机器学习、深度学习、自然语言处理](docs/social/README.md)
 
@@ -201,7 +201,7 @@
 
 此栏目为企业招聘的介绍：企业介绍、项目要求、技能特招 等等（请直接通过 issues）
 
-## 交流方式
+## **交流方式**
 
 | 时间 | 群名称  | 群号  | 群人数  |
 | ------------ | ------------ | ------------ | ------------ |
@@ -217,7 +217,7 @@ Github 组织账号只允许贡献者加入。
 
 组织口号: <strong><span style="color: #ff0000;">不装逼的朋友，我们都不想认识 。。。</span></strong>
 
-## 组织成员
+## **组织成员**
 
 ###【2018-07-19】第一届 组织委员会
 
@@ -227,13 +227,13 @@ Github 组织账号只允许贡献者加入。
 * [@咸鱼](https://github.com/Watermelon233)
 * [@那伊抹微笑](https://github.com/wangyangting)
 
-## 协议
+## **协议**
 
 以各项目协议为准。
 
 ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)。
 
-## 捐赠列表
+## **捐赠列表**
 
 * 捐赠格式 [#1](https://github.com/apachecn/home/issues/1) : <https://github.com/apachecn/home/issues/1>
 * [捐赠名单](/donate/README.md): <http://www.apachecn.org/donate/>
