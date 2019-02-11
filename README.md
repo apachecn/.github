@@ -35,7 +35,7 @@
 
 ### 正在进行
 
-> #### 【招贤纳士】
+> 【招贤纳士】
 
 * --> 困扰已久的域名问题（征集域名）
 * --> 征集网站设计人员（设计网站整体布局和未来）
@@ -43,11 +43,11 @@
 * --> 欢迎做实事的人参与到组织建设中来（开源不是一个人的事，一起来做对开源有价值的社区吧！）
 * 联系方式 QQ: 529815144 （权利分配**灵活**：能者居之！欢迎你们的到来）
 
-> #### 【翻译征集】
+> 【翻译征集】
 
 【请在此留言】: <https://apachecn.org/translate>
 
-> #### [【书籍翻译】](docs/translate)
+> [【书籍翻译】](docs/translate)
 
 **更新时间: 2019-01-31[项目从近到远]**
 
@@ -71,15 +71,15 @@
     
     在 [issues](https://github.com/apachecn/prob140-textbook-zh/issues/2) 中领取任务
 
-> #### [【公益捐赠】图书捐赠](docs/donate)
+> [【公益捐赠】图书捐赠](docs/donate)
 
 【点击参与】[图书捐赠 - 捐赠不只是眼前的物质和现金，还有书和智慧](docs/donate/1-book.md)
 
-> #### 【读书会】深度学习 TensorFlow - 第1期
+> 【读书会】深度学习 TensorFlow - 第1期
 
 【点击参与】[dl - 第1期: TensorFlow 从0～1入门](docs/read/dl-1-tensorflow.md)
 
-> #### [【个性化 - 学习咨询】](docs/map)
+> [【个性化 - 学习咨询】](docs/map)
 
 **接受各种环材化生转行咨询**
 
@@ -87,11 +87,11 @@
 
 ### 已经结束
 
-> #### [社交活动（2018-09-19 开始）](docs/social)
+> [社交活动（2018-09-19 开始）](docs/social)
 
 * 【点击参与】[北京2期: 线下一日游](docs/social/beijing-2.md)
 
-> #### [读书会（2018-08-20 开始）](docs/read)
+> [读书会（2018-08-20 开始）](docs/read)
 
 * 【点击参与】[kg - 第1期: 知识图谱](docs/read/kg-1-learning.md)
 * 【点击参与】[nlp - 第2期: Python自然语言处理](docs/read/nlp-2-python-nltk.md)
