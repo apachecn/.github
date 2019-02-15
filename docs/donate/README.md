@@ -9,8 +9,12 @@
 | 序号 | 捐赠者 | 金额(元) | 时间| 收入类型 | Issue |
 | --- | --- | --- | --- | --- | --- |
 | 例如 | [@片刻](https://github.com/jiangzhonglian) | 666 | 2018-07-19 | 个人赞助 | [#1](https://github.com/apachecn/home/issues/1) |
-| 53 | [@*超]()                   |    1.00 | 2019-01-25 | 个人赞助 | [#118](https://github.com/apachecn/home/issues/118) |
-| 52 | [@Datawhale](https://datawhale.club) |   66.66 | 2019-01-24 | 组织赞助 | [#119](https://github.com/apachecn/home/issues/119) |
+| 57 | [@*静波]()                 |    6.00 | 2019-02-25 | 个人赞助 | [#124](https://github.com/apachecn/home/issues/124) |
+| 56 | [@y*n]()                   |   10.00 | 2019-02-09 | 个人赞助 | [#123](https://github.com/apachecn/home/issues/123) |
+| 55 | [@j*i]()                   |   10.00 | 2019-02-08 | 个人赞助 | [#122](https://github.com/apachecn/home/issues/122) |
+| 54 | [@*超]()                   |    1.00 | 2019-01-25 | 个人赞助 | [#118](https://github.com/apachecn/home/issues/118) |
+| 53 | [@Datawhale](https://datawhale.club) |   66.66 | 2019-01-24 | 组织赞助 | [#119](https://github.com/apachecn/home/issues/119) |
+| 52 | [@*国华]()                 |   14.00 | 2019-01-22 | 个人赞助 | [#121](https://github.com/apachecn/home/issues/121) |
 | 51 | [@J*n]()                   |    1.00 | 2019-01-21 | 个人赞助 | [#117](https://github.com/apachecn/home/issues/117) |
 | 50 | [@M*e]()                   |   20.00 | 2019-01-14 | 个人赞助 | [#116](https://github.com/apachecn/home/issues/116) |
 | 49 | [@*徐]()                   |    1.00 | 2019-01-08 | 个人赞助 | [#115](https://github.com/apachecn/home/issues/115) |
