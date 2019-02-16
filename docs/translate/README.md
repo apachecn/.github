@@ -4,9 +4,7 @@
 
 ---
 
-从今年（2019）开始，我们每月会发布一个翻译项目，大家可以选择感兴趣的项目积极参与。
-
-## 翻译征集
+## **翻译征集**
 
 要求：
 
@@ -18,9 +16,13 @@
 
 请回复本文
 
-## 进行中
+## **进行中**
 
 > **更新时间: 2019-01-31[项目从近到远]**
+
+1.  【点击参与】[Flink 1.7 中文文档](https://github.com/apachecn/flink-doc-zh) 
+    
+    在 [issues](https://github.com/apachecn/flink-doc-zh/issues/13) 中领取任务
 
 1.  【点击参与】[HBase 中文参考指南 3.0](https://github.com/apachecn/hbase-doc-zh) 
     
@@ -42,17 +44,18 @@
     
     在 [issues](https://github.com/apachecn/prob140-textbook-zh/issues/2) 中领取任务
 
-## 计划中
+## **计划中**
 
-+   Flink 文档
 +   Seaborn 文档
-+   Hands on ML 第二版
++   Hands on ML 第二版（未完）
 +   Pymc3 文档
 +   Numba 文档
 +   Cython 文档
-+   UCB DS100 讲义
-+   斯坦福 CS229 讲义（第二期）
-+   Impatient JavaScript
++   UCB DS100 讲义（未完）
++   斯坦福 CS183f 创业课
++   Impatient JavaScript（未完）
++   ModSimPy（未完）
++   algorithm archive（未完）
 +   ...
 
 ## **翻译资源**
@@ -88,6 +91,7 @@
 9. [Kudu 1.4.0 中文文档](https://github.com/apachecn/kudu-doc-zh) 
 0. [Spring Boot 1.5.2 中文文档](https://github.com/apachecn/spring-boot-doc-zh)
 1. [Airflow 中文文档](https://github.com/apachecn/airflow-doc-zh)
+2. [Flink 中文文档](https://github.com/apachecn/flink-doc-zh)
 
 ### 区块链
 
