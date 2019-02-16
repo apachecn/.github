@@ -10,11 +10,25 @@
 
 > 【2017-06-01】第一届 组织委员会
 
+* [@那伊抹微笑](https://github.com/wangyangting)
+* [@片刻](https://github.com/jiangzhonglian)
 * [@瑶妹](https://github.com/chenyyx)
 * [@飞龙](https://github.com/wizardforcel)
+* [@伪文艺](https://github.com/Watermelon233)
+
+> 【2019-01-01】第二届 组织委员会
+
 * [@片刻](https://github.com/jiangzhonglian)
-* [@伪文艺.](https://github.com/Watermelon233)
-* [@那伊抹微笑](https://github.com/wangyangting)
+* [@飞龙](https://github.com/wizardforcel)
+* [@伪文艺](https://github.com/Watermelon233)
+* [@道长而崎](https://github.com/wnma3mz)
+* [@小白二号](https://github.com/yudaer)
+* [@Lisanaaa](https://github.com/Lisanaaa)
+* [@荼靡](https://github.com/mixiaole1)
+* [@临江仙卜算子](https://github.com/yZhenyuanLiu)
+* [@怎么可以吃兔兔](https://github.com/apachecn)
+
+-- 期待大家再次回归，一起来把组织委员会做好做大
 
 ## 企鹅委员会
 
@@ -46,8 +60,34 @@
 * [@平淡的天]()
 * [@凌少skierゞ]()
 * [@じ☆νЁ坐看云起]()
-* [古柳_DesertsX]()
+* [古柳-DesertsX]()
 * [woodchuck]()
+* [自由精灵]()
+* [楚盟]()
+* [99杆清台]()
+* [时空守望者@]()
+* [只想发论文的渣渣]()
+* [目标: ml劝退专家]()
+
+> Ml 第三届 (2019-01-01)
+
+* [只会喊666的存在]()
+* [codefun007.xyz]()
+* [荼靡]()
+* [大鱼]()
+* [青鸟]()
+* [古柳-DesertsX]()
+* [Edge]()
+* [Alluka]()
+* [不发篇paper不改名片]()
+* [FontTian]()
+* [Bigjing]()
+* [仁 礼 智 爱]()
+* [可啪的小乖受]()
+* [老古董]()
+* [时空守望者]()
+* [我好菜啊]()
+* [Messi 19]()
 
 ### Kaggle竞赛
 
