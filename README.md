@@ -56,7 +56,7 @@
 > [【公益捐赠】](docs/donate)
 
 * 【公益捐赠】: <http://www.apachecn.org/donate>
-* 【请在此留言】: [图书捐赠](docs/donate/1-book.md) <http://www.apachecn.org/donate/1-book>
+* 【图书捐赠】: <http://www.apachecn.org/donate/1-book>
 
 > [【学习咨询和定制】](docs/map)
 
