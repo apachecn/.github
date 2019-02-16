@@ -102,7 +102,7 @@
 | | | |
 | --- | --- | --- | 
 | [NumPy 中文文档](https://github.com/apachecn/numpy-ref-zh) | [Pandas 中文文档](https://github.com/apachecn/pandas-doc-zh) | [Matplotlib 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh) |
-| <a title="numpy 中文文档" href="https://apachecn.github.io/numpy-ref-zh" target="_blank"><img width="290" src="docs/img/skill/numpy_logo.png"></a> | <a title="pandas 中文文档" href="https://apachecn.github.io/pandas-doc-zh" target="_blank"><img width="290" src="docs/img/skill/pandas_logo.png"></a>  | <a title="matplotlib 中文文档" href="https://wizardforcel.gitbooks.io/matplotlib-user-guide/content" target="_blank"><img width="290" src="docs/img/skill/matplotlib_logo.png"></a> | 
+| <a title="numpy 中文文档" href="https://apachecn.github.io/numpy-ref-zh" target="_blank"><img width="290" src="https://www.apachecn.org/img/skill/numpy_logo.png"></a> | <a title="pandas 中文文档" href="https://apachecn.github.io/pandas-doc-zh" target="_blank"><img width="290" src="https://www.apachecn.org/img/skill/pandas_logo.png"></a>  | <a title="matplotlib 中文文档" href="https://wizardforcel.gitbooks.io/matplotlib-user-guide/content" target="_blank"><img width="290" src="https://www.apachecn.org/img/skill/matplotlib_logo.png"></a> | 
 
 1. [UCB Data8 课本：计算与推断思维](https://github.com/apachecn/data8-textbook-zh)
 1. [UCB Prob140 课本：面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
