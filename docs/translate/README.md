@@ -18,7 +18,7 @@
 
 ## **进行中**
 
-> **更新时间: 2019-01-31[项目从近到远]**
+> **更新时间: 2019-02-16[项目从近到远]**
 
 1.  【点击参与】[Flink 1.7 中文文档](https://github.com/apachecn/flink-doc-zh) 
     
@@ -39,6 +39,10 @@
 1.  【点击参与】[Airflow 中文文档](https://github.com/apachecn/airflow-doc-zh)
     
     在 [issues](https://github.com/apachecn/airflow-doc-zh/issues/1) 中领取任务
+
+1.  【点击参与】[UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
+    
+    在 [issues](https://github.com/apachecn/cs61b-textbook-zh/issues/1) 中领取任务
 
 1.  【点击参与】[面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
     
@@ -64,7 +68,9 @@
 
 +   [PyTorch 0.2/0.3/0.4/1.0 中文文档和教程](https://github.com/apachecn/pytorch-doc-zh)
 +   [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/apachecn/hands-on-ml-zh)
-+   UCB DS 系列课本
++   UCB CS/DS 系列课本
+    +   [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh)
+    +   [UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
     +   [UCB Data8 课本：计算与推断思维](https://github.com/apachecn/data8-textbook-zh)
     +   [UCB Prob140 课本：面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
     +   [UCB DS100 课本：数据科学的原理与技巧](https://github.com/apachecn/ds100-textbook-zh)
