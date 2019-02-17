@@ -97,7 +97,7 @@
 9. [Kudu 1.4.0 中文文档](https://github.com/apachecn/kudu-doc-zh) 
 0. [Spring Boot 1.5.2 中文文档](https://github.com/apachecn/spring-boot-doc-zh)
 1. [Airflow 中文文档](https://github.com/apachecn/airflow-doc-zh)
-2. [Flink 中文文档](https://github.com/apachecn/flink-doc-zh)
+2. [Flink 1.7 中文文档](https://github.com/apachecn/flink-doc-zh)
 
 ### 区块链
 
