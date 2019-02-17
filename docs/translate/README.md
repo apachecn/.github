@@ -50,17 +50,21 @@
 
 ## **计划中**
 
-+   Seaborn 文档
-+   Hands on ML 第二版（未完）
-+   Pymc3 文档
-+   Numba 文档
-+   Cython 文档
-+   UCB DS100 讲义（未完）
-+   斯坦福 CS183f 创业课
-+   Impatient JavaScript（未完）
-+   ModSimPy（未完）
-+   algorithm archive（未完）
-+   ...
+| 名称 | 领域 | 类型 | 格式 | 优先级 | 提议人 |
+| --- | --- | --- | --- | --- | --- |
+| Seaborn 文档 | AI/数据科学 | 翻译 | RST | 1 | @wizardforcel |
+| Numba 文档 | 编程 | 翻译 | RST | 0 | @wizardforcel  |
+| Cython 文档 | 编程 | 翻译 | RST | 0 | @wizardforcel  |
+| 斯坦福 CS183 创业课 | ?? | 校验 | MD | 0 | @wizardforcel |
+| pymc3 文档 | AI/数据科学 | 翻译 | RST | -1 | @shouldsee |
+| NLP (Eisenstein) | AI/数据科学 | 翻译 | PDF | -1 | @Ir1d |
+| MML | AI/数据科学 | 翻译 | PDF | -1 | @Jonyezog |
+| MCS | CS | 翻译 | PDF | -2 | @wizardforcel |
+| UCB DS100 讲义（未完） | AI/数据科学 | 翻译 | IPYNB | \- | @wizardforcel |
+| algorithm archive（未完） | CS | 翻译 | MD | \- | @wizardforcel |
+| ModSimPy（未完） | AI/数据科学 | 翻译 | LaTeX | \- | @wizardforcel |
+| hands on ml 2e（未完） | AI/数据科学 | 修订 | HTML | \- | \- |
+| Impatient JavaScript （未完）| 编程 | 翻译 | HTML | \- | @wizardforcel |
 
 ## **翻译资源**
 
