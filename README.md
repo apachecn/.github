@@ -122,4 +122,5 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 
 ## **友情链接**
 
-Datawhale: <https://datawhale.club>
++   [Datawhale](https://datawhale.club)
++   [Data Science Challenge / Competition](https://iphysresearch.github.io/DataSciComp/)
