@@ -72,6 +72,10 @@
 
 +   [PyTorch 0.2/0.3/0.4/1.0 中文文档和教程](https://github.com/apachecn/pytorch-doc-zh)
 +   [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/apachecn/hands-on-ml-zh)
++   人工智能/机器学习/数据科学比赛系列
+    +   [Kaggle 项目实战教程：文档 + 代码 + 视频](https://github.com/apachecn/kaggle)
+    +   [数据科学比赛收集平台](https://github.com/iphysresearch/DataSciComp)
++   [LeetCode，HackRank，剑指 offer，经典算法实现](https://github.com/apachecn/LeetCode)
 +   UCB CS/DS 系列课本
     +   [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh)
     +   [UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
@@ -129,7 +133,7 @@
 
 ### CS 教程
 
-1. [LeetCode 中文文档](https://github.com/apachecn/LeetCode)
+1. [LeetCode，HackRank，剑指 offer，经典算法实现](https://github.com/apachecn/LeetCode)
 1. [GeeksForGeeks 翻译计划](https://github.com/apachecn/geeksforgeeks-zh)
 1. [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh)
 1. [UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
@@ -164,7 +168,7 @@
 ### AI 比赛
 
 1. [Kaggle 项目实战教程：文档 + 代码 + 视频](https://github.com/apachecn/kaggle)
-2. [比赛收集平台](https://github.com/iphysresearch/DataSciComp)
+2. [数据科学比赛收集平台](https://github.com/iphysresearch/DataSciComp)
 
 ### 其它
 
