@@ -86,7 +86,7 @@
 
 ## **社交需求**
 
-[【社交需求】: <http://www.apachecn.org/social>
+【社交需求】: <http://www.apachecn.org/social>
 
 ## **交流方式**
 
