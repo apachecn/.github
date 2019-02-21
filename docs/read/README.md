@@ -1,5 +1,5 @@
-# <center>读书</center>
-<center>关于技术前言的各类干货书籍的读书活动</center>
+# <center>学习活动</center>
+<center>关于技术前言的各类干货书籍的学习活动</center>
 
 ---
 
