@@ -3,14 +3,11 @@
 
 ---
 
-| 活动名称 | 活动描述 |
-| --- | --- |
-| ML 读书会 | 机器学习入门 - 读书会 |
-| DL 读书会 | 深度学习入门 - 读书会 |
-| NLP 读书会 | 自然语音处理 - 读书会 |
+## **学习活动**
 
-> 读书会（2018-08-20 开始）
+（2018-08-20 开始）
 
+* 【点击参与】[DataWhale 新学期组队学习计划](https://mp.weixin.qq.com/s/IscASVbJgVVpaDzwhgV9cA?tdsourcetag=s_pctim_aiomsg)
 * 【点击参与】[kg - 第1期: 知识图谱](/read/kg-1-learning)
 * 【点击参与】[nlp - 第2期: Python自然语言处理](/read/nlp-2-python-nltk)
 * 【点击参与】[dl - 第1期: TensorFlow 从0～1入门](/read/dl-1-tensorflow)
