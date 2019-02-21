@@ -26,7 +26,7 @@
 * [@Lisanaaa](https://github.com/Lisanaaa)
 * [@荼靡](https://github.com/mixiaole1)
 * [@临江仙卜算子](https://github.com/yZhenyuanLiu)
-* [@怎么可以吃兔兔](https://github.com/apachecn)
+* [@怎么可以吃兔兔](https://github.com/chenypo)
 
 -- 期待大家再次回归，一起来把组织委员会做好做大
 

@@ -92,8 +92,9 @@
 ### Java 基础
 
 1. [Java 编程思想](https://github.com/apachecn/thinking-in-java-zh)
+2. [Java 从0～1个人笔记](https://javaee.strivebo.com)
 
-### Java Web 和大数据
+### 大数据
 
 1. [Spark 2.2.0 中文文档](https://github.com/apachecn/spark-doc-zh)
 2. [Storm 1.1.0 中文文档](https://github.com/apachecn/storm-doc-zh)
