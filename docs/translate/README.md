@@ -53,6 +53,7 @@
 | 名称 | 领域 | 类型 | 格式 | 优先级 | 提议人 |
 | --- | --- | --- | --- | --- | --- |
 | Seaborn 文档 | AI/数据科学 | 翻译 | RST | 1 | @wizardforcel |
+| OpenCV 文档 | AI/数据科学 | 翻译 | RST | 1 | \- |
 | Numba 文档 | 编程 | 翻译 | RST | 0 | @wizardforcel  |
 | Cython 文档 | 编程 | 翻译 | RST | 0 | @wizardforcel  |
 | 斯坦福 CS183 创业课 | ?? | 校验 | MD | 0 | @wizardforcel |
