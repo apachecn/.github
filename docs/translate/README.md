@@ -20,6 +20,10 @@
 
 > **更新时间: 2019-02-16[项目从近到远]**
 
+1.  【点击参与】[OpenCV 4.0 中文文档](https://github.com/apachecn/opencv-doc-zh) 
+    
+    在 [issues](https://github.com/apachecn/opencv-doc-zh/issues/1) 中领取任务
+
 1.  【点击参与】[Flink 1.7 中文文档](https://github.com/apachecn/flink-doc-zh) 
     
     在 [issues](https://github.com/apachecn/flink-doc-zh/issues/13) 中领取任务
