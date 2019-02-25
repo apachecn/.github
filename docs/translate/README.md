@@ -53,7 +53,6 @@
 | 名称 | 领域 | 类型 | 格式 | 优先级 | 提议人 |
 | --- | --- | --- | --- | --- | --- |
 | Seaborn 文档 | AI/数据科学 | 翻译 | RST | 1 | @wizardforcel |
-| OpenCV 文档 | AI/数据科学 | 翻译 | RST | 1 | \- |
 | Numba 文档 | 编程 | 翻译 | RST | 0 | @wizardforcel  |
 | Cython 文档 | 编程 | 翻译 | RST | 0 | @wizardforcel  |
 | 斯坦福 CS183 创业课 | ?? | 校验 | MD | 0 | @wizardforcel |
@@ -107,6 +106,7 @@
 9. [Kudu 1.4.0 中文文档](https://github.com/apachecn/kudu-doc-zh) 
 0. [Spring Boot 1.5.2 中文文档](https://github.com/apachecn/spring-boot-doc-zh)
 1. [Airflow 中文文档](https://github.com/apachecn/airflow-doc-zh)
+2. [HBase 3.0 中文参考指南](https://github.com/apachecn/hbase-doc-zh)
 2. [Flink 1.7 中文文档](https://github.com/apachecn/flink-doc-zh)
 
 ### 区块链
@@ -166,6 +166,7 @@
 1. [LightGBM 中文文档](https://github.com/apachecn/lightgbm-doc-zh)
 1. [FastText 中文文档](https://github.com/apachecn/fasttext-doc-zh)
 1. [Gensim 中文文档](https://github.com/apachecn/gensim-doc-zh)
+1. [OpenCCV 4.0 中文文档](https://github.com/apachecn/opencv-doc-zh)
 
 ### AI 比赛
 
