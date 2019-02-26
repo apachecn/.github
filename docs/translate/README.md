@@ -170,7 +170,7 @@
 1. [LightGBM 中文文档](https://github.com/apachecn/lightgbm-doc-zh)
 1. [FastText 中文文档](https://github.com/apachecn/fasttext-doc-zh)
 1. [Gensim 中文文档](https://github.com/apachecn/gensim-doc-zh)
-1. [OpenCCV 4.0 中文文档](https://github.com/apachecn/opencv-doc-zh)
+1. [OpenCV 4.0 中文文档](https://github.com/apachecn/opencv-doc-zh)
 
 ### AI 比赛
 
