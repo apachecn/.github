@@ -1,18 +1,7 @@
-# <center>学习活动</center>
+# <center>自学学院</center>
 <center>关于技术前言的各类干货书籍的学习活动</center>
 
 ---
-
-## **学习活动**
-
-（2018-08-20 开始）
-
-* 【点击参与】[DataWhale 新学期组队学习计划](https://mp.weixin.qq.com/s/IscASVbJgVVpaDzwhgV9cA?tdsourcetag=s_pctim_aiomsg)
-* 【点击参与】[kg - 第1期: 知识图谱](/read/kg-1-learning)
-* 【点击参与】[nlp - 第2期: Python自然语言处理](/read/nlp-2-python-nltk)
-* 【点击参与】[dl - 第1期: TensorFlow 从0～1入门](/read/dl-1-tensorflow)
-
-## **自学学院**
 
 ```
 谈不起高大上，也不太喜欢在这事情上包装和装逼。

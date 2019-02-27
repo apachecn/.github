@@ -41,6 +41,8 @@
 让我们一起营造一个无需别人认可的自学学院吧，和一群志同道合的人一起学自己喜欢的方向。
 ```
 
+【请在此留言】: <http://www.apachecn.org/learn>
+
 ## **组织活动**
 
 ### 模块划分
@@ -66,9 +68,9 @@
 
 【请在此留言】: <http://www.apachecn.org/translate>
 
-### [学习活动](docs/read)
+### 学习活动
 
-【请在此留言】: <http://www.apachecn.org/read>
+【点击参与】[DataWhale 新学期组队学习计划](http://url.cn/5P7UcMt)
 
 ### [公益捐赠](docs/donate)
 
