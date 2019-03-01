@@ -16,7 +16,7 @@
     * [简书](https://www.jianshu.com/c/4ee721d0c474)
     * [OSChina](https://my.oschina.net/repine/)
     * [博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html)
-* **We are ApacheCN Open Source Organization, not ASF! We are fans of AI, and have no ralationship with ASF!**
+* **We are ApacheCN Open Source Organization, not ASF! We are fans of AI, and have no relationship with ASF!**
 * 合作or侵权，请联系【fonttian】<fonttian@gmail.com> | 请抄送一份到 <apachecn@163.com>
 
 ## **组织资源**
