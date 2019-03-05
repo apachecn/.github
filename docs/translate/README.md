@@ -80,6 +80,7 @@
     +   [Kaggle 项目实战教程：文档 + 代码 + 视频](https://github.com/apachecn/kaggle)
     +   [数据科学比赛收集平台](https://github.com/iphysresearch/DataSciComp)
 +   [LeetCode，HackRank，剑指 offer，经典算法实现](https://github.com/apachecn/LeetCode)
++   [Girls In AI](https://github.com/YZHANG1270/Girls-In-AI)
 +   UCB CS/DS 系列课本
     +   [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh)
     +   [UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
@@ -161,6 +162,7 @@
 1. [Scikit-learn 秘籍](https://github.com/apachecn/sklearn-cookbook-zh)
 1. [写给人类的机器学习](https://github.com/apachecn/ml-for-humans-zh)
 1. [数据科学和人工智能技术笔记](https://github.com/apachecn/ds-ai-tech-notes)
+1. [Girls In AI](https://github.com/YZHANG1270/Girls-In-AI)
 
 ### AI 文档
 
