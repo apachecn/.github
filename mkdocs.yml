@@ -1,5 +1,4 @@
 site_name: ApacheCN
-site_url: http://www.apachecn.org
 site_description: ApacheCN 专注于优秀项目维护的开源组织
 site_author: ApacheCN Team
 site_keywords: 数据科学,数据分析,机器学习,人工智能,深度学习,推荐系统,NLP,CV,回归,分类,聚类,降维,朴素贝叶斯,决策树,SVM,KMeans,PCA,SVD,Logistic,DNN,CNN,LSTM,RNN,GAN,自编码器,sklearn,scikit-learn,TensorFlow,PyTorch,Python,NumPy,Matplotlib,Pandas
