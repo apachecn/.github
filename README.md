@@ -5,7 +5,7 @@
 
 ## **组织介绍**
 
-* 【主页】 [apachecn.org](http://www.apachecn.org)
+* 【主页】 [apachecn.org](http://home.apachecn.org)
 * 【Github】[@ApacheCN](https://github.com/apachecn)
 * 暂时下线: [社区](community.apachecn.org)
 * 暂时下线: [cwiki 知识库](http://cwiki.apachecn.org)
@@ -21,7 +21,7 @@
 
 ## **组织资源**
 
-【AI资源: Python、大数据、数据分析、机器学习、Kaggle比赛、数学、区块链】: <http://www.apachecn.org/translate>
+【AI资源: Python、大数据、数据分析、机器学习、Kaggle比赛、数学、区块链】: <http://home.apachecn.org/translate>
 
 ## [**自学学院**](docs/read)
 
@@ -41,7 +41,7 @@
 让我们一起营造一个无需别人认可的自学学院吧，和一群志同道合的人一起学自己喜欢的方向。
 ```
 
-【请在此留言】: <http://www.apachecn.org/learn>
+【请在此留言】: <http://home.apachecn.org/learn>
 
 ## **组织活动**
 
@@ -67,7 +67,11 @@
 
 ### [书籍征集和翻译](docs/translate)
 
-【请在此留言】: <http://www.apachecn.org/translate>
+【请在此留言】: <http://home.apachecn.org/translate>
+
+### 比赛活动
+
+【点击参与】[比赛活动 & 负责人征集](http://home.apachecn.org/game)
 
 ### 学习活动
 
@@ -75,13 +79,13 @@
 
 ### [公益捐赠](docs/donate)
 
-* 【公益捐赠】: <http://www.apachecn.org/donate>
-* 【图书捐赠】: <http://www.apachecn.org/donate/1-book>
+* 【公益捐赠】: <http://home.apachecn.org/donate>
+* 【图书捐赠】: <http://home.apachecn.org/donate/1-book>
 
 ### [学习咨询和定制](docs/map)
 
 * **接受各种环材化生转行咨询, 让你的青春不迷茫**
-* 【学习咨询和定制】: <http://www.apachecn.org/map>
+* 【学习咨询和定制】: <http://home.apachecn.org/map>
 
 ### [社交活动（结束）](docs/social)
 
@@ -89,7 +93,7 @@
 
 ## **社交需求**
 
-【社交需求】: <http://www.apachecn.org/social>
+【社交需求】: <http://home.apachecn.org/social>
 
 ## **交流方式**
 
@@ -115,7 +119,7 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 
 ## **捐赠列表**
 
-* [捐赠名单](/donate/README.md): <http://www.apachecn.org/donate/>
+* [捐赠名单](/donate/README.md): <http://home.apachecn.org/donate/>
 * 捐赠格式 [#1](https://github.com/apachecn/home/issues/1) : <https://github.com/apachecn/home/issues/1>
 * 参考添加捐赠方式: <https://github.com/apachecn/home/issues/1>
 
