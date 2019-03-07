@@ -61,7 +61,6 @@
 | Cython 文档 | 编程 | 翻译 | RST | 0 | @wizardforcel  |
 | 斯坦福 CS183 创业课 | ?? | 校验 | MD | 0 | @wizardforcel |
 | pymc3 文档 | AI/数据科学 | 翻译 | RST | -1 | @shouldsee |
-| NLP (Eisenstein) | AI/数据科学 | 翻译 | PDF | -1 | @Ir1d |
 | MML | AI/数据科学 | 翻译 | PDF | -1 | @Jonyezog |
 | MCS | CS | 翻译 | PDF | -2 | @wizardforcel |
 | UCB DS100 讲义（未完） | AI/数据科学 | 翻译 | IPYNB | \- | @wizardforcel |
