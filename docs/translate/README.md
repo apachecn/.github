@@ -59,15 +59,13 @@
 | Seaborn 文档 | AI/数据科学 | 翻译 | RST | 1 | @wizardforcel |
 | Numba 文档 | 编程 | 翻译 | RST | 0 | @wizardforcel  |
 | Cython 文档 | 编程 | 翻译 | RST | 0 | @wizardforcel  |
+| Impatient JavaScript | 编程 | 翻译 | HTML | 0 | @wizardforcel |
 | 斯坦福 CS183 创业课 | ?? | 校验 | MD | 0 | @wizardforcel |
 | pymc3 文档 | AI/数据科学 | 翻译 | RST | -1 | @shouldsee |
-| MML | AI/数据科学 | 翻译 | PDF | -1 | @Jonyezog |
-| MCS | CS | 翻译 | PDF | -2 | @wizardforcel |
 | UCB DS100 讲义（未完） | AI/数据科学 | 翻译 | IPYNB | \- | @wizardforcel |
 | algorithm archive（未完） | CS | 翻译 | MD | \- | @wizardforcel |
 | ModSimPy（未完） | AI/数据科学 | 翻译 | LaTeX | \- | @wizardforcel |
 | hands on ml 2e（未完） | AI/数据科学 | 修订 | HTML | \- | \- |
-| Impatient JavaScript （未完）| 编程 | 翻译 | HTML | \- | @wizardforcel |
 
 ## **翻译资源**
 
