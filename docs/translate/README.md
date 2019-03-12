@@ -24,10 +24,6 @@
     
     在 [issues](https://github.com/apachecn/opencv-doc-zh/issues/1) 中领取任务
 
-1.  【点击参与】[Flink 1.7 中文文档](https://github.com/apachecn/flink-doc-zh) 
-    
-    在 [issues](https://github.com/apachecn/flink-doc-zh/issues/13) 中领取任务
-
 1.  【点击参与】[HBase 中文参考指南 3.0](https://github.com/apachecn/hbase-doc-zh) 
     
     在 [issues](https://github.com/apachecn/hbase-doc-zh/issues/1) 中领取任务
