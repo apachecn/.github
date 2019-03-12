@@ -56,16 +56,17 @@
 
 | 名称 | 领域 | 类型 | 格式 | 优先级 | 提议人 |
 | --- | --- | --- | --- | --- | --- |
-| Seaborn 文档 | AI/数据科学 | 翻译 | RST | 1 | @wizardforcel |
-| Numba 文档 | 编程 | 翻译 | RST | 0 | @wizardforcel  |
-| Cython 文档 | 编程 | 翻译 | RST | 0 | @wizardforcel  |
-| Impatient JavaScript | 编程 | 翻译 | HTML | 0 | @wizardforcel |
+| [Seaborn 文档](http://seaborn.pydata.org/) | AI/数据科学 | 翻译 | RST | 1 | @wizardforcel |
+| [Numba 文档](http://numba.pydata.org/numba-doc/latest/) | 编程 | 翻译 | RST | 0 | @wizardforcel  |
+| [Cython 文档](http://docs.cython.org/en/latest/) | 编程 | 翻译 | RST | 0 | @wizardforcel  |
+| [Impatient JavaScript](http://exploringjs.com/impatient-js/toc.html) | 编程 | 翻译 | HTML | 0 | @wizardforcel |
 | 斯坦福 CS183 创业课 | ?? | 校验 | MD | 0 | @wizardforcel |
-| pymc3 文档 | AI/数据科学 | 翻译 | RST | -1 | @shouldsee |
-| UCB DS100 讲义（未完） | AI/数据科学 | 翻译 | IPYNB | \- | @wizardforcel |
-| algorithm archive（未完） | CS | 翻译 | MD | \- | @wizardforcel |
-| ModSimPy（未完） | AI/数据科学 | 翻译 | LaTeX | \- | @wizardforcel |
-| hands on ml 2e（未完） | AI/数据科学 | 修订 | HTML | \- | \- |
+| [pymc3 文档](https://docs.pymc.io/) | AI/数据科学 | 翻译 | RST | -1 | @shouldsee |
+| [Git 命令参考](https://git-scm.com/docs) | ?? | 翻译 | HTML | -1 | @wizardforcel |
+| [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh)（未完） | AI/数据科学 | 翻译 | IPYNB | \- | @wizardforcel |
+| [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | CS | 翻译 | MD | \- | @wizardforcel |
+| [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/数据科学 | 翻译 | LaTeX | \- | @wizardforcel |
+| [hands on ml 2e](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)（未完） | AI/数据科学 | 修订 | HTML | \- | \- |
 
 ## **翻译资源**
 
