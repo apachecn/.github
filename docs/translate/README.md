@@ -20,6 +20,10 @@
 
 > **更新时间: 2019-02-16[项目从近到远]**
 
+1.  【点击参与】[seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh) 
+    
+    在 [issues](https://github.com/apachecn/seaborn-doc-zh/issues/1) 中领取任务
+
 1.  【点击参与】[OpenCV 4.0 中文文档](https://github.com/apachecn/opencv-doc-zh) 
     
     在 [issues](https://github.com/apachecn/opencv-doc-zh/issues/1) 中领取任务
@@ -52,7 +56,6 @@
 
 | 名称 | 领域 | 类型 | 格式 | 优先级 | 提议人 |
 | --- | --- | --- | --- | --- | --- |
-| [Seaborn 文档](http://seaborn.pydata.org/) | AI/数据科学 | 翻译 | RST | 1 | @wizardforcel |
 | [Numba 文档](http://numba.pydata.org/numba-doc/latest/) | 编程 | 翻译 | RST | 0 | @wizardforcel  |
 | [Cython 文档](http://docs.cython.org/en/latest/) | 编程 | 翻译 | RST | 0 | @wizardforcel  |
 | [Impatient JavaScript](http://exploringjs.com/impatient-js/toc.html) | 编程 | 翻译 | HTML | 0 | @wizardforcel |
@@ -87,6 +90,7 @@
     +   [Matplotlib 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh)
     +   [Sklearn 0.19 中文文档](https://github.com/apachecn/scikit-learn-doc-zh)
     +   [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
+    +   [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
 
 ### Java 基础
 
@@ -131,6 +135,7 @@
 1. [Pandas Cookbook 带注释源码](https://github.com/apachecn/pandas-cookbook-code-notes)
 1. [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
 1. [数据科学 IPython 笔记本](https://github.com/apachecn/ds-ipynb-zh)
+1. [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
 
 ### CS 教程
 
