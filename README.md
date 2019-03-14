@@ -18,7 +18,6 @@
     * [博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html)
     * [头条号](https://www.toutiao.com/c/user/3901644178/)
     * [搜狐号](https://mp.sohu.com/profile?xpt=NDhjYmViMzMtZWE2Yi00NTlmLWE3OTQtY2FjNjIwNDBlZDJl)
-    * [百家号](https://baijiahao.baidu.com/u?app_id=1586378717339620)
 * **We are ApacheCN Open Source Organization, not ASF! We are fans of AI, and have no relationship with ASF!**
 * 合作or侵权，请联系【fonttian】<fonttian@gmail.com> | 请抄送一份到 <apachecn@163.com>
 
