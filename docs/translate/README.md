@@ -67,10 +67,11 @@
 | [MongoDB 文档](https://docs.mongodb.com/) | ?? | 翻译 | HTML | -1 | @wizardforcel |
 | [PySide2 API 参考](https://doc.qt.io/qtforpython/) | 编程 | 翻译 | HTML | -2 | ??? |
 | [Java 官方教程](https://docs.oracle.com/javase/tutorial/reallybigindex.html) | 编程 | 翻译 | HTML | -2 | @wizardforcel |
-| [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh)（未完） | AI/数据科学 | 翻译 | IPYNB | \- | @wizardforcel |
+| [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh)（未完） | AI/DS | 翻译 | IPYNB | \- | @wizardforcel |
 | [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | CS | 翻译 | MD | \- | @wizardforcel |
-| [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/数据科学 | 翻译 | LaTeX | \- | @wizardforcel |
-| [hands on ml 2e](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)（未完） | AI/数据科学 | 修订 | HTML | \- | \- |
+| [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | LaTeX | \- | @wizardforcel |
+| [hands on ml 2e](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)（未完） | AI/DS | 修订 | HTML | \- | \- |
+| 斯坦福 CS224n 2019（未完） | AI/DS | 笔记整理 | \- | \- | \- |
 
 ## **学习资源**
 
