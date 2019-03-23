@@ -56,8 +56,6 @@
 
 | 名称 | 领域 | 类型 | 格式 | 优先级 | 提议人 |
 | --- | --- | --- | --- | --- | --- |
-| [NumPy API 参考](https://github.com/apachecn/numpy-doc-zh) | AI/DS | 校验 | MD | 1 | @片刻  |
-| [Pandas 文档](https://github.com/apachecn/pandas-doc-zh) | AI/DS | 校验 | MD | 1 | @片刻  |
 | [Numba 文档](http://numba.pydata.org/numba-doc/latest/) | 编程 | 翻译 | RST | 0 | @wizardforcel  |
 | [Cython 文档](http://docs.cython.org/en/latest/) | 编程 | 翻译 | RST | 0 | @wizardforcel  |
 | [Impatient JavaScript](http://exploringjs.com/impatient-js/toc.html) | 编程 | 翻译 | HTML | 0 | @wizardforcel |
