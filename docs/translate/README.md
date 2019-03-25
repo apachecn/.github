@@ -56,11 +56,12 @@
 
 | 名称 | 领域 | 类型 | 格式 | 优先级 | 提议人 |
 | --- | --- | --- | --- | --- | --- |
+| 斯坦福 CS183 创业课 | ?? | 校验 | MD | 1 | @wizardforcel |
+| [Git 命令参考](https://git-scm.com/docs) | ?? | 翻译 | HTML | 1 | @wizardforcel |
+| [Machine Learning Mastery](https://machinelearningmastery.com/) | AI/DS | 翻译 | HTML | 1 | @wizardforcel |
 | [Numba 文档](http://numba.pydata.org/numba-doc/latest/) | 编程 | 翻译 | RST | 0 | @wizardforcel  |
 | [Cython 文档](http://docs.cython.org/en/latest/) | 编程 | 翻译 | RST | 0 | @wizardforcel  |
 | [Impatient JavaScript](http://exploringjs.com/impatient-js/toc.html) | 编程 | 翻译 | HTML | 0 | @wizardforcel |
-| 斯坦福 CS183 创业课 | ?? | 校验 | MD | 0 | @wizardforcel |
-| [Git 命令参考](https://git-scm.com/docs) | ?? | 翻译 | HTML | 0 | @wizardforcel |
 | [pymc3 文档](https://docs.pymc.io/) | AI/DS | 翻译 | RST | -1 | @shouldsee |
 | [MongoDB 文档](https://docs.mongodb.com/) | ?? | 翻译 | HTML | -1 | @wizardforcel |
 | [PySide2 API 参考](https://doc.qt.io/qtforpython/) | 编程 | 翻译 | HTML | -2 | ??? |
