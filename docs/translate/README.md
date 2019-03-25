@@ -69,8 +69,8 @@
 | [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh)（未完） | AI/DS | 翻译 | IPYNB | \- | @wizardforcel |
 | [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | CS | 翻译 | MD | \- | @wizardforcel |
 | [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | LaTeX | \- | @wizardforcel |
-| [hands on ml 2e](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)（未完） | AI/DS | 修订 | HTML | \- | \- |
-| 斯坦福 CS224n 2019（未完） | AI/DS | 笔记整理 | \- | \- | \- |
+| [hands on ml 2e](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)（未完） | AI/DS | 修订 | HTML | \- | @冯宝宝 |
+| 斯坦福 CS224n 2019（未完） | AI/DS | 笔记整理 | \- | \- | @锋 |
 
 ## **学习资源**
 
