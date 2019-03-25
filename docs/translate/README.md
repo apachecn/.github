@@ -176,6 +176,7 @@
 1.  [写给人类的机器学习](https://github.com/apachecn/ml-for-humans-zh)
 1.  [数据科学和人工智能技术笔记](https://github.com/apachecn/ds-ai-tech-notes)
 1.  [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI)
+1.  [Machine Learning Mastery 博客文章翻译](https://github.com/apachecn/ml-mastery-zh)
 
 ### AI 文档
 
