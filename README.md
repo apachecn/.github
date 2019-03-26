@@ -9,10 +9,9 @@
 > 
 > 与商业组织不同，我们并不会追逐热点，或者唯利是图。作为公益组织，我们将完成项目放在首要位置，并有足够时间把项目打磨到极致。我们希望做出广大 AI 爱好者真正需要的东西，打造真正有价值的长尾作品。
 
-* 【主页】 [apachecn.org](http://home.apachecn.org)
+* 【主页】[apachecn.org](http://home.apachecn.org)
+* 【社区】[bbs.apachecn.org](http://bbs.apachecn.org/)
 * 【Github】[@ApacheCN](https://github.com/apachecn)
-* 暂时下线: [社区](community.apachecn.org)
-* 暂时下线: [cwiki 知识库](http://cwiki.apachecn.org)
 * 自媒体平台
     * [微博：@ApacheCN](https://weibo.com/u/6326715527)
     * [知乎：@ApacheCN](https://www.zhihu.com/people/apachecn)
