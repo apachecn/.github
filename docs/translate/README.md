@@ -20,6 +20,10 @@
 
 > **更新时间: 2019-02-16[项目从近到远]**
 
+1.  【点击参与】[Git 中文参考（校对）](https://github.com/apachecn/git-doc-zh) 
+    
+    在 [issues](https://github.com/apachecn/git-doc-zh/issues/1) 中领取任务
+
 1.  【点击参与】[seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh) 
     
     在 [issues](https://github.com/apachecn/seaborn-doc-zh/issues/1) 中领取任务
@@ -28,7 +32,7 @@
     
     在 [issues](https://github.com/apachecn/opencv-doc-zh/issues/1) 中领取任务
 
-1.  【点击参与】[HBase 中文参考指南 3.0](https://github.com/apachecn/hbase-doc-zh) 
+1.  【点击参与】[HBase 中文参考指南 3.0（校对）](https://github.com/apachecn/hbase-doc-zh) 
     
     在 [issues](https://github.com/apachecn/hbase-doc-zh/issues/1) 中领取任务
 
@@ -40,7 +44,7 @@
     
     在 [issues](https://github.com/apachecn/statsmodels_doc_zh/issues/1) 中领取任务
 
-1.  【点击参与】[Airflow 中文文档](https://github.com/apachecn/airflow-doc-zh)
+1.  【点击参与】[Airflow 中文文档（校对）](https://github.com/apachecn/airflow-doc-zh)
     
     在 [issues](https://github.com/apachecn/airflow-doc-zh/issues/1) 中领取任务
 
@@ -57,7 +61,6 @@
 | 名称 | 领域 | 类型 | 格式 | 优先级 | 提议人 |
 | --- | --- | --- | --- | --- | --- |
 | 斯坦福 CS183 创业课 | ?? | 校验 | MD | 1 | @wizardforcel |
-| [Git 命令参考](https://git-scm.com/docs) | ?? | 翻译 | HTML | 1 | @wizardforcel |
 | [Numba 文档](http://numba.pydata.org/numba-doc/latest/) | 编程 | 翻译 | RST | 0 | @wizardforcel  |
 | [Cython 文档](http://docs.cython.org/en/latest/) | 编程 | 翻译 | RST | 0 | @wizardforcel  |
 | [Impatient JavaScript](http://exploringjs.com/impatient-js/toc.html) | 编程 | 翻译 | HTML | 0 | @wizardforcel |
