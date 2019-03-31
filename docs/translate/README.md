@@ -104,12 +104,12 @@
     +   [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
     +   [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
 
-### Java 基础
+### 编程语言
+1.  Java
+    1.  [Java 编程思想](https://github.com/apachecn/thinking-in-java-zh)
+    2.  [Java 从0～1个人笔记](https://javaee.strivebo.com)
 
-1.  [Java 编程思想](https://github.com/apachecn/thinking-in-java-zh)
-2.  [Java 从0～1个人笔记](https://javaee.strivebo.com)
-
-### 大数据
+### 后端/大数据
 
 1.  [Spark 2.2.0 中文文档](https://github.com/apachecn/spark-doc-zh)
 2.  [Storm 1.1.0 中文文档](https://github.com/apachecn/storm-doc-zh)
@@ -124,6 +124,10 @@
 2.  [HBase 3.0 中文参考指南](https://github.com/apachecn/hbase-doc-zh)
 2.  [Flink 1.7 中文文档](https://github.com/apachecn/flink-doc-zh)
 
+### 工具
+
+1.  [Git 中文参考](https://github.com/apachecn/git-doc-zh)
+
 ### 区块链
 
 1.  [Solidity 中文文档](https://github.com/apachecn/solidity-doc-zh)
@@ -134,11 +138,9 @@
 
 ### Python 数据科学
 
-| | | |
-| --- | --- | --- | 
-| [NumPy 中文文档](https://github.com/apachecn/numpy-ref-zh) | [Pandas 中文文档](https://github.com/apachecn/pandas-doc-zh) | [Matplotlib 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh) |
-| <a title="numpy 中文文档" href="https://apachecn.github.io/numpy-ref-zh" target="_blank"><img width="290" src="https://www.apachecn.org/img/skill/numpy_logo.png"></a> | <a title="pandas 中文文档" href="https://apachecn.github.io/pandas-doc-zh" target="_blank"><img width="290" src="https://www.apachecn.org/img/skill/pandas_logo.png"></a>  | <a title="matplotlib 中文文档" href="https://wizardforcel.gitbooks.io/matplotlib-user-guide/content" target="_blank"><img width="290" src="https://www.apachecn.org/img/skill/matplotlib_logo.png"></a> | 
-
+1.  [NumPy 中文文档](https://github.com/apachecn/numpy-ref-zh)
+1.  [Pandas 中文文档](https://github.com/apachecn/pandas-doc-zh)
+1.  [Matplotlib 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh) |
 1.  [UCB Data8 课本：计算与推断思维](https://github.com/apachecn/data8-textbook-zh)
 1.  [UCB Prob140 课本：面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
 1.  [UCB DS100 课本：数据科学的原理与技巧](https://github.com/apachecn/ds100-textbook-zh)
