@@ -9,12 +9,14 @@
 > 
 > 与商业组织不同，我们并不会追逐热点，或者唯利是图。作为公益组织，我们将完成项目放在首要位置，并有足够时间把项目打磨到极致。我们希望做出广大 AI 爱好者真正需要的东西，打造真正有价值的长尾作品。
 
-* 【主页】[apachecn.org](http://home.apachecn.org)
+* 【主页】[apachecn.org](https://www.apachecn.org)
+* 【归档】[home.apachecn.org](http://home.apachecn.org)
 * 【社区】[bbs.apachecn.org](http://bbs.apachecn.org/)
 * 【Github】[@ApacheCN](https://github.com/apachecn)
 * 自媒体平台
     * [微博：@ApacheCN](https://weibo.com/u/6326715527)
     * [知乎：@ApacheCN](https://www.zhihu.com/people/apachecn)
+    * [公众号：@ApacheCN](http://home.apachecn.org/img/gzh_qr.jpg)
     * [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073) | [OSChina](https://my.oschina.net/repine/) | [博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html)
     * [简书](https://www.jianshu.com/c/4ee721d0c474) | [搜狐号](https://mp.sohu.com/profile?xpt=NDhjYmViMzMtZWE2Yi00NTlmLWE3OTQtY2FjNjIwNDBlZDJl) | [bilibili 专栏](https://space.bilibili.com/9169694/article)
 * **We are ApacheCN Open Source Organization, not ASF! We are fans of AI, and have no relationship with ASF!**
