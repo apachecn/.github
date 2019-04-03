@@ -22,7 +22,7 @@
 * **We are ApacheCN Open Source Organization, not ASF! We are fans of AI, and have no relationship with ASF!**
 * 合作 or 侵权，请联系 <apachecn@163.com> | 请抄送一份到 <wizard.z@foxmail.com>
 
-## **编程/大数据/数据科学/人工智能学习资源**
+## **学习资源**
 
 +   [编程语言](http://home.apachecn.org/translate)
 +   [后端/大数据](http://home.apachecn.org/translate)
@@ -33,7 +33,7 @@
 +   [AI 文档](http://home.apachecn.org/translate)
 +   [AI 比赛](http://home.apachecn.org/translate)
 
-## 组织架构
+## **组织架构**
 
 | 模块             | 负责人                       | 相关描述 |
 | --- | --- | --- |
@@ -57,7 +57,7 @@
 * --> 为了能够将开源事业做大做强，ApacheCN 打算注册为 NGO，请大家献言献策。
 * 联系方式 QQ: 529815144 （权利分配**灵活**：能者居之！欢迎你们的到来）
 
-### [书籍征集和翻译](docs/translate)
+### 翻译活动征集
 
 [请回复这个帖子](http://bbs.apachecn.org/thread-77.htm)
 
@@ -69,19 +69,19 @@
 
 [【点击参与】DataWhale 新学期组队学习计划](http://url.cn/5P7UcMt)
 
-### [公益捐赠](docs/donate)
+### 公益捐赠
 
 * [【点击参与】公益捐赠](http://home.apachecn.org/donate)
 * [【点击参与】图书捐赠](http://home.apachecn.org/donate/1-book)
 
-### [学习咨询和定制](docs/map)
+### 学习咨询和定制
 
 * **接受各种环材化生转行咨询, 让你的青春不迷茫**
 * [【点击参与】学习咨询和定制](http://home.apachecn.org/map)
 
-## **社交需求**
+### 社交活动
 
-【社交需求】: <http://home.apachecn.org/social>
+[【点击参与】社交活动](http://home.apachecn.org/social)
 
 ## **交流方式**
 
@@ -108,8 +108,8 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 
 ## **捐赠列表**
 
-* [捐赠名单](/donate/README.md): <http://home.apachecn.org/donate/>
-* 捐赠格式 [#1](https://github.com/apachecn/home/issues/1) : <https://github.com/apachecn/home/issues/1>
+* 捐赠名单: <http://home.apachecn.org/donate/>
+* 捐赠格式: <https://github.com/apachecn/home/issues/1>
 * 参考添加捐赠方式: <https://github.com/apachecn/home/issues/1>
 
 <img src="http://data.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
