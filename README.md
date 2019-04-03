@@ -20,7 +20,7 @@
     * [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073) | [OSChina](https://my.oschina.net/repine/) | [博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html)
     * [简书](https://www.jianshu.com/c/4ee721d0c474) | [搜狐号](https://mp.sohu.com/profile?xpt=NDhjYmViMzMtZWE2Yi00NTlmLWE3OTQtY2FjNjIwNDBlZDJl) | [bilibili 专栏](https://space.bilibili.com/9169694/article)
 * **We are ApacheCN Open Source Organization, not ASF! We are fans of AI, and have no relationship with ASF!**
-* 合作or侵权，请联系【fonttian】<fonttian@gmail.com> | 请抄送一份到 <apachecn@163.com>
+* 合作 or 侵权，请联系 <apachecn@163.com> | 请抄送一份到 <wizardforcel@foxmail.com>
 
 ## **组织资源**
 
