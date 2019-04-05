@@ -163,6 +163,7 @@
 1.  [中国大学 MOOC 计算机操作系统笔记](https://github.com/apachecn/Computer-operating-system-notes)
 1.  [简单数据结构实现](https://github.com/apachecn/DataStructure)
 1.  [司镜的数据结构课程（持续更新）](https://www.bilibili.com/video/av41164819)
+1.  [从零编写简单的数据库](https://github.com/apachecn/misc-docs-zh/blob/master/docs/simple-db-zh)
 
 ### AI 教程
 
