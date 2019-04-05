@@ -66,14 +66,15 @@
 | [Impatient JavaScript](http://exploringjs.com/impatient-js/toc.html) | 编程 | 翻译 | HTML | 0 | @飞龙 |
 | [pymc3 文档](https://docs.pymc.io/) | AI/DS | 翻译 | RST | -1 | @shouldsee |
 | [MongoDB 文档](https://docs.mongodb.com/) | ?? | 翻译 | HTML | -1 | @飞龙 |
+| 斯坦福博弈论 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
+| 网易云量化 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
 | [PySide2 API 参考](https://doc.qt.io/qtforpython/) | 编程 | 翻译 | HTML | -2 | ??? |
-| [Java 官方教程](https://docs.oracle.com/javase/tutorial/reallybigindex.html) | 编程 | 翻译 | HTML | -2 | @飞龙 |
-| 网易云量化 | AI/DS | 笔记整理 | \- | -2 | @飞龙 |
 | [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh)（未完） | AI/DS | 翻译 | IPYNB | \- | @飞龙 |
 | [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | CS | 翻译 | MD | \- | @飞龙 |
 | [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | LaTeX | \- | @飞龙 |
-| 斯坦福 CS224n 2019（未完） | AI/DS | 笔记整理 | \- | \- | @锋 |
-| UCB CS294-158 2019（未完） | AI/DS | 笔记整理 | \- | \- | @飞龙 |
+| UCB CS294-158 深度无监督学习 2019（未完） | AI/DS | 笔记整理 | \- | \- | @飞龙 |
+| 斯坦福 CS234 强化学习 2019（未完） | AI/DS | 笔记整理 | \- | \- | @飞龙 |
+
 
 ## **学习资源**
 
