@@ -60,10 +60,8 @@
 
 | 名称 | 领域 | 类型 | 格式 | 优先级 | 提议人 |
 | --- | --- | --- | --- | --- | --- |
-| 斯坦福 CS183 创业课 | ?? | 校验 | MD | 1 | @飞龙 |
 | [Numba 文档](http://numba.pydata.org/numba-doc/latest/) | 编程 | 翻译 | RST | 0 | @飞龙  |
 | [Cython 文档](http://docs.cython.org/en/latest/) | 编程 | 翻译 | RST | 0 | @飞龙  |
-| [Impatient JavaScript](http://exploringjs.com/impatient-js/toc.html) | 编程 | 翻译 | HTML | 0 | @飞龙 |
 | [pymc3 文档](https://docs.pymc.io/) | AI/DS | 翻译 | RST | -1 | @shouldsee |
 | [MongoDB 文档](https://docs.mongodb.com/) | ?? | 翻译 | HTML | -1 | @飞龙 |
 | 斯坦福博弈论 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
@@ -72,6 +70,7 @@
 | [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh)（未完） | AI/DS | 翻译 | IPYNB | \- | @飞龙 |
 | [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | CS | 翻译 | MD | \- | @飞龙 |
 | [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | LaTeX | \- | @飞龙 |
+| [Impatient JavaScript](http://exploringjs.com/impatient-js/toc.html)（未完） | 编程 | 翻译 | HTML | \- | @飞龙 |
 | UCB CS294-158 深度无监督学习 2019（未完） | AI/DS | 笔记整理 | \- | \- | @飞龙 |
 | 斯坦福 CS234 强化学习 2019（未完） | AI/DS | 笔记整理 | \- | \- | @飞龙 |
 
