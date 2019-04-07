@@ -206,3 +206,4 @@
 1.  [独立开发/自由职业/远程工作资源列表](https://github.com/apachecn/awesome-indie-zh)
 1.  [通往财富自由之路精细笔记](https://github.com/apachecn/the-way-to-wealth-freedom-notes)
 1.  [5 分钟商学院精细笔记](https://github.com/apachecn/5min-business-notes)
+1.  [斯坦福 CS183 系列中文笔记](https://github.com/apachecn/stanford-cs183-notes)
