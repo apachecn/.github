@@ -142,7 +142,7 @@
 
 1.  [NumPy 中文文档](https://github.com/apachecn/numpy-ref-zh)
 1.  [Pandas 中文文档](https://github.com/apachecn/pandas-doc-zh)
-1.  [Matplotlib 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh) |
+1.  [Matplotlib 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh)
 1.  [UCB Data8 课本：计算与推断思维](https://github.com/apachecn/data8-textbook-zh)
 1.  [UCB Prob140 课本：面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
 1.  [UCB DS100 课本：数据科学的原理与技巧](https://github.com/apachecn/ds100-textbook-zh)
