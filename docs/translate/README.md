@@ -152,6 +152,7 @@
 1.  [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
 1.  [数据科学 IPython 笔记本](https://github.com/apachecn/ds-ipynb-zh)
 1.  [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
+1.  [UCSD COGS108 数据科学实战中文笔记](https://github.com/apachecn/ucsd-cogs108-notes)
 
 ### CS 教程
 
