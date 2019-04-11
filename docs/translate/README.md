@@ -83,8 +83,8 @@
     +   [文字教程](https://github.com/apachecn/AiLearning)
     +   [教学版视频](https://space.bilibili.com/97678687/channel/detail?cid=22486)
     +   [讨论版视频](https://space.bilibili.com/97678687/channel/detail?cid=13045)
++   [Machine Learning Mastery 博客文章翻译](https://github.com/apachecn/ml-mastery-zh)
 +   [PyTorch 0.2/0.3/0.4/1.0 中文文档和教程](https://github.com/apachecn/pytorch-doc-zh)
-+   [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/apachecn/hands-on-ml-zh)
 +   人工智能/机器学习/数据科学比赛系列
     +   [Kaggle 项目实战教程：文档 + 代码 + 视频](https://github.com/apachecn/kaggle)
     +   [数据科学比赛收集平台](https://github.com/iphysresearch/DataSciComp)
@@ -172,7 +172,7 @@
     1.  [文字教程](https://github.com/apachecn/AiLearning)
     1.  [教学版视频](https://space.bilibili.com/97678687/channel/detail?cid=22486)
     1.  [讨论版视频](https://space.bilibili.com/97678687/channel/detail?cid=13045)
-1.  [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/apachecn/hands-on-ml-zh)
+1.  Sklearn 与 TensorFlow 机器学习实用指南（已下线，请自行搜索）
 1.  [面向机器学习的特征工程](https://github.com/apachecn/feature-engineering-for-ml-zh)
 1.  [Python 数据分析与挖掘实战（带注释源码）](https://github.com/apachecn/python_data_analysis_and_mining_action)
 1.  [SciPyCon 2018 Sklearn 教程](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh)
