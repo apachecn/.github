@@ -27,7 +27,7 @@
 * 自媒体平台
     * [微博：@ApacheCN](https://weibo.com/u/6326715527)
     * [知乎专栏：AILearning](https://zhuanlan.zhihu.com/apachecn-mlia)
-    * [公众号：ApacheCN](http://home.apachecn.org/img/about/gzh_qr.jpg)
+    * [公众号：ApacheCN](http://mp.weixin.qq.com/profile?src=3&timestamp=1555603878&ver=1&signature=DnD762y9bq02hGi9IzUAYmY0AfwPGvEK8H7DPS61628tqdCarIXroR901nmzpMpBIeJPkJTUiQgGZdXxrrr1wg==)
     * [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073) | [OSChina](https://my.oschina.net/repine/) | [博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html)
     * [简书](https://www.jianshu.com/c/4ee721d0c474) | [搜狐号](https://m.sohu.com/media/120101632) | [bilibili 专栏](https://space.bilibili.com/9169694/article)
 * **We are ApacheCN Open Source Organization, not ASF! We are fans of AI, and have no relationship with ASF!**
