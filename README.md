@@ -119,7 +119,7 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 ## **友情链接**
 
 +   [龙哥盟](https://flygon.net)
-+   [Datawhale](https://datawhale.club)
++   [Datawhale](http://mp.weixin.qq.com/profile?src=3&timestamp=1555603830&ver=1&signature=cZDYwdb8JG4U5uOtm6PxaXT8r1BWb9VyLJn9VIiyy7k3JECXXRyghrUyGseVmZhN*phhTBFLyOACCt-TJZW8Cw==)
 +   [Data Science Challenge / Competition](https://iphysresearch.github.io/DataSciComp/)
 +   [lzhpo](http://www.liuzhaopo.top)
 +   [Jaybo](https://strivebo.com)
