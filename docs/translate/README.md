@@ -69,7 +69,6 @@
 | [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh)（未完） | AI/DS | 翻译 | IPYNB | \- | @飞龙 |
 | [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | CS | 翻译 | MD | \- | @飞龙 |
 | [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | LaTeX | \- | @飞龙 |
-| [Impatient JavaScript](http://exploringjs.com/impatient-js/toc.html)（未完） | 编程 | 翻译 | HTML | \- | @飞龙 |
 | 斯坦福 CS224n 自然语言处理 2019（未完） | AI/DS | 笔记整理 | \- | \- | @飞龙 |
 | UCB CS294-158 深度无监督学习 2019（未完） | AI/DS | 笔记整理 | \- | \- | @飞龙 |
 | 斯坦福 CS234 强化学习 2019（未完） | AI/DS | 笔记整理 | \- | \- | @飞龙 |
