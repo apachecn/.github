@@ -48,14 +48,16 @@
 
 | 模块             | 负责人                       | 相关描述 |
 | --- | --- | --- |
-| 学习活动         | 片刻、Datawhale              |           |
-| AI 比赛          | 飞龙、咸鱼                   |           |
-| 翻译             | 飞龙、袁逸凡                 |           |
+| 学习活动         | Datawhale                    |           |
+| 翻译活动         | 飞龙、袁逸凡                 |           |
+| AI 比赛          | 片刻、飞龙                   |           |
 | LeetCode         | Lisanaaa、达尔               |           |
 | 社群运营         | 片刻、荼蘼                   |           |
-| 推广、合作       | 飞龙、咸鱼、小瑶             |           |
-| 网站开发         | 算子、兔兔                   |           |
-| 咨询             | ???                          |           |
+| 媒体运营         | 飞龙、咸鱼、小瑶             |           |
+| 对外合作         | 咸鱼                         |           |
+| 网站开发         | 算子、兔兔（等）             |           |
+| 求职咨询         | 片刻                         |           |
+| 资料库搭建       | ???                          |           |
 
 ## **组织活动**
 
@@ -119,7 +121,7 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 ## **友情链接**
 
 +   [龙哥盟](https://flygon.net)
-+   [Datawhale](http://mp.weixin.qq.com/profile?src=3&timestamp=1555603830&ver=1&signature=cZDYwdb8JG4U5uOtm6PxaXT8r1BWb9VyLJn9VIiyy7k3JECXXRyghrUyGseVmZhN*phhTBFLyOACCt-TJZW8Cw==)
++   [Datawhale](https://blog.csdn.net/Datawhale)
 +   [Data Science Challenge / Competition](https://iphysresearch.github.io/DataSciComp/)
 +   [lzhpo](http://www.liuzhaopo.top)
 +   [Jaybo](https://strivebo.com)
