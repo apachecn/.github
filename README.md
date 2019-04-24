@@ -15,7 +15,7 @@
 
 ## **组织介绍**
 
-> 我们是一个大型开源社区，旗下 QQ 群共 9000 余人，Github Star 数量超过 20k 个，在所有 Github 组织中[排名前 200](https://gitstar-ranking.com/apachecn)，网站日 uip 超过 4k，拥有 CSDN 博客专家和简书程序员优秀作者认证。我们组织公益性的翻译活动、学习活动和比赛组队活动，并和 DataWhale、LinuxStory 等国内著名开源组织保持良好的合作关系。
+> 我们是一个大型开源社区，旗下 QQ 群共 9000 余人，订阅用户至少一万人。Github Star 数量超过 20k 个，在所有 Github 组织中[排名前 200](https://gitstar-ranking.com/apachecn)。网站日 uip 超过 4k，[Alexa 排名的峰值为 20k](https://www.alexa.com/siteinfo/apachecn.org)。我们的核心成员拥有[ CSDN 博客专家](https://blog.csdn.net/wizardforcel)和[简书程序员优秀作者](https://www.jianshu.com/u/b508a6aa98eb)认证。我们与 [Datawhale](https://weixin.sogou.com/weixin?query=datawhale)、[AI 有道](https://weixin.sogou.com/weixin?query=redstonewill)、[黄海广博士](https://www.zhihu.com/people/fengdu78)等国内知名开源组织和大 V 合作，组织公益性的翻译活动、学习活动和比赛组队活动。
 > 
 > 与商业组织不同，我们并不会追逐热点，或者唯利是图。作为公益组织，我们将完成项目放在首要位置，并有足够时间把项目打磨到极致。我们希望做出广大 AI 爱好者真正需要的东西，打造真正有价值的长尾作品。
 
@@ -27,7 +27,7 @@
 * 自媒体平台
     * [微博：@ApacheCN](https://weibo.com/u/6326715527)
     * [知乎专栏：AILearning](https://zhuanlan.zhihu.com/apachecn-mlia)
-    * [公众号：ApacheCN](http://mp.weixin.qq.com/profile?src=3&timestamp=1555603878&ver=1&signature=DnD762y9bq02hGi9IzUAYmY0AfwPGvEK8H7DPS61628tqdCarIXroR901nmzpMpBIeJPkJTUiQgGZdXxrrr1wg==)
+    * [公众号：ApacheCN](https://weixin.sogou.com/weixin?query=ApacheCN)
     * [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073) | [OSChina](https://my.oschina.net/repine/) | [博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html)
     * [简书](https://www.jianshu.com/c/4ee721d0c474) | [搜狐号](https://m.sohu.com/media/120101632) | [bilibili 专栏](https://space.bilibili.com/9169694/article)
 * **We are ApacheCN Open Source Organization, not ASF! We are fans of AI, and have no relationship with ASF!**
@@ -121,7 +121,7 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 ## **友情链接**
 
 +   [龙哥盟](https://flygon.net)
-+   [Datawhale](https://blog.csdn.net/Datawhale)
++   [Datawhale](https://weixin.sogou.com/weixin?query=datawhale)
 +   [Data Science Challenge / Competition](https://iphysresearch.github.io/DataSciComp/)
 +   [lzhpo](http://www.liuzhaopo.top)
 +   [Jaybo](https://strivebo.com)
