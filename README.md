@@ -5,6 +5,7 @@
 
 ## **公告**
 
+1.  我们组织了一个开源互助平台，方便开源组织领导者互相认识，互相帮助，整合资源。请发邮件到 <apachecn@163.org> 并注明组织信息来申请加入。
 1.  我们需要人手来制作组织的展示页面，以及维护公众号。权利分配**灵活**，能者居之！如果你有兴趣参与，请联系片刻（QQ 529815144）。
 1.  所有翻译计划将于近期全部完成，最后一轮翻译活动将在五月启动。请大家参与已有活动，[或向我们建议新的翻译项目](http://bbs.apachecn.org/thread-77.htm)。当然我们也会探索新的内容创作方式。
 1.  我们近期有制作 Kaggle 教学视频的计划。CS224n 2019 版笔记等到中文字幕翻译完毕后再整理。
@@ -91,7 +92,6 @@
 
 | 时间 | 群名称  | 群号  | 群人数  |
 | ------------ | ------------ | ------------ | ------------ |
-| 2019-3-1 | 开源互助联盟 | <a target="_blank" href="https://www.wjx.top/m/35404877.aspx" target="_blank" rel="noopener">申请加入</a> | - |
 | 2018-11-21 | 量化分析 | <a target="_blank" href="https://jq.qq.com/?_wv=1027&k=5zZh6MK" target="_blank" rel="noopener">91380460</a> | 500 |
 | 2018-10-16 | 深度学习 | <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=8105fc3899b7e5e755988b7825a121d2115ce453d57a6561aa08d90a7b546401" target="_blank" rel="noopener">780658835</a> | 1000 |
 | 2018-06-26 | LeetCode 刷题 | <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=fb51367d7878250980024da7f1bdca8d4dab15e6c9864dba29aff27a407f4436" target="_blank" rel="noopener">812791932</a> | 1000 |
