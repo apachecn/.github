@@ -60,11 +60,15 @@
 
 | 名称 | 领域 | 类型 | 格式 | 优先级 | 提议人 |
 | --- | --- | --- | --- | --- | --- |
-| [Numba 文档](http://numba.pydata.org/numba-doc/latest/) | 编程 | 翻译 | RST | 0 | @飞龙  |
-| [Cython 文档](http://docs.cython.org/en/latest/) | 编程 | 翻译 | RST | 0 | @飞龙  |
+| [百页机器学习](http://themlbook.com/wiki/doku.php) | AI/DS | 翻译 | HTML | 1 | ???  |
+| [ImpatientJS](https://exploringjs.com/impatient-js/index.html) | 编程 | 翻译 | HTML | 1 | @飞龙  |
+| [UIUC CS241 众包系统编程](https://github.com/angrave/SystemProgramming/wiki) | CS | 翻译 | HTML | 1 | @飞龙  |
+| [MIT 18.03 写给新手的微积分](http://math.mit.edu/~djk/calculus_beginners/) | 数学 | 翻译 | HTML | 0 | @飞龙 |
+| [Numba 文档](http://numba.pydata.org/numba-doc/latest/) | 编程 | 翻译 | RST | -1 | @飞龙  |
+| [Cython 文档](http://docs.cython.org/en/latest/) | 编程 | 翻译 | RST | -1 | @飞龙  |
 | [pymc3 文档](https://docs.pymc.io/) | AI/DS | 翻译 | RST | -1 | @shouldsee |
-| [MongoDB 文档](https://docs.mongodb.com/) | ?? | 翻译 | HTML | -1 | @飞龙 |
-| 斯坦福博弈论 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
+| [MongoDB 文档](https://docs.mongodb.com/) | ?? | 翻译 | HTML | -2 | @飞龙 |
+| 斯坦福博弈论 | AI/DS | 笔记整理 | \- | -2 | @飞龙 |
 | [PySide2 API 参考](https://doc.qt.io/qtforpython/) | 编程 | 翻译 | HTML | -2 | ??? |
 | [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh)（未完） | AI/DS | 翻译 | IPYNB | \- | @飞龙 |
 | [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | CS | 翻译 | MD | \- | @飞龙 |
