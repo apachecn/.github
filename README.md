@@ -24,13 +24,11 @@
 * 【归档】[home.apachecn.org](http://home.apachecn.org)
 * 【社区】[bbs.apachecn.org](http://bbs.apachecn.org/)
 * 【Github】[@ApacheCN](https://github.com/apachecn)
-* 【知识星球】[ApacheCN AILearning](https://t.zsxq.com/BI6EmIm)
 * 自媒体平台
     * [微博：@ApacheCN](https://weibo.com/u/6326715527)
     * [知乎专栏：AILearning](https://zhuanlan.zhihu.com/apachecn-mlia)
     * [公众号：ApacheCN](https://weixin.sogou.com/weixin?query=ApacheCN)
-    * [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073) | [OSChina](https://my.oschina.net/repine/) | [博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html)
-    * [简书](https://www.jianshu.com/c/4ee721d0c474) | [搜狐号](https://m.sohu.com/media/120101632) | [bilibili 专栏](https://space.bilibili.com/9169694/article)
+    * [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073) | [博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html) | [简书](https://www.jianshu.com/c/4ee721d0c474) | [bilibili](http://space.bilibili.com/97678687)
 * **We are ApacheCN Open Source Organization, not ASF! We are fans of AI, and have no relationship with ASF!**
 * 合作 or 侵权，请联系 <apachecn@163.com> | 请抄送一份到 <wizard.z@foxmail.com>
 
