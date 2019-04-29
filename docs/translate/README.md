@@ -44,10 +44,6 @@
     
     在 [issues](https://github.com/apachecn/statsmodels_doc_zh/issues/1) 中领取任务
 
-1.  【点击参与】[Airflow 中文文档（校对）](https://github.com/apachecn/airflow-doc-zh)
-    
-    在 [issues](https://github.com/apachecn/airflow-doc-zh/issues/1) 中领取任务
-
 1.  【点击参与】[UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
     
     在 [issues](https://github.com/apachecn/cs61b-textbook-zh/issues/1) 中领取任务
