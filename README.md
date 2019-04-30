@@ -96,8 +96,6 @@
 | 2017-09-01 | 机器学习 | <a href="//shang.qq.com/wpa/qunwpa?idkey=bcee938030cc9e1552deb3bd9617bbbf62d3ec1647e4b60d9cd6b6e8f78ddc03" target="_blank" rel="noopener">629470233</a> | 5000 |
 | 2014-04-12 | 大数据-1(满) | <a href="//shang.qq.com/wpa/qunwpa?idkey=952c3066344564ac53131f7e101948b0b5e5814390fa24bbfa69e76ff915beb7" target="_blank" rel="noopener">214293307</a> | 2000 |
 
-Github 组织账号只允许贡献者加入。
-
 组织口号: <strong><span style="color: #ff0000;">不装逼的朋友，我们都不想认识 。。。</span></strong>
 
 ## **协议**
