@@ -20,6 +20,10 @@
 
 > **更新时间: 2019-02-16[项目从近到远]**
 
+1.  【点击参与】[Impatient JavaScript 中文版（校对）](https://github.com/apachecn/impatient-js-zh) 
+    
+    在 [issues](https://github.com/apachecn/impatient-js-zh/issues/1) 中领取任务
+
 1.  【点击参与】[Git 中文参考（校对）](https://github.com/apachecn/git-doc-zh) 
     
     在 [issues](https://github.com/apachecn/git-doc-zh/issues/1) 中领取任务
@@ -57,7 +61,6 @@
 | 名称 | 领域 | 类型 | 格式 | 优先级 | 提议人 |
 | --- | --- | --- | --- | --- | --- |
 | [百页机器学习](http://themlbook.com/wiki/doku.php) | AI/DS | 翻译 | HTML | 1 | ???  |
-| [ImpatientJS](https://exploringjs.com/impatient-js/index.html) | 编程 | 翻译 | HTML | 1 | @飞龙  |
 | [UIUC CS241 众包系统编程](https://github.com/angrave/SystemProgramming/wiki) | CS | 翻译 | HTML | 1 | @飞龙  |
 | [MIT 18.03 写给新手的微积分](http://math.mit.edu/~djk/calculus_beginners/) | 数学 | 翻译 | HTML | 0 | @飞龙 |
 | [Numba 文档](http://numba.pydata.org/numba-doc/latest/) | 编程 | 翻译 | RST | -1 | @飞龙  |
