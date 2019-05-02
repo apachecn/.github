@@ -1,5 +1,5 @@
-# <center>关于我们</center>
-<center>ApacheCN 这个组织的起源</center>
+<h1 align="center">关于我们</h1>
+<p align="center">ApacheCN 这个组织的起源</p>
 
 ---
 

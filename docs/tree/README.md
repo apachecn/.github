@@ -1,6 +1,6 @@
-# <center>知识树</center>
+<h1 align="center">知识树</h1>
 
-<center>探索世界的梯度</center>
+<p align="center">探索世界的梯度</p>
 
 +   版本：v0.1
 +   最后更新：2019.1.14

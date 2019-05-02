@@ -1,5 +1,5 @@
-# <center>自学学院</center>
-<center>关于技术前言的各类干货书籍的学习活动</center>
+<h1 align="center">自学学院</h1>
+<p align="center">关于技术前言的各类干货书籍的学习活动</p>
 
 ---
 

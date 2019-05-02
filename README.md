@@ -1,5 +1,5 @@
-<center><h1>ApacheCN 中文开源组织</h1>
-<p>看看我们的帽子，你就知道这是知识的力量。</p></center>
+<h1 align="center">ApacheCN 中文开源组织</h1>
+<p align="center">看看我们的帽子，你就知道这是知识的力量。</p>
 
 ---
 

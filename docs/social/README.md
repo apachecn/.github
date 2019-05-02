@@ -1,5 +1,5 @@
-# <center>社交活动</center>
-<center>认识你, 只为了更好的装个逼！</center>
+<h1 align="center">社交活动</h1>
+<p align="center">认识你, 只为了更好的装个逼！</p>
 
 ---
 

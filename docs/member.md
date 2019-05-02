@@ -1,5 +1,5 @@
-# <center>组织成员</center>
-<center>你不主动，哪来的故事</center>
+<h1 align="center">组织成员</h1>
+<p align="center">你不主动，哪来的故事</p>
 
 ---
 

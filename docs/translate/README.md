@@ -1,6 +1,6 @@
-# <center>翻译</center>
+<h1 align="center">翻译</h1>
 
-<center>集中力量办大事</center>
+<p align="center">集中力量办大事</p>
 
 ---
 

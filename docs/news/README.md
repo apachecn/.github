@@ -1,5 +1,5 @@
-# <center>【推荐】独立思考的热门事件</center>
-<center>愿我们对世界多一点的了解</center>
+<h1 align="center">【推荐】独立思考的热门事件</h1>
+<p align="center">愿我们对世界多一点的了解</p>
 
 ---
 

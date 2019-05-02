@@ -1,6 +1,6 @@
-# <center>学习咨询</center>
+<h1 align="center">学习咨询</h1>
 
-<center>最直接的学习方式送给最需要的你</center>
+<p align="center">最直接的学习方式送给最需要的你</p>
 
 ---
 

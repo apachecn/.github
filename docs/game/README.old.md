@@ -1,6 +1,6 @@
-# <center>比赛</center>
+<h1 align="center">比赛</h1>
 
-<center>你已经抓住了石头，现在是挥舞它的时候了！</center>
+<p align="center">你已经抓住了石头，现在是挥舞它的时候了！</p>
 
 ---
 
