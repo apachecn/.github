@@ -109,10 +109,13 @@
     +   [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
 
 ### 编程语言
+
 1.  Java
     1.  [Java 编程思想](https://github.com/apachecn/thinking-in-java-zh)
     2.  [Java 从0～1个人笔记](https://javaee.strivebo.com)
     3.  [Java8 中文官方教程](https://github.com/apachecn/java8-tut-zh)
+1.  JavaScript
+    1.  [写给不耐烦程序员的 JavaScript](https://github.com/apachecn/impatient-js-zh)
 
 ### 后端/大数据
 
