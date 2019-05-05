@@ -92,8 +92,9 @@
     +   [Kaggle 项目实战教程：文档 + 代码 + 视频](https://github.com/apachecn/kaggle)
     +   [数据科学比赛收集平台](https://github.com/iphysresearch/DataSciComp)
 +   [LeetCode，HackRank，剑指 offer，经典算法实现](https://github.com/apachecn/LeetCode)
-+   [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI)
-+   [司镜的数据结构课程（持续更新）](https://www.bilibili.com/video/av41164819)
++   斯坦福 AI 系列笔记
+    +   [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
+    +   [DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
 +   UCB CS/DS 系列课本
     +   [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh)
     +   [UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
@@ -107,6 +108,8 @@
     +   [Sklearn 0.19 中文文档](https://github.com/apachecn/scikit-learn-doc-zh)
     +   [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
     +   [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
++   [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI)
++   [司镜的数据结构课程（持续更新）](https://www.bilibili.com/video/av41164819)
 
 ### 编程语言
 
@@ -192,6 +195,8 @@
 1.  [数据科学和人工智能技术笔记](https://github.com/apachecn/ds-ai-tech-notes)
 1.  [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI)
 1.  [Machine Learning Mastery 博客文章翻译](https://github.com/apachecn/ml-mastery-zh)
+1.  [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
+1.  [DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
 
 ### AI 文档
 
