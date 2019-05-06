@@ -7,7 +7,7 @@
 
 1.  我们组织了一个开源互助平台，方便开源组织和大 V 互相认识，互相帮助，整合资源。请回复[这个帖子](http://bbs.apachecn.org/thread-82.htm)并注明组织/个人信息来申请加入。
 1.  如果大家遇到了做得不错的教程或翻译项目，请回复[这个帖子](http://bbs.apachecn.org/thread-83.htm)推荐给我们。我们会联系项目的维护者，一起把它变得更好。
-1.  我们的[公众号](/img/about/gzh_qr.jpg)接受大家的投稿。将文章链接通过消息发给公众号，我们会和你联系。
+1.  我们的[公众号](/img/about/apachecn_qr.jpg)接受大家的投稿。将文章链接通过消息发给公众号，我们会和你联系。
 1.  请大家回复[这个帖子](http://bbs.apachecn.org/thread-77.htm)来推荐希望翻译的内容。
 1.  我们近期有制作 Kaggle 教学视频的计划，如果你有兴趣参与，请联系片刻（QQ 529815144）。CS224n 2019 版笔记等到中文字幕翻译完毕后再整理。
 1.  为了能够将开源事业做大做强，[ApacheCN 需要与公益基金会（IT、教育类）合作](https://www.zhihu.com/question/318287335)，欢迎大家提供帮助。
@@ -27,7 +27,7 @@
 * 自媒体平台
     * [微博：@ApacheCN](https://weibo.com/u/6326715527)
     * [知乎专栏：AILearning](https://zhuanlan.zhihu.com/apachecn-mlia)
-    * [公众号：ApacheCN](/img/about/gzh_qr.jpg)
+    * [公众号：ApacheCN](/img/about/apachecn_qr.jpg)
     * [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073) | [博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html) | [简书](https://www.jianshu.com/c/4ee721d0c474) | [bilibili](http://space.bilibili.com/97678687)
 * **We are ApacheCN Open Source Organization, not ASF! We are fans of AI, and have no relationship with ASF!**
 * 合作 or 侵权，请联系 <apachecn@163.com> | 请抄送一份到 <wizard.z@foxmail.com>
