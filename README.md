@@ -1,5 +1,5 @@
 <h1 align="center">ApacheCN 中文开源组织</h1>
-<p align="center">看看我们的帽子，你就知道这是知识的力量。</p>
+<p align="center">可能是东半球最大的 AI 社区</p>
 
 ---
 
