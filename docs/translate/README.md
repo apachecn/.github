@@ -162,6 +162,7 @@
 1.  [数据科学 IPython 笔记本](https://github.com/apachecn/ds-ipynb-zh)
 1.  [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
 1.  [UCSD COGS108 数据科学实战中文笔记](https://github.com/apachecn/ucsd-cogs108-notes)
+1.  [USF MSDS501 计算数据科学中文讲义](https://github.com/apachecn/usf-msds501-notes-zh)
 
 ### CS 教程
 
