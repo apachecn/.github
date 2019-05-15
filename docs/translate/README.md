@@ -152,20 +152,24 @@
 
 1.  [MIT 18.06 线性代数笔记](https://github.com/apachecn/math)
 
-### Python 数据科学
+### 数据科学文档
 
 1.  [NumPy 中文文档](https://github.com/apachecn/numpy-ref-zh)
 1.  [Pandas 中文文档](https://github.com/apachecn/pandas-doc-zh)
 1.  [Matplotlib 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh)
+1.  [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
+1.  [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
+
+### 数据科学教程
+
 1.  [UCB Data8 课本：计算与推断思维](https://github.com/apachecn/data8-textbook-zh)
 1.  [UCB Prob140 课本：面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
 1.  [UCB DS100 课本：数据科学的原理与技巧](https://github.com/apachecn/ds100-textbook-zh)
+1.  [TutorialsPoint NumPy 教程](https://github.com/apachecn/misc-docs-zh/blob/master/docs/tutorialspoint-numpy.md)
 1.  [利用 Python 进行数据分析 · 第 2 版](https://github.com/apachecn/pyda-2e-zh)
 1.  [fast.ai 数值线性代数讲义 v2](https://github.com/apachecn/fastai-num-linalg-v2-zh)
 1.  [Pandas Cookbook 带注释源码](https://github.com/apachecn/pandas-cookbook-code-notes)
-1.  [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
 1.  [数据科学 IPython 笔记本](https://github.com/apachecn/ds-ipynb-zh)
-1.  [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
 1.  [UCSD COGS108 数据科学实战中文笔记](https://github.com/apachecn/ucsd-cogs108-notes)
 1.  [USF MSDS501 计算数据科学中文讲义](https://github.com/apachecn/usf-msds501-notes-zh)
 
@@ -189,20 +193,27 @@
     1.  [讨论版视频](https://space.bilibili.com/97678687/channel/detail?cid=13045)
 1.  [AI 路线图（知识树）](https://github.com/apachecn/ai-roadmap)
 1.  Sklearn 与 TensorFlow 机器学习实用指南（已下线，请自行搜索）
+1.  [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
+1.  [DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
+1.  [台湾大学林轩田机器学习笔记](https://github.com/apachecn/ntu-hsuantienlin-ml)
+1.  [Scikit-learn 秘籍](https://github.com/apachecn/sklearn-cookbook-zh)
+1.  [PythonProgramming.net 教程翻译](https://github.com/apachecn/misc-docs-zh/blob/master/docs/python-programming-net)
+1.  [写给人类的机器学习](https://github.com/apachecn/ml-for-humans-zh)
 1.  [面向机器学习的特征工程](https://github.com/apachecn/feature-engineering-for-ml-zh)
 1.  [Python 数据分析与挖掘实战（带注释源码）](https://github.com/apachecn/python_data_analysis_and_mining_action)
+1.  [与 TensorFlow 的初次接触](https://github.com/apachecn/misc-docs-zh/blob/master/docs/first_contact_with_tensorFlow)
+1.  [TensorFlow Eager 教程](https://github.com/apachecn/misc-docs-zh/blob/master/docs/tf-eager-tut)
+1.  [图嵌入综述（Arxiv 1709.07604）](https://github.com/apachecn/misc-docs-zh/blob/master/docs/ge-survey-arxiv-1709-07604-zh)
+1.  [基于深度学习的推荐系统：综述和新视角](https://github.com/apachecn/misc-docs-zh/blob/master/docs/rs-survey-arxiv-1707-07435-zh)
 1.  [SciPyCon 2018 Sklearn 教程](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh)
 1.  [TensorFlow 学习指南](https://github.com/apachecn/learning-tf-zh)
 1.  [fast.ai 机器学习和深度学习中文笔记](https://github.com/apachecn/fastai-ml-dl-notes-zh)
 1.  [HackCV 网站文章翻译](https://github.com/apachecn/HackCV-Translate)
-1.  [台湾大学林轩田机器学习笔记](https://github.com/apachecn/ntu-hsuantienlin-ml)
-1.  [Scikit-learn 秘籍](https://github.com/apachecn/sklearn-cookbook-zh)
-1.  [写给人类的机器学习](https://github.com/apachecn/ml-for-humans-zh)
 1.  [数据科学和人工智能技术笔记](https://github.com/apachecn/ds-ai-tech-notes)
 1.  [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI)
+1.  [Sklearn 学习指南](https://github.com/apachecn/misc-docs-zh/blob/master/docs/learning-sklearn)
 1.  [Machine Learning Mastery 博客文章翻译](https://github.com/apachecn/ml-mastery-zh)
-1.  [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
-1.  [DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
+1.  [关于卷积神经网络我们理解了什么](https://github.com/apachecn/misc-docs-zh/blob/master/docs/what-do-we-understand-about-convnet)
 
 ### AI 文档
 
