@@ -1,5 +1,5 @@
-# <center>组织成员</center>
-<center>你不主动，哪来的故事</center>
+<h1 align="center">组织成员</h1>
+<p align="center">你不主动，哪来的故事</p>
 
 ---
 
@@ -27,6 +27,7 @@
 * [@荼靡](https://github.com/mixiaole1)
 * [@临江仙卜算子](https://github.com/yZhenyuanLiu)
 * [@怎么可以吃兔兔](https://github.com/chenypo)
+* [@瑶妹](https://github.com/chenyyx)
 
 -- 期待大家再次回归，一起来把组织委员会做好做大
 

@@ -1,5 +1,5 @@
-# <center>免费资源</center>
-<center>感谢组织各位的贡献</center>
+<h1 align="center">免费资源</h1>
+<p align="center">感谢组织各位的贡献</p>
 
 ---
 

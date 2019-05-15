@@ -1,5 +1,4 @@
 site_name: ApacheCN
-site_url: http://www.apachecn.org
 site_description: ApacheCN 专注于优秀项目维护的开源组织
 site_author: ApacheCN Team
 site_keywords: 数据科学,数据分析,机器学习,人工智能,深度学习,推荐系统,NLP,CV,回归,分类,聚类,降维,朴素贝叶斯,决策树,SVM,KMeans,PCA,SVD,Logistic,DNN,CNN,LSTM,RNN,GAN,自编码器,sklearn,scikit-learn,TensorFlow,PyTorch,Python,NumPy,Matplotlib,Pandas
@@ -8,15 +7,13 @@ repo_url: https://github.com/apachecn/home
 repo_name: GitHub
 
 nav:
-- 知识树: tree/README.md
+- 知识树: https://github.com/apachecn/ai-roadmap/tree/master/ai-union-201904
 - 翻译: translate/README.md
-- 读书: read/README.md
+- 学习: http://url.cn/5P7UcMt
 - 比赛: game/README.md
 - 咨询: map/README.md
 - 捐赠: donate/README.md
 - 更多:
-    - 热点: news/README.md
-    - 免费: free/README.md
     - 远程: https://github.com/apachecn/awesome-indie-zh
     - 电子书: https://it-ebooks.flygon.net
 - 组织:

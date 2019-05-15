@@ -1,92 +1,89 @@
-# <center>ApacheCN 中文开源组织</center>
-<center>代码: 让学习变得更简单</center>
+<h1 align="center">ApacheCN 中文开源组织</h1>
+<p align="center">可能是东半球最大的 AI 社区</p>
 
 ---
 
+## **公告**
+
+1.  我们组织了一个开源互助平台，方便开源组织和大 V 互相认识，互相帮助，整合资源。请回复[这个帖子](http://bbs.apachecn.org/thread-82.htm)并注明组织/个人信息来申请加入。
+1.  如果大家遇到了做得不错的教程或翻译项目，请回复[这个帖子](http://bbs.apachecn.org/thread-83.htm)推荐给我们。我们会联系项目的维护者，一起把它变得更好。
+1.  我们的[公众号](/img/about/apachecn_qr.jpg)接受大家的投稿。将文章链接通过消息发给公众号，我们会和你联系。
+1.  请大家回复[这个帖子](http://bbs.apachecn.org/thread-77.htm)来推荐希望翻译的内容。
+1.  我们近期有制作 Kaggle 教学视频的计划，如果你有兴趣参与，请联系片刻（QQ 529815144）。CS224n 2019 版笔记等到中文字幕翻译完毕后再整理。
+1.  为了能够将开源事业做大做强，[ApacheCN 需要与公益基金会（IT、教育类）合作](https://www.zhihu.com/question/318287335)，欢迎大家提供帮助。
+1.  开源不是一个人的事情，我们的各个模块（请见[组织架构](#_4)）都需要人手来维护。如果你有兴趣参与，请联系片刻（QQ 529815144）。权限分配灵活，能者居之。
+
+
 ## **组织介绍**
 
-* 【主页】 [apachecn.org](http://www.apachecn.org)
+> 我们是一个大型开源社区，旗下 QQ 群共 9000 余人，订阅用户至少一万人。Github Star 数量超过 20k 个，在所有 Github 组织中[排名前 200](https://gitstar-ranking.com/apachecn)。网站日 uip 超过 4k，[Alexa 排名的峰值为 20k](https://www.alexa.com/siteinfo/apachecn.org)。我们的核心成员拥有[ CSDN 博客专家](https://blog.csdn.net/wizardforcel)和[简书程序员优秀作者](https://www.jianshu.com/u/b508a6aa98eb)认证。我们与 [Datawhale](/img/about/datawhale_qr.jpg)、[AI 有道](/img/about/redstone_qr.jpg)、[黄海广博士](/img/about/huanghaiguang_qr.jpg)等国内知名开源组织和大 V 合作，组织公益性的翻译活动、学习活动和比赛组队活动。
+> 
+> 与商业组织不同，我们并不会追逐热点，或者唯利是图。作为公益组织，我们将完成项目放在首要位置，并有足够时间把项目打磨到极致。我们希望做出广大 AI 爱好者真正需要的东西，打造真正有价值的长尾作品。
+
+* 【导航】[ibooker.org.cn](http://www.ibooker.org.cn/)
+* 【归档】[home.apachecn.org](http://home.apachecn.org)
+* 【社区】[bbs.apachecn.org](http://bbs.apachecn.org/)
 * 【Github】[@ApacheCN](https://github.com/apachecn)
-* 暂时下线: [社区](community.apachecn.org)
-* 暂时下线: [cwiki 知识库](http://cwiki.apachecn.org)
 * 自媒体平台
     * [微博：@ApacheCN](https://weibo.com/u/6326715527)
-    * [知乎：@ApacheCN](https://www.zhihu.com/people/apachecn)
-    * [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073)
-    * [简书](https://www.jianshu.com/c/4ee721d0c474)
-    * [OSChina](https://my.oschina.net/repine/)
-    * [博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html)
-* **我们不是 Apache 的官方组织/机构/团体，只是 Apache 技术栈（以及 AI）的爱好者！**
-* 合作or侵权，请联系【fonttian】<fonttian@gmail.com> | 请抄送一份到 <apachecn@163.com>
+    * [知乎专栏：AILearning](https://zhuanlan.zhihu.com/apachecn-mlia)
+    * [公众号：ApacheCN](/img/about/apachecn_qr.jpg)
+    * [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073) | [博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html) | [简书](https://www.jianshu.com/c/4ee721d0c474) | [bilibili](http://space.bilibili.com/97678687)
+* **We are ApacheCN Open Source Organization, not ASF! We are fans of AI, and have no relationship with ASF!**
+* 合作 or 侵权，请联系 <apachecn@163.com> | 请抄送一份到 <wizard.z@foxmail.com>
 
-## **组织资源**
+## **学习资源**
 
-【AI资源: Python、大数据、数据分析、机器学习、Kaggle比赛、数学、区块链】: <http://www.apachecn.org/translate>
++   [编程语言](http://home.apachecn.org/translate)
++   [后端/大数据](http://home.apachecn.org/translate)
++   [区块链](http://home.apachecn.org/translate)
++   [Python 数据科学](http://home.apachecn.org/translate)
++   [CS 教程](http://home.apachecn.org/translate)
++   [AI 教程](http://home.apachecn.org/translate)
++   [AI 文档](http://home.apachecn.org/translate)
++   [AI 比赛](http://home.apachecn.org/translate)
 
-## [**自学学院**](docs/read)
+## **组织架构**
 
-```
-谈不起高大上，也不太喜欢在这事情上包装和装逼。
-因为学习这东西假不得、它越实在、那么它就离你越近。
-
-发起这个活动的原因:
-1. 看到国外的一个项目: https://www.sohu.com/a/193553236_820729
-2. 对于我个人职业发展而言，没方向是多么痛苦的事情。
-3. 对于我个人自学而言，一个人的确坚持非常困难！
-4. 5年来，无时无刻不再思考、如果更好的学习，现在想和你们一起来提升。
-
-如果你还不会学习，没事我们带你，
-如果你还不知道方向，没事我们专门找人帮你分析。
-如果你一个人坚持不下去，没事我们会有相同的人相互刺激和伤害。
-让我们一起营造一个无需别人认可的自学学院吧，和一群志同道合的人一起学自己喜欢的方向。
-```
+| 模块             | 负责人                       | 相关描述 |
+| --- | --- | --- |
+| 学习活动         | Datawhale                    |           |
+| 翻译活动         | 飞龙、袁逸凡                 |           |
+| AI 比赛          | 片刻、飞龙                   |           |
+| LeetCode         | Lisanaaa、达尔               |           |
+| 社群运营         | 片刻、荼蘼                   |           |
+| 媒体运营         | 飞龙、咸鱼、小瑶             |           |
+| 对外合作         | 咸鱼、飞龙、田丰             |           |
+| 网站开发         | 算子、兔兔（等）             |           |
+| 求职咨询         | 片刻                         |           |
 
 ## **组织活动**
 
-### 模块划分
+### 翻译活动征集
 
-| 模块 | 负责人 | 相关描述 |
-| --- | --- | --- |
-| 读书会、学习活动 | 片刻、瑶妹、Bigjing       | |
-| Kaggle、翻译   | 飞龙                     | |
-| LeetCode      | Lisanaaa、小白二号        | |
-| 媒体渠道推广    | 飞龙、伪文艺              | |
-| 网站开发       | 临江仙卜算子、怎么可以吃兔兔 | |
-| 咨询 | ??? | |
+[请回复这个帖子](http://bbs.apachecn.org/thread-77.htm)
 
-### 招贤纳士
+### 比赛活动
 
-* --> 困扰已久的域名问题（征集域名）
-* --> 征集网站设计人员（设计网站整体布局和未来）
-* --> 踊跃号召敢兴趣参与项目维护的负责人（各个学习领域）
-* --> 欢迎做实事的人参与到组织建设中来（开源不是一个人的事，一起来做对开源有价值的社区吧！）
-* 联系方式 QQ: 529815144 （权利分配**灵活**：能者居之！欢迎你们的到来）
+[【点击参与】ApacheCN × FlyAI 人工智能比赛活动](http://home.apachecn.org/game/)
 
-### [书籍征集和翻译](docs/translate)
+### 学习活动
 
-【请在此留言】: <http://www.apachecn.org/translate>
+[【点击参与】DataWhale 新学期组队学习计划](http://url.cn/5P7UcMt)
 
-### [学习活动](docs/read)
+### 公益捐赠
 
-【请在此留言】: <http://www.apachecn.org/read>
+* [【点击参与】公益捐赠](http://home.apachecn.org/donate)
+* [【点击参与】图书捐赠](http://home.apachecn.org/donate/1-book)
 
-### [公益捐赠](docs/donate)
-
-* 【公益捐赠】: <http://www.apachecn.org/donate>
-* 【图书捐赠】: <http://www.apachecn.org/donate/1-book>
-
-### [学习咨询和定制](docs/map)
+### 学习咨询和定制
 
 * **接受各种环材化生转行咨询, 让你的青春不迷茫**
-* 【学习咨询和定制】: <http://www.apachecn.org/map>
+* [【点击参与】学习咨询和定制](http://home.apachecn.org/map)
 
-### [社交活动（结束）](docs/social)
+### 社交活动
 
-* 【点击参与】[北京2期: 线下一日游](docs/social/beijing-2.md)
-
-## **社交需求**
-
-【社交需求】: <http://www.apachecn.org/social>
+[【点击参与】社交活动](http://home.apachecn.org/social)
 
 ## **交流方式**
 
@@ -100,8 +97,6 @@
 | 2017-09-01 | 机器学习 | <a href="//shang.qq.com/wpa/qunwpa?idkey=bcee938030cc9e1552deb3bd9617bbbf62d3ec1647e4b60d9cd6b6e8f78ddc03" target="_blank" rel="noopener">629470233</a> | 5000 |
 | 2014-04-12 | 大数据-1(满) | <a href="//shang.qq.com/wpa/qunwpa?idkey=952c3066344564ac53131f7e101948b0b5e5814390fa24bbfa69e76ff915beb7" target="_blank" rel="noopener">214293307</a> | 2000 |
 
-Github 组织账号只允许贡献者加入。
-
 组织口号: <strong><span style="color: #ff0000;">不装逼的朋友，我们都不想认识 。。。</span></strong>
 
 ## **协议**
@@ -112,15 +107,16 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 
 ## **捐赠列表**
 
-* [捐赠名单](/donate/README.md): <http://www.apachecn.org/donate/>
-* 捐赠格式 [#1](https://github.com/apachecn/home/issues/1) : <https://github.com/apachecn/home/issues/1>
+* 捐赠名单: <http://home.apachecn.org/donate/>
+* 捐赠格式: <https://github.com/apachecn/home/issues/1>
 * 参考添加捐赠方式: <https://github.com/apachecn/home/issues/1>
 
 <img src="http://data.apachecn.org/img/about/donate.jpg" alt="微信&支付宝" />
 
 ## **友情链接**
 
-+   [Datawhale](https://datawhale.club)
++   [龙哥盟](https://flygon.net)
++   [Datawhale](/img/about/datawhale_qr.jpg)
 +   [Data Science Challenge / Competition](https://iphysresearch.github.io/DataSciComp/)
 +   [lzhpo](http://www.liuzhaopo.top)
 +   [Jaybo](https://strivebo.com)
