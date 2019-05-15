@@ -20,6 +20,10 @@
 
 > **更新时间: 2019-02-16[项目从近到远]**
 
+1.  【点击参与】[ApacheCN 短篇集](https://github.com/apachecn/misc-docs-zh) 
+    
+    在 [issues](https://github.com/apachecn/misc-docs-zh/issues/1) 中领取任务
+
 1.  【点击参与】[Impatient JavaScript 中文版（校对）](https://github.com/apachecn/impatient-js-zh) 
     
     在 [issues](https://github.com/apachecn/impatient-js-zh/issues/1) 中领取任务
