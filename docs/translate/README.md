@@ -69,7 +69,6 @@
 | [MIT 18.03 写给新手的微积分](http://math.mit.edu/~djk/calculus_beginners/) | 数学 | 翻译 | HTML | 0 | @飞龙 |
 | [Numba 文档](http://numba.pydata.org/numba-doc/latest/) | 编程 | 翻译 | RST | -1 | @飞龙  |
 | [Cython 文档](http://docs.cython.org/en/latest/) | 编程 | 翻译 | RST | -1 | @飞龙  |
-| [pymc3 文档](https://docs.pymc.io/) | AI/DS | 翻译 | RST | -1 | @shouldsee |
 | [MongoDB 文档](https://docs.mongodb.com/) | ?? | 翻译 | HTML | -2 | @飞龙 |
 | 斯坦福博弈论 | AI/DS | 笔记整理 | \- | -2 | @飞龙 |
 | [PySide2 API 参考](https://doc.qt.io/qtforpython/) | 编程 | 翻译 | HTML | -2 | ??? |
