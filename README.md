@@ -13,7 +13,6 @@
 1.  为了能够将开源事业做大做强，[ApacheCN 需要与公益基金会（IT、教育类）合作](https://www.zhihu.com/question/318287335)，欢迎大家提供帮助。
 1.  开源不是一个人的事情，我们的各个模块（请见[组织架构](http://home.apachecn.org/#_4)）都需要人手来维护。如果你有兴趣参与，请联系片刻（QQ 529815144）。权限分配灵活，能者居之。
 
-
 ## **组织介绍**
 
 > 我们是一个大型开源社区，旗下 QQ 群共 9000 余人，订阅用户至少一万人。Github Star 数量超过 20k 个，在所有 Github 组织中[排名前 200](https://gitstar-ranking.com/apachecn)。网站日 uip 超过 4k，[Alexa 排名的峰值为 20k](https://www.alexa.com/siteinfo/apachecn.org)。我们的核心成员拥有[ CSDN 博客专家](https://blog.csdn.net/wizardforcel)和[简书程序员优秀作者](https://www.jianshu.com/u/b508a6aa98eb)认证。我们与 [Datawhale](http://home.apachecn.org/img/about/datawhale_qr.jpg)、[AI 有道](http://home.apachecn.org/img/about/redstone_qr.jpg)、[黄海广博士](http://home.apachecn.org/img/about/huanghaiguang_qr.jpg)等国内知名开源组织和大 V 合作，组织公益性的翻译活动、学习活动和比赛组队活动。
@@ -90,10 +89,9 @@
 | 时间 | 群名称  | 群号  | 群人数  |
 | ------------ | ------------ | ------------ | ------------ |
 | 2018-11-21 | 量化分析 | <a target="_blank" href="https://jq.qq.com/?_wv=1027&k=5zZh6MK" target="_blank" rel="noopener">91380460</a> | 500 |
-| 2018-10-16 | 深度学习 | <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=8105fc3899b7e5e755988b7825a121d2115ce453d57a6561aa08d90a7b546401" target="_blank" rel="noopener">780658835</a> | 1000 |
 | 2018-06-26 | LeetCode 刷题 | <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=fb51367d7878250980024da7f1bdca8d4dab15e6c9864dba29aff27a407f4436" target="_blank" rel="noopener">812791932</a> | 1000 |
 | 2018-05-02 | 大数据-2 | <a href="//shang.qq.com/wpa/qunwpa?idkey=5d65b0774e5750e97e5725a201ccf158c84056ab77630223f854f57fa2fb544a" target="_blank" rel="noopener">152622464</a> | 2000 |
-| 2017-11-29 | Kaggle | <a href="//shang.qq.com/wpa/qunwpa?idkey=716b584bbd7cdf64e961b499c7fb5891faf1f6c92dad026e3c596a57c834f1ec" target="_blank" rel="noopener">686932392</a> | 2000 |
+| 2018-02-07 | 724187166 | <a href="//shang.qq.com/wpa/qunwpa?idkey=95a5e53232d6e1629cb6ea7132d0cb4c725bd27cb35ebc3f06b1b992279f46a2" target="_blank" rel="noopener">724187166</a> | 2000 |
 | 2017-09-01 | 机器学习 | <a href="//shang.qq.com/wpa/qunwpa?idkey=bcee938030cc9e1552deb3bd9617bbbf62d3ec1647e4b60d9cd6b6e8f78ddc03" target="_blank" rel="noopener">629470233</a> | 5000 |
 | 2014-04-12 | 大数据-1(满) | <a href="//shang.qq.com/wpa/qunwpa?idkey=952c3066344564ac53131f7e101948b0b5e5814390fa24bbfa69e76ff915beb7" target="_blank" rel="noopener">214293307</a> | 2000 |
 
