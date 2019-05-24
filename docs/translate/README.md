@@ -18,7 +18,9 @@
 
 ## **进行中**
 
-> **更新时间: 2019-02-16[项目从近到远]**
+1.  【点击参与】[Scrapy 1.6 中文文档](https://github.com/apachecn/scrapy-doc-zh) 
+    
+    在 [issues](https://github.com/apachecn/scrapy-doc-zh/issues/1) 中领取任务
 
 1.  【点击参与】[ApacheCN 短篇集](https://github.com/apachecn/misc-docs-zh) 
     
@@ -142,6 +144,7 @@
 ### 工具
 
 1.  [Git 中文参考](https://github.com/apachecn/git-doc-zh)
+1.  [Scrapy 1.6 中文文档](https://github.com/apachecn/scrapy-doc-zh)
 
 ### 区块链
 
