@@ -90,6 +90,8 @@
     +   [文字教程](https://github.com/apachecn/AiLearning)
     +   [教学版视频](https://space.bilibili.com/97678687/channel/detail?cid=22486)
     +   [讨论版视频](https://space.bilibili.com/97678687/channel/detail?cid=13045)
++   [Kaggle 学习系列视频](https://www.bilibili.com/video/av53119200)
++   [简历分享系列视频](https://www.bilibili.com/video/av53122083)
 +   [AI 路线图（知识树）](https://github.com/apachecn/ai-roadmap)
 +   [Machine Learning Mastery 博客文章翻译](https://github.com/apachecn/ml-mastery-zh)
 +   [PyTorch 0.2/0.3/0.4/1.0 中文文档和教程](https://github.com/apachecn/pytorch-doc-zh)
@@ -114,7 +116,6 @@
     +   [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
     +   [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
 +   [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI)
-+   [司镜的数据结构课程（持续更新）](https://www.bilibili.com/video/av41164819)
 
 ### 编程语言
 
@@ -193,6 +194,8 @@
     1.  [文字教程](https://github.com/apachecn/AiLearning)
     1.  [教学版视频](https://space.bilibili.com/97678687/channel/detail?cid=22486)
     1.  [讨论版视频](https://space.bilibili.com/97678687/channel/detail?cid=13045)
+1.  [Kaggle 学习系列视频](https://www.bilibili.com/video/av53119200)
+1.  [简历分享系列视频](https://www.bilibili.com/video/av53122083)
 1.  [AI 路线图（知识树）](https://github.com/apachecn/ai-roadmap)
 1.  Sklearn 与 TensorFlow 机器学习实用指南（已下线，请自行搜索）
 1.  [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
