@@ -16,7 +16,7 @@
 
 ## **组织介绍**
 
-> 我们是一个大型开源社区，旗下 QQ 群共 9000 余人，订阅用户至少一万人。Github Star 数量超过 20k 个，在所有 Github 组织中[排名前 200](https://gitstar-ranking.com/apachecn)。网站日 uip 超过 4k，[Alexa 排名的峰值为 20k](https://www.alexa.com/siteinfo/apachecn.org)。我们的核心成员拥有[ CSDN 博客专家](https://blog.csdn.net/wizardforcel)和[简书程序员优秀作者](https://www.jianshu.com/u/b508a6aa98eb)认证。我们与 [Datawhale](http://home.apachecn.org/img/about/datawhale_qr.jpg)、[AI 有道](http://home.apachecn.org/img/about/redstone_qr.jpg)、[黄海广博士](http://home.apachecn.org/img/about/huanghaiguang_qr.jpg)等国内知名开源组织和大 V 合作，组织公益性的翻译活动、学习活动和比赛组队活动。
+> 我们是一个大型开源社区，旗下 QQ 群共一万余人，订阅用户至少一万人。Github Star 数量超过 40k 个，在所有 Github 组织中[排名前 150](https://gitstar-ranking.com/apachecn)。网站日 uip 超过 4k，[Alexa 排名的峰值为 20k](https://www.alexa.com/siteinfo/apachecn.org)。我们的核心成员拥有[ CSDN 博客专家](https://blog.csdn.net/wizardforcel)和[简书程序员优秀作者](https://www.jianshu.com/u/b508a6aa98eb)认证。我们与 [Datawhale](http://home.apachecn.org/img/about/datawhale_qr.jpg)、[AI 有道](http://home.apachecn.org/img/about/redstone_qr.jpg)、[黄海广博士](http://home.apachecn.org/img/about/huanghaiguang_qr.jpg)等国内知名开源组织和大 V 合作，组织公益性的翻译活动、学习活动和比赛组队活动。
 > 
 > 与商业组织不同，我们并不会追逐热点，或者唯利是图。作为公益组织，我们将完成项目放在首要位置，并有足够时间把项目打磨到极致。我们希望做出广大 AI 爱好者真正需要的东西，打造真正有价值的长尾作品。
 
