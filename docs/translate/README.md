@@ -147,6 +147,7 @@
 1.  [Airflow 中文文档](https://github.com/apachecn/airflow-doc-zh)
 1.  [HBase 3.0 中文参考指南](https://github.com/apachecn/hbase-doc-zh)
 1.  [Flink 1.7 中文文档](https://github.com/apachecn/flink-doc-zh)
+1.  [Django 1.8 中文文档](https://github.com/apachecn/django-doc-18-zh)
 1.  [PySpark 学习手册](https://github.com/apachecn/learning-pyspark-zh)
 
 ### 工具
@@ -210,6 +211,7 @@
 1.  [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
 1.  [DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
 1.  [台湾大学林轩田机器学习笔记](https://github.com/apachecn/ntu-hsuantienlin-ml)
+1.  [Python 自然语言处理 中文第二版](https://github.com/apachecn/nlp-py-2e-zh)
 1.  [Scikit-learn 秘籍](https://github.com/apachecn/sklearn-cookbook-zh)
 1.  [PythonProgramming.net 教程翻译](https://github.com/apachecn/misc-docs-zh/blob/master/docs/python-programming-net)
 1.  [写给人类的机器学习](https://github.com/apachecn/ml-for-humans-zh)
