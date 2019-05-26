@@ -123,6 +123,8 @@
     1.  [Java 编程思想](https://github.com/apachecn/thinking-in-java-zh)
     2.  [Java 从0～1个人笔记](https://javaee.strivebo.com)
     3.  [Java8 中文官方教程](https://github.com/apachecn/java8-tut-zh)
+1.  Python
+    1.  [笨办法学 Python · 续 中文版](https://github.com/apachecn/lmpythw-zh)
 1.  JavaScript
     1.  [JavaScript 编程精解 中文第三版](https://github.com/apachecn/eloquent-js-3e-zh)
     1.  [写给不耐烦程序员的 JavaScript](https://github.com/apachecn/impatient-js-zh)
@@ -145,6 +147,7 @@
 
 ### 工具
 
+1.  [笨办法学 Linux 中文版](https://github.com/apachecn/llthw-zh)
 1.  [Git 中文参考](https://github.com/apachecn/git-doc-zh)
 1.  [Scrapy 1.6 中文文档](https://github.com/apachecn/scrapy-doc-zh)
 
@@ -170,6 +173,7 @@
 1.  [UCB Prob140 课本：面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
 1.  [UCB DS100 课本：数据科学的原理与技巧](https://github.com/apachecn/ds100-textbook-zh)
 1.  [TutorialsPoint NumPy 教程](https://github.com/apachecn/misc-docs-zh/blob/master/docs/tutorialspoint-numpy.md)
+1.  [复杂性思维 中文第二版](https://github.com/apachecn/think-comp-2e-zh)
 1.  [利用 Python 进行数据分析 · 第 2 版](https://github.com/apachecn/pyda-2e-zh)
 1.  [fast.ai 数值线性代数讲义 v2](https://github.com/apachecn/fastai-num-linalg-v2-zh)
 1.  [Pandas Cookbook 带注释源码](https://github.com/apachecn/pandas-cookbook-code-notes)
