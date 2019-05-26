@@ -124,6 +124,7 @@
     2.  [Java 从0～1个人笔记](https://javaee.strivebo.com)
     3.  [Java8 中文官方教程](https://github.com/apachecn/java8-tut-zh)
 1.  Python
+    1.  [Think Python 中文第二版](https://github.com/apachecn/think-py-2e-zh)
     1.  [笨办法学 Python · 续 中文版](https://github.com/apachecn/lmpythw-zh)
 1.  JavaScript
     1.  [JavaScript 编程精解 中文第三版](https://github.com/apachecn/eloquent-js-3e-zh)
