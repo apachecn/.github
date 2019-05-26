@@ -244,6 +244,13 @@
 1.  [Kaggle 项目实战教程：文档 + 代码 + 视频](https://github.com/apachecn/kaggle)
 1.  [数据科学比赛收集平台](https://github.com/iphysresearch/DataSciComp)
 
+### 安全
+
+1.  [Kali Linux 秘籍 中文版](https://github.com/apachecn/kali-linux-cookbook-zh)
+1.  [Kali Linux Web 渗透测试秘籍 中文版](https://github.com/apachecn/kali-linux-web-pentest-cookbook-zh)
+1.  [Kali Linux 无线渗透测试入门指南 中文版](https://github.com/apachecn/kali-linux-wireless-pentest-zh)
+1.  [Kali Linux 网络扫描秘籍 中文版](https://github.com/apachecn/kali-linux-network-scanning-cookbook-zh)
+
 ### 其它
 
 1.  [独立开发/自由职业/远程工作资源列表](https://github.com/apachecn/awesome-indie-zh)
