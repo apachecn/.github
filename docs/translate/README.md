@@ -18,6 +18,10 @@
 
 ## **进行中**
 
+1.  【点击参与】[Machine Learning Mastery 教程（校对）](https://github.com/apachecn/ml-mastery-zh) 
+    
+    在 [issues](https://github.com/apachecn/ml-mastery-zh/issues/1) 中领取任务
+
 1.  【点击参与】[Scrapy 1.6 中文文档](https://github.com/apachecn/scrapy-doc-zh) 
     
     在 [issues](https://github.com/apachecn/scrapy-doc-zh/issues/1) 中领取任务
