@@ -120,6 +120,7 @@
     +   [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
     +   [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
 +   [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI)
++   [Daily Interview - 人工智能面经](https://github.com/datawhalechina/Daily-interview)
 
 ### 编程语言
 
@@ -234,6 +235,7 @@
 1.  [Sklearn 学习指南](https://github.com/apachecn/misc-docs-zh/blob/master/docs/learning-sklearn)
 1.  [Machine Learning Mastery 博客文章翻译](https://github.com/apachecn/ml-mastery-zh)
 1.  [关于卷积神经网络我们理解了什么](https://github.com/apachecn/misc-docs-zh/blob/master/docs/what-do-we-understand-about-convnet)
+1.  [Daily Interview - 人工智能面经](https://github.com/datawhalechina/Daily-interview)
 
 ### AI 文档
 
