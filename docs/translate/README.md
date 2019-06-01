@@ -157,6 +157,7 @@
 
 ### 工具
 
+1.  [Scapy 中文文档](https://github.com/apachecn/scapy-docs-zh)
 1.  [笨办法学 Linux 中文版](https://github.com/apachecn/llthw-zh)
 1.  [Git 中文参考](https://github.com/apachecn/git-doc-zh)
 1.  [Scrapy 1.6 中文文档](https://github.com/apachecn/scrapy-doc-zh)
@@ -258,6 +259,10 @@
 1.  [Kali Linux Web 渗透测试秘籍 中文版](https://github.com/apachecn/kali-linux-web-pentest-cookbook-zh)
 1.  [Kali Linux 无线渗透测试入门指南 中文版](https://github.com/apachecn/kali-linux-wireless-pentest-zh)
 1.  [Kali Linux 网络扫描秘籍 中文版](https://github.com/apachecn/kali-linux-network-scanning-cookbook-zh)
+1.  [Web Hacking 101 中文版](https://github.com/apachecn/web-hacking-101-zh)
+1.  [米斯特白帽培训讲义](https://github.com/apachecn/mst-sec-lecture-notes)
+1.  [安卓应用安全指南 中文版](https://github.com/apachecn/android-app-sec-guidebook-zh)
+1.  [渗透测试实战第三版（红队版）](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation)
 
 ### 其它
 
