@@ -18,6 +18,10 @@
 
 ## **进行中**
 
+1.  【点击参与】[百页机器学习小书](https://github.com/apachecn/ml-book-100-zh) 
+    
+    在 [issues](https://github.com/apachecn/ml-book-100-zh/issues/1) 中领取任务
+
 1.  【点击参与】[Machine Learning Mastery 教程（校对）](https://github.com/apachecn/ml-mastery-zh) 
     
     在 [issues](https://github.com/apachecn/ml-mastery-zh/issues/1) 中领取任务
@@ -54,10 +58,6 @@
     
     在 [issues](https://github.com/apachecn/pytorch-doc-zh/issues/274) 中领取任务
 
-1.  【点击参与】[statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
-    
-    在 [issues](https://github.com/apachecn/statsmodels_doc_zh/issues/1) 中领取任务
-
 1.  【点击参与】[UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
     
     在 [issues](https://github.com/apachecn/cs61b-textbook-zh/issues/1) 中领取任务
@@ -70,7 +70,6 @@
 
 | 名称 | 领域 | 类型 | 格式 | 优先级 | 提议人 |
 | --- | --- | --- | --- | --- | --- |
-| [百页机器学习](http://themlbook.com/wiki/doku.php) | AI/DS | 翻译 | HTML | 1 | ???  |
 | [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh) | AI/DS | 翻译 | IPYNB | 1 | @飞龙 |
 | [UIUC CS241 众包系统编程](https://github.com/angrave/SystemProgramming/wiki) | CS | 翻译 | HTML | 1 | @飞龙  |
 | [MIT 18.03 写给新手的微积分](http://math.mit.edu/~djk/calculus_beginners/) | 数学 | 翻译 | HTML | 0 | @飞龙 |
