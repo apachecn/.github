@@ -31,6 +31,8 @@
 * **We are ApacheCN Open Source Organization, not ASF! We are fans of AI, and have no relationship with ASF!**
 * 合作 or 侵权，请联系 <apachecn@163.com> | 请抄送一份到 <wizard.z@foxmail.com>
 
+![](http://home.apachecn.org/img/about/apachecn_qr.jpg)
+
 ## **学习资源**
 
 +   [编程语言](http://home.apachecn.org/translate)
