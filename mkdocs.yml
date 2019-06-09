@@ -18,7 +18,6 @@ nav:
 - 组织:
     - 关于: about.md
     - 成员: https://www.ibooker.org.cn/organization/
-    - 采访: interview.md
     - 捐赠: donate/README.md
 
 theme:
