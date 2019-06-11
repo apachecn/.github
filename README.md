@@ -60,7 +60,6 @@
         -   中短篇翻译
         -   MachineLearningMastery
         -   笔记
-        -   大型教程
         -   AILearning
         -   视频
         -   Apache 技术栈
