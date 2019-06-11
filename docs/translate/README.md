@@ -18,6 +18,10 @@
 
 ## **进行中**
 
+1.  【点击参与】[斯坦福 CS224n 中文笔记整理](https://github.com/apachecn/stanford-cs224n-notes-zh) 
+    
+    在 [issues](https://github.com/apachecn/stanford-cs224n-notes-zh/issues/1) 中领取任务
+
 1.  【点击参与】[百页机器学习小书](https://github.com/apachecn/ml-book-100-zh) 
     
     在 [issues](https://github.com/apachecn/ml-book-100-zh/issues/1) 中领取任务
