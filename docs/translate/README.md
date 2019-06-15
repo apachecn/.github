@@ -30,10 +30,6 @@
     
     在 [issues](https://github.com/apachecn/ml-mastery-zh/issues/1) 中领取任务
 
-1.  【点击参与】[Scrapy 1.6 中文文档](https://github.com/apachecn/scrapy-doc-zh) 
-    
-    在 [issues](https://github.com/apachecn/scrapy-doc-zh/issues/1) 中领取任务
-
 1.  【点击参与】[ApacheCN 短篇集](https://github.com/apachecn/misc-docs-zh) 
     
     在 [issues](https://github.com/apachecn/misc-docs-zh/issues/1) 中领取任务
@@ -109,6 +105,7 @@
 +   斯坦福 AI 系列笔记
     +   [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
     +   [DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
+    +   [斯坦福 CS224n 自然语言处理中文笔记](https://github.com/apachecn/stanford-cs224n-notes-zh) 
 +   UCB CS/DS 系列课本
     +   [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh)
     +   [UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
@@ -219,6 +216,7 @@
 1.  Sklearn 与 TensorFlow 机器学习实用指南（已下线，请自行搜索）
 1.  [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
 1.  [DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
+1.  [斯坦福 CS224n 自然语言处理中文笔记](https://github.com/apachecn/stanford-cs224n-notes-zh) 
 1.  [台湾大学林轩田机器学习笔记](https://github.com/apachecn/ntu-hsuantienlin-ml)
 1.  [Python 自然语言处理 中文第二版](https://github.com/apachecn/nlp-py-2e-zh)
 1.  [Scikit-learn 秘籍](https://github.com/apachecn/sklearn-cookbook-zh)
