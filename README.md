@@ -70,34 +70,6 @@
         -   财务管理
         -   支持团队
 
-## **组织活动**
-
-### 翻译活动征集
-
-[请回复这个帖子](http://bbs.apachecn.org/thread-77.htm)
-
-### 比赛活动
-
-[【点击参与】ApacheCN × FlyAI 人工智能比赛活动](http://home.apachecn.org/game/)
-
-### 学习活动
-
-[【点击参与】DataWhale 新学期组队学习计划](http://url.cn/5P7UcMt)
-
-### 公益捐赠
-
-* [【点击参与】公益捐赠](http://home.apachecn.org/donate)
-* [【点击参与】图书捐赠](http://home.apachecn.org/donate/1-book)
-
-### 学习咨询和定制
-
-* **接受各种环材化生转行咨询, 让你的青春不迷茫**
-* [【点击参与】学习咨询和定制](http://home.apachecn.org/map)
-
-### 社交活动
-
-[【点击参与】社交活动](http://home.apachecn.org/social)
-
 ## **交流方式**
 
 | 时间 | 群名称  | 群号  | 群人数  |
