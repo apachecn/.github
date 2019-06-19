@@ -18,7 +18,8 @@ nav:
 - 组织:
     - 关于: about.md
     - 成员: https://www.ibooker.org.cn/organization/
-    - 捐赠: donate/README.md
+    - 众筹: https://t.modian.com/project/67957.html
+    - 捐赠记录: donate/README.md
 
 theme:
     name: mkdocs
