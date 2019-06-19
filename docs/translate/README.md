@@ -76,9 +76,10 @@
 | [Numba 文档](http://numba.pydata.org/numba-doc/latest/) | 编程 | 翻译 | RST | -1 | @飞龙  |
 | [Cython 文档](http://docs.cython.org/en/latest/) | 编程 | 翻译 | RST | -1 | @飞龙  |
 | [Generating Software Tests](https://www.fuzzingbook.org/) | 工程 | 翻译 | HTML | -1 | @飞龙  |
+| [Zetcode](http://zetcode.com/) | 编程 | 翻译 | HTML | -1 | @飞龙 |
 | [MongoDB 文档](https://docs.mongodb.com/) | 系统 | 翻译 | HTML | -2 | @飞龙 |
 | [PySide2 API 参考](https://doc.qt.io/qtforpython/) | 编程 | 翻译 | HTML | -2 | ??? |
-| [Zetcode](http://zetcode.com/) | 编程 | 翻译 | HTML | -2 | ??? |
+| [Succinctly Series](https://www.syncfusion.com/ebooks) | 编程 | 翻译 | HTML | -2 | @飞龙 |
 | [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | 理论 | 翻译 | MD | \- | @飞龙 |
 | [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | LaTeX | \- | @飞龙 |
 | [Practical Cryptography for Developers](https://cryptobook.nakov.com/)（未完） | 安全 | 翻译 | MD | \- | @飞龙 |
