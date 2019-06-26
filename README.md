@@ -20,7 +20,7 @@
 
 * 【导航】[ibooker.org.cn](http://www.ibooker.org.cn/)
 * 【归档】[home.apachecn.org](http://home.apachecn.org)
-* 【社区】[bbs.apachecn.org](http://bbs.apachecn.org/)
+* 【社区】[ibooker.org.cn/forums](https://www.ibooker.org.cn/forums/)
 * 【Github】[@ApacheCN](https://github.com/apachecn)
 * 自媒体平台
     * [微博：@ApacheCN](https://weibo.com/u/6326715527)
