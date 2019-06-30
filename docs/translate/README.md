@@ -164,6 +164,7 @@
 1.  [笨办法学 Linux 中文版](https://github.com/apachecn/llthw-zh)
 1.  [Git 中文参考](https://github.com/apachecn/git-doc-zh)
 1.  [Scrapy 1.6 中文文档](https://github.com/apachecn/scrapy-doc-zh)
+1.  [PyQt4 中文文档](https://github.com/apachecn/pyqt4-doc-zh)
 
 ### 区块链
 
