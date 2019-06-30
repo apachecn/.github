@@ -213,10 +213,9 @@
     1.  [文字教程](https://github.com/apachecn/AiLearning)
     1.  [教学版视频](https://space.bilibili.com/97678687/channel/detail?cid=22486)
     1.  [讨论版视频](https://space.bilibili.com/97678687/channel/detail?cid=13045)
-1.  [Kaggle 学习系列视频](https://www.bilibili.com/video/av53119200)
-1.  [简历分享系列视频](https://www.bilibili.com/video/av53122083)
 1.  [AI 路线图（知识树）](https://github.com/apachecn/ai-roadmap)
 1.  Sklearn 与 TensorFlow 机器学习实用指南（已下线，请自行搜索）
+1.  [Machine Learning Mastery 博客文章翻译](https://github.com/apachecn/ml-mastery-zh)
 1.  [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
 1.  [DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
 1.  [斯坦福 CS224n 自然语言处理中文笔记](https://github.com/apachecn/stanford-cs224n-notes-zh) 
@@ -238,9 +237,9 @@
 1.  [数据科学和人工智能技术笔记](https://github.com/apachecn/ds-ai-tech-notes)
 1.  [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI)
 1.  [Sklearn 学习指南](https://github.com/apachecn/misc-docs-zh/blob/master/docs/learning-sklearn)
-1.  [Machine Learning Mastery 博客文章翻译](https://github.com/apachecn/ml-mastery-zh)
 1.  [关于卷积神经网络我们理解了什么](https://github.com/apachecn/misc-docs-zh/blob/master/docs/what-do-we-understand-about-convnet)
 1.  [Daily Interview - 人工智能面经](https://github.com/datawhalechina/Daily-interview)
+1.  [百页机器学习小书](https://github.com/apachecn/ml-book-100-zh)
 
 ### AI 文档
 
@@ -255,6 +254,7 @@
 ### AI 比赛
 
 1.  [Kaggle 项目实战教程：文档 + 代码 + 视频](https://github.com/apachecn/kaggle)
+1.  [Kaggle 学习系列视频](https://www.bilibili.com/video/av53119200)
 1.  [数据科学比赛收集平台](https://github.com/iphysresearch/DataSciComp)
 
 ### 安全
@@ -270,6 +270,7 @@
 
 ### 其它
 
+1.  [简历分享系列视频](https://www.bilibili.com/video/av53122083)
 1.  [独立开发/自由职业/远程工作资源列表](https://github.com/apachecn/awesome-indie-zh)
 1.  [通往财富自由之路精细笔记](https://github.com/apachecn/the-way-to-wealth-freedom-notes)
 1.  [5 分钟商学院精细笔记](https://github.com/apachecn/5min-business-notes)
