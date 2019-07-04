@@ -18,6 +18,10 @@
 
 ## **进行中**
 
+1.  【点击参与】[TensorFlow 2.0 中文文档](https://github.com/apachecn/tensorflow-doc-zh) 
+    
+    在 [issues](https://github.com/apachecn/tensorflow-doc-zh/issues/3) 中领取任务
+
 1.  【点击参与】[斯坦福 CS224n 中文笔记整理](https://github.com/apachecn/stanford-cs224n-notes-zh) 
     
     在 [issues](https://github.com/apachecn/stanford-cs224n-notes-zh/issues/1) 中领取任务
@@ -46,10 +50,6 @@
     
     在 [issues](https://github.com/apachecn/seaborn-doc-zh/issues/1) 中领取任务
 
-1.  【点击参与】[OpenCV 4.0 中文文档](https://github.com/apachecn/opencv-doc-zh) 
-    
-    在 [issues](https://github.com/apachecn/opencv-doc-zh/issues/1) 中领取任务
-
 1.  【点击参与】[HBase 中文参考指南 3.0（校对）](https://github.com/apachecn/hbase-doc-zh) 
     
     在 [issues](https://github.com/apachecn/hbase-doc-zh/issues/1) 中领取任务
@@ -58,13 +58,19 @@
     
     在 [issues](https://github.com/apachecn/pytorch-doc-zh/issues/274) 中领取任务
 
-1.  【点击参与】[UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
-    
-    在 [issues](https://github.com/apachecn/cs61b-textbook-zh/issues/1) 中领取任务
-
 1.  【点击参与】[面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
     
     在 [issues](https://github.com/apachecn/prob140-textbook-zh/issues/2) 中领取任务
+
+## **认领完毕**
+
+1.  【点击参与】[OpenCV 4.0 中文文档](https://github.com/apachecn/opencv-doc-zh) 
+    
+    在 [issues](https://github.com/apachecn/opencv-doc-zh/issues/1) 中领取任务
+
+1.  【点击参与】[UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
+    
+    在 [issues](https://github.com/apachecn/cs61b-textbook-zh/issues/1) 中领取任务
 
 ## **计划中**
 
@@ -99,6 +105,7 @@
 +   [简历分享系列视频](https://www.bilibili.com/video/av53122083)
 +   [AI 路线图（知识树）](https://github.com/apachecn/ai-roadmap)
 +   [Machine Learning Mastery 博客文章翻译](https://github.com/apachecn/ml-mastery-zh)
++   [TensorFlow 2.0 中文文档](https://github.com/apachecn/tensorflow-doc-zh)
 +   [PyTorch 0.2/0.3/0.4/1.0 中文文档和教程](https://github.com/apachecn/pytorch-doc-zh)
 +   人工智能/机器学习/数据科学比赛系列
     +   [Kaggle 项目实战教程：文档 + 代码 + 视频](https://github.com/apachecn/kaggle)
@@ -139,6 +146,8 @@
     1.  [写给不耐烦程序员的 JavaScript](https://github.com/apachecn/impatient-js-zh)
 1.  C
     1.  [笨办法学 C 中文版](https://github.com/apachecn/lcthw-zh)
+1.  PHP
+    1.  [手把手教你写 PHP 协程扩展](https://github.com/apachecn/study)
 
 ### 后端/大数据
 
@@ -164,6 +173,7 @@
 1.  [Git 中文参考](https://github.com/apachecn/git-doc-zh)
 1.  [Scrapy 1.6 中文文档](https://github.com/apachecn/scrapy-doc-zh)
 1.  [PyQt4 中文文档](https://github.com/apachecn/pyqt4-doc-zh)
+1.  [命令行的艺术](https://github.com/apachecn/the-art-of-command-line/blob/master/README-zh.md)
 
 ### 区块链
 
@@ -244,6 +254,7 @@
 ### AI 文档
 
 1.  [Sklearn 0.19 中文文档](https://github.com/apachecn/scikit-learn-doc-zh)
+1.  [TensorFlow 2.0 中文文档](https://github.com/apachecn/tensorflow-doc-zh)
 1.  [PyTorch 0.2/0.3/0.4/1.0 中文文档和教程](https://github.com/apachecn/pytorch-doc-zh)
 1.  [XGBoost 中文文档](https://github.com/apachecn/xgboost-doc-zh)
 1.  [LightGBM 中文文档](https://github.com/apachecn/lightgbm-doc-zh)
@@ -275,3 +286,4 @@
 1.  [通往财富自由之路精细笔记](https://github.com/apachecn/the-way-to-wealth-freedom-notes)
 1.  [5 分钟商学院精细笔记](https://github.com/apachecn/5min-business-notes)
 1.  [斯坦福 CS183 系列中文笔记](https://github.com/apachecn/stanford-cs183-notes)
+1.  [English - World Travel](https://github.com/apachecn/English)
