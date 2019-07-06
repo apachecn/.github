@@ -18,61 +18,65 @@
 
 ## **进行中**
 
-1.  【点击参与】[Scrapy 1.6 中文文档](https://github.com/apachecn/scrapy-doc-zh) 
+1.  【校对】[Numba 0.44 中文文档](https://github.com/apachecn/numba-doc-zh) 
+    
+    在 [issues](https://github.com/apachecn/numba-doc-zh/issues/1) 中领取任务
+    
+1.  【校对】[Scrapy 1.6 中文文档](https://github.com/apachecn/scrapy-doc-zh) 
     
     在 [issues](https://github.com/apachecn/scrapy-doc-zh/issues/1) 中领取任务
 
-1.  【点击参与】[OpenCV 4.0 中文文档](https://github.com/apachecn/opencv-doc-zh) 
+1.  【翻译】[OpenCV 4.0 中文文档](https://github.com/apachecn/opencv-doc-zh) 
     
     在 [issues](https://github.com/apachecn/opencv-doc-zh/issues/1) 中领取任务
 
-1.  【点击参与】[TensorFlow 2.0 中文文档](https://github.com/apachecn/tensorflow-doc-zh) 
+1.  【翻译】[TensorFlow 2.0 中文文档](https://github.com/apachecn/tensorflow-doc-zh) 
     
     在 [issues](https://github.com/apachecn/tensorflow-doc-zh/issues/3) 中领取任务
 
-1.  【点击参与】[斯坦福 CS224n 中文笔记整理](https://github.com/apachecn/stanford-cs224n-notes-zh) 
+1.  【笔记整理】[斯坦福 CS224n 中文笔记整理](https://github.com/apachecn/stanford-cs224n-notes-zh) 
     
     在 [issues](https://github.com/apachecn/stanford-cs224n-notes-zh/issues/1) 中领取任务
 
-1.  【点击参与】[百页机器学习小书](https://github.com/apachecn/ml-book-100-zh) 
+1.  【翻译】[百页机器学习小书](https://github.com/apachecn/ml-book-100-zh) 
     
     在 [issues](https://github.com/apachecn/ml-book-100-zh/issues/1) 中领取任务
 
-1.  【点击参与】[Machine Learning Mastery 教程（校对）](https://github.com/apachecn/ml-mastery-zh) 
+1.  【校对】[Machine Learning Mastery 教程](https://github.com/apachecn/ml-mastery-zh) 
     
     在 [issues](https://github.com/apachecn/ml-mastery-zh/issues/1) 中领取任务
 
-1.  【点击参与】[ApacheCN 短篇集](https://github.com/apachecn/misc-docs-zh) 
+1.  【校对】[ApacheCN 短篇集](https://github.com/apachecn/misc-docs-zh) 
     
     在 [issues](https://github.com/apachecn/misc-docs-zh/issues/1) 中领取任务
 
-1.  【点击参与】[Impatient JavaScript 中文版（校对）](https://github.com/apachecn/impatient-js-zh) 
+1.  【校对】[Impatient JavaScript 中文版](https://github.com/apachecn/impatient-js-zh) 
     
     在 [issues](https://github.com/apachecn/impatient-js-zh/issues/1) 中领取任务
 
-1.  【点击参与】[Git 中文参考（校对）](https://github.com/apachecn/git-doc-zh) 
+1.  【校对】[Git 中文参考](https://github.com/apachecn/git-doc-zh) 
     
     在 [issues](https://github.com/apachecn/git-doc-zh/issues/1) 中领取任务
 
-1.  【点击参与】[seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh) 
+1.  【翻译】[seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh) 
     
     在 [issues](https://github.com/apachecn/seaborn-doc-zh/issues/1) 中领取任务
 
-1.  【点击参与】[HBase 中文参考指南 3.0（校对）](https://github.com/apachecn/hbase-doc-zh) 
+1.  【校对】[HBase 中文参考指南 3.0](https://github.com/apachecn/hbase-doc-zh) 
     
     在 [issues](https://github.com/apachecn/hbase-doc-zh/issues/1) 中领取任务
 
-1.  【点击参与】[Pytorch 1.0 开车翻译了！ <= 坐等装逼的你！](https://github.com/apachecn/pytorch-doc-zh)
+1.  【翻译/校对】[Pytorch 1.0 开车翻译了！ <= 坐等装逼的你！](https://github.com/apachecn/pytorch-doc-zh)
     
     在 [issues](https://github.com/apachecn/pytorch-doc-zh/issues/274) 中领取任务
 
-1.  【点击参与】[面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
+1.  【翻译】[面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
     
     在 [issues](https://github.com/apachecn/prob140-textbook-zh/issues/2) 中领取任务
 
 ## **认领完毕**
 
-1.  【点击参与】[UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
+1.  【翻译】[UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
     
     在 [issues](https://github.com/apachecn/cs61b-textbook-zh/issues/1) 中领取任务
 
@@ -83,7 +87,6 @@
 | [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh) | AI/DS | 翻译 | IPYNB | 1 | @飞龙 |
 | [UIUC CS241 众包系统编程](https://github.com/angrave/SystemProgramming/wiki) | 系统 | 翻译 | HTML | 1 | @飞龙  |
 | [MIT 18.03 写给新手的微积分](http://math.mit.edu/~djk/calculus_beginners/) | 数学 | 翻译 | HTML | 0 | @飞龙 |
-| [Numba 文档](http://numba.pydata.org/numba-doc/latest/) | 编程 | 翻译 | RST | -1 | @飞龙  |
 | [Cython 文档](http://docs.cython.org/en/latest/) | 编程 | 翻译 | RST | -1 | @飞龙  |
 | [Generating Software Tests](https://www.fuzzingbook.org/) | 工程 | 翻译 | HTML | -1 | @飞龙  |
 | [Zetcode](http://zetcode.com/) | 编程 | 翻译 | HTML | -1 | @飞龙 |
@@ -132,6 +135,7 @@
     +   [Sklearn 0.19 中文文档](https://github.com/apachecn/scikit-learn-doc-zh)
     +   [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
     +   [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
+    +   [Numba 0.44 中文文档](https://github.com/apachecn/numba-doc-zh)
 +   [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI)
 +   [Daily Interview - 人工智能面经](https://github.com/datawhalechina/Daily-interview)
 
@@ -178,6 +182,7 @@
 1.  [Scrapy 1.6 中文文档](https://github.com/apachecn/scrapy-doc-zh)
 1.  [PyQt4 中文文档](https://github.com/apachecn/pyqt4-doc-zh)
 1.  [命令行的艺术](https://github.com/apachecn/the-art-of-command-line/blob/master/README-zh.md)
+1.  [Numba 0.44 中文文档](https://github.com/apachecn/numba-doc-zh)
 
 ### 区块链
 
