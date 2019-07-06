@@ -30,10 +30,6 @@
     
     在 [issues](https://github.com/apachecn/opencv-doc-zh/issues/1) 中领取任务
 
-1.  【翻译】[TensorFlow 2.0 中文文档](https://github.com/apachecn/tensorflow-doc-zh) 
-    
-    在 [issues](https://github.com/apachecn/tensorflow-doc-zh/issues/3) 中领取任务
-
 1.  【笔记整理】[斯坦福 CS224n 中文笔记整理](https://github.com/apachecn/stanford-cs224n-notes-zh) 
     
     在 [issues](https://github.com/apachecn/stanford-cs224n-notes-zh/issues/1) 中领取任务
@@ -112,7 +108,6 @@
 +   [简历分享系列视频](https://www.bilibili.com/video/av53122083)
 +   [AI 路线图（知识树）](https://github.com/apachecn/ai-roadmap)
 +   [Machine Learning Mastery 博客文章翻译](https://github.com/apachecn/ml-mastery-zh)
-+   [TensorFlow 2.0 中文文档](https://github.com/apachecn/tensorflow-doc-zh)
 +   [PyTorch 0.2/0.3/0.4/1.0 中文文档和教程](https://github.com/apachecn/pytorch-doc-zh)
 +   人工智能/机器学习/数据科学比赛系列
     +   [Kaggle 项目实战教程：文档 + 代码 + 视频](https://github.com/apachecn/kaggle)
@@ -263,7 +258,6 @@
 ### AI 文档
 
 1.  [Sklearn 0.19 中文文档](https://github.com/apachecn/scikit-learn-doc-zh)
-1.  [TensorFlow 2.0 中文文档](https://github.com/apachecn/tensorflow-doc-zh)
 1.  [PyTorch 0.2/0.3/0.4/1.0 中文文档和教程](https://github.com/apachecn/pytorch-doc-zh)
 1.  [XGBoost 中文文档](https://github.com/apachecn/xgboost-doc-zh)
 1.  [LightGBM 中文文档](https://github.com/apachecn/lightgbm-doc-zh)
