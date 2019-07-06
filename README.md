@@ -23,6 +23,7 @@
 * 【归档】[home.apachecn.org](http://home.apachecn.org)
 * 【社区】[ibooker.org.cn/forums](https://www.ibooker.org.cn/forums/)
 * 【Github】[@ApacheCN](https://github.com/apachecn)
+* 【知识星球】[ApacheCN](https://t.zsxq.com/Z3rFIEu)
 * 自媒体平台
     * [微博：@ApacheCN](https://weibo.com/u/6326715527)
     * [知乎专栏：AILearning](https://zhuanlan.zhihu.com/apachecn-mlia)
