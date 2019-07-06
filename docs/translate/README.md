@@ -18,6 +18,10 @@
 
 ## **进行中**
 
+1.  【点击参与】[OpenCV 4.0 中文文档](https://github.com/apachecn/opencv-doc-zh) 
+    
+    在 [issues](https://github.com/apachecn/opencv-doc-zh/issues/1) 中领取任务
+
 1.  【点击参与】[TensorFlow 2.0 中文文档](https://github.com/apachecn/tensorflow-doc-zh) 
     
     在 [issues](https://github.com/apachecn/tensorflow-doc-zh/issues/3) 中领取任务
@@ -63,10 +67,6 @@
     在 [issues](https://github.com/apachecn/prob140-textbook-zh/issues/2) 中领取任务
 
 ## **认领完毕**
-
-1.  【点击参与】[OpenCV 4.0 中文文档](https://github.com/apachecn/opencv-doc-zh) 
-    
-    在 [issues](https://github.com/apachecn/opencv-doc-zh/issues/1) 中领取任务
 
 1.  【点击参与】[UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
     
