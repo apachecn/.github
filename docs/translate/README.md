@@ -82,12 +82,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh) | AI/DS | 翻译 | IPYNB | 1 | @飞龙 |
 | [UIUC CS241 众包系统编程](https://github.com/angrave/SystemProgramming/wiki) | 系统 | 翻译 | HTML | 1 | @飞龙  |
-| [MIT 18.03 写给新手的微积分](http://math.mit.edu/~djk/calculus_beginners/) | 数学 | 翻译 | HTML | 0 | @飞龙 |
-| [Cython 文档](http://docs.cython.org/en/latest/) | 编程 | 翻译 | RST | -1 | @飞龙  |
-| [Zetcode](http://zetcode.com/) | 编程 | 翻译 | HTML | -1 | @飞龙 |
-| [Generating Software Tests](https://www.fuzzingbook.org/) | 工程 | 翻译 | HTML | -2 | @飞龙  |
-| [MongoDB 文档](https://docs.mongodb.com/) | 系统 | 翻译 | HTML | -2 | @飞龙 |
-| [Succinctly Series](https://www.syncfusion.com/ebooks) | 编程 | 翻译 | HTML | -2 | @飞龙 |
+| [MIT 18.03 写给新手的微积分](http://math.mit.edu/~djk/calculus_beginners/) | 数学 | 翻译 | HTML | 1 | @飞龙 |
+| [Cython 文档](http://docs.cython.org/en/latest/) | 编程 | 翻译 | RST | 1 | @飞龙  |
+| [Zetcode](http://zetcode.com/) | 编程 | 翻译 | HTML | 1 | @飞龙 |
+| [Succinctly Series](https://www.syncfusion.com/ebooks) | 编程 | 翻译 | HTML | 0 | @飞龙 |
+| [MongoDB 文档](https://docs.mongodb.com/) | 系统 | 翻译 | HTML | -1 | @飞龙 |
+| [Generating Software Tests](https://www.fuzzingbook.org/) | 工程 | 翻译 | HTML | -1 | @飞龙  |
 | [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | 理论 | 翻译 | MD | \- | @飞龙 |
 | [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | LaTeX | \- | @飞龙 |
 | [Practical Cryptography for Developers](https://cryptobook.nakov.com/)（未完） | 安全 | 翻译 | MD | \- | @飞龙 |
