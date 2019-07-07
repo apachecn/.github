@@ -26,7 +26,7 @@
     
     在 [issues](https://github.com/apachecn/scrapy-doc-zh/issues/1) 中领取任务
 
-1.  【翻译】[OpenCV 4.0 中文文档](https://github.com/apachecn/opencv-doc-zh) 
+1.  【校对】[OpenCV 4.0 中文文档](https://github.com/apachecn/opencv-doc-zh) 
     
     在 [issues](https://github.com/apachecn/opencv-doc-zh/issues/1) 中领取任务
 
@@ -62,7 +62,7 @@
     
     在 [issues](https://github.com/apachecn/hbase-doc-zh/issues/1) 中领取任务
 
-1.  【翻译/校对】[Pytorch 1.0 开车翻译了！ <= 坐等装逼的你！](https://github.com/apachecn/pytorch-doc-zh)
+1.  【校对】[Pytorch 1.0 开车翻译了！ <= 坐等装逼的你！](https://github.com/apachecn/pytorch-doc-zh)
     
     在 [issues](https://github.com/apachecn/pytorch-doc-zh/issues/274) 中领取任务
 
