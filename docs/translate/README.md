@@ -18,6 +18,10 @@
 
 ## **进行中**
 
+1.  【校对】[Cython 3.0 中文文档](https://github.com/apachecn/cython-doc-zh) 
+    
+    在 [issues](https://github.com/apachecn/cython-doc-zh/issues/1) 中领取任务
+    
 1.  【校对】[Numba 0.44 中文文档](https://github.com/apachecn/numba-doc-zh) 
     
     在 [issues](https://github.com/apachecn/numba-doc-zh/issues/1) 中领取任务
@@ -83,7 +87,6 @@
 | [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh) | AI/DS | 翻译 | IPYNB | 1 | @飞龙 |
 | [UIUC CS241 众包系统编程](https://github.com/angrave/SystemProgramming/wiki) | 系统 | 翻译 | HTML | 1 | @飞龙  |
 | [MIT 18.03 写给新手的微积分](http://math.mit.edu/~djk/calculus_beginners/) | 数学 | 翻译 | HTML | 1 | @飞龙 |
-| [Cython 文档](http://docs.cython.org/en/latest/) | 编程 | 翻译 | RST | 1 | @飞龙  |
 | [Zetcode](http://zetcode.com/) | 编程 | 翻译 | HTML | 1 | @飞龙 |
 | [Succinctly Series](https://www.syncfusion.com/ebooks) | 编程 | 翻译 | HTML | 0 | @飞龙 |
 | [MongoDB 文档](https://docs.mongodb.com/) | 系统 | 翻译 | HTML | -1 | @飞龙 |
@@ -131,6 +134,7 @@
     +   [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
     +   [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
     +   [Numba 0.44 中文文档](https://github.com/apachecn/numba-doc-zh)
+    +   [Cython 3.0 中文文档](https://github.com/apachecn/cython-doc-zh) 
 +   [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI)
 +   [Daily Interview - 人工智能面经](https://github.com/datawhalechina/Daily-interview)
 
@@ -178,6 +182,7 @@
 1.  [PyQt4 中文文档](https://github.com/apachecn/pyqt4-doc-zh)
 1.  [命令行的艺术](https://github.com/apachecn/the-art-of-command-line/blob/master/README-zh.md)
 1.  [Numba 0.44 中文文档](https://github.com/apachecn/numba-doc-zh)
+1.  [Cython 3.0 中文文档](https://github.com/apachecn/cython-doc-zh) 
 
 ### 区块链
 
