@@ -18,6 +18,10 @@
 
 ## **进行中**
 
+1.  【校对】[UIUC CS241 系统编程中文讲义](https://github.com/apachecn/uiuc-cs241-notes-zh) 
+    
+    在 [issues](https://github.com/apachecn/uiuc-cs241-notes-zh/issues/1) 中领取任务
+    
 1.  【校对】[Cython 3.0 中文文档](https://github.com/apachecn/cython-doc-zh) 
     
     在 [issues](https://github.com/apachecn/cython-doc-zh/issues/1) 中领取任务
@@ -85,7 +89,6 @@
 | 名称 | 领域 | 类型 | 格式 | 优先级 | 提议人 |
 | --- | --- | --- | --- | --- | --- |
 | [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh) | AI/DS | 翻译 | IPYNB | 1 | @飞龙 |
-| [UIUC CS241 众包系统编程](https://github.com/angrave/SystemProgramming/wiki) | 系统 | 翻译 | HTML | 1 | @飞龙  |
 | [MIT 18.03 写给新手的微积分](http://math.mit.edu/~djk/calculus_beginners/) | 数学 | 翻译 | HTML | 1 | @飞龙 |
 | [Zetcode](http://zetcode.com/) | 编程 | 翻译 | HTML | 1 | @飞龙 |
 | [Succinctly Series](https://www.syncfusion.com/ebooks) | 编程 | 翻译 | HTML | 0 | @飞龙 |
@@ -225,6 +228,7 @@
 1.  [简单数据结构实现](https://github.com/apachecn/DataStructure)
 1.  [司镜的数据结构课程（持续更新）](https://www.bilibili.com/video/av41164819)
 1.  [从零编写简单的数据库](https://github.com/apachecn/misc-docs-zh/blob/master/docs/simple-db-zh)
+1.  [UIUC CS241 系统编程中文讲义](https://github.com/apachecn/uiuc-cs241-notes-zh)
 
 ### AI 教程
 
