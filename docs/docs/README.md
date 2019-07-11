@@ -263,6 +263,7 @@
 1.  [关于卷积神经网络我们理解了什么](https://github.com/apachecn/misc-docs-zh/blob/master/docs/what-do-we-understand-about-convnet)
 1.  [Daily Interview - 人工智能面经](https://github.com/datawhalechina/Daily-interview)
 1.  [百页机器学习小书](https://github.com/apachecn/ml-book-100-zh)
+1.  [Natural Language Processing with PyTorch 中文版](https://github.com/apachecn/NLP-with-PyTorch)
 
 ### AI 文档
 
