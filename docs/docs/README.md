@@ -18,55 +18,59 @@
 
 ## **进行中**
 
-1.  【校对】[UIUC CS241 系统编程中文讲义](https://github.com/apachecn/uiuc-cs241-notes-zh) 
+1.  【校对】[MIT 18.03 写给初学者的微积分](https://github.com/apachecn/calc4b-zh)
+    
+    在 [issues](https://github.com/apachecn/calc4b-zh/issues/1) 中领取任务
+
+1.  【校对】[UIUC CS241 系统编程中文讲义](https://github.com/apachecn/uiuc-cs241-notes-zh)
     
     在 [issues](https://github.com/apachecn/uiuc-cs241-notes-zh/issues/1) 中领取任务
     
-1.  【校对】[Cython 3.0 中文文档](https://github.com/apachecn/cython-doc-zh) 
+1.  【校对】[Cython 3.0 中文文档](https://github.com/apachecn/cython-doc-zh)
     
     在 [issues](https://github.com/apachecn/cython-doc-zh/issues/1) 中领取任务
     
-1.  【校对】[Numba 0.44 中文文档](https://github.com/apachecn/numba-doc-zh) 
+1.  【校对】[Numba 0.44 中文文档](https://github.com/apachecn/numba-doc-zh)
     
     在 [issues](https://github.com/apachecn/numba-doc-zh/issues/1) 中领取任务
     
-1.  【校对】[Scrapy 1.6 中文文档](https://github.com/apachecn/scrapy-doc-zh) 
+1.  【校对】[Scrapy 1.6 中文文档](https://github.com/apachecn/scrapy-doc-zh)
     
     在 [issues](https://github.com/apachecn/scrapy-doc-zh/issues/1) 中领取任务
 
-1.  【校对】[OpenCV 4.0 中文文档](https://github.com/apachecn/opencv-doc-zh) 
+1.  【校对】[OpenCV 4.0 中文文档](https://github.com/apachecn/opencv-doc-zh)
     
     在 [issues](https://github.com/apachecn/opencv-doc-zh/issues/1) 中领取任务
 
-1.  【笔记整理】[斯坦福 CS224n 中文笔记整理](https://github.com/apachecn/stanford-cs224n-notes-zh) 
+1.  【笔记整理】[斯坦福 CS224n 中文笔记整理](https://github.com/apachecn/stanford-cs224n-notes-zh)
     
     在 [issues](https://github.com/apachecn/stanford-cs224n-notes-zh/issues/1) 中领取任务
 
-1.  【翻译】[百页机器学习小书](https://github.com/apachecn/ml-book-100-zh) 
+1.  【翻译】[百页机器学习小书](https://github.com/apachecn/ml-book-100-zh)
     
     在 [issues](https://github.com/apachecn/ml-book-100-zh/issues/1) 中领取任务
 
-1.  【校对】[Machine Learning Mastery 教程](https://github.com/apachecn/ml-mastery-zh) 
+1.  【校对】[Machine Learning Mastery 教程](https://github.com/apachecn/ml-mastery-zh)
     
     在 [issues](https://github.com/apachecn/ml-mastery-zh/issues/1) 中领取任务
 
-1.  【校对】[ApacheCN 短篇集](https://github.com/apachecn/misc-docs-zh) 
+1.  【校对】[ApacheCN 短篇集](https://github.com/apachecn/misc-docs-zh)
     
     在 [issues](https://github.com/apachecn/misc-docs-zh/issues/1) 中领取任务
 
-1.  【校对】[Impatient JavaScript 中文版](https://github.com/apachecn/impatient-js-zh) 
+1.  【校对】[Impatient JavaScript 中文版](https://github.com/apachecn/impatient-js-zh)
     
     在 [issues](https://github.com/apachecn/impatient-js-zh/issues/1) 中领取任务
 
-1.  【校对】[Git 中文参考](https://github.com/apachecn/git-doc-zh) 
+1.  【校对】[Git 中文参考](https://github.com/apachecn/git-doc-zh)
     
     在 [issues](https://github.com/apachecn/git-doc-zh/issues/1) 中领取任务
 
-1.  【翻译】[seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh) 
+1.  【翻译】[seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
     
     在 [issues](https://github.com/apachecn/seaborn-doc-zh/issues/1) 中领取任务
 
-1.  【校对】[HBase 中文参考指南 3.0](https://github.com/apachecn/hbase-doc-zh) 
+1.  【校对】[HBase 中文参考指南 3.0](https://github.com/apachecn/hbase-doc-zh)
     
     在 [issues](https://github.com/apachecn/hbase-doc-zh/issues/1) 中领取任务
 
@@ -89,7 +93,6 @@
 | 名称 | 领域 | 类型 | 格式 | 优先级 | 提议人 |
 | --- | --- | --- | --- | --- | --- |
 | [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh) | AI/DS | 翻译 | IPYNB | 1 | @飞龙 |
-| [MIT 18.03 写给新手的微积分](http://math.mit.edu/~djk/calculus_beginners/) | 数学 | 翻译 | HTML | 1 | @飞龙 |
 | [Zetcode](http://zetcode.com/) | 编程 | 翻译 | HTML | 1 | @飞龙 |
 | [Succinctly Series](https://www.syncfusion.com/ebooks) | 编程 | 翻译 | HTML | 0 | @飞龙 |
 | [MongoDB 文档](https://docs.mongodb.com/) | 系统 | 翻译 | HTML | -1 | @飞龙 |
@@ -194,6 +197,7 @@
 ### 数学笔记
 
 1.  [MIT 18.06 线性代数笔记](https://github.com/apachecn/math)
+2.  [MIT 18.03 写给初学者的微积分](https://github.com/apachecn/calc4b-zh)
 
 ### 数据科学文档
 
