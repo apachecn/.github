@@ -95,15 +95,18 @@
 | [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh) | AI/DS | 翻译 | IPYNB | 1 | @飞龙 |
 | [Zetcode](http://zetcode.com/) | 编程 | 翻译 | HTML | 1 | @飞龙 |
 | [Succinctly Series](https://www.syncfusion.com/ebooks) | 编程 | 翻译 | HTML | 0 | @飞龙 |
-| [MongoDB 文档](https://docs.mongodb.com/) | 系统 | 翻译 | HTML | -1 | @飞龙 |
+| [MongoDB 文档](https://docs.mongodb.com/) | 系统 | 翻译 | HTML | 0 | @飞龙 |
+| UCB CS294-158 深度无监督学习 2019 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
+| 斯坦福 CS234 强化学习 2019 | AI/DS | 笔记整理 | \- | 0 | @飞龙 |
+| 斯坦福博弈论 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
+| 优达量化交易 | AI/DS | 笔记整理 | \- | 0 | @飞龙 |
+| 优达无人驾驶 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
 | [Generating Software Tests](https://www.fuzzingbook.org/) | 工程 | 翻译 | HTML | -1 | @飞龙  |
 | [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | 理论 | 翻译 | MD | \- | @飞龙 |
 | [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | LaTeX | \- | @飞龙 |
 | [Practical Cryptography for Developers](https://cryptobook.nakov.com/)（未完） | 安全 | 翻译 | MD | \- | @飞龙 |
 | [Writing an OS in Rust](https://os.phil-opp.com/)（未完） | 系统 | 翻译 | HTML | \- | @飞龙 |
-| UCB CS294-158 深度无监督学习 2019 | AI/DS | 笔记整理 | \- | \- | @飞龙 |
-| 斯坦福 CS234 强化学习 2019 | AI/DS | 笔记整理 | \- | \- | @飞龙 |
-| 斯坦福博弈论 | AI/DS | 笔记整理 | \- | \- | @飞龙 |
+
 
 ## **学习资源**
 
