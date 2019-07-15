@@ -95,7 +95,6 @@
 | [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh) | AI/DS | 翻译 | IPYNB | 1 | @飞龙 |
 | [Zetcode](http://zetcode.com/) | 编程 | 翻译 | HTML | 1 | @飞龙 |
 | [Succinctly Series](https://www.syncfusion.com/ebooks) | 编程 | 翻译 | HTML | 0 | @飞龙 |
-| [MongoDB 文档](https://docs.mongodb.com/) | 系统 | 翻译 | HTML | 0 | @飞龙 |
 | UCB CS294-158 深度无监督学习 2019 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
 | 斯坦福 CS234 强化学习 2019 | AI/DS | 笔记整理 | \- | 0 | @飞龙 |
 | 斯坦福博弈论 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
