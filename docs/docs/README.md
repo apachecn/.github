@@ -178,7 +178,7 @@
 1.  [Kibana 5.2 中文文档](https://github.com/apachecn/kibana-doc-zh)
 1.  [Kudu 1.4.0 中文文档](https://github.com/apachecn/kudu-doc-zh) 
 1.  [Spring Boot 1.5.2 中文文档](https://github.com/apachecn/spring-boot-doc-zh)
-1.  [Airflow 中文文档](https://github.com/apachecn/airflow-doc-zh)
+1.  [Airflow 0.10.2 中文文档](https://github.com/apachecn/airflow-doc-zh)
 1.  [HBase 3.0 中文参考指南](https://github.com/apachecn/hbase-doc-zh)
 1.  [Flink 1.7 中文文档](https://github.com/apachecn/flink-doc-zh)
 1.  [Django 1.8 中文文档](https://github.com/apachecn/django-doc-18-zh)
@@ -206,9 +206,9 @@
 
 ### 数据科学文档
 
-1.  [NumPy 中文文档](https://github.com/apachecn/numpy-ref-zh)
-1.  [Pandas 中文文档](https://github.com/apachecn/pandas-doc-zh)
-1.  [Matplotlib 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh)
+1.  [NumPy 1.11 中文文档](https://github.com/apachecn/numpy-ref-zh)
+1.  [Pandas 0.19.2 中文文档](https://github.com/apachecn/pandas-doc-zh)
+1.  [Matplotlib 2.0 中文文档](https://github.com/apachecn/matplotlib-user-guide-zh)
 1.  [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
 1.  [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
 
