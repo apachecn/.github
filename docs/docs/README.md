@@ -96,7 +96,6 @@
 | [Zetcode](http://zetcode.com/) | 编程 | 翻译 | HTML | 1 | @飞龙 |
 | [Succinctly Series](https://www.syncfusion.com/ebooks) | 编程 | 翻译 | HTML | 0 | @飞龙 |
 | UCB CS294-158 深度无监督学习 2019 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
-| 斯坦福 CS234 强化学习 2019 | AI/DS | 笔记整理 | \- | 0 | @飞龙 |
 | 斯坦福博弈论 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
 | 优达量化交易 | AI/DS | 笔记整理 | \- | 0 | @飞龙 |
 | 优达无人驾驶 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
@@ -131,12 +130,13 @@
     +   [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
     +   [DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
     +   [斯坦福 CS224n 自然语言处理中文笔记](https://github.com/apachecn/stanford-cs224n-notes-zh) 
-+   UCB CS/DS 系列课本
++   UCB CS/DS/AI 系列课本/笔记
     +   [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh)
     +   [UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
     +   [UCB Data8 课本：计算与推断思维](https://github.com/apachecn/data8-textbook-zh)
     +   [UCB Prob140 课本：面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
     +   [UCB DS100 课本：数据科学的原理与技巧](https://github.com/apachecn/ds100-textbook-zh)
+    +   [UCB CS294-112 深度强化学习中文笔记](https://github.com/apachecn/ucb-cs294-112-notes-zh)
 +   Numpy 技术栈中文文档
     +   [NumPy 中文文档](https://github.com/apachecn/numpy-ref-zh)
     +   [Pandas 中文文档](https://github.com/apachecn/pandas-doc-zh)
@@ -273,6 +273,7 @@
 1.  [Daily Interview - 人工智能面经](https://github.com/datawhalechina/Daily-interview)
 1.  [百页机器学习小书](https://github.com/apachecn/ml-book-100-zh)
 1.  [Natural Language Processing with PyTorch 中文版](https://github.com/apachecn/NLP-with-PyTorch)
+1.  [UCB CS294-112 深度强化学习中文笔记](https://github.com/apachecn/ucb-cs294-112-notes-zh)
 
 ### AI 文档
 
