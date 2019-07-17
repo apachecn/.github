@@ -95,14 +95,14 @@
 | [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh) | AI/DS | 翻译 | IPYNB | 1 | @飞龙 |
 | [Zetcode](http://zetcode.com/) | 编程 | 翻译 | HTML | 1 | @飞龙 |
 | [Succinctly Series](https://www.syncfusion.com/ebooks) | 编程 | 翻译 | HTML | 0 | @飞龙 |
-| UCB CS294-158 深度无监督学习 2019 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
-| 斯坦福博弈论 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
+| [UCB CS294-158 深度无监督学习](https://www.bilibili.com/video/av44200063/) | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
+| [斯坦福博弈论](https://www.coursera.org/learn/game-theory-1) | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
 | 优达量化交易 | AI/DS | 笔记整理 | \- | 0 | @飞龙 |
 | 优达无人驾驶 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
 | [Generating Software Tests](https://www.fuzzingbook.org/) | 工程 | 翻译 | HTML | -1 | @飞龙  |
-| rpy2 文档 | 工具 | 翻译 | HTML | -1 | @飞龙  |
-| 21 世纪的统计学 | AI/DS | 翻译 | HTML | -1 | @飞龙  |
-| 预测的原理与技巧 | AI/DS | 翻译 | HTML | -1 | @飞龙  |
+| [rpy2 文档](https://rpy2.readthedocs.io/en/version_2.8.x/) | 工具 | 翻译 | HTML | -1 | @飞龙  |
+| [21 世纪的统计思维](http://statsthinking21.org/) | AI/DS | 翻译 | HTML | -1 | @飞龙  |
+| [预测的原理与技巧](https://otexts.com/fpp2/) | AI/DS | 翻译 | HTML | -1 | @飞龙  |
 | [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | 理论 | 翻译 | MD | \- | @飞龙 |
 | [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | LaTeX | \- | @飞龙 |
 | [Practical Cryptography for Developers](https://cryptobook.nakov.com/)（未完） | 安全 | 翻译 | MD | \- | @飞龙 |
