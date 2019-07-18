@@ -46,10 +46,6 @@
     
     在 [issues](https://github.com/apachecn/stanford-cs224n-notes-zh/issues/1) 中领取任务
 
-1.  【翻译】[百页机器学习小书](https://github.com/apachecn/ml-book-100-zh)
-    
-    在 [issues](https://github.com/apachecn/ml-book-100-zh/issues/1) 中领取任务
-
 1.  【校对】[Machine Learning Mastery 教程](https://github.com/apachecn/ml-mastery-zh)
     
     在 [issues](https://github.com/apachecn/ml-mastery-zh/issues/1) 中领取任务
@@ -83,6 +79,10 @@
     在 [issues](https://github.com/apachecn/prob140-textbook-zh/issues/2) 中领取任务
 
 ## **认领完毕**
+
+1.  【翻译】[百页机器学习小书](https://github.com/apachecn/ml-book-100-zh)
+    
+    在 [issues](https://github.com/apachecn/ml-book-100-zh/issues/1) 中领取任务
 
 1.  【翻译】[UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
     
