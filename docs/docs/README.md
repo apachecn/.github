@@ -18,6 +18,10 @@
 
 ## **进行中**
 
+1.  【笔记整理】[斯坦福 CS234 强化学习中文笔记](https://github.com/apachecn/stanford-cs234-notes-zh)
+    
+    在 [issues](https://github.com/apachecn/stanford-cs234-notes-zh/issues/1) 中领取任务
+
 1.  【校对】[MIT 18.03 写给初学者的微积分](https://github.com/apachecn/calc4b-zh)
     
     在 [issues](https://github.com/apachecn/calc4b-zh/issues/1) 中领取任务
@@ -42,7 +46,7 @@
     
     在 [issues](https://github.com/apachecn/opencv-doc-zh/issues/1) 中领取任务
 
-1.  【笔记整理】[斯坦福 CS224n 中文笔记整理](https://github.com/apachecn/stanford-cs224n-notes-zh)
+1.  【笔记整理】[斯坦福 CS224n 中文笔记](https://github.com/apachecn/stanford-cs224n-notes-zh)
     
     在 [issues](https://github.com/apachecn/stanford-cs224n-notes-zh/issues/1) 中领取任务
 
@@ -131,6 +135,7 @@
     +   [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
     +   [DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
     +   [斯坦福 CS224n 自然语言处理中文笔记](https://github.com/apachecn/stanford-cs224n-notes-zh) 
+    +   [斯坦福 CS234 强化学习中文笔记](https://github.com/apachecn/stanford-cs234-notes-zh)
 +   UCB CS/DS/AI 系列课本/笔记
     +   [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh)
     +   [UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
@@ -252,6 +257,7 @@
 1.  [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
 1.  [DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
 1.  [斯坦福 CS224n 自然语言处理中文笔记](https://github.com/apachecn/stanford-cs224n-notes-zh) 
+1.  [斯坦福 CS234 强化学习中文笔记](https://github.com/apachecn/stanford-cs234-notes-zh)
 1.  [台湾大学林轩田机器学习笔记](https://github.com/apachecn/ntu-hsuantienlin-ml)
 1.  [Python 自然语言处理 中文第二版](https://github.com/apachecn/nlp-py-2e-zh)
 1.  [Scikit-learn 秘籍](https://github.com/apachecn/sklearn-cookbook-zh)
