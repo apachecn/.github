@@ -238,12 +238,12 @@
 1.  [GeeksForGeeks 翻译计划](https://github.com/apachecn/geeksforgeeks-zh)
 1.  [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh)
 1.  [UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
+1.  [UIUC CS241 系统编程中文讲义](https://github.com/apachecn/uiuc-cs241-notes-zh)
 1.  [数据结构思维](https://github.com/apachecn/think-dast-zh)
 1.  [中国大学 MOOC 计算机操作系统笔记](https://github.com/apachecn/Computer-operating-system-notes)
 1.  [简单数据结构实现](https://github.com/apachecn/DataStructure)
 1.  [司镜的数据结构课程（持续更新）](https://www.bilibili.com/video/av41164819)
 1.  [从零编写简单的数据库](https://github.com/apachecn/misc-docs-zh/blob/master/docs/simple-db-zh)
-1.  [UIUC CS241 系统编程中文讲义](https://github.com/apachecn/uiuc-cs241-notes-zh)
 
 ### AI 教程
 
@@ -258,6 +258,7 @@
 1.  [DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
 1.  [斯坦福 CS224n 自然语言处理中文笔记](https://github.com/apachecn/stanford-cs224n-notes-zh) 
 1.  [斯坦福 CS234 强化学习中文笔记](https://github.com/apachecn/stanford-cs234-notes-zh)
+1.  [UCB CS294-112 深度强化学习中文笔记](https://github.com/apachecn/ucb-cs294-112-notes-zh)
 1.  [台湾大学林轩田机器学习笔记](https://github.com/apachecn/ntu-hsuantienlin-ml)
 1.  [Python 自然语言处理 中文第二版](https://github.com/apachecn/nlp-py-2e-zh)
 1.  [Scikit-learn 秘籍](https://github.com/apachecn/sklearn-cookbook-zh)
@@ -276,11 +277,12 @@
 1.  [数据科学和人工智能技术笔记](https://github.com/apachecn/ds-ai-tech-notes)
 1.  [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI)
 1.  [Sklearn 学习指南](https://github.com/apachecn/misc-docs-zh/blob/master/docs/learning-sklearn)
+1.  [南瓜书（西瓜书公式推导解析）](https://github.com/datawhalechina/pumpkin-book)
 1.  [关于卷积神经网络我们理解了什么](https://github.com/apachecn/misc-docs-zh/blob/master/docs/what-do-we-understand-about-convnet)
 1.  [Daily Interview - 人工智能面经](https://github.com/datawhalechina/Daily-interview)
 1.  [百页机器学习小书](https://github.com/apachecn/ml-book-100-zh)
 1.  [Natural Language Processing with PyTorch 中文版](https://github.com/apachecn/NLP-with-PyTorch)
-1.  [UCB CS294-112 深度强化学习中文笔记](https://github.com/apachecn/ucb-cs294-112-notes-zh)
+1.  [李宏毅机器学习笔记](https://github.com/datawhalechina/Leeml-Book)
 
 ### AI 文档
 
