@@ -100,7 +100,6 @@
 | [Zetcode](http://zetcode.com/) | 编程 | 翻译 | HTML | 1 | @飞龙 |
 | [Succinctly Series](https://www.syncfusion.com/ebooks) | 编程 | 翻译 | HTML | 0 | @飞龙 |
 | [Startup School](https://www.startupschool.org/) | 商业 | 翻译 | HTML | 0 | @飞龙 |
-| [UCB CS294-158 深度无监督学习](https://www.bilibili.com/video/av44200063/) | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
 | [斯坦福博弈论](https://www.coursera.org/learn/game-theory-1) | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
 | 优达量化交易 | AI/DS | 笔记整理 | \- | 0 | @飞龙 |
 | 优达无人驾驶 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
