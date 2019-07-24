@@ -18,6 +18,10 @@
 
 ## **进行中**
 
+1.  【笔记整理】[图深度学习论文笔记整理](https://github.com/apachecn/graph-emb-dl-notes)
+    
+    在 [issues](https://github.com/apachecn/graph-emb-dl-notes/issues/1) 中领取任务
+
 1.  【翻译】[斯坦福 CS234 强化学习中文讲义](https://github.com/apachecn/stanford-cs234-notes-zh)
     
     在 [issues](https://github.com/apachecn/stanford-cs234-notes-zh/issues/1) 中领取任务
@@ -282,6 +286,7 @@
 1.  [百页机器学习小书](https://github.com/apachecn/ml-book-100-zh)
 1.  [Natural Language Processing with PyTorch 中文版](https://github.com/apachecn/NLP-with-PyTorch)
 1.  [李宏毅机器学习笔记](https://github.com/datawhalechina/Leeml-Book)
+1.  [图深度学习论文笔记整理](https://github.com/apachecn/graph-emb-dl-notes)
 
 ### AI 文档
 
