@@ -18,10 +18,6 @@
 
 ## **进行中**
 
-1.  【笔记整理】[图深度学习论文笔记整理](https://github.com/apachecn/graph-emb-dl-notes)
-    
-    在 [issues](https://github.com/apachecn/graph-emb-dl-notes/issues/1) 中领取任务
-
 1.  【翻译】[斯坦福 CS234 强化学习中文讲义](https://github.com/apachecn/stanford-cs234-notes-zh)
     
     在 [issues](https://github.com/apachecn/stanford-cs234-notes-zh/issues/1) 中领取任务
