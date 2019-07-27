@@ -18,6 +18,10 @@
 
 ## **进行中**
 
+1.  【笔记整理】[斯坦福博弈论中文笔记](https://github.com/apachecn/stanford-game-theory-notes-zh)
+    
+    在 [issues](https://github.com/apachecn/stanford-game-theory-notes-zh/issues/1) 中领取任务
+
 1.  【翻译】[斯坦福 CS234 强化学习中文讲义](https://github.com/apachecn/stanford-cs234-notes-zh)
     
     在 [issues](https://github.com/apachecn/stanford-cs234-notes-zh/issues/1) 中领取任务
@@ -100,7 +104,6 @@
 | [Zetcode](http://zetcode.com/) | 编程 | 翻译 | HTML | 1 | @飞龙 |
 | [Succinctly Series](https://www.syncfusion.com/ebooks) | 编程 | 翻译 | HTML | 0 | @飞龙 |
 | [Startup School](https://www.startupschool.org/) | 商业 | 翻译 | HTML | 0 | @飞龙 |
-| [斯坦福博弈论](https://www.coursera.org/learn/game-theory-1) | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
 | 优达量化交易 | AI/DS | 笔记整理 | \- | 0 | @飞龙 |
 | 优达无人驾驶 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
 | [Generating Software Tests](https://www.fuzzingbook.org/) | 工程 | 翻译 | HTML | -1 | @飞龙  |
@@ -130,11 +133,12 @@
     +   [Kaggle 项目实战教程：文档 + 代码 + 视频](https://github.com/apachecn/kaggle)
     +   [数据科学比赛收集平台](https://github.com/iphysresearch/DataSciComp)
 +   [LeetCode，HackRank，剑指 offer，经典算法实现](https://github.com/apachecn/LeetCode)
-+   斯坦福 AI 系列笔记
++   斯坦福 DS/AI 系列笔记
     +   [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
     +   [DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
     +   [斯坦福 CS224n 自然语言处理中文笔记](https://github.com/apachecn/stanford-cs224n-notes-zh) 
     +   [斯坦福 CS234 强化学习中文讲义](https://github.com/apachecn/stanford-cs234-notes-zh)
+    +   [斯坦福博弈论中文笔记](https://github.com/apachecn/stanford-game-theory-notes-zh)
 +   UCB CS/DS/AI 系列课本/笔记
     +   [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh)
     +   [UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
@@ -230,6 +234,8 @@
 1.  [数据科学 IPython 笔记本](https://github.com/apachecn/ds-ipynb-zh)
 1.  [UCSD COGS108 数据科学实战中文笔记](https://github.com/apachecn/ucsd-cogs108-notes)
 1.  [USF MSDS501 计算数据科学中文讲义](https://github.com/apachecn/usf-msds501-notes-zh)
+1.  [斯坦福博弈论中文笔记](https://github.com/apachecn/stanford-game-theory-notes-zh)
+
 
 ### CS 教程
 
