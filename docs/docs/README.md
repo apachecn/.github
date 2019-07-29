@@ -101,12 +101,12 @@
 | 名称 | 领域 | 类型 | 格式 | 优先级 | 提议人 |
 | --- | --- | --- | --- | --- | --- |
 | [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh) | AI/DS | 翻译 | IPYNB | 1 | @飞龙 |
-| [Zetcode](http://zetcode.com/) | 编程 | 翻译 | HTML | 1 | @飞龙 |
-| [Succinctly Series](https://www.syncfusion.com/ebooks) | 编程 | 翻译 | HTML | 0 | @飞龙 |
-| [Startup School](https://www.startupschool.org/) | 商业 | 翻译 | HTML | 0 | @飞龙 |
-| [Generating Software Tests](https://www.fuzzingbook.org/) | 工程 | 翻译 | HTML | -1 | @飞龙  |
+| [Startup School](https://www.startupschool.org/) | 商业 | 翻译 | HTML | 1 | @飞龙 |
+| [Generating Software Tests](https://www.fuzzingbook.org/) | 工程 | 翻译 | HTML | 1 | @飞龙  |
 | 优达量化交易 | AI/DS | 笔记整理 | \- | 0 | @飞龙 |
-| 优达无人驾驶 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
+| 优达无人驾驶 | AI/DS | 笔记整理 | \- | 0 | @飞龙 |
+| [Zetcode](http://zetcode.com/) | 编程 | 翻译 | HTML | -1 | @飞龙 |
+| [Succinctly Series](https://www.syncfusion.com/ebooks) | 编程 | 翻译 | HTML | -1 | @飞龙 |
 | [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | 理论 | 翻译 | MD | \- | @飞龙 |
 | [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | LaTeX | \- | @飞龙 |
 | [Practical Cryptography for Developers](https://cryptobook.nakov.com/)（未完） | 安全 | 翻译 | MD | \- | @飞龙 |
