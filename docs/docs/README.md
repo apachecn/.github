@@ -107,7 +107,6 @@
 | 优达量化交易 | AI/DS | 笔记整理 | \- | 0 | @飞龙 |
 | 优达无人驾驶 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
 | [Generating Software Tests](https://www.fuzzingbook.org/) | 工程 | 翻译 | HTML | -1 | @飞龙  |
-| [rpy2 文档](https://rpy2.readthedocs.io/en/version_2.8.x/) | 工具 | 翻译 | HTML | -1 | @飞龙  |
 | [预测的原理与技巧](https://otexts.com/fpp2/) | AI/DS | 翻译 | HTML | -1 | @飞龙  |
 | [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | 理论 | 翻译 | MD | \- | @飞龙 |
 | [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | LaTeX | \- | @飞龙 |
@@ -203,6 +202,7 @@
 1.  [命令行的艺术](https://github.com/apachecn/the-art-of-command-line/blob/master/README-zh.md)
 1.  [Numba 0.44 中文文档](https://github.com/apachecn/numba-doc-zh)
 1.  [Cython 3.0 中文文档](https://github.com/apachecn/cython-doc-zh) 
+1.  [rpy2 2.8 中文文档](https://github.com/apachecn/rpy2-doc-zh) 
 
 ### 区块链
 
