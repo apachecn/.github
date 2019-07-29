@@ -108,7 +108,6 @@
 | 优达无人驾驶 | AI/DS | 笔记整理 | \- | -1 | @飞龙 |
 | [Generating Software Tests](https://www.fuzzingbook.org/) | 工程 | 翻译 | HTML | -1 | @飞龙  |
 | [rpy2 文档](https://rpy2.readthedocs.io/en/version_2.8.x/) | 工具 | 翻译 | HTML | -1 | @飞龙  |
-| [21 世纪的统计思维](http://statsthinking21.org/) | AI/DS | 翻译 | HTML | -1 | @飞龙  |
 | [预测的原理与技巧](https://otexts.com/fpp2/) | AI/DS | 翻译 | HTML | -1 | @飞龙  |
 | [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | 理论 | 翻译 | MD | \- | @飞龙 |
 | [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | LaTeX | \- | @飞龙 |
@@ -134,6 +133,7 @@
     +   [数据科学比赛收集平台](https://github.com/iphysresearch/DataSciComp)
 +   [LeetCode，HackRank，剑指 offer，经典算法实现](https://github.com/apachecn/LeetCode)
 +   斯坦福 DS/AI 系列笔记
+    +   [斯坦福 STATS60 课本：21 世纪的统计思维](https://github.com/apachecn/stats-thinking-21-zh)
     +   [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
     +   [DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
     +   [斯坦福 CS224n 自然语言处理中文笔记](https://github.com/apachecn/stanford-cs224n-notes-zh) 
@@ -223,6 +223,8 @@
 
 ### 数据科学教程
 
+1.  [斯坦福 STATS60 课本：21 世纪的统计思维](https://github.com/apachecn/stats-thinking-21-zh)
+1.  [斯坦福博弈论中文笔记](https://github.com/apachecn/stanford-game-theory-notes-zh)
 1.  [UCB Data8 课本：计算与推断思维](https://github.com/apachecn/data8-textbook-zh)
 1.  [UCB Prob140 课本：面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
 1.  [UCB DS100 课本：数据科学的原理与技巧](https://github.com/apachecn/ds100-textbook-zh)
@@ -234,8 +236,6 @@
 1.  [数据科学 IPython 笔记本](https://github.com/apachecn/ds-ipynb-zh)
 1.  [UCSD COGS108 数据科学实战中文笔记](https://github.com/apachecn/ucsd-cogs108-notes)
 1.  [USF MSDS501 计算数据科学中文讲义](https://github.com/apachecn/usf-msds501-notes-zh)
-1.  [斯坦福博弈论中文笔记](https://github.com/apachecn/stanford-game-theory-notes-zh)
-
 
 ### CS 教程
 
