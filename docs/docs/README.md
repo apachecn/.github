@@ -101,7 +101,6 @@
 | 名称 | 领域 | 类型 | 格式 | 优先级 | 提议人 |
 | --- | --- | --- | --- | --- | --- |
 | [UCB DS100 讲义](https://github.com/apachecn/ds100-textbook-zh) | AI/DS | 翻译 | IPYNB | 1 | @飞龙 |
-| [Startup School](https://www.startupschool.org/) | 商业 | 翻译 | HTML | 1 | @飞龙 |
 | [Generating Software Tests](https://www.fuzzingbook.org/) | 工程 | 翻译 | HTML | 1 | @飞龙  |
 | 优达量化交易 | AI/DS | 笔记整理 | \- | 0 | @飞龙 |
 | 优达无人驾驶 | AI/DS | 笔记整理 | \- | 0 | @飞龙 |
