@@ -119,21 +119,19 @@
     +   [文字教程](https://github.com/apachecn/AiLearning)
     +   [教学版视频](https://space.bilibili.com/97678687/channel/detail?cid=22486)
     +   [讨论版视频](https://space.bilibili.com/97678687/channel/detail?cid=13045)
++   [Interview：简历指南 + LeetCode + Kaggle](https://github.com/apachecn/Interview)
 +   [Kaggle 学习系列视频](https://www.bilibili.com/video/av53119200)
 +   [简历分享系列视频](https://www.bilibili.com/video/av53122083)
 +   [AI 路线图（知识树）](https://github.com/apachecn/ai-roadmap)
 +   [Machine Learning Mastery 博客文章翻译](https://github.com/apachecn/ml-mastery-zh)
 +   [PyTorch 0.2/0.3/0.4/1.0 中文文档和教程](https://github.com/apachecn/pytorch-doc-zh)
-+   人工智能/机器学习/数据科学比赛系列
-    +   [Kaggle 项目实战教程：文档 + 代码 + 视频](https://github.com/apachecn/kaggle)
-    +   [数据科学比赛收集平台](https://github.com/iphysresearch/DataSciComp)
-+   [LeetCode，HackRank，剑指 offer，经典算法实现](https://github.com/apachecn/LeetCode)
++   [数据科学比赛收集平台](https://github.com/iphysresearch/DataSciComp)
 +   斯坦福 DS/AI 系列笔记
-    +   [斯坦福 STATS60 课本：21 世纪的统计思维](https://github.com/apachecn/stats-thinking-21-zh)
     +   [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
     +   [DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
     +   [斯坦福 CS224n 自然语言处理中文笔记](https://github.com/apachecn/stanford-cs224n-notes-zh) 
     +   [斯坦福 CS234 强化学习中文讲义](https://github.com/apachecn/stanford-cs234-notes-zh)
+    +   [斯坦福 STATS60 课本：21 世纪的统计思维](https://github.com/apachecn/stats-thinking-21-zh)
     +   [斯坦福博弈论中文笔记](https://github.com/apachecn/stanford-game-theory-notes-zh)
 +   UCB CS/DS/AI 系列课本/笔记
     +   [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh)
@@ -142,6 +140,7 @@
     +   [UCB Prob140 课本：面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
     +   [UCB DS100 课本：数据科学的原理与技巧](https://github.com/apachecn/ds100-textbook-zh)
     +   [UCB CS294-112 深度强化学习中文笔记](https://github.com/apachecn/ucb-cs294-112-notes-zh)
++   [斯坦福 CS183 系列 / YC 创业课系列中文笔记](https://github.com/apachecn/stanford-cs183-notes)
 +   Numpy 技术栈中文文档
     +   [NumPy 中文文档](https://github.com/apachecn/numpy-ref-zh)
     +   [Pandas 中文文档](https://github.com/apachecn/pandas-doc-zh)
@@ -236,7 +235,7 @@
 
 ### CS 教程
 
-1.  [LeetCode，HackRank，剑指 offer，经典算法实现](https://github.com/apachecn/LeetCode)
+1.  [LeetCode，HackRank，剑指 offer，经典算法实现（已停更）](https://github.com/apachecn/LeetCode)
 1.  [GeeksForGeeks 翻译计划](https://github.com/apachecn/geeksforgeeks-zh)
 1.  [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh)
 1.  [UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
@@ -299,7 +298,7 @@
 
 ### AI 比赛
 
-1.  [Kaggle 项目实战教程：文档 + 代码 + 视频](https://github.com/apachecn/kaggle)
+1.  [Interview：简历指南 + LeetCode + Kaggle](https://github.com/apachecn/Interview)
 1.  [Kaggle 学习系列视频](https://www.bilibili.com/video/av53119200)
 1.  [数据科学比赛收集平台](https://github.com/iphysresearch/DataSciComp)
 
@@ -317,8 +316,8 @@
 ### 其它
 
 1.  [简历分享系列视频](https://www.bilibili.com/video/av53122083)
+1.  [斯坦福 CS183 系列 / YC 创业课系列中文笔记](https://github.com/apachecn/stanford-cs183-notes)
 1.  [独立开发/自由职业/远程工作资源列表](https://github.com/apachecn/awesome-indie-zh)
 1.  [通往财富自由之路精细笔记](https://github.com/apachecn/the-way-to-wealth-freedom-notes)
 1.  [5 分钟商学院精细笔记](https://github.com/apachecn/5min-business-notes)
-1.  [斯坦福 CS183 系列中文笔记](https://github.com/apachecn/stanford-cs183-notes)
 1.  [English - World Travel](https://github.com/apachecn/English)
