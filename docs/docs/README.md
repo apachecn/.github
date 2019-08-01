@@ -120,6 +120,7 @@
     +   [教学版视频](https://space.bilibili.com/97678687/channel/detail?cid=22486)
     +   [讨论版视频](https://space.bilibili.com/97678687/channel/detail?cid=13045)
 +   [Interview：简历指南 + LeetCode + Kaggle](https://github.com/apachecn/Interview)
++   [计算机公开课推荐](https://github.com/apachecn/awesome-cs-courses-zh)
 +   [Kaggle 学习系列视频](https://www.bilibili.com/video/av53119200)
 +   [简历分享系列视频](https://www.bilibili.com/video/av53122083)
 +   [AI 路线图（知识树）](https://github.com/apachecn/ai-roadmap)
@@ -237,6 +238,7 @@
 
 ### CS 教程
 
+1.  [计算机公开课推荐](https://github.com/apachecn/awesome-cs-courses-zh)
 1.  [LeetCode，HackRank，剑指 offer，经典算法实现（已停更）](https://github.com/apachecn/LeetCode)
 1.  [GeeksForGeeks 翻译计划](https://github.com/apachecn/geeksforgeeks-zh)
 1.  [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh)
