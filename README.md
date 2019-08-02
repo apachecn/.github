@@ -19,7 +19,7 @@
 > 
 > 与商业组织不同，我们并不会追逐热点，或者唯利是图。作为公益组织，我们将完成项目放在首要位置，并有足够时间把项目打磨到极致。我们希望做出广大 AI 爱好者真正需要的东西，打造真正有价值的长尾作品。
 > 
-> 除了以上组织或个人，我们还要感谢[苍海国际](https://www.258ch.com/)、[黑客派](https://hacpai.com/)、[GirlsInAI](https://www.weibo.com/u/2650740963)、[DataSciComp](https://iphysresearch.github.io/DataSciComp/)、[SeanCheney](https://www.jianshu.com/u/130f76596b02)的创意和支持。
+> 除了以上组织或个人，我们还要感谢[苍海国际](https://www.258ch.com/)、[黑客派](https://hacpai.com/)、[GirlsInAI](https://www.weibo.com/u/2650740963)、[DataSciComp](https://iphysresearch.github.io/DataSciComp/)、[SeanCheney](https://www.jianshu.com/u/130f76596b02)、[AI 科技大本营](https://blog.csdn.net/dQCFKyQDXYm3F8rB0)的创意和支持。
 
 * 【导航】[ibooker.org.cn](http://www.ibooker.org.cn/)
 * 【归档】[home.apachecn.org](http://home.apachecn.org)
