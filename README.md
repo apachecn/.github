@@ -5,13 +5,13 @@
 
 ## **公告**
 
-1.  欢迎大家在我们平台上投放广告。如果你希望在我们的专栏、文档或邮件中投放广告，请准备好各种尺寸的图片和专属链接，联系咸鱼（QQ 1034616238）。
+1.  欢迎大家在我们平台上投放广告。如果你希望在我们的专栏、文档或邮件中投放广告，请准备好各种尺寸的图片和专属链接，联系咸鱼（1034616238）。
 1.  我们组织了一个开源互助平台，方便开源组织和大 V 互相认识，互相帮助，整合资源。请回复[这个帖子](https://www.ibooker.org.cn/topic/2019-04-%e4%ba%92%e5%8a%a9%e8%81%94%e7%9b%9f/)并注明组织/个人信息来申请加入。
 1.  请回复[这个帖子](https://www.ibooker.org.cn/topic/%e7%bf%bb%e8%af%91%e5%be%81%e9%9b%86/)来推荐希望翻译的内容。如果大家遇到了做得不错的教程或翻译项目，也可以推荐给我们。我们会联系项目的维护者，一起把它变得更好。
 1.  我们的各个公众平台接受人工智能、环材化生劝退、CS 留学申请、IT 外企求职的投稿，[详情请见这里](https://github.com/apachecn/awesome-AI-blog-post)，我们会每日从所有投稿博文中精选两篇，在 ApacheCN 全平台推送。
 1.  为了能够将开源事业做大做强，[ApacheCN 需要与公益基金会（IT、教育类）合作](https://www.zhihu.com/question/318287335)，欢迎大家提供帮助。[同时我们也接受社会各界的捐助](https://t.modian.com/project/67957.html)。
 1.  如果你不希望再收到我们的邮件，请直接拉黑我们，不要浪费彼此的时间，谢谢合作。
-1.  [ByteInAI](http://byteinai.com) 是我们和 Datawhale、AI 有道、黄海广博士等组织或个人联合推出的 AI 垂直自媒体，是一个纯商业项目。如果你有意向投资这个项目，请联系 Datawhale（[微信二维码](http://home.apachecn.org/img/about/datawhale_wx_qr.png)）或咸鱼（QQ 1034616238）。
+1.  [ByteInAI](http://byteinai.com) 是我们和 Datawhale、AI 有道、黄海广博士等组织或个人联合推出的 AI 垂直自媒体，是一个纯商业项目。如果你有意向投资这个项目，请联系 [Datawhale](http://home.apachecn.org/img/about/datawhale_wx_qr.png) 或咸鱼（1034616238）。
 
 ## **组织介绍**
 
