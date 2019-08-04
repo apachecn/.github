@@ -1,0 +1,94 @@
+﻿@charset "utf-8"; 
+/* 
+@名称: base 
+@功能: 重设浏览器默认样式 
+*/ 
+/* 防止用户自定义背景颜色对网页的影响，添加让用户可以自定义字体 */ 
+/*
+/* 内外边距通常让各个浏览器样式的表现位置不同 */ 
+html,body,div,h1,h2,h3,h4,h5,h6,p,dl,dt,dd,ol,ul,li,fieldset,form,label,input,legend, table,caption,tbody,tfoot,thead,tr,th,td,textarea,article,aside,audio,canvas,figure, footer,header,mark,menu,nav,section,time,video{ 
+margin: 0; 
+padding: 0;
+}
+/* 要注意表单元素并不继承父级 font 的问题 */ 
+body,button,input,select,textarea { 
+font: 14px / 1.5 "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif;
+} 
+input,select,textarea { 
+font-size:100%; 
+} 
+/* 去掉各Table cell 的边距并让其边重合 */ 
+table { 
+border-collapse:collapse; 
+border-spacing:0; 
+} 
+/* IE bug fixed: th 不继承 text-align*/ 
+th { 
+text-align:inherit; 
+} 
+/* 去除默认边框 */ 
+fieldset,img { 
+border:none; 
+} 
+/* ie6 7 8(q) bug 显示为行内表现 */ 
+iframe { 
+display:block; 
+} 
+/* 去掉 firefox 下此元素的边框 */ 
+abbr,acronym { 
+border:none; 
+font-variant:normal; 
+} 
+/* 一致的 del 样式 */ 
+del{ 
+text-decoration:line-through; 
+} 
+address,caption,cite,code,dfn,em,th,var { 
+font-style:normal; 
+font-weight:500; 
+} 
+/* 去掉列表前的标识, li 会继承 */ 
+ol,ul { 
+list-style:none; 
+} 
+/* 对齐是排版最重要的因素, 别让什么都居中 */ 
+caption,th { 
+text-align:left; 
+} 
+/* 来自yahoo, 让标题都自定义, 适应多个系统应用 */ 
+h1,h2,h3,h4,h5,h6 { 
+font-size:100%; 
+font-weight:500; 
+} 
+q:before,q:after { 
+content:''; 
+} 
+/* 统一上标和下标 */ 
+sub, sup { 
+font-size:75%; 
+line-height:0; 
+position:relative; 
+vertical-align:baseline; 
+} 
+
+/* 让链接在 hover 状态下显示下划线 */ 
+a:link{
+text-decoration:none;
+}
+a:visited{
+text-decoration:none;
+}
+a:hover{
+text-decoration:none;
+}
+a:active{
+text-decoration:none;
+}
+/* 默认不显示下划线，保持页面简洁 */ 
+ins,a { 
+text-decoration:none; 
+} 
+/* IE6,7焦点点状线去除 */ 
+a:focus,*:focus { 
+outline:none; 
+}

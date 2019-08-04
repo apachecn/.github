@@ -5,8 +5,8 @@ install:
   - pip install -r requirement.txt
 
 script:
-  - cp README.md docs/index.md
-  - sed -i "s?docs/??g" docs/index.md
+  - cp README.md docs/info.md
+  - sed -i "s?docs/??g" docs/info.md
   - mkdocs build
 
 after_script:

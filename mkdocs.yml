@@ -8,6 +8,7 @@ repo_name: GitHub
 
 nav:
 - 布客: https://www.ibooker.org.cn/
+- 公告: info.md
 - 知识树: https://github.com/apachecn/ai-roadmap/tree/master/v1.0
 - 文档: docs/README.md
 - 论坛: https://www.ibooker.org.cn/forums/

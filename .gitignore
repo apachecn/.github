@@ -2,6 +2,6 @@ _book
 Thumbs.db
 node_modules
 .DS_Store
-docs/index.md
+docs/info.md
 site
 __pycache__
