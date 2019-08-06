@@ -100,16 +100,16 @@
 
 | 名称 | 领域 | 类型 | 格式 | 优先级 | 提议人 |
 | --- | --- | --- | --- | --- | --- |
-| [Generating Software Tests](https://www.fuzzingbook.org/) | 工程 | 翻译 | HTML | 1 | @飞龙  |
-| 优达量化交易 | AI/DS | 笔记整理 | \- | 0 | @飞龙 |
-| 优达无人驾驶 | AI/DS | 笔记整理 | \- | 0 | @飞龙 |
-| [Zetcode](http://zetcode.com/) | 编程 | 翻译 | HTML | -1 | @飞龙 |
-| [Succinctly Series](https://www.syncfusion.com/ebooks) | 编程 | 翻译 | HTML | -1 | @飞龙 |
-| [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | 理论 | 翻译 | MD | \- | @飞龙 |
-| [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | LaTeX | \- | @飞龙 |
-| [Practical Cryptography for Developers](https://cryptobook.nakov.com/)（未完） | 安全 | 翻译 | MD | \- | @飞龙 |
-| [Writing an OS in Rust](https://os.phil-opp.com/)（未完） | 系统 | 翻译 | HTML | \- | @飞龙 |
-
+| [Generating Software Tests](https://www.fuzzingbook.org/) | 工程 | 翻译 | 1 | @飞龙  |
+| 优达量化交易 | AI/DS | 笔记整理 | 0 | @飞龙 |
+| 优达无人驾驶 | AI/DS | 笔记整理 | 0 | @飞龙 |
+| [Zetcode](http://zetcode.com/) | 编程 | 翻译 | -1 | @飞龙 |
+| [Succinctly Series](https://www.syncfusion.com/ebooks) | 编程 | 翻译 | -1 | @飞龙 |
+| [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | 理论 | 翻译 | \- | @飞龙 |
+| [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | \- | @飞龙 |
+| [Practical Cryptography for Developers](https://cryptobook.nakov.com/)（未完） | 安全 | 翻译 | \- | @飞龙 |
+| [Writing an OS in Rust](https://os.phil-opp.com/)（未完） | 系统 | 翻译 | \- | @飞龙 |
+| [YC 创业课 2019](https://www.startupschool.org/latest)（未完） | 系统 | 翻译 | \- | @飞龙 |
 
 ## **学习资源**
 
