@@ -18,6 +18,10 @@
 
 ## **进行中**
 
+1.  【校对】[Sklearn 0.21 中文文档](https://github.com/apachecn/sklearn-doc-zh)
+    
+    在 [issues](https://github.com/apachecn/sklearn-doc-zh/issues/352) 中领取任务
+
 1.  【笔记整理】[斯坦福博弈论中文笔记](https://github.com/apachecn/stanford-game-theory-notes-zh)
     
     在 [issues](https://github.com/apachecn/stanford-game-theory-notes-zh/issues/1) 中领取任务
