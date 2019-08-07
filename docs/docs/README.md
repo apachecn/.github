@@ -243,6 +243,7 @@
 1.  [UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
 1.  [UIUC CS241 系统编程中文讲义](https://github.com/apachecn/uiuc-cs241-notes-zh)
 1.  [数据结构思维](https://github.com/apachecn/think-dast-zh)
+1.  [操作系统思维](https://github.com/apachecn/think-os-zh)
 1.  [中国大学 MOOC 计算机操作系统笔记](https://github.com/apachecn/Computer-operating-system-notes)
 1.  [简单数据结构实现](https://github.com/apachecn/DataStructure)
 1.  [司镜的数据结构课程（持续更新）](https://www.bilibili.com/video/av41164819)
