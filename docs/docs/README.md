@@ -101,9 +101,10 @@
 | 名称 | 领域 | 类型 | 优先级 |
 | --- | --- | --- | --- |
 | [Generating Software Tests](https://www.fuzzingbook.org/) | 工程 | 校对 | 1 |
+| AILearning NLP | AI/DS | 笔记整理 | 1 |
 | 优达量化交易 | AI/DS | 笔记整理 | 0 |
 | 优达无人驾驶 | AI/DS | 笔记整理 | 0 |
-| AILearning NLP | AI/DS | 笔记整理 | 0 |
+| [GT CS4650/7650 NLP](https://github.com/jacobeisenstein/gt-nlp-class) | AI/DS | 翻译 | -1 |
 | [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | 理论 | 校对 | - |
 | [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | - |
 | [Practical Cryptography for Developers](https://cryptobook.nakov.com/)（未完） | 安全 | 校对 | - |
