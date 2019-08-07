@@ -107,7 +107,7 @@
 | [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | - |
 | [Practical Cryptography for Developers](https://cryptobook.nakov.com/)（未完） | 安全 | 校对 | - |
 | [Writing an OS in Rust](https://os.phil-opp.com/)（未完） | 系统 | 校对 | - |
-| [YC 创业课 2019](https://www.startupschool.org/latest)（未完） | 系统 | 校对 | - |
+| [YC 创业课 2019](https://www.startupschool.org/latest)（未完） | 商业 | 校对 | - |
 
 ## **学习资源**
 
