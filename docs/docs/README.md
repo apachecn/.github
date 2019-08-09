@@ -294,6 +294,7 @@
 1.  [Natural Language Processing with PyTorch 中文版](https://github.com/apachecn/NLP-with-PyTorch)
 1.  [李宏毅机器学习笔记](https://github.com/datawhalechina/Leeml-Book)
 1.  [推荐系统遇上深度学习](https://www.jianshu.com/c/e12d7195a9ff)
+1.  [可解释的机器学习](https://github.com/apachecn/interpretable-ml-book-zh)
 
 ### AI 文档
 
