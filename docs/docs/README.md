@@ -157,6 +157,7 @@
     +   [Cython 3.0 中文文档](https://github.com/apachecn/cython-doc-zh) 
 +   [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI)
 +   [Daily Interview - 人工智能面经](https://github.com/datawhalechina/Daily-interview)
++   [ApacheCN 公众号历史文章](https://github.com/apachecn/awesome-article-recomm)
 
 ### 编程语言
 
@@ -325,6 +326,7 @@
 
 ### 其它
 
+1.  [ApacheCN 公众号历史文章](https://github.com/apachecn/awesome-article-recomm)
 1.  [简历分享系列视频](https://www.bilibili.com/video/av53122083)
 1.  [斯坦福 CS183 系列 / YC 创业课系列中文笔记](https://github.com/apachecn/stanford-cs183-notes)
 1.  [独立开发/自由职业/远程工作资源列表](https://github.com/apachecn/awesome-indie-zh)
