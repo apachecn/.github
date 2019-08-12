@@ -32,7 +32,7 @@
     * [知乎专栏：AILearning](https://zhuanlan.zhihu.com/apachecn-mlia)
     * [公众号：ApacheCN](http://home.apachecn.org/img/about/apachecn_qr.jpg)
     * [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073) | [博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html) | [OSChina](https://my.oschina.net/u/1777350?tab=newest&catalogId=6512710) | [SF](https://segmentfault.com/blog/flygon) | [掘金](https://juejin.im/user/57960af3128fe10056c637e4/posts)
-    * [简书](https://www.jianshu.com/c/4ee721d0c474) | [搜狐号](https://mp.sohu.com/profile?xpt=NDhjYmViMzMtZWE2Yi00NTlmLWE3OTQtY2FjNjIwNDBlZDJl) | [头条号](https://www.toutiao.com/c/user/1560897303348516/) | [百家号](https://baijiahao.baidu.com/u?app_id=1586378717339620) | [bilibili](http://space.bilibili.com/97678687)
+    * [简书](https://www.jianshu.com/c/4ee721d0c474) | [搜狐号](https://mp.sohu.com/profile?xpt=NDhjYmViMzMtZWE2Yi00NTlmLWE3OTQtY2FjNjIwNDBlZDJl) | [头条号](https://www.toutiao.com/c/user/3901644178/) | [bilibili](http://space.bilibili.com/97678687)
 * **We are ApacheCN Open Source Organization, not ASF! We are fans of AI, and have no relationship with ASF!**
 * 合作 or 侵权，请联系 <apachecn@163.com> | 请抄送一份到 <wizard.z@foxmail.com>
 
