@@ -21,7 +21,7 @@
 > 
 > 除了以上组织或个人，我们还要感谢[苍海国际](https://www.258ch.com/)、[黑客派](https://hacpai.com/)、[GirlsInAI](https://www.weibo.com/u/2650740963)、[DataSciComp](https://iphysresearch.github.io/DataSciComp/)、[SeanCheney](https://www.jianshu.com/u/130f76596b02)、[AI 科技大本营](https://blog.csdn.net/dQCFKyQDXYm3F8rB0)的创意和支持。
 
-* 【导航】[ibooker.org.cn](http://www.ibooker.org.cn/)
+* 【导航】[docs.apachecn.org](https://docs.apachecn.org/)
 * 【归档】[home.apachecn.org](http://home.apachecn.org)
 * 【社区】[ibooker.org.cn/forums](https://www.ibooker.org.cn/forums/)
 * 【Github】[@ApacheCN](https://github.com/apachecn)
