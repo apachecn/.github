@@ -1,0 +1,57 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#cvs {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.container {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tupu {
+  height: 500px;
+  border: 1px solid lightgray;
+  /* margin-bottom: 20px; */
+}
+
+.apachecn-card-wide {
+  width: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background: transparent;
+}
+
+.apachecn-card-wide h2 small {
+  padding-left: 10px;
+}
+
+.apachecn-card-wide > .mdl-card__title  {
+  color: #fff;
+  background: url('../img/welcome_card.jpg') center / cover;
+}
+
+.apachecn-card-wide > .mdl-card__supporting-text {
+  width: auto;
+}
+
+.contributors-table {
+  width: 100%;
+  margin-top: 20px;
+  background: transparent;
+}
+
+.text-left {
+  text-align: left !important;
+}
