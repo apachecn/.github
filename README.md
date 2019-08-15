@@ -81,9 +81,8 @@
 | 时间 | 群名称  | 群号  | 群人数  |
 | ------------ | ------------ | ------------ | ------------ |
 | 2018-11-21 | 量化分析 | <a target="_blank" href="https://jq.qq.com/?_wv=1027&k=5zZh6MK" target="_blank" rel="noopener">91380460</a> | 500 |
-| 2018-06-26 | LeetCode 刷题 | <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=fb51367d7878250980024da7f1bdca8d4dab15e6c9864dba29aff27a407f4436" target="_blank" rel="noopener">812791932</a> | 1000 |
 | 2018-05-02 | 大数据-2 | <a href="//shang.qq.com/wpa/qunwpa?idkey=5d65b0774e5750e97e5725a201ccf158c84056ab77630223f854f57fa2fb544a" target="_blank" rel="noopener">152622464</a> | 2000 |
-| 2018-02-07 | 724187166 | <a href="//shang.qq.com/wpa/qunwpa?idkey=95a5e53232d6e1629cb6ea7132d0cb4c725bd27cb35ebc3f06b1b992279f46a2" target="_blank" rel="noopener">724187166</a> | 2000 |
+| 2018-02-07 | 面试求职 | <a href="//shang.qq.com/wpa/qunwpa?idkey=95a5e53232d6e1629cb6ea7132d0cb4c725bd27cb35ebc3f06b1b992279f46a2" target="_blank" rel="noopener">724187166</a> | 2000 |
 | 2017-09-01 | 机器学习 | <a href="//shang.qq.com/wpa/qunwpa?idkey=bcee938030cc9e1552deb3bd9617bbbf62d3ec1647e4b60d9cd6b6e8f78ddc03" target="_blank" rel="noopener">629470233</a> | 5000 |
 | 2014-04-12 | 大数据-1(满) | <a href="//shang.qq.com/wpa/qunwpa?idkey=952c3066344564ac53131f7e101948b0b5e5814390fa24bbfa69e76ff915beb7" target="_blank" rel="noopener">214293307</a> | 2000 |
 
