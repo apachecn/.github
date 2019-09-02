@@ -11,7 +11,6 @@
 1.  我们的各个公众平台接受人工智能、环材化生劝退、CS 留学申请、IT 外企求职的投稿，[详情请见这里](https://github.com/apachecn/awesome-AI-blog-post)，我们会每日从所有投稿博文中精选两篇，在 ApacheCN 全平台推送。
 1.  为了能够将开源事业做大做强，[ApacheCN 需要与公益基金会（IT、教育类）合作](https://www.zhihu.com/question/318287335)，欢迎大家提供帮助。[同时我们也接受社会各界的捐助](https://t.modian.com/project/67957.html)。
 1.  如果你不希望再收到我们的邮件，请直接拉黑我们，不要浪费彼此的时间，谢谢合作。
-1.  [ByteInAI](http://byteinai.com) 是我们和 Datawhale、AI 有道、黄海广博士等组织或个人联合推出的 AI 垂直自媒体，是一个纯商业项目。如果你有意向投资这个项目，请联系 [Datawhale](http://home.apachecn.org/img/about/datawhale_wx_qr.png) 或咸鱼（1034616238）。
 
 ## **组织介绍**
 
