@@ -311,6 +311,7 @@
 ### AI 比赛
 
 1.  [Interview：简历指南 + LeetCode + Kaggle](https://github.com/apachecn/Interview)
+1.  [数据科学/人工智能比赛解决方案汇总](https://github.com/apachecn/awesome-data-comp-solution)
 1.  [Kaggle 学习系列视频](https://www.bilibili.com/video/av53119200)
 1.  [数据科学比赛收集平台](https://github.com/iphysresearch/DataSciComp)
 
