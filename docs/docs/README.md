@@ -50,10 +50,6 @@
     
     在 [issues](https://github.com/apachecn/scrapy-doc-zh/issues/1) 中领取任务
 
-1.  【校对】[OpenCV 4.0 中文文档](https://github.com/apachecn/opencv-doc-zh)
-    
-    在 [issues](https://github.com/apachecn/opencv-doc-zh/issues/1) 中领取任务
-
 1.  【笔记整理】[斯坦福 CS224n 中文笔记](https://github.com/apachecn/stanford-cs224n-notes-zh)
     
     在 [issues](https://github.com/apachecn/stanford-cs224n-notes-zh/issues/1) 中领取任务
