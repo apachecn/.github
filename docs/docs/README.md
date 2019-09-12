@@ -1,118 +1,8 @@
-<h1 align="center">文档</h1>
+<h1 align="center">学习资源</h1>
 
 <p align="center">集中力量办大事</p>
 
----
-
-## **翻译征集**
-
-要求：
-
-+ 机器学习/数据科学相关
-+ 或者编程相关
-+ 原文必须在互联网上开放
-+ 不能只提供 PDF 格式（我们实在不想把精力都花在排版上）
-+ **请先搜索有没有人翻译过**
-
-[请回复这个帖子](http://bbs.apachecn.org/thread-77.htm)。
-
-## **进行中**
-
-1.  【校对】[Sklearn 0.21 中文文档](https://github.com/apachecn/sklearn-doc-zh)
-    
-    在 [issues](https://github.com/apachecn/sklearn-doc-zh/issues/352) 中领取任务
-
-1.  【笔记整理】[斯坦福博弈论中文笔记](https://github.com/apachecn/stanford-game-theory-notes-zh)
-    
-    在 [issues](https://github.com/apachecn/stanford-game-theory-notes-zh/issues/1) 中领取任务
-
-1.  【翻译】[斯坦福 CS234 强化学习中文讲义](https://github.com/apachecn/stanford-cs234-notes-zh)
-    
-    在 [issues](https://github.com/apachecn/stanford-cs234-notes-zh/issues/1) 中领取任务
-
-1.  【校对】[MIT 18.03 写给初学者的微积分](https://github.com/apachecn/calc4b-zh)
-    
-    在 [issues](https://github.com/apachecn/calc4b-zh/issues/1) 中领取任务
-
-1.  【校对】[UIUC CS241 系统编程中文讲义](https://github.com/apachecn/uiuc-cs241-notes-zh)
-    
-    在 [issues](https://github.com/apachecn/uiuc-cs241-notes-zh/issues/1) 中领取任务
-    
-1.  【校对】[Cython 3.0 中文文档](https://github.com/apachecn/cython-doc-zh)
-    
-    在 [issues](https://github.com/apachecn/cython-doc-zh/issues/1) 中领取任务
-    
-1.  【校对】[Numba 0.44 中文文档](https://github.com/apachecn/numba-doc-zh)
-    
-    在 [issues](https://github.com/apachecn/numba-doc-zh/issues/1) 中领取任务
-    
-1.  【校对】[Scrapy 1.6 中文文档](https://github.com/apachecn/scrapy-doc-zh)
-    
-    在 [issues](https://github.com/apachecn/scrapy-doc-zh/issues/1) 中领取任务
-
-1.  【笔记整理】[斯坦福 CS224n 中文笔记](https://github.com/apachecn/stanford-cs224n-notes-zh)
-    
-    在 [issues](https://github.com/apachecn/stanford-cs224n-notes-zh/issues/1) 中领取任务
-
-1.  【校对】[Machine Learning Mastery 教程](https://github.com/apachecn/ml-mastery-zh)
-    
-    在 [issues](https://github.com/apachecn/ml-mastery-zh/issues/1) 中领取任务
-
-1.  【校对】[ApacheCN 短篇集](https://github.com/apachecn/misc-docs-zh)
-    
-    在 [issues](https://github.com/apachecn/misc-docs-zh/issues/1) 中领取任务
-
-1.  【校对】[Impatient JavaScript 中文版](https://github.com/apachecn/impatient-js-zh)
-    
-    在 [issues](https://github.com/apachecn/impatient-js-zh/issues/1) 中领取任务
-
-1.  【校对】[Git 中文参考](https://github.com/apachecn/git-doc-zh)
-    
-    在 [issues](https://github.com/apachecn/git-doc-zh/issues/1) 中领取任务
-
-1.  【翻译】[seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
-    
-    在 [issues](https://github.com/apachecn/seaborn-doc-zh/issues/1) 中领取任务
-
-1.  【校对】[HBase 中文参考指南 3.0](https://github.com/apachecn/hbase-doc-zh)
-    
-    在 [issues](https://github.com/apachecn/hbase-doc-zh/issues/1) 中领取任务
-
-1.  【校对】[Pytorch 1.0 开车翻译了！ <= 坐等装逼的你！](https://github.com/apachecn/pytorch-doc-zh)
-    
-    在 [issues](https://github.com/apachecn/pytorch-doc-zh/issues/274) 中领取任务
-
-1.  【翻译】[面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
-    
-    在 [issues](https://github.com/apachecn/prob140-textbook-zh/issues/2) 中领取任务
-
-## **认领完毕**
-
-1.  【翻译】[百页机器学习小书](https://github.com/apachecn/ml-book-100-zh)
-    
-    在 [issues](https://github.com/apachecn/ml-book-100-zh/issues/1) 中领取任务
-
-1.  【翻译】[UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
-    
-    在 [issues](https://github.com/apachecn/cs61b-textbook-zh/issues/1) 中领取任务
-
-## **计划中**
-
-| 名称 | 领域 | 类型 | 优先级 |
-| --- | --- | --- | --- |
-| [Generating Software Tests](https://www.fuzzingbook.org/) | 工程 | 校对 | 1 |
-| 优达量化交易 | AI/DS | 笔记整理 | 0 |
-| 优达无人驾驶 | AI/DS | 笔记整理 | 0 |
-| [GT CS4650/7650 NLP](https://github.com/jacobeisenstein/gt-nlp-class) | AI/DS | 翻译 | -1 |
-| [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | 理论 | 校对 | - |
-| [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | - |
-| [Practical Cryptography for Developers](https://cryptobook.nakov.com/)（未完） | 安全 | 校对 | - |
-| [Writing an OS in Rust](https://os.phil-opp.com/)（未完） | 系统 | 校对 | - |
-| [YC 创业课 2019](https://www.startupschool.org/latest)（未完） | 商业 | 校对 | - |
-
-## **学习资源**
-
-### 特色项目
+## 特色项目
 
 +   AILearning - 机器学习实战
     +   [文字教程](https://github.com/apachecn/AiLearning)
@@ -154,7 +44,7 @@
 +   [Daily Interview - 人工智能面经](https://github.com/datawhalechina/Daily-interview)
 +   [ApacheCN 公众号历史文章](https://github.com/apachecn/awesome-article-recomm)
 
-### 编程语言
+## 编程语言
 
 1.  Java
     1.  [Java 编程思想](https://github.com/apachecn/thinking-in-java-zh)
@@ -175,7 +65,7 @@
     1.  [TutorialsPoint 中文教程](https://github.com/apachecn/tutorialspoint-ebooks-zh)
     1.  [BeginnersBook 中文教程](https://github.com/apachecn/beginnersbook-zh)
 
-### 后端/大数据
+## 后端/大数据
 
 1.  [Spark 2.2.0 中文文档](https://github.com/apachecn/spark-doc-zh)
 1.  [Storm 1.1.0 中文文档](https://github.com/apachecn/storm-doc-zh)
@@ -192,7 +82,7 @@
 1.  [Django 1.8 中文文档](https://github.com/apachecn/django-doc-18-zh)
 1.  [PySpark 学习手册](https://github.com/apachecn/learning-pyspark-zh)
 
-### 工具
+## 工具
 
 1.  [Scapy 中文文档](https://github.com/apachecn/scapy-docs-zh)
 1.  [笨办法学 Linux 中文版](https://github.com/apachecn/llthw-zh)
@@ -204,16 +94,16 @@
 1.  [Cython 3.0 中文文档](https://github.com/apachecn/cython-doc-zh) 
 1.  [rpy2 2.8 中文文档](https://github.com/apachecn/rpy2-doc-zh) 
 
-### 区块链
+## 区块链
 
 1.  [Solidity 中文文档](https://github.com/apachecn/solidity-doc-zh)
 
-### 数学笔记
+## 数学笔记
 
 1.  [MIT 18.06 线性代数笔记](https://github.com/apachecn/math)
 2.  [MIT 18.03 写给初学者的微积分](https://github.com/apachecn/calc4b-zh)
 
-### 数据科学文档
+## 数据科学文档
 
 1.  [NumPy 1.11 中文文档](https://github.com/apachecn/numpy-ref-zh)
 1.  [Pandas 0.19.2 中文文档](https://github.com/apachecn/pandas-doc-zh)
@@ -221,7 +111,7 @@
 1.  [statsmodels 中文文档](https://github.com/apachecn/statsmodels_doc_zh)
 1.  [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
 
-### 数据科学教程
+## 数据科学教程
 
 1.  [斯坦福 STATS60 课本：21 世纪的统计思维](https://github.com/apachecn/stats-thinking-21-zh)
 1.  [斯坦福博弈论中文笔记](https://github.com/apachecn/stanford-game-theory-notes-zh)
@@ -238,7 +128,7 @@
 1.  [USF MSDS501 计算数据科学中文讲义](https://github.com/apachecn/usf-msds501-notes-zh)
 1.  [数据可视化的基础知识](https://github.com/apachecn/found-data-vis-zh)
 
-### CS 教程
+## CS 教程
 
 1.  [计算机公开课推荐](https://github.com/apachecn/awesome-cs-courses-zh)
 1.  [LeetCode，HackRank，剑指 offer，经典算法实现（已停更）](https://github.com/apachecn/LeetCode)
@@ -253,7 +143,7 @@
 1.  [司镜的数据结构课程（持续更新）](https://www.bilibili.com/video/av41164819)
 1.  [从零编写简单的数据库](https://github.com/apachecn/misc-docs-zh/blob/master/docs/simple-db-zh)
 
-### AI 教程
+## AI 教程
 
 1.  AILearning - 机器学习实战
     1.  [文字教程](https://github.com/apachecn/AiLearning)
@@ -294,7 +184,7 @@
 1.  [推荐系统遇上深度学习](https://www.jianshu.com/c/e12d7195a9ff)
 1.  [可解释的机器学习](https://github.com/apachecn/interpretable-ml-book-zh)
 
-### AI 文档
+## AI 文档
 
 1.  [Sklearn 0.19 中文文档](https://github.com/apachecn/scikit-learn-doc-zh)
 1.  [PyTorch 0.2/0.3/0.4/1.0 中文文档和教程](https://github.com/apachecn/pytorch-doc-zh)
@@ -304,14 +194,14 @@
 1.  [Gensim 中文文档](https://github.com/apachecn/gensim-doc-zh)
 1.  [OpenCV 4.0 中文文档](https://github.com/apachecn/opencv-doc-zh)
 
-### AI 比赛
+## AI 比赛
 
 1.  [Interview：简历指南 + LeetCode + Kaggle](https://github.com/apachecn/Interview)
 1.  [数据科学/人工智能比赛解决方案汇总](https://github.com/apachecn/awesome-data-comp-solution)
 1.  [Kaggle 学习系列视频](https://www.bilibili.com/video/av53119200)
 1.  [数据科学比赛收集平台](https://github.com/iphysresearch/DataSciComp)
 
-### 安全
+## 安全
 
 1.  [Kali Linux 秘籍 中文版](https://github.com/apachecn/kali-linux-cookbook-zh)
 1.  [Kali Linux Web 渗透测试秘籍 中文版](https://github.com/apachecn/kali-linux-web-pentest-cookbook-zh)
@@ -322,7 +212,7 @@
 1.  [安卓应用安全指南 中文版](https://github.com/apachecn/android-app-sec-guidebook-zh)
 1.  [渗透测试实战第三版（红队版）](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation)
 
-### 其它
+## 其它
 
 1.  [ApacheCN 公众号历史文章](https://github.com/apachecn/awesome-article-recomm)
 1.  [简历分享系列视频](https://www.bilibili.com/video/av53122083)
