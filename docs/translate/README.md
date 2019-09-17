@@ -68,9 +68,7 @@
 
 +   【完结】[OpenCV 4.0 中文文档](https://github.com/apachecn/opencv-doc-zh) 2019.4
 
-+   【翻译】[seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh) 2019.3
-    
-    在 [issues](https://github.com/apachecn/seaborn-doc-zh/issues/1) 中领取任务
++   【完结】[seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh) 2019.3
 
 +   【校对】[HBase 中文参考指南 3.0](https://github.com/apachecn/hbase-doc-zh) 2019.2
     
