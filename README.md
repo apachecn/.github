@@ -11,7 +11,7 @@
 1.  我们组织了一个开源互助平台，方便开源组织和大 V 互相认识，互相帮助，整合资源。请回复[这个帖子](https://www.ibooker.org.cn/topic/2019-04-%e4%ba%92%e5%8a%a9%e8%81%94%e7%9b%9f/)并注明组织/个人信息来申请加入。
 1.  我们的各个公众平台接受人工智能、环材化生劝退、CS 留学申请、IT 外企求职的投稿，[详情请见这里](https://github.com/apachecn/awesome-AI-blog-post)，我们会每日从所有投稿博文中精选两篇，在 ApacheCN 全平台推送。
 1.  为了能够将开源事业做大做强，[ApacheCN 需要与公益基金会（IT、教育类）合作](https://www.zhihu.com/question/318287335)，欢迎大家提供帮助。
-1.  如果你不希望再收到我们的邮件，请直接拉黑我们，不要浪费彼此的时间，谢谢合作。
+1.  如果你不希望再收到我们的邮件，请访问 [notice.ibooker.org.cn](http://notice.ibooker.org.cn/index) 来退订。
 
 ## **组织介绍**
 
