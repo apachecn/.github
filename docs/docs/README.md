@@ -64,6 +64,7 @@
 1.  综合
     1.  [TutorialsPoint 中文教程](https://github.com/apachecn/tutorialspoint-ebooks-zh)
     1.  [BeginnersBook 中文教程](https://github.com/apachecn/beginnersbook-zh)
+    1.  [ZetCode 中文教程](https://github.com/apachecn/zetcode-zh)
 
 ## 后端/大数据
 
