@@ -185,6 +185,7 @@
 1.  [推荐系统遇上深度学习](https://www.jianshu.com/c/e12d7195a9ff)
 1.  [可解释的机器学习](https://github.com/apachecn/interpretable-ml-book-zh)
 1.  [机器学习超级复习笔记](https://github.com/apachecn/misc-docs-zh/blob/master/docs/super-machine-learning-revision-notes)
+1.  [Python 机器学习在线指南](https://github.com/apachecn/vt-cs4624-pyml-zh)
 
 ## AI 文档
 
