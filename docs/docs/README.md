@@ -226,3 +226,4 @@
 1.  [通往财富自由之路精细笔记](https://github.com/apachecn/the-way-to-wealth-freedom-notes)
 1.  [5 分钟商学院精细笔记](https://github.com/apachecn/5min-business-notes)
 1.  [English - World Travel](https://github.com/apachecn/English)
+1.  [Gainlo 面试指南](https://github.com/apachecn/gainlo-interview-guide-zh)
