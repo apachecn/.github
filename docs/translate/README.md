@@ -6,6 +6,8 @@
 
 ## 2020 round 1
 
++   [SICP JS](https://sicp.comp.nus.edu.sg/)
+
 +   [数据可视化的基础知识](https://github.com/apachecn/found-data-vis-zh)
 
 +   [UCB DS100 课本：数据科学的原理与技巧](https://github.com/apachecn/ds100-textbook-zh)
@@ -89,12 +91,6 @@
 
 +   【完结】[面向机器学习的特征工程](https://github.com/apachecn/feature-engineering-for-ml-zh) 2018.5
 +   【完结】Sklearn 与 TensorFlow 机器学习实用指南 2018.4
-
-## 短篇集
-
-+   【校对】[ApacheCN 短篇集](https://github.com/apachecn/misc-docs-zh)
-    
-    在 [issues](https://github.com/apachecn/misc-docs-zh/issues/1) 中领取任务
 
 ## 长期维护
 
