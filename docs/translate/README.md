@@ -4,24 +4,19 @@
 
 ---
 
-<!--
-
-## 2020 round 2
-
-+   3D 打印
-+   无人机
-+   脑机接口比赛
-+   物联网
-
--->
-
 ## 2020 round 1
 
-+   数据可视化基础
-+   DS100
++   [数据可视化的基础知识](https://github.com/apachecn/found-data-vis-zh)
+
++   [UCB DS100 课本：数据科学的原理与技巧](https://github.com/apachecn/ds100-textbook-zh)
+
 +   软件测试生成
-+   stats21
-+   可解释的机器学习
+
++   [斯坦福 STATS60 课本：21 世纪的统计思维](https://github.com/apachecn/stats-thinking-21-zh)
+
++   【校对】[可解释的机器学习](https://github.com/apachecn/interpretable-ml-book-zh)
+
+    在 [issues](https://github.com/apachecn/interpretable-ml-book-zh/issues/1) 中领取任务
 
 ## 2019 round 2
 
