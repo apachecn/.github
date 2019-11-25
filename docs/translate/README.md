@@ -13,6 +13,8 @@
 +   脑机接口比赛
 +   物联网
 
+-->
+
 ## 2020 round 1
 
 +   数据可视化基础
@@ -20,10 +22,6 @@
 +   软件测试生成
 +   stats21
 +   可解释的机器学习
-+   优达无人驾驶
-+   优达量化交易
-
--->
 
 ## 2019 round 2
 
@@ -125,9 +123,6 @@
 
 | 名称 | 领域 | 类型 | 优先级 |
 | --- | --- | --- | --- |
-| [Generating Software Tests](https://www.fuzzingbook.org/) | 工程 | 校对 | 1 |
-| 优达量化交易 | AI/DS | 笔记整理 | 0 |
-| 优达无人驾驶 | AI/DS | 笔记整理 | 0 |
 | [GT CS4650/7650 NLP](https://github.com/jacobeisenstein/gt-nlp-class) | AI/DS | 翻译 | -1 |
 | [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | 理论 | 校对 | - |
 | [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | - |
