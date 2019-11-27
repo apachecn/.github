@@ -49,8 +49,9 @@
 1.  Java
     1.  [Java 编程思想](https://github.com/apachecn/thinking-in-java-zh)
     1.  [Java 8 简明教程](https://github.com/apachecn/modern-java-zh)
-    2.  [Java 从0～1个人笔记](https://javaee.strivebo.com)
-    3.  [Java8 中文官方教程](https://github.com/apachecn/java8-tut-zh)
+    1.  [Java 从0～1个人笔记](https://javaee.strivebo.com)
+    1.  [Java8 中文官方教程](https://github.com/apachecn/java8-tut-zh)
+    1.  [JavaTutorialNetwork 中文系列教程](https://github.com/apachecn/jtn-zh)
 1.  Python
     1.  [Think Python 中文第二版](https://github.com/apachecn/think-py-2e-zh)
     1.  [笨办法学 Python · 续 中文版](https://github.com/apachecn/lmpythw-zh)
