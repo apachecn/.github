@@ -56,6 +56,7 @@
     1.  [Think Python 中文第二版](https://github.com/apachecn/think-py-2e-zh)
     1.  [笨办法学 Python · 续 中文版](https://github.com/apachecn/lmpythw-zh)
     1.  [PythonSpot 中文系列教程](https://github.com/apachecn/pythonspot-zh)
+    1.  [PythonBasics 中文系列教程](https://github.com/apachecn/pythonbasics-zh)
 1.  JavaScript
     1.  [JavaScript 编程精解 中文第三版](https://github.com/apachecn/eloquent-js-3e-zh)
     1.  [写给不耐烦程序员的 JavaScript](https://github.com/apachecn/impatient-js-zh)
