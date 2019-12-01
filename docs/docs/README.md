@@ -229,3 +229,4 @@
 1.  [5 分钟商学院精细笔记](https://github.com/apachecn/5min-business-notes)
 1.  [English - World Travel](https://github.com/apachecn/English)
 1.  [Gainlo 面试指南](https://github.com/apachecn/gainlo-interview-guide-zh)
+1.  [华为做过哪些恶？](https://github.com/evil-huawei/evil-huawei)
