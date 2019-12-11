@@ -10,7 +10,7 @@
 1.  公众号自动回复已更新，添加了“轻小说/知识星球”关键词。
 1.  我们近期将所有内容备份到 Gitee，欢迎访问 [Gitee@ApacheCN](https://gitee.com/apachecn)。
 1.  欢迎大家在我们平台上投放广告。如果你希望在我们的专栏、文档或邮件中投放广告，请准备好各种尺寸的图片和专属链接，联系咸鱼（1034616238）。
-1.  我们接受“环材化生劝退”话题的投稿，并在全平台推送。请联系飞龙（562826179），在公众号后台留言，或[在这里留言](https://github.com/apachecn/awesome-article-recomm)。
+1.  我们接受“环材化生劝退”话题的投稿，并在全平台推送。请联系飞龙（562826179），或[在这里留言](https://github.com/apachecn/awesome-article-recomm)。
 1.  为了能够将开源事业做大做强，[ApacheCN 需要与公益基金会（IT、教育类）合作](https://www.zhihu.com/question/318287335)，欢迎大家提供帮助。
 1.  如果你不希望再收到我们的邮件，请访问 [notice.ibooker.org.cn](http://notice.ibooker.org.cn/index) 来退订。
 
