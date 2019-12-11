@@ -15,10 +15,10 @@
 +   [AI 路线图（知识树）](https://github.com/apachecn/ai-roadmap)
 +   [Machine Learning Mastery 博客文章翻译](https://github.com/apachecn/ml-mastery-zh)
 +   [PyTorch 0.2/0.3/0.4/1.0 中文文档和教程](https://github.com/apachecn/pytorch-doc-zh)
-+   [数据科学比赛收集平台](https://github.com/iphysresearch/DataSciComp)
++   [【推荐】数据科学比赛收集平台](https://github.com/iphysresearch/DataSciComp)
 +   斯坦福 DS/AI 系列笔记
-    +   [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
-    +   [DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
+    +   [【推荐】斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
+    +   [【推荐】DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
     +   [斯坦福 CS224n 自然语言处理中文笔记](https://github.com/apachecn/stanford-cs224n-notes-zh) 
     +   [斯坦福 CS234 强化学习中文讲义](https://github.com/apachecn/stanford-cs234-notes-zh)
     +   [斯坦福 STATS60 课本：21 世纪的统计思维](https://github.com/apachecn/stats-thinking-21-zh)
@@ -29,7 +29,7 @@
     +   [UCB Data8 课本：计算与推断思维](https://github.com/apachecn/data8-textbook-zh)
     +   [UCB Prob140 课本：面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
     +   [UCB DS100 课本：数据科学的原理与技巧](https://github.com/apachecn/ds100-textbook-zh)
-    +   [UCB CS294-112 深度强化学习中文笔记](https://github.com/apachecn/ucb-cs294-112-notes-zh)
+    +   [【推荐】UCB CS294-112 深度强化学习中文笔记](https://github.com/apachecn/ucb-cs294-112-notes-zh)
 +   [斯坦福 CS183 系列 / YC 创业课系列中文笔记](https://github.com/apachecn/stanford-cs183-notes)
 +   Numpy 技术栈中文文档
     +   [NumPy 中文文档](https://github.com/apachecn/numpy-ref-zh)
@@ -40,7 +40,7 @@
     +   [seaborn 0.9 中文文档](https://github.com/apachecn/seaborn-doc-zh)
     +   [Numba 0.44 中文文档](https://github.com/apachecn/numba-doc-zh)
     +   [Cython 3.0 中文文档](https://github.com/apachecn/cython-doc-zh) 
-+   [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI)
++   [【推荐】Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI)
 1.  [iBooker 布客老实人报](https://zhuanlan.zhihu.com/plain-dealer)
 
 ## 编程语言
@@ -48,12 +48,12 @@
 1.  Java
     1.  [Java 编程思想](https://github.com/apachecn/thinking-in-java-zh)
     1.  [Java 8 简明教程](https://github.com/apachecn/modern-java-zh)
-    1.  [Java 从0～1个人笔记](https://javaee.strivebo.com)
+    1.  [Java 从 0~1 个人笔记](https://javaee.strivebo.com)
     1.  [Java8 中文官方教程](https://github.com/apachecn/java8-tut-zh)
     1.  [JavaTutorialNetwork 中文系列教程](https://github.com/apachecn/jtn-zh)
     1.  [HowToDoInJava 中文系列教程](https://github.com/apachecn/howtodoinjava-zh)
 1.  Python
-    1.  [Think Python 中文第二版](https://github.com/apachecn/think-py-2e-zh)
+    1.  [【推荐】Think Python 中文第二版](https://github.com/apachecn/think-py-2e-zh)
     1.  [笨办法学 Python · 续 中文版](https://github.com/apachecn/lmpythw-zh)
     1.  [PythonSpot 中文系列教程](https://github.com/apachecn/pythonspot-zh)
     1.  [PythonBasics 中文系列教程](https://github.com/apachecn/pythonbasics-zh)
@@ -85,7 +85,6 @@
 1.  [HBase 3.0 中文参考指南](https://github.com/apachecn/hbase-doc-zh)
 1.  [Flink 1.7 中文文档](https://github.com/apachecn/flink-doc-zh)
 1.  [Django 1.8 中文文档](https://github.com/apachecn/django-doc-18-zh)
-1.  [PySpark 学习手册](https://github.com/apachecn/learning-pyspark-zh)
 
 ## 工具
 
@@ -105,8 +104,9 @@
 
 ## 数学笔记
 
-1.  [MIT 18.06 线性代数笔记](https://github.com/apachecn/math)
-2.  [MIT 18.03 写给初学者的微积分](https://github.com/apachecn/calc4b-zh)
+1.  MIT 公开课课本/笔记
+    1.  [【推荐】MIT 18.06 线性代数笔记](https://github.com/apachecn/math)
+    2.  [MIT 18.03 写给初学者的微积分](https://github.com/apachecn/calc4b-zh)
 
 ## 数据科学文档
 
@@ -118,11 +118,13 @@
 
 ## 数据科学教程
 
-1.  [斯坦福 STATS60 课本：21 世纪的统计思维](https://github.com/apachecn/stats-thinking-21-zh)
-1.  [斯坦福博弈论中文笔记](https://github.com/apachecn/stanford-game-theory-notes-zh)
-1.  [UCB Data8 课本：计算与推断思维](https://github.com/apachecn/data8-textbook-zh)
-1.  [UCB Prob140 课本：面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
-1.  [UCB DS100 课本：数据科学的原理与技巧](https://github.com/apachecn/ds100-textbook-zh)
+1.  斯坦福公开课课本/笔记
+    1.  [斯坦福 STATS60 课本：21 世纪的统计思维](https://github.com/apachecn/stats-thinking-21-zh)
+    1.  [斯坦福博弈论中文笔记](https://github.com/apachecn/stanford-game-theory-notes-zh)
+1.  UCB 公开课课本/笔记
+    1.  [UCB Data8 课本：计算与推断思维](https://github.com/apachecn/data8-textbook-zh)
+    1.  [UCB Prob140 课本：面向数据科学的概率论](https://github.com/apachecn/prob140-textbook-zh)
+    1.  [UCB DS100 课本：数据科学的原理与技巧](https://github.com/apachecn/ds100-textbook-zh)
 1.  [TutorialsPoint NumPy 教程](https://github.com/apachecn/misc-docs-zh/blob/master/docs/tutorialspoint-numpy.md)
 1.  [复杂性思维 中文第二版](https://github.com/apachecn/think-comp-2e-zh)
 1.  [利用 Python 进行数据分析 · 第 2 版](https://github.com/apachecn/pyda-2e-zh)
@@ -138,8 +140,9 @@
 1.  [计算机公开课推荐](https://github.com/apachecn/awesome-cs-courses-zh)
 1.  [LeetCode，HackRank，剑指 offer，经典算法实现（已停更）](https://github.com/apachecn/LeetCode)
 1.  [GeeksForGeeks 翻译计划](https://github.com/apachecn/geeksforgeeks-zh)
-1.  [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh)
-1.  [UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
+1.  UCB 公开课课本/笔记
+    1.  [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh)
+    1.  [UCB CS61b 课本：Java 中的数据结构](https://github.com/apachecn/cs61b-textbook-zh)
 1.  [UIUC CS241 系统编程中文讲义](https://github.com/apachecn/uiuc-cs241-notes-zh)
 1.  [数据结构思维](https://github.com/apachecn/think-dast-zh)
 1.  [操作系统思维](https://github.com/apachecn/think-os-zh)
@@ -157,12 +160,14 @@
 1.  [AI 路线图（知识树）](https://github.com/apachecn/ai-roadmap)
 1.  Sklearn 与 TensorFlow 机器学习实用指南（已下线，请自行搜索）
 1.  [Machine Learning Mastery 博客文章翻译](https://github.com/apachecn/ml-mastery-zh)
-1.  [斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
-1.  [DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
-1.  [斯坦福 CS224n 自然语言处理中文笔记](https://github.com/apachecn/stanford-cs224n-notes-zh) 
-1.  [斯坦福 CS234 强化学习中文笔记](https://github.com/apachecn/stanford-cs234-notes-zh)
-1.  [UCB CS294-112 深度强化学习中文笔记](https://github.com/apachecn/ucb-cs294-112-notes-zh)
-1.  [台湾大学林轩田机器学习笔记](https://github.com/apachecn/ntu-hsuantienlin-ml)
+1.  斯坦福公开课课本/笔记
+    1.  [【推荐】斯坦福 CS229 机器学习中文笔记](http://ai-start.com/ml2014/)
+    1.  [【推荐】DeepLearning.ai 深度学习中文笔记](http://ai-start.com/dl2017/)
+    1.  [斯坦福 CS224n 自然语言处理中文笔记](https://github.com/apachecn/stanford-cs224n-notes-zh) 
+    1.  [斯坦福 CS234 强化学习中文笔记](https://github.com/apachecn/stanford-cs234-notes-zh)
+1.  UCB 公开课课本/笔记
+    1.  [【推荐】UCB CS294-112 深度强化学习中文笔记](https://github.com/apachecn/ucb-cs294-112-notes-zh)
+1.  [【推荐】台湾大学林轩田机器学习笔记](https://github.com/apachecn/ntu-hsuantienlin-ml)
 1.  [Python 自然语言处理 中文第二版](https://github.com/apachecn/nlp-py-2e-zh)
 1.  [Scikit-learn 秘籍](https://github.com/apachecn/sklearn-cookbook-zh)
 1.  [PythonProgramming.net 教程翻译](https://github.com/apachecn/misc-docs-zh/blob/master/docs/python-programming-net)
@@ -171,25 +176,28 @@
 1.  [Python 数据分析与挖掘实战（带注释源码）](https://github.com/apachecn/python_data_analysis_and_mining_action)
 1.  [与 TensorFlow 的初次接触](https://github.com/apachecn/misc-docs-zh/blob/master/docs/first_contact_with_tensorFlow)
 1.  [TensorFlow Eager 教程](https://github.com/apachecn/misc-docs-zh/blob/master/docs/tf-eager-tut)
-1.  [图嵌入综述（Arxiv 1709.07604）](https://github.com/apachecn/misc-docs-zh/blob/master/docs/ge-survey-arxiv-1709-07604-zh)
-1.  [基于深度学习的推荐系统：综述和新视角](https://github.com/apachecn/misc-docs-zh/blob/master/docs/rs-survey-arxiv-1707-07435-zh)
 1.  [SciPyCon 2018 Sklearn 教程](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh)
 1.  [TensorFlow 学习指南](https://github.com/apachecn/learning-tf-zh)
 1.  [fast.ai 机器学习和深度学习中文笔记](https://github.com/apachecn/fastai-ml-dl-notes-zh)
 1.  [HackCV 网站文章翻译](https://github.com/apachecn/HackCV-Translate)
 1.  [数据科学和人工智能技术笔记](https://github.com/apachecn/ds-ai-tech-notes)
-1.  [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI)
+1.  [【推荐】Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI)
 1.  [Sklearn 学习指南](https://github.com/apachecn/misc-docs-zh/blob/master/docs/learning-sklearn)
-1.  [南瓜书（西瓜书公式推导解析）](https://github.com/datawhalechina/pumpkin-book)
-1.  [关于卷积神经网络我们理解了什么](https://github.com/apachecn/misc-docs-zh/blob/master/docs/what-do-we-understand-about-convnet)
-1.  [Daily Interview - 人工智能面经](https://github.com/datawhalechina/Daily-interview)
+1.  [【推荐】南瓜书（西瓜书公式推导解析）](https://github.com/datawhalechina/pumpkin-book)
+1.  [【推荐】Daily Interview - 人工智能面经](https://github.com/datawhalechina/Daily-interview)
 1.  [百页机器学习小书](https://github.com/apachecn/ml-book-100-zh)
 1.  [Natural Language Processing with PyTorch 中文版](https://github.com/apachecn/NLP-with-PyTorch)
-1.  [李宏毅机器学习笔记](https://github.com/datawhalechina/Leeml-Book)
-1.  [推荐系统遇上深度学习](https://www.jianshu.com/c/e12d7195a9ff)
+1.  [【推荐】李宏毅机器学习笔记](https://github.com/datawhalechina/Leeml-Book)
+1.  [【推荐】推荐系统遇上深度学习](https://www.jianshu.com/c/e12d7195a9ff)
 1.  [可解释的机器学习](https://github.com/apachecn/interpretable-ml-book-zh)
 1.  [机器学习超级复习笔记](https://github.com/apachecn/misc-docs-zh/blob/master/docs/super-machine-learning-revision-notes)
 1.  [Python 机器学习在线指南](https://github.com/apachecn/vt-cs4624-pyml-zh)
+
+## AI 综述翻译计划
+
+1.  [图嵌入综述（Arxiv 1709.07604）](https://github.com/apachecn/misc-docs-zh/blob/master/docs/ge-survey-arxiv-1709-07604-zh)
+1.  [基于深度学习的推荐系统：综述和新视角](https://github.com/apachecn/misc-docs-zh/blob/master/docs/rs-survey-arxiv-1707-07435-zh)
+1.  [关于卷积神经网络我们理解了什么](https://github.com/apachecn/misc-docs-zh/blob/master/docs/what-do-we-understand-about-convnet)
 
 ## AI 文档
 
@@ -206,7 +214,7 @@
 1.  [Interview：简历指南 + LeetCode + Kaggle](https://github.com/apachecn/Interview)
 1.  [数据科学/人工智能比赛解决方案汇总](https://github.com/apachecn/awesome-data-comp-solution)
 1.  [Kaggle 学习系列视频](https://www.bilibili.com/video/av53119200)
-1.  [数据科学比赛收集平台](https://github.com/iphysresearch/DataSciComp)
+1.  [【推荐】数据科学比赛收集平台](https://github.com/iphysresearch/DataSciComp)
 
 ## 安全
 
@@ -217,7 +225,7 @@
 1.  [Web Hacking 101 中文版](https://github.com/apachecn/web-hacking-101-zh)
 1.  [米斯特白帽培训讲义](https://github.com/apachecn/mst-sec-lecture-notes)
 1.  [安卓应用安全指南 中文版](https://github.com/apachecn/android-app-sec-guidebook-zh)
-1.  [渗透测试实战第三版（红队版）](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation)
+1.  [【推荐】渗透测试实战第三版（红队版）](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation)
 
 ## 其它
 
@@ -229,5 +237,7 @@
 1.  [5 分钟商学院精细笔记](https://github.com/apachecn/5min-business-notes)
 1.  [English - World Travel](https://github.com/apachecn/English)
 1.  [Gainlo 面试指南](https://github.com/apachecn/gainlo-interview-guide-zh)
-1.  [Evil Huawei - 华为作过的恶](https://github.com/evil-huawei/evil-huawei)
+1.  [【推荐】Evil Huawei - 华为作过的恶](https://github.com/evil-huawei/evil-huawei)
 1.  [iBooker 布客老实人报](https://zhuanlan.zhihu.com/plain-dealer)
+1.  [【推荐】程序媛计划：儿童性教育项目](https://www.cxy61.com/girl/child_sexual_education/index.html)
+1.  [环材化生劝退计划](https://blog.csdn.net/wizardforcel/category_8574970.html)
