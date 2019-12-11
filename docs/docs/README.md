@@ -41,8 +41,7 @@
     +   [Numba 0.44 中文文档](https://github.com/apachecn/numba-doc-zh)
     +   [Cython 3.0 中文文档](https://github.com/apachecn/cython-doc-zh) 
 +   [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划](https://github.com/YZHANG1270/Girls-In-AI)
-+   [Daily Interview - 人工智能面经](https://github.com/datawhalechina/Daily-interview)
-+   [ApacheCN 公众号历史文章](https://github.com/apachecn/awesome-article-recomm)
+1.  [iBooker 布客老实人报](https://zhuanlan.zhihu.com/plain-dealer)
 
 ## 编程语言
 
@@ -231,3 +230,4 @@
 1.  [English - World Travel](https://github.com/apachecn/English)
 1.  [Gainlo 面试指南](https://github.com/apachecn/gainlo-interview-guide-zh)
 1.  [Evil Huawei - 华为作过的恶](https://github.com/evil-huawei/evil-huawei)
+1.  [iBooker 布客老实人报](https://zhuanlan.zhihu.com/plain-dealer)
