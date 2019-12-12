@@ -151,7 +151,6 @@
 1.  [李宏毅机器学习笔记↗](https://github.com/datawhalechina/Leeml-Book)
 1.  [推荐系统遇上深度学习↗](https://www.jianshu.com/c/e12d7195a9ff)
 1.  [可解释的机器学习](https://github.com/apachecn/interpretable-ml-book-zh)
-1.  [机器学习超级复习笔记](https://github.com/apachecn/misc-docs-zh/blob/master/docs/super-machine-learning-revision-notes)
 1.  [Python 机器学习在线指南](https://github.com/apachecn/vt-cs4624-pyml-zh)
 
 ## AI 综述翻译计划
@@ -159,6 +158,7 @@
 1.  [图嵌入综述（Arxiv 1709.07604）](https://github.com/apachecn/misc-docs-zh/blob/master/docs/ge-survey-arxiv-1709-07604-zh)
 1.  [基于深度学习的推荐系统：综述和新视角](https://github.com/apachecn/misc-docs-zh/blob/master/docs/rs-survey-arxiv-1707-07435-zh)
 1.  [关于卷积神经网络我们理解了什么](https://github.com/apachecn/misc-docs-zh/blob/master/docs/what-do-we-understand-about-convnet)
+1.  [机器学习超级复习笔记](https://github.com/apachecn/misc-docs-zh/blob/master/docs/super-machine-learning-revision-notes)
 
 ## AI 文档
 
