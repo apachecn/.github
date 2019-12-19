@@ -22,17 +22,16 @@
 > 
 > 除了以上组织或个人，我们还要感谢[苍海国际](https://www.258ch.com/)、[黑客派](https://hacpai.com/)、[GirlsInAI](https://www.weibo.com/u/2650740963)、[DataSciComp](https://iphysresearch.github.io/DataSciComp/)、[SeanCheney](https://www.jianshu.com/u/130f76596b02)、[龙哥盟 · 计算机电子书](http://it-ebooks.flygon.net/)、[AI 科技大本营](https://blog.csdn.net/dQCFKyQDXYm3F8rB0)、[BiliDrive](https://github.com/Hsury/BiliDrive)、[FlyAI](https://www.flyai.com/)、[Tesra](https://www.tesra.org/) 的创意和支持。
 
+* 【主页】[apachecn.org](http://apachecn.org)
 * 【导航】[docs.apachecn.org](https://docs.apachecn.org/)
-* 【归档】[home.apachecn.org](http://home.apachecn.org)
-* 【社区】[ibooker.org.cn/forums](https://www.ibooker.org.cn/forums/)
 * 【Github】[@ApacheCN](https://github.com/apachecn)
 * 【邮件订阅】[notice.ibooker.org.cn](http://notice.ibooker.org.cn/index)
-* 【知识星球】[ApacheCN](https://t.zsxq.com/Z3rFIEu)
+* 【知识星球】[iBooker 布客](https://t.zsxq.com/Jq3vZZB)
 * 自媒体平台
     * [微博：@ApacheCN](https://weibo.com/u/6326715527)
     * [知乎专栏：AILearning](https://zhuanlan.zhihu.com/apachecn-mlia)
     * [公众号：ApacheCN](http://home.apachecn.org/img/about/apachecn_qr.jpg)
-    * [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073) | [博客园](https://www.cnblogs.com/wizardforcel/category/1352397.html) | [OSChina](https://my.oschina.net/u/1777350?tab=newest&catalogId=6512710) | [SF](https://segmentfault.com/blog/flygon) | [掘金](https://juejin.im/user/57960af3128fe10056c637e4/posts)
+    * [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073) | [博客园](https://www.cnblogs.com/apachecn) | [OSChina](https://my.oschina.net/u/1777350?tab=newest&catalogId=6512710) | [SF](https://segmentfault.com/blog/flygon) | [掘金](https://juejin.im/user/57960af3128fe10056c637e4/posts)
     * [简书](https://www.jianshu.com/c/4ee721d0c474) | [搜狐号](https://mp.sohu.com/profile?xpt=NDhjYmViMzMtZWE2Yi00NTlmLWE3OTQtY2FjNjIwNDBlZDJl) | [头条号](https://www.toutiao.com/c/user/3901644178/) | [bilibili](http://space.bilibili.com/97678687)
 * **We are ApacheCN Open Source Organization, not ASF! We are fans of AI, and have no relationship with ASF!**
 * 合作 or 侵权，请联系 <apachecn@163.com> | 请抄送一份到 <wizard.z@foxmail.com>
