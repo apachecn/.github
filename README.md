@@ -8,7 +8,6 @@
 1.  我们旗下的一些项目开始使用 [BiliDrive](https://github.com/Hsury/BiliDrive) 备份，感谢该项目提供的支持！
 1.  我们的所有非技术内容和活动，从现在开始会使用 iBooker 这个名字。
 1.  “开源互助联盟”已终止，我们对此表示抱歉和遗憾。除非特地邀请，我们不再推广他人的任何项目。
-1.  我们近期将所有内容备份到 Gitee，欢迎访问 [Gitee@ApacheCN](https://gitee.com/apachecn)。
 1.  欢迎大家在我们平台上投放广告。如果你希望在我们的专栏、文档或邮件中投放广告，请准备好各种尺寸的图片和专属链接，联系咸鱼（1034616238）。
 1.  我们接受“环材化生劝退”话题的投稿，并在全平台推送。请联系飞龙（562826179），或[在这里留言](https://github.com/apachecn/awesome-article-recomm)。
 1.  为了能够将开源事业做大做强，[ApacheCN 需要与公益基金会（IT、教育类）合作](https://www.zhihu.com/question/318287335)，欢迎大家提供帮助。
@@ -25,6 +24,7 @@
 * 【主页】[apachecn.org](http://apachecn.org)
 * 【导航】[docs.apachecn.org](https://docs.apachecn.org/)
 * 【Github】[@ApacheCN](https://github.com/apachecn)
+* 【Gitee】[@ApacheCN](https://gitee.com/apachecn)
 * 【邮件订阅】[notice.ibooker.org.cn](http://notice.ibooker.org.cn/index)
 * 【知识星球】[iBooker 布客](https://t.zsxq.com/Jq3vZZB)
 * 自媒体平台
