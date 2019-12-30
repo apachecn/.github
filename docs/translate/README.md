@@ -10,7 +10,9 @@
 
 +   [数据可视化的基础知识](https://github.com/apachecn/found-data-vis-zh)
 
-+   [UCB DS100 课本：数据科学的原理与技巧](https://github.com/apachecn/ds100-textbook-zh)
++   【校对】[UCB DS100 课本：数据科学的原理与技巧](https://github.com/apachecn/ds100-textbook-zh)
+
+    在 [issues](https://github.com/apachecn/ds100-textbook-zh/issues/2) 中领取任务
 
 +   软件测试生成
 
