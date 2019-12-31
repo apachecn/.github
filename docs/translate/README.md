@@ -114,7 +114,7 @@
 
 +   【就绪】[斯坦福 CS183 系列 / YC 创业课系列中文笔记](https://github.com/apachecn/stanford-cs183-notes)
 
-+   【计划中】[ExploitDB Papers](https://www.exploit-db.com/papers)
++   【计划中】架构/系统设计文集
 
 ## **计划中**
 
