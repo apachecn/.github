@@ -6,6 +6,8 @@
 
 ## 2020 round 1
 
++   [Adventures in ML](adventuresinmachinelearning.com)
+
 +   [SICP JS](https://sicp.comp.nus.edu.sg/)
 
 +   [数据可视化的基础知识](https://github.com/apachecn/found-data-vis-zh)
