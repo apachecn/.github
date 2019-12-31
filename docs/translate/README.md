@@ -98,6 +98,10 @@
 
 ## 长期维护
 
++   【校对】[AI 综述翻译计划](https://home.apachecn.org/docs/#ai_1)
+
+    在 [issues](https://github.com/apachecn/misc-docs-zh/issues/1) 中领取任务
+
 +   【校对】[Sklearn 0.21 中文文档](https://github.com/apachecn/sklearn-doc-zh) 2019.7
     
     在 [issues](https://github.com/apachecn/sklearn-doc-zh/issues/352) 中领取任务
