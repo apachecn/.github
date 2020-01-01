@@ -3,6 +3,8 @@
 
 ---
 
+<!--announce-->
+
 ## **公告**
 
 1.  我们正在招募项目负责人，完成三次贡献可以申请，请联系片刻（529815144）。[几十个项目等你来申请和参与](https://docs.apachecn.org/join)，不装逼的朋友，我们都不想认识。
@@ -13,6 +15,10 @@
 1.  我们接受“环材化生劝退”话题的投稿，并在全平台推送。请联系飞龙（562826179），或[在这里留言](https://github.com/apachecn/awesome-article-recomm)。
 1.  为了能够将开源事业做大做强，[ApacheCN 需要与公益基金会（IT、教育类）合作](https://www.zhihu.com/question/318287335)，欢迎大家提供帮助。
 1.  如果你不希望再收到我们的邮件，请访问 [notice.ibooker.org.cn](http://notice.ibooker.org.cn/index) 来退订。
+
+<!--endannounce-->
+
+<!--intro-->
 
 ## **组织介绍**
 
@@ -38,6 +44,8 @@
 * 合作 or 侵权，请联系 <apachecn@163.com> | 请抄送一份到 <wizard.z@foxmail.com>
 
 ![](http://home.apachecn.org/img/about/apachecn_qr.jpg)
+
+<!--endintro-->
 
 ## **学习资源**
 
