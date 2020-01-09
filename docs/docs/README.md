@@ -46,6 +46,7 @@
 1.  [HBase 3.0 中文参考指南](https://github.com/apachecn/hbase-doc-zh)
 1.  [Flink 1.7 中文文档](https://github.com/apachecn/flink-doc-zh)
 1.  [Django 1.8 中文文档](https://github.com/apachecn/django-doc-18-zh)
+1.  [Hudi 0.5 中文文档](https://github.com/apachecn/hudi-doc-zh)
 
 ## 工具
 
