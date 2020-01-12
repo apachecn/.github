@@ -22,7 +22,7 @@
 </style>
  -->
     <style type="text/css">
-        #bg_content {
+        #content {
             left: 0;
             width: 100%;
             height: 100%;
@@ -44,6 +44,14 @@
             font-weight: lighter;
             text-align:center;
         }
+        #footer {
+            position:fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            z-index: 9999;
+        }
+        
     </style>
     <!-- Bootstrap CSS / Color Scheme -->
     <link rel="stylesheet" href="./index_files/default.css" id="theme-color">
@@ -99,16 +107,17 @@
     
 <!-- LOGIN FORM -->
 <!--===================================================-->
-<div id="bg_content">    
+<div id="content">    
     <p class="p1"><strong>iBooker 布客</strong></p>
     <p class="p2"><strong>可以允许不完美，但不能不做</strong></p>
-    <div style="margin-top: 600px;">
-        <ul class="list-inline text-center">
-            <div style="margin:0 0 10.5px;"><script src="./index_files/hm.js"></script><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1275211409'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s5.cnzz.com/z_stat.php%3Fid%3D1275211409%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script></div>
-            @Copyright 2016-2019 网站由 <a href="https://github.com/apachecn" target="_blank">ApacheCN</a> 提供支持 ICP许可证号: <a href="http://www.miibeian.gov.cn/" target="_blank">京ICP备19016010号-1</a>
-        </ul>
-    </div>
 </div>
+<div id="footer">
+    <ul class="list-inline text-center">
+        <div style="margin:0 0 10.5px;"><script src="./index_files/hm.js"></script><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1275211409'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s5.cnzz.com/z_stat.php%3Fid%3D1275211409%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script></div>
+        @Copyright 2016-2019 网站由 <a href="https://github.com/apachecn" target="_blank">ApacheCN</a> 提供支持 ICP许可证号: <a href="http://www.miibeian.gov.cn/" target="_blank">京ICP备19016010号-1</a>
+    </ul>
+</div>
+
 
     </div>
 
