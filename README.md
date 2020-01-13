@@ -43,7 +43,7 @@
 * **We are ApacheCN Open Source Organization, not ASF! We are fans of AI, and have no relationship with ASF!**
 * 合作 or 侵权，请联系 <apachecn@163.com> | 请抄送一份到 <wizard.z@foxmail.com>
 
-![](http://home.apachecn.org/img/about/apachecn_qr.jpg)
+![](http://home.apachecn.org/img/about/ibooker_zsxq_qr_l.jpg)
 
 <!--endintro-->
 
