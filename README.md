@@ -9,13 +9,9 @@
 
 1.  我们愿意普及区块链技术，但前提是互利互惠。我们有大量技术类学习资源，也有大量的人需要这些资源。如果能借助区块链技术存储和分发，我们就能将它们普及给我们的受众。
 1.  我们正在招募项目负责人，完成三次贡献可以申请，请联系片刻（529815144）。[几十个项目等你来申请和参与](https://docs.apachecn.org/join)，不装逼的朋友，我们都不想认识。
-1.  薅资本主义羊毛的 CDNDrive 计划正式启动！
-1.  我们的所有非技术内容和活动，从现在开始会使用 iBooker 这个名字。
+1.  [BiliDriveEx](https://github.com/apachecn/BiliDriveEx) 修复完成，接下来我们会多适配几个图床。
 1.  “开源互助联盟”已终止，我们对此表示抱歉和遗憾。除非特地邀请，我们不再推广他人的任何项目。
-1.  欢迎大家在我们平台上投放广告。如果你希望在我们的专栏、文档或邮件中投放广告，请准备好各种尺寸的图片和专属链接，联系咸鱼（1034616238）。
 1.  我们接受“环材化生劝退”话题的投稿，并在全平台推送。请联系飞龙（562826179），或[在这里留言](https://github.com/apachecn/awesome-article-recomm)。
-1.  为了能够将开源事业做大做强，[ApacheCN 需要与公益基金会（IT、教育类）合作](https://www.zhihu.com/question/318287335)，欢迎大家提供帮助。
-1.  如果你不希望再收到我们的邮件，请访问 [notice.ibooker.org.cn](http://notice.ibooker.org.cn/index) 来退订。
 
 <!--endannounce-->
 
@@ -59,39 +55,11 @@
 +   [AI 文档](http://home.apachecn.org/translate)
 +   [AI 比赛](http://home.apachecn.org/translate)
 
-## **组织架构**
-
--   理事会
-    -   技术部
-        -   数据分析
-        -   技术支持
-        -   技术研究
-    -   运营部
-        -   微博
-        -   社群
-        -   专栏
-        -   增长
-        -   设计团队
-    -   内容部
-        -   中短篇翻译
-        -   MachineLearningMastery
-        -   笔记
-        -   AILearning
-        -   视频
-        -   Apache 技术栈
-        -   NumPy 技术栈
-        -   PyTorch 文档
-    -   内部运营
-        -   对外合作
-        -   财务管理
-        -   支持团队
-
 ## **交流方式**
 
 | 时间 | 群名称  | 群号  | 群人数  |
 | ------------ | ------------ | ------------ | ------------ |
-| 2019-10-11 | 知识星球（收费） | [链接](https://t.zsxq.com/Jq3vZZB) | - |
-| 2018-06-26 | 知识星球（免费） | [链接](https://t.zsxq.com/Z3rFIEu) | - |
+| 2019-10-11 | 知识星球 | [链接](https://t.zsxq.com/Jq3vZZB) | - |
 | 2018-05-02 | 大数据-2 | <a href="//shang.qq.com/wpa/qunwpa?idkey=5d65b0774e5750e97e5725a201ccf158c84056ab77630223f854f57fa2fb544a" target="_blank" rel="noopener">152622464</a> | 2000 |
 | 2018-02-07 | 面试求职 | <a href="//shang.qq.com/wpa/qunwpa?idkey=95a5e53232d6e1629cb6ea7132d0cb4c725bd27cb35ebc3f06b1b992279f46a2" target="_blank" rel="noopener">724187166</a> | 2000 |
 | 2017-09-01 | 机器学习 | <a href="//shang.qq.com/wpa/qunwpa?idkey=bcee938030cc9e1552deb3bd9617bbbf62d3ec1647e4b60d9cd6b6e8f78ddc03" target="_blank" rel="noopener">629470233</a> | 3000 |
