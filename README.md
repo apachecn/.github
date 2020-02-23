@@ -20,11 +20,11 @@
 
 ## **组织介绍**
 
-> 我们是布客（iBooker），一个大型开源社区，旗下 QQ 群共一万余人，订阅用户至少一万人。Github Star 数量超过 60k 个，在所有 Github 组织中[排名前 100](https://gitstar-ranking.com/apachecn)。旗下所有网站日 uip 超过 4k，[Alexa 排名的峰值为 20k](http://home.apachecn.org/img/about/alexa_201906.png)。我们的核心成员拥有[ CSDN 博客专家](https://blog.csdn.net/wizardforcel)和[简书程序员优秀作者](https://www.jianshu.com/u/b508a6aa98eb)认证。我们建立了公益性文档和教程翻译项目 [ApacheCN](https://github.com/apachecn)，并与 [Datawhale](http://home.apachecn.org/img/about/datawhale_qr.jpg)、[AI 有道](http://home.apachecn.org/img/about/redstone_qr.jpg)、[黄海广博士](http://home.apachecn.org/img/about/huanghaiguang_qr.jpg)等国内知名开源组织和大 V 合作，组织学习活动和比赛组队活动。
+> 我们是布客（iBooker），一个大型开源社区，旗下 QQ 群共一万余人，订阅用户至少一万人。Github Star 数量超过 60k 个，在所有 Github 组织中[排名前 100](https://gitstar-ranking.com/apachecn)。旗下所有网站日 uip 超过 4k，[Alexa 排名的峰值为 20k](http://home.apachecn.org/img/about/alexa_201906.png)。我们的核心成员拥有[ CSDN 博客专家](https://blog.csdn.net/wizardforcel)和[简书程序员优秀作者](https://www.jianshu.com/u/b508a6aa98eb)认证。我们建立了公益性文档和教程翻译项目 [ApacheCN](https://github.com/apachecn)。
 > 
 > 与商业组织不同，我们并不会追逐热点，或者唯利是图。作为公益组织，我们将完成项目放在首要位置，并有足够时间把项目打磨到极致。我们希望做出广大 AI 爱好者和个人开发者真正需要的东西，打造真正有价值的长尾作品。
 > 
-> 除了以上组织或个人，我们还要感谢[苍海国际](https://www.258ch.com/)、[黑客派](https://hacpai.com/)、[GirlsInAI](https://www.weibo.com/u/2650740963)、[DataSciComp](https://iphysresearch.github.io/DataSciComp/)、[SeanCheney](https://www.jianshu.com/u/130f76596b02)、[AI 科技大本营](https://blog.csdn.net/dQCFKyQDXYm3F8rB0)、[BiliDrive](https://github.com/Hsury/BiliDrive)、[FlyAI](https://www.flyai.com/)、[Tesra](https://www.tesra.org/) 的创意和支持。
+> 我们要感谢 [Datawhale](http://home.apachecn.org/img/about/datawhale_qr.jpg)、[AI 有道](http://home.apachecn.org/img/about/redstone_qr.jpg)、[黄海广博士](http://home.apachecn.org/img/about/huanghaiguang_qr.jpg)、[苍海国际](https://www.258ch.com/)、[黑客派](https://hacpai.com/)、[GirlsInAI](https://www.weibo.com/u/2650740963)、[DataSciComp](https://iphysresearch.github.io/DataSciComp/)、[SeanCheney](https://www.jianshu.com/u/130f76596b02)、[AI 科技大本营](https://blog.csdn.net/dQCFKyQDXYm3F8rB0)、[BiliDrive](https://github.com/Hsury/BiliDrive)、[FlyAI](https://www.flyai.com/)、[Tesra](https://www.tesra.org/) 的创意和支持。
 
 * 【主页】[apachecn.org](http://apachecn.org)
 * 【导航】[docs.apachecn.org](https://docs.apachecn.org/)
