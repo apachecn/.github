@@ -25,6 +25,8 @@
     1.  [笨办法学 C 中文版](https://github.com/apachecn/lcthw-zh?utm_source=home)
 1.  PHP
     1.  [手把手教你写 PHP 协程扩展](https://github.com/apachecn/study?utm_source=home)
+1.  Ruby
+    1.  [我爱 Ruby](https://github.com/apachecn/iloveruby-zh)
 1.  综合
     1.  [TutorialsPoint 中文系列教程](https://github.com/apachecn/tutorialspoint-ebooks-zh?utm_source=home)
     1.  [BeginnersBook 中文系列教程](https://github.com/apachecn/beginnersbook-zh?utm_source=home)
