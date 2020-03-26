@@ -21,7 +21,7 @@
 
 ## **组织介绍**
 
-> 我们是布客（iBooker），一个大型开源社区，旗下 QQ 群共一万余人，订阅用户至少一万人。Github Star 数量超过 60k 个，在所有 Github 组织中[排名前 100](https://gitstar-ranking.com/apachecn)。旗下所有网站日 uip 超过 4k，[Alexa 排名的峰值为 20k](http://home.apachecn.org/img/about/alexa_201906.png)。我们的核心成员拥有[ CSDN 博客专家](https://blog.csdn.net/wizardforcel)和[简书程序员优秀作者](https://www.jianshu.com/u/b508a6aa98eb)认证。我们建立了公益性文档和教程翻译项目 [ApacheCN](https://github.com/apachecn)。
+> 我们是布客（iBooker），一个大型开源社区、自媒体和网赚社区，旗下 QQ 群共一万余人，订阅用户至少一万人。Github Star 数量超过 60k 个，在所有 Github 组织中[排名前 100](https://gitstar-ranking.com/apachecn)。旗下所有网站日 uip 超过 4k，[Alexa 排名的峰值为 20k](http://home.apachecn.org/img/about/alexa_201906.png)。我们的核心成员拥有[ CSDN 博客专家](https://blog.csdn.net/wizardforcel)和[简书程序员优秀作者](https://www.jianshu.com/u/b508a6aa98eb)认证。我们建立了公益性文档和教程翻译项目 [ApacheCN](https://github.com/apachecn)。
 > 
 > 与商业组织不同，我们并不会追逐热点，或者唯利是图。作为公益组织，我们将完成项目放在首要位置，并有足够时间把项目打磨到极致。我们希望做出广大 AI 爱好者和个人开发者真正需要的东西，打造真正有价值的长尾作品。
 > 
@@ -61,10 +61,10 @@
 
 | 时间 | 群名称  | 群号  | 群人数  |
 | ------------ | ------------ | ------------ | ------------ |
-| 2019-10-11 | 知识星球 | [链接](https://t.zsxq.com/Jq3vZZB) | - |
+| 2019-10-11 | AI+财务提升（知识星球） | [链接](https://t.zsxq.com/Jq3vZZB) | - |
 | 2018-05-02 | 大数据-2 | <a href="//shang.qq.com/wpa/qunwpa?idkey=5d65b0774e5750e97e5725a201ccf158c84056ab77630223f854f57fa2fb544a" target="_blank" rel="noopener">152622464</a> | 2000 |
-| 2018-02-07 | 面试求职 | <a href="//shang.qq.com/wpa/qunwpa?idkey=95a5e53232d6e1629cb6ea7132d0cb4c725bd27cb35ebc3f06b1b992279f46a2" target="_blank" rel="noopener">724187166</a> | 2000 |
-| 2017-09-01 | 机器学习 | <a href="//shang.qq.com/wpa/qunwpa?idkey=bcee938030cc9e1552deb3bd9617bbbf62d3ec1647e4b60d9cd6b6e8f78ddc03" target="_blank" rel="noopener">629470233</a> | 3000 |
+| 2018-02-07 | AI+面试求职 | <a href="//shang.qq.com/wpa/qunwpa?idkey=95a5e53232d6e1629cb6ea7132d0cb4c725bd27cb35ebc3f06b1b992279f46a2" target="_blank" rel="noopener">724187166</a> | 2000 |
+| 2017-09-01 | AI+财务提升 | <a href="//shang.qq.com/wpa/qunwpa?idkey=bcee938030cc9e1552deb3bd9617bbbf62d3ec1647e4b60d9cd6b6e8f78ddc03" target="_blank" rel="noopener">629470233</a> | 3000 |
 | 2014-04-12 | 大数据-1(满) | <a href="//shang.qq.com/wpa/qunwpa?idkey=952c3066344564ac53131f7e101948b0b5e5814390fa24bbfa69e76ff915beb7" target="_blank" rel="noopener">214293307</a> | 2000 |
 
 组织口号: <strong><span style="color: #ff0000;">不装逼的朋友，我们都不想认识 。。。</span></strong>
