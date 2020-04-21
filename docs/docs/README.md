@@ -100,7 +100,7 @@
 1.  [UCSD COGS108 数据科学实战中文笔记](https://github.com/apachecn/ucsd-cogs108-notes?utm_source=home)
 1.  [USF MSDS501 计算数据科学中文讲义](https://github.com/apachecn/usf-msds501-notes-zh?utm_source=home)
 1.  [数据可视化的基础知识](https://github.com/apachecn/found-data-vis-zh?utm_source=home)
-1.  [Joyful Pandas](https://github.com/datawhalechina/joyful-pandas)
+1.  [Joyful Pandas↗](https://github.com/datawhalechina/joyful-pandas?utm_source=home)
 
 ## CS 教程
 
