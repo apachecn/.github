@@ -11,6 +11,7 @@ script:
 
 after_script:
   - cd site
+  - ls -l
   - git init
   - git config user.name ${GH_UN}
   - git config user.email ${GH_EMAIL}
