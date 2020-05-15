@@ -194,6 +194,7 @@
 1.  [米斯特白帽培训讲义](https://github.com/apachecn/mst-sec-lecture-notes?utm_source=home)
 1.  [安卓应用安全指南 中文版](https://github.com/apachecn/android-app-sec-guidebook-zh?utm_source=home)
 1.  [渗透测试实战第三版（红队版）↗](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation?utm_source=home)
+1.  [生成软件测试](https://github.com/apachecn/fuzzingbook-zh?utm_source=home)
 
 ## 其它
 
