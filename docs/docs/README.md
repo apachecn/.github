@@ -8,7 +8,7 @@
 
 1.  Java
     1.  [On Java 8 中文版（Java 编程思想第五版）⭐↗](https://github.com/LingCoder/OnJava8?utm_source=home)
-    1.  [Effective Java 中文第三版⭐↗](https://github.com/it-ebooks/effective-java-3rd-chinese)
+    1.  [Effective Java 中文第三版⭐↗](https://github.com/it-ebooks/effective-java-3rd-chinese?utm_source=home)
     1.  [Java 编程思想](https://github.com/apachecn/thinking-in-java-zh?utm_source=home)
     1.  [Java 8 简明教程](https://github.com/apachecn/modern-java-zh?utm_source=home)
     1.  [Java 从 0~1 个人笔记](https://javaee.strivebo.com?utm_source=home)
