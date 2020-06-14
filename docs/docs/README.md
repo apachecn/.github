@@ -13,6 +13,7 @@
     1.  [Java8 中文官方教程](https://github.com/apachecn/java8-tut-zh?utm_source=home)
     1.  [JavaTutorialNetwork 中文系列教程](https://github.com/apachecn/jtn-zh?utm_source=home)
     1.  [HowToDoInJava 中文系列教程](https://github.com/apachecn/howtodoinjava-zh?utm_source=home)
+    1.  [JavaBeginnersTutorial 中文系列教程](https://github.com/apachecn/jbt-zh?utm_source=home)
 1.  Python
     1.  [Think Python 中文第二版↗](https://github.com/apachecn/think-py-2e-zh?utm_source=home)
     1.  [笨办法学 Python · 续 中文版](https://github.com/apachecn/lmpythw-zh?utm_source=home)
@@ -81,6 +82,7 @@
     1.  [Matplotlib 2.0 中文文档⭐](https://github.com/apachecn/matplotlib-user-guide-zh?utm_source=home)
     1.  [statsmodels 中文文档⭐](https://github.com/apachecn/statsmodels_doc_zh?utm_source=home)
     1.  [seaborn 0.9 中文文档⭐](https://github.com/apachecn/seaborn-doc-zh?utm_source=home)
+1.  [SimuPy 中文文档↗](https://github.com/cycleuser/simupy-doc-cn?utm_source=home)
 
 ## 数据科学教程
 
