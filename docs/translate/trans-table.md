@@ -17,6 +17,8 @@
 | falsy | 假值 | 虚假 |
 | agent | 智能体 | 代理/代理商/代理人 |
 | broker | 中介 | 代理 |
+| value | 值 | 价值* |
+| reference | 引用 | 参考* |
 | 控制结构 | | |
 | if statement | `if`语句 | 如果语句 |
 | while statement/loop | `while`语句/循环 | 而/当语句/循环 |
