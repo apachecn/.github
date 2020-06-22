@@ -47,6 +47,7 @@
 | annotation | 注解 | 注释* |
 | package | 包 | 软件包/程序包 |
 | dependency | 依赖项 | 依赖性 |
+| implement | 实现 | 实施 |
 | -er | | |
 | constructer | 构造器 | 构造函数 |
 | destructor | 析构器 | 析构函数 |
@@ -55,11 +56,12 @@
 | listener | 监听器 | 侦听器/听众 |
 | handler | 处理器 | 处理程序 |
 | executor | 执行器 | 执行程序 |
-| provider | 生产者/供应器 | 供应商 |
+| provider | 生产者/供应器 | 供应商/提供程序 |
 | initializer | 初始化器 | 初始化程序 |
 | builder | 构建器 | 建造者 |
 | sceduler | 调度器 | 调度程序 |
 | logger | 记录器 | 记录程序 |
+| manager | 管理器 | 经理* |
 | 集合 | | |
 | collection | 集合 | 收藏/收集/藏品 |
 | Map | 映射 | 地图 |
