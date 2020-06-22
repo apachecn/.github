@@ -73,6 +73,7 @@
 | Key | 键 | 密钥* |
 | Array | 数组 | 阵列 |
 | Linked List | 链表 | 链接列表 |
+| vector | 向量 | 矢量* |
 | Set | 集 | 集合* |
 | Stack | 栈 | 堆栈 |
 | -able | | |
