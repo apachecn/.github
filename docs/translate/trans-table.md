@@ -19,6 +19,9 @@
 | broker | 中介 | 代理 |
 | value | 值 | 价值* |
 | reference | 引用 | 参考* |
+| promise | `Promise` | 承诺/诺言 |
+| future | `Future` | 未来/期货 |
+| optional | `Optional` | 期权 |
 | 控制结构 | | |
 | if statement | `if`语句 | 如果语句 |
 | while statement/loop | `while`语句/循环 | 而/当语句/循环 |
