@@ -542,6 +542,17 @@
 
     建议周围
 
++   after return advise
+
+    返回后建议
+
+    返回建议后
+    
++   after throw advise
+
+    抛出后建议
+
+    抛出建议后
 
 # SQL
     
