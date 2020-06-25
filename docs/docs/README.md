@@ -21,6 +21,7 @@
     1.  [笨办法学 Python · 续 中文版](https://github.com/apachecn/lmpythw-zh?utm_source=home)
     1.  [PythonSpot 中文系列教程](https://github.com/apachecn/pythonspot-zh?utm_source=home)
     1.  [PythonBasics 中文系列教程](https://github.com/apachecn/pythonbasics-zh?utm_source=home)
+    1.  [PythonGuru 中文系列教程](https://github.com/apachecn/pythonguru-zh?utm_source=home)
 1.  JavaScript
     1.  [JavaScript 编程精解 中文第三版](https://github.com/apachecn/eloquent-js-3e-zh?utm_source=home)
     1.  [写给不耐烦程序员的 JavaScript](https://github.com/apachecn/impatient-js-zh?utm_source=home)
