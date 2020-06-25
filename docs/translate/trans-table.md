@@ -167,17 +167,17 @@
 
     继续语句
 
-+   try block
++   try block/statement
 
-    `try`块
+    `try`块/语句
 
-    尝试(阻止|块)
+    尝试(阻止|块|语句)
 
-+   catch block
++   catch block/statement
 
-    `catch`块
+    `catch`块/语句
 
-    捕获(块|阻止)
+    捕获(块|阻止|语句)
 
 +   try catch
 
@@ -185,11 +185,11 @@
 
     尝试捕获
 
-+   finally block
++   finally block/statement
 
-    `finally`块
+    `finally`块/语句
 
-    最终(块|阻止)
+    最终(块|阻止|语句)
 
 +   checked
 
