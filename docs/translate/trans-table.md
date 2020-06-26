@@ -3,11 +3,7 @@
 ---
 
 
-+   原文
-
-    正确
-
-    错误
+## 变量/运算符
 
 +   comment
 
@@ -26,6 +22,12 @@
     字面值
 
     文字
+    
++   member
+
+    成员
+    
+    会员
 
 +   `***`keyword
 
@@ -43,7 +45,7 @@
 
     运算符
     
-    操作员|算子
+    操作员|算子|运营商
     
 +   global
 
@@ -149,29 +151,35 @@
 
 ## 控制结构
     
++   statement
+
+    语句
+    
+    陈述
+    
 +   if statement/block
 
     `if`语句/块
 
-    如果(语句|块|阻止)
+    如果(语句|块|阻止|声明)
 
 +   while statement/loop/block
 
     `while`语句/循环/块
 
-    (而|当)(语句|循环|块|阻止)
+    (而|当)(语句|循环|块|阻止|声明)
 
 +   for statement/loop/block
 
     `for`语句/循环/块
 
-    (用于|为)(语句|循环|块|阻止)
+    (用于|为|对于)(语句|循环|块|阻止|声明)
 
 +   switch statement/block
 
     `switch`语句/块
 
-    (开关|切换)(语句|块|阻止)
+    (开关|切换)(语句|块|阻止|声明)
 
 +   switch case
 
@@ -183,25 +191,25 @@
 
     `break`语句
 
-    (打破|破坏|中断)语句
+    (打破|破坏|中断)(语句|声明)
 
 +   continue statement
 
     `continue`语句
 
-    继续语句
+    继续(语句|声明)
 
 +   try block/statement
 
     `try`块/语句
 
-    尝试(阻止|块|语句)
+    尝试(阻止|块|语句|声明)
 
 +   catch block/statement
 
     `catch`块/语句
 
-    捕获(块|阻止|语句)
+    捕获(块|阻止|语句|声明)
 
 +   try catch
 
@@ -213,7 +221,7 @@
 
     `finally`块/语句
 
-    最终(块|阻止|语句)
+    最终(块|阻止|语句|声明)
 
 +   checked
 
