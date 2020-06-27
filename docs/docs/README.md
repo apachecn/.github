@@ -101,7 +101,7 @@
 1.  [ApacheCN 数据分析译文集⭐](https://github.com/apachecn/apachecn-da-zh)
 1.  [TutorialsPoint NumPy 教程](https://github.com/apachecn/misc-docs-zh/blob/master/docs/tutorialspoint-numpy.md?utm_source=home)
 1.  [复杂性思维 中文第二版](https://github.com/apachecn/think-comp-2e-zh?utm_source=home)
-1.  [利用 Python 进行4 · 第 2 版](https://github.com/apachecn/pyda-2e-zh?utm_source=home)
+1.  [利用 Python 进行数据分析 · 第 2 版](https://github.com/apachecn/pyda-2e-zh?utm_source=home)
 1.  [fast.ai 数值线性代数讲义 v2](https://github.com/apachecn/fastai-num-linalg-v2-zh?utm_source=home)
 1.  [Pandas Cookbook 带注释源码](https://github.com/apachecn/pandas-cookbook-code-notes?utm_source=home)
 1.  [数据科学 IPython 笔记本](https://github.com/apachecn/ds-ipynb-zh?utm_source=home)
