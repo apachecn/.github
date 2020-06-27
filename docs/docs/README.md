@@ -54,6 +54,7 @@
 1.  [Flink 1.7 中文文档](https://github.com/apachecn/flink-doc-zh?utm_source=home)
 1.  [Django 1.8 中文文档](https://github.com/apachecn/django-doc-18-zh?utm_source=home)
 1.  [Hudi 0.5 中文文档](https://github.com/apachecn/hudi-doc-zh?utm_source=home)
+1.  [HighScalability 中文示例](https://github.com/apachecn/highscalability-examples-zh)
 
 ## 工具
 
