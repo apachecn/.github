@@ -135,7 +135,7 @@
     1.  [教学版视频](https://space.bilibili.com/97678687/channel/detail?cid=22486&utm_source=home)
     1.  [讨论版视频](https://space.bilibili.com/97678687/channel/detail?cid=13045&utm_source=home)
 1.  [AI 路线图（知识树）⭐](https://github.com/apachecn/ai-roadmap?utm_source=home)
-1.  Sklearn 与 TensorFlow 机器学习实用指南（已下线，请自行搜索）
+1.  [Sklearn 与 TensorFlow 机器学习实用指南第二版⭐↗](https://www.jianshu.com/c/d2daceee15a2)
 1.  [Machine Learning Mastery 博客文章翻译⭐](https://github.com/apachecn/ml-mastery-zh?utm_source=home)
 1.  斯坦福公开课课本/笔记
     1.  [斯坦福 CS229 机器学习中文笔记⭐↗](http://ai-start.com/ml2014/?utm_source=home)
