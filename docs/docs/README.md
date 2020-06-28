@@ -22,6 +22,7 @@
     1.  [PythonSpot 中文系列教程](https://github.com/apachecn/pythonspot-zh?utm_source=home)
     1.  [PythonBasics 中文系列教程](https://github.com/apachecn/pythonbasics-zh?utm_source=home)
     1.  [PythonGuru 中文系列教程](https://github.com/apachecn/pythonguru-zh?utm_source=home)
+    1.  [Python 分布式计算↗](https://www.jianshu.com/c/1bf7cf31175f)
 1.  JavaScript
     1.  [JavaScript 编程精解 中文第三版](https://github.com/apachecn/eloquent-js-3e-zh?utm_source=home)
     1.  [写给不耐烦程序员的 JavaScript](https://github.com/apachecn/impatient-js-zh?utm_source=home)
@@ -68,6 +69,7 @@
 1.  [PyQt4 中文文档](https://github.com/apachecn/pyqt4-doc-zh?utm_source=home)
 1.  [命令行的艺术](https://github.com/apachecn/the-art-of-command-line/blob/master/README-zh.md?utm_source=home)
 1.  [rpy2 2.8 中文文档](https://github.com/apachecn/rpy2-doc-zh?utm_source=home) 
+1.  [Learning Scrapy 中文版↗](https://www.jianshu.com/c/a3b6e459f76c)
 
 ## 区块链
 
