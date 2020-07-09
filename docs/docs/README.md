@@ -38,6 +38,7 @@
     1.  [ZetCode 中文系列教程](https://github.com/apachecn/zetcode-zh?utm_source=home)
     1.  [Succinctly 中文系列教程](https://github.com/apachecn/succinctly-zh?utm_source=home)
     1.  [Programiz 中文系列教程](https://github.com/apachecn/programiz-zh?utm_source=home)
+    1.  [Guru99 中文系列教程](https://github.com/apachecn/guru99-zh?utm_source=home)
 
 ## 后端/大数据
 
