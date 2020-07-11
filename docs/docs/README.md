@@ -136,6 +136,7 @@
     1.  [教学版视频](https://space.bilibili.com/97678687/channel/detail?cid=22486&utm_source=home)
     1.  [讨论版视频](https://space.bilibili.com/97678687/channel/detail?cid=13045&utm_source=home)
 1.  [AI 路线图（知识树）⭐](https://github.com/apachecn/ai-roadmap?utm_source=home)
+1.  [ApacheCN TensorFlow 译文集⭐](https://github.com/apachecn/apachecn-tf-zh)
 1.  [Sklearn 与 TensorFlow 机器学习实用指南第二版⭐↗](https://github.com/it-ebooks/hands-on-ml-2e-zh)
 1.  [Machine Learning Mastery 博客文章翻译⭐](https://github.com/apachecn/ml-mastery-zh?utm_source=home)
 1.  斯坦福公开课课本/笔记
