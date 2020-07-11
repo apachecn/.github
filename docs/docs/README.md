@@ -101,7 +101,7 @@
     1.  [UCB Data8 课本：计算与推断思维⭐](https://github.com/apachecn/data8-textbook-zh?utm_source=home)
     1.  [UCB Prob140 课本：面向数据科学的概率论⭐](https://github.com/apachecn/prob140-textbook-zh?utm_source=home)
     1.  [UCB DS100 课本：数据科学的原理与技巧⭐](https://github.com/apachecn/ds100-textbook-zh?utm_source=home)
-1.  [ApacheCN 数据分析译文集⭐](https://github.com/apachecn/apachecn-da-zh)
+1.  [ApacheCN 数据科学译文集⭐](https://github.com/apachecn/apachecn-ds-zh)
 1.  [TutorialsPoint NumPy 教程](https://github.com/apachecn/misc-docs-zh/blob/master/docs/tutorialspoint-numpy.md?utm_source=home)
 1.  [复杂性思维 中文第二版](https://github.com/apachecn/think-comp-2e-zh?utm_source=home)
 1.  [利用 Python 进行数据分析 · 第 2 版](https://github.com/apachecn/pyda-2e-zh?utm_source=home)
