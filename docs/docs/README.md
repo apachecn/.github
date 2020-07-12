@@ -101,7 +101,7 @@
     1.  [UCB Data8 课本：计算与推断思维⭐](https://github.com/apachecn/data8-textbook-zh?utm_source=home)
     1.  [UCB Prob140 课本：面向数据科学的概率论⭐](https://github.com/apachecn/prob140-textbook-zh?utm_source=home)
     1.  [UCB DS100 课本：数据科学的原理与技巧⭐](https://github.com/apachecn/ds100-textbook-zh?utm_source=home)
-1.  [ApacheCN 数据科学译文集⭐](https://github.com/apachecn/apachecn-ds-zh)
+1.  [ApacheCN 数据科学译文集⭐](https://github.com/apachecn/apachecn-ds-zh?utm_source=home)
 1.  [TutorialsPoint NumPy 教程](https://github.com/apachecn/misc-docs-zh/blob/master/docs/tutorialspoint-numpy.md?utm_source=home)
 1.  [复杂性思维 中文第二版](https://github.com/apachecn/think-comp-2e-zh?utm_source=home)
 1.  [利用 Python 进行数据分析 · 第 2 版](https://github.com/apachecn/pyda-2e-zh?utm_source=home)
@@ -136,7 +136,7 @@
     1.  [教学版视频](https://space.bilibili.com/97678687/channel/detail?cid=22486&utm_source=home)
     1.  [讨论版视频](https://space.bilibili.com/97678687/channel/detail?cid=13045&utm_source=home)
 1.  [AI 路线图（知识树）⭐](https://github.com/apachecn/ai-roadmap?utm_source=home)
-1.  [ApacheCN TensorFlow 译文集⭐](https://github.com/apachecn/apachecn-tf-zh)
+1.  [ApacheCN TensorFlow 译文集⭐](https://github.com/apachecn/apachecn-tf-zh?utm_source=home)
 1.  [Sklearn 与 TensorFlow 机器学习实用指南第二版⭐↗](https://github.com/it-ebooks/hands-on-ml-2e-zh)
 1.  [Machine Learning Mastery 博客文章翻译⭐](https://github.com/apachecn/ml-mastery-zh?utm_source=home)
 1.  斯坦福公开课课本/笔记
@@ -149,7 +149,7 @@
 1.  [台湾大学林轩田机器学习笔记↗](https://github.com/apachecn/ntu-hsuantienlin-ml?utm_source=home)
 1.  [Python 自然语言处理 中文第二版](https://github.com/apachecn/nlp-py-2e-zh?utm_source=home)
 1.  [Scikit-learn 秘籍](https://github.com/apachecn/sklearn-cookbook-zh?utm_source=home)
-1.  [PythonProgramming.net 教程翻译](https://github.com/apachecn/misc-docs-zh/blob/master/docs/python-programming-net?utm_source=home)
+1.  [PythonProgramming.net 中文系列教程](https://github.com/apachecn/python-programming-net-zh?utm_source=home)
 1.  [写给人类的机器学习](https://github.com/apachecn/ml-for-humans-zh?utm_source=home)
 1.  [面向机器学习的特征工程](https://github.com/apachecn/feature-engineering-for-ml-zh?utm_source=home)
 1.  [Python 数据分析与挖掘实战（带注释源码）](https://github.com/apachecn/python_data_analysis_and_mining_action?utm_source=home)
@@ -198,6 +198,7 @@
 
 ## 安全
 
+1.  [ApacheCN 网络安全译文集⭐](https://github.com/apachecn/apachecn-sec-zh?utm_source=home)
 1.  [Kali Linux 秘籍 中文版](https://github.com/apachecn/kali-linux-cookbook-zh?utm_source=home)
 1.  [Kali Linux Web 渗透测试秘籍 中文版](https://github.com/apachecn/kali-linux-web-pentest-cookbook-zh?utm_source=home)
 1.  [Kali Linux 无线渗透测试入门指南 中文版](https://github.com/apachecn/kali-linux-wireless-pentest-zh?utm_source=home)
