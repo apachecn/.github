@@ -334,6 +334,18 @@
 
     软件包|程序包
 
++   import
+
+    导入
+    
+    进口
+    
++   export
+
+    导出
+    
+    出口
+    
 +   dependency
 
     依赖项
