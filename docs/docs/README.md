@@ -71,6 +71,7 @@
 1.  [命令行的艺术](https://github.com/apachecn/the-art-of-command-line/blob/master/README-zh.md?utm_source=home)
 1.  [rpy2 2.8 中文文档](https://github.com/apachecn/rpy2-doc-zh?utm_source=home) 
 1.  [Learning Scrapy 中文版↗](https://www.jianshu.com/c/a3b6e459f76c)
+1.  [Gitlab 中文文档](https://github.com/apachecn/gitlab-doc-zh?utm_source=home)
 
 ## 区块链
 
