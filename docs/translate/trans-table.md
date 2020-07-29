@@ -11,6 +11,12 @@
 
     评论
 
++   recipe
+
+    秘籍
+
+    配方|食谱
+
 +   primitive
 
     原始类型、原语
@@ -22,12 +28,12 @@
     字面值
 
     文字
-    
-+   member
 
-    成员
-    
-    会员
++   naive
+
+    朴素
+
+    天真
 
 +   `***`keyword
 
@@ -64,12 +70,6 @@
     连接
 
     串联
-
-+   append
-
-    附加
-
-    追加
 
 +   application
 
@@ -151,7 +151,7 @@
     
 +   performance
 
-    性能 \*
+    性能|表现 \*
     
     表现|绩效
 
@@ -315,6 +315,12 @@
     多态
 
     多态性
+    
++   member
+
+    成员
+    
+    会员
 
 +   field
 
@@ -339,6 +345,12 @@
     包
 
     软件包|程序包
+
++   library
+
+    库
+
+    图书馆
 
 +   import
 
@@ -425,7 +437,7 @@
 
     生产者/供应器
 
-    供应商/提供程序
+    供应商|提供程序
 
 +   initializer
 
@@ -457,7 +469,18 @@
 
     经理
 
++   learner
 
+    学习器
+
+    学习者
+    
++   generator
+
+    生成器
+
+    发生器|发电机
+    
 ## 集合
     
 +   collection
@@ -654,20 +677,8 @@
     
     光标
 
-## DSAI
-    
-+   英文
+## 可视化
 
-    正确翻译
-
-    谷歌输出
-    
-+   series
-
-    序列
-    
-    系列|级数
-    
 +   plot
 
     绘图
@@ -679,6 +690,26 @@
     轴域 \*
     
     轴
+    
++   figure
+
+    图形
+    
+    数字|人物
+    
+## DSAI
+    
++   英文
+
+    正确翻译
+
+    谷歌输出
+    
++   series
+
+    序列 \*
+    
+    系列|级数
 
 +   train
 
@@ -728,12 +759,6 @@
 
     错误
 
-+   architecture
-
-    架构
-
-    体系结构
-
 +   cell
 
     单元
@@ -776,12 +801,6 @@
 
     单位
 
-+   function
-
-    函数 \*
-
-    功能
-
 +   learning rate
 
     学习率
@@ -812,29 +831,11 @@
 
     梯度增强
 
-+   naive
-
-    朴素
-
-    天真
-
 +   pooling
 
     池化
 
     汇集
-
-+   vector
-
-    向量
-
-    矢量
-
-+   recipe
-
-    秘籍
-
-    配方|食谱
 
 +   binary classification
 
@@ -866,23 +867,11 @@
 
     自动编码
 
-+   implement
-
-    实现
-
-    实施
-
 +   policy
 
     策略
 
     政策
-
-+   library
-
-    库
-
-    图书馆
 
 +   loss
 
@@ -908,35 +897,11 @@
 
     时期|时代|历元|纪元
 
-+   array
-
-    数组
-
-    阵列
-
-+   worker
-
-    工作器
-
-    工人|工作人员
-
 +   gradient
 
     梯度
 
     渐变
-
-+   agent
-
-    智能体
-
-    代理(人|商)
-
-+   generator
-
-    生成器
-
-    发生器|发电机
 
 +   discriminator
 
@@ -950,29 +915,11 @@
 
     过度拟合
 
-+   learner
-
-    学习器
-
-    学习者
-
 +   regulazation
 
     正则化
 
     规范化
-
-+   repository
-
-    仓库
-
-    存储库
-
-+   application
-
-    应用
-
-    应用程序
 
 +   bias
 
