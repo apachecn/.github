@@ -36,12 +36,14 @@
 > 
 > 我们要感谢 [Datawhale](http://home.apachecn.org/img/about/datawhale_qr.jpg)、[AI 有道](http://home.apachecn.org/img/about/redstone_qr.jpg)、[黄海广博士](http://home.apachecn.org/img/about/huanghaiguang_qr.jpg)、[PythonChina](https://github.com/pycn)、[苍海国际](https://www.258ch.com/)、[黑客派](https://hacpai.com/)、[GirlsInAI](https://www.weibo.com/u/2650740963)、[DataSciComp](https://iphysresearch.github.io/DataSciComp/)、[SeanCheney](https://www.jianshu.com/u/130f76596b02)、[AI 科技大本营](https://blog.csdn.net/dQCFKyQDXYm3F8rB0)、[BiliDrive](https://github.com/Hsury/BiliDrive)、[FlyAI](https://www.flyai.com/)、[Tesra](https://www.tesra.org/) 的创意和支持。
 
-* 【主页】[apachecn.org](http://apachecn.org)
-* 【导航】[docs.apachecn.org](https://docs.apachecn.org/)
-* 【Github】[@ApacheCN](https://github.com/apachecn)
-* 【Gitee】[@ApacheCN](https://gitee.com/apachecn)
-* 【邮件订阅】[notice.ibooker.org.cn](http://notice.ibooker.org.cn/index)
-* 【知识星球】[iBooker 布客](https://t.zsxq.com/Jq3vZZB)
+* [主页：apachecn.org](http://apachecn.org)
+* [导航：docs.apachecn.org](https://docs.apachecn.org/)
+* [知识星球：iBooker 布客](https://t.zsxq.com/Jq3vZZB)
+* [语雀：@ApacheCN](https://yuque.com/apachecn)
+* 代码仓库
+    * [Github：@ApacheCN](https://github.com/apachecn)
+    * [Gitee：@ApacheCN](https://gitee.com/apachecn)
+    * [CodeChina：@ApacheCN](https://codechina.csdn.net/apachecn)
 * 自媒体平台
     * [微博：@ApacheCN](https://weibo.com/u/6326715527)
     * [知乎专栏：AILearning](https://zhuanlan.zhihu.com/apachecn-mlia)
