@@ -144,8 +144,8 @@
     1.  [斯坦福 STATS60 课本：21 世纪的统计思维⭐](https://github.com/apachecn/stats-thinking-21-zh?utm_source=home)
     1.  [斯坦福博弈论中文笔记⭐](https://github.com/apachecn/stanford-game-theory-notes-zh?utm_source=home)
 1.  UCB 公开课课本/笔记
-    1.  [UCB Data8 课本：计算与推断思维⭐](https://github.com/apachecn/data8-textbook-zh?utm_source=home)
-    1.  [UCB Prob140 课本：面向数据科学的概率论⭐](https://github.com/apachecn/prob140-textbook-zh?utm_source=home)
+    1.  [UCB Data8 课本：计算与推断思维⭐](https://gitee.com/apachecn/data8-textbook-zh?utm_source=home)
+    1.  [UCB Prob140 课本：面向数据科学的概率论⭐](https://gitee.com/apachecn/prob140-textbook-zh?utm_source=home)
     1.  [UCB DS100 课本：数据科学的原理与技巧⭐](https://github.com/apachecn/ds100-textbook-zh?utm_source=home)
 1.  [ApacheCN 数据科学译文集⭐](https://github.com/apachecn/apachecn-ds-zh?utm_source=home)
     +   [TutorialsPoint NumPy 教程](https://github.com/apachecn/apachecn-ds-zh/blob/master/docs/tutorialspoint-numpy.md?utm_source=home)
