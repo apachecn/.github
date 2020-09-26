@@ -39,6 +39,7 @@
 * [主页：apachecn.org](http://apachecn.org)
 * [导航：docs.apachecn.org](https://docs.apachecn.org/)
 * [知识星球：iBooker 布客](https://t.zsxq.com/Jq3vZZB)
+* [看云：@ApacheCN](https://www.kancloud.cn/@apachecn)
 * [语雀：@ApacheCN](https://yuque.com/apachecn)
 * 代码仓库
     * [Github：@ApacheCN](https://github.com/apachecn)
