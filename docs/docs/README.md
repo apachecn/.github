@@ -15,10 +15,7 @@
     1.  [Java8 中文官方教程](https://github.com/apachecn/java8-tut-zh?utm_source=home)
     1.  [JavaTutorialNetwork 中文系列教程](https://github.com/apachecn/jtn-zh?utm_source=home)
     1.  [HowToDoInJava 中文系列教程](https://github.com/apachecn/howtodoinjava-zh?utm_source=home)
-        +   [HowToDoInJava Spring 教程](https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/spring?utm_source=home)
-        +   [HowToDoInJava Java 教程](https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/java?utm_source=home)
-        +   [HowToDoInJava 其它教程 1](https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/misc1?utm_source=home)
-        +   [HowToDoInJava 其它教程 2](https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/misc2?utm_source=home)
+        +   [Spring][htdij-spring]／[Java][htdij-java]／[其它教程 1][htdij-misc1]／[其它教程 2][htdij-misc2] 
     1.  [JavaBeginnersTutorial 中文系列教程](https://github.com/apachecn/jbt-zh?utm_source=home)
 1.  Python
     1.  [Think Python 中文第二版↗](https://github.com/apachecn/think-py-2e-zh?utm_source=home)
@@ -39,21 +36,7 @@
 1.  综合
     1.  [TutorialsPoint 中文系列教程](https://github.com/apachecn/tutorialspoint-ebooks-zh?utm_source=home)
     1.  [BeginnersBook 中文系列教程](https://github.com/apachecn/beginnersbook-zh?utm_source=home)
-        +   [BeginnersBook C 语言教程](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/c?utm_source=home)
-        +   [BeginnersBook C 语言示例](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/c-example?utm_source=home)
-        +   [BeginnersBook C++ 教程](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/cpp?utm_source=home)
-        +   [BeginnersBook 数据库教程](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/dbms?utm_source=home)
-        +   [BeginnersBook Java 教程](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/java?utm_source=home)
-        +   [BeginnersBook Java 集合教程](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/java-collection?utm_source=home)
-        +   [BeginnersBook Java 示例](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/java-example?utm_source=home)
-        +   [BeginnersBook Java IO 教程](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/java-io?utm_source=home)
-        +   [BeginnersBook Java 字符串教程](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/java-string?utm_source=home)
-        +   [BeginnersBook JSP 教程](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/jsp?utm_source=home)
-        +   [BeginnersBook JSTL 教程](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/jsp?utm_source=home)
-        +   [BeginnersBook Kotlin 教程](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/kotlin?utm_source=home)
-        +   [BeginnersBook MongoDB 教程](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/mongodb?utm_source=home)
-        +   [BeginnersBook Perl 教程](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/perl?utm_source=home)
-        +   [BeginnersBook Servlet 教程](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/servlet?utm_source=home)
+    +   [C 语言][bb-c]／[C 语言示例][bb-c-example]／[C++][bb-cpp]／[数据库][bb-db]／[Java][bb-java]／[Java 示例][bb-java-example]／[Java IO][bb-java-io]／[Java 字符串][bb-java-str]／[JSP][bb-jsp]／[JSTL][bb-jstl]／[Kotlin][bb-kotlin]／[MongoDB][bb-mongo]／[Perl][bb-perl]／[Servlet][bb-servlet]
     1.  [ZetCode 中文系列教程](https://github.com/apachecn/zetcode-zh?utm_source=home)
         +   [ZetCode 数据库教程](https://github.com/apachecn/zetcode-zh/blob/master/docs/db?utm_source=home)
         +   [ZetCode .NET 教程](https://github.com/apachecn/zetcode-zh/blob/master/docs/dotnet?utm_source=home)
@@ -84,6 +67,25 @@
         +   [Guru99 软件测试教程](https://github.com/apachecn/guru99-zh/blob/master/docs/test?utm_source=home)
         +   [Guru99 SAP 教程](https://github.com/apachecn/guru99-zh/blob/master/docs/sap?utm_source=home)
         +   [Guru99 必须学习的教程](https://github.com/apachecn/guru99-zh/blob/master/docs/must?utm_source=home)
+
+[htdij-spring]: https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/spring?utm_source=home
+[htdij-java]: https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/java?utm_source=home
+[htdij-misc1]: https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/misc1?utm_source=home
+[htdij-misc2]: https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/misc2?utm_source=home
+[bb-c]: https://github.com/apachecn/beginnersbook-zh/blob/master/docs/c?utm_source=home
+[bb-c-example]: https://github.com/apachecn/beginnersbook-zh/blob/master/docs/c-example?utm_source=home
+[bb-cpp]: https://github.com/apachecn/beginnersbook-zh/blob/master/docs/cpp?utm_source=home
+[bb-db]: https://github.com/apachecn/beginnersbook-zh/blob/master/docs/dbms?utm_source=home
+[bb-java]: https://github.com/apachecn/beginnersbook-zh/blob/master/docs/java?utm_source=home
+[bb-java-example]: https://github.com/apachecn/beginnersbook-zh/blob/master/docs/java-example?utm_source=home
+[bb-java-io]: https://github.com/apachecn/beginnersbook-zh/blob/master/docs/java-io?utm_source=home
+[bb-java-str]: https://github.com/apachecn/beginnersbook-zh/blob/master/docs/java-string?utm_source=home
+[bb-jsp]: https://github.com/apachecn/beginnersbook-zh/blob/master/docs/jsp?utm_source=home
+[bb-jstl]: https://github.com/apachecn/beginnersbook-zh/blob/master/docs/jsp?utm_source=home
+[bb-kotlin]: https://github.com/apachecn/beginnersbook-zh/blob/master/docs/kotlin?utm_source=home
+[bb-mongo]: https://github.com/apachecn/beginnersbook-zh/blob/master/docs/mongodb?utm_source=home
+[bb-perl]: https://github.com/apachecn/beginnersbook-zh/blob/master/docs/perl?utm_source=home
+[bb-servlet]: https://github.com/apachecn/beginnersbook-zh/blob/master/docs/servlet?utm_source=home
 
 ## 后端/大数据
 
