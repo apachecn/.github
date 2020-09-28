@@ -45,9 +45,7 @@
     1.  [Programiz 中文系列教程](https://github.com/apachecn/programiz-zh?utm_source=home)
         +   [C 语言][miz-c]／[C++][miz-cpp]／[C#][miz-cs]／[数据结构和算法][miz-dsal]／[Java][miz-java]／[Kotlin][miz-kotlin]／[Python][miz-py]／[Swift][miz-swift]
     1.  [Guru99 中文系列教程](https://github.com/apachecn/guru99-zh?utm_source=home)
-        +   [Guru99 软件测试教程](https://github.com/apachecn/guru99-zh/blob/master/docs/test?utm_source=home)
-        +   [Guru99 SAP 教程](https://github.com/apachecn/guru99-zh/blob/master/docs/sap?utm_source=home)
-        +   [Guru99 必须学习的教程](https://github.com/apachecn/guru99-zh/blob/master/docs/must?utm_source=home)
+        + [软件测试][guru99-test]／[SAP][guru99-sap]／[必学教程][guru99-must]
 
 [htdij-spring]: https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/spring?utm_source=home
 [htdij-java]: https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/java?utm_source=home
@@ -90,8 +88,9 @@
 [miz-kotlin]: https://github.com/apachecn/programiz-zh/blob/master/docs/kotlin?utm_source=home
 [miz-py]: https://github.com/apachecn/programiz-zh/blob/master/docs/py?utm_source=home
 [miz-swift]: https://github.com/apachecn/programiz-zh/blob/master/docs/swift?utm_source=home
-
-
+[guru99-test]: https://github.com/apachecn/guru99-zh/blob/master/docs/test?utm_source=home
+[guru99-sap]: https://github.com/apachecn/guru99-zh/blob/master/docs/sap?utm_source=home
+[guru99-must]: https://github.com/apachecn/guru99-zh/blob/master/docs/must?utm_source=home
 
 ## 后端/大数据
 
