@@ -304,18 +304,8 @@
 1.  [ApacheCN 公众号历史文章](https://github.com/apachecn/awesome-article-recomm?utm_source=home)
 1.  [简历分享系列视频⭐](https://www.bilibili.com/video/av53122083?utm_source=home)
 1.  [斯坦福 CS183 系列 / YC 创业课系列中文笔记⭐](https://github.com/apachecn/stanford-cs183-notes?utm_source=home)
-    +   [Zero to One 从 0 到 1 | Tony 翻译版](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/a?utm_source=home)
-    +   [YC 创业课 2012 中文笔记](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2012?utm_source=home)
-    +   [斯坦福 CS183b YC 创业课文字版](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/b?utm_source=home)
-    +   [YC 创业课 2013 中文笔记](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2013?utm_source=home)
-    +   [斯坦福 CS183c 闪电式扩张中文笔记](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/c?utm_source=home)
-    +   [YC 创业课 SV 2014 中文笔记](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2014-sv?utm_source=home)
-    +   [YC 创业课 NY 2014 中文笔记](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2014-ny?utm_source=home)
-    +   [YC 创业课 EU 2014 中文笔记](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2014-eu?utm_source=home)
-    +   [YC 创业课 2016 中文笔记](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2016?utm_source=home)
-    +   [斯坦福 CS183f YC 创业课 2017 中文笔记](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/f?utm_source=home)
-    +   [YC 创业课 2018 中文笔记](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2018?utm_source=home)
-    +   [YC 创业课 2019 中文笔记](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2019?utm_source=home)
+    +   [CS183A 从零到一][cs183a]／[YC 2012][yc2012]／[CS183B][cs183b]／[YC 2013][yc2013]／[CS183C][cs183c]／[YC 2014 SV][yc2014sv]
+    +   [YC 2014 NY][yc2014ny]／[YC 2014 EU][yc2014eu]／[YC 2016][yc2016]／[CS183F YC 2017][cs183f-yc2017]／[YC 2018][yc2018]／[YC 2019][yc2019]
 1.  [独立开发/自由职业/远程工作资源列表](https://github.com/apachecn/awesome-indie-zh?utm_source=home)
 1.  [通往财富自由之路精细笔记](https://github.com/apachecn/the-way-to-wealth-freedom-notes?utm_source=home)
 1.  [5 分钟商学院精细笔记](https://github.com/apachecn/5min-business-notes?utm_source=home)
@@ -326,5 +316,18 @@
 1.  [程序媛计划：儿童性教育项目↗](https://www.cxy61.com/girl/child_sexual_education/index.html?utm_source=home)
 1.  [环材化生劝退计划](https://home.apachecn.org/docs/%E7%8E%AF%E6%9D%90%E5%8C%96%E7%94%9F%E5%8A%9D%E9%80%80?utm_source=home)
 1.  [ZhangYi 的博客文章↗](http://codewithzhangyi.com/blog?utm_source=home)
+
+[cs183a]: https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/a?utm_source=home
+[yc2012]: https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2012?utm_source=home
+[cs183b]: https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/b?utm_source=home
+[yc2013]: https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2013?utm_source=home
+[cs183c]: https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/c?utm_source=home
+[yc2014sv]: https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2014-sv?utm_source=home
+[yc2014ny]: https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2014-ny?utm_source=home
+[yc2014eu]: https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2014-eu?utm_source=home
+[yc2016]: https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2016?utm_source=home
+[cs183f-yc2017]: https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/f?utm_source=home
+[yc2018]: https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2018?utm_source=home
+[yc2019]: https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2019?utm_source=home
 
 <!--enddocs-->
