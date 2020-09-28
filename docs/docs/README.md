@@ -212,18 +212,8 @@
     +   [TensorFlow 高效编程](https://github.com/apachecn/apachecn-tf-zh/blob/master/docs/effective-tf.md?utm_source=home)
 1.  [Sklearn 与 TensorFlow 机器学习实用指南第二版⭐↗](https://github.com/apachecn/hands-on-ml-2e-zh?utm_source=home)
 1.  [Machine Learning Mastery 博客文章翻译⭐](https://github.com/apachecn/ml-mastery-zh?utm_source=home)
-    +   [Machine Learning Mastery 应用机器学习教程](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/applied-ml?utm_source=home)
-    +   [Machine Learning Mastery Keras 深度学习教程](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/dl-keras?utm_source=home)
-    +   [Machine Learning Mastery 深度学习 NLP 教程](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/dl-nlp?utm_source=home)
-    +   [Machine Learning Mastery 深度学习时间序列教程](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/dl-ts?utm_source=home)
-    +   [Machine Learning Mastery 线性代数教程](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/linalg?utm_source=home)
-    +   [Machine Learning Mastery LSTM 教程](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/lstm?utm_source=home)
-    +   [Machine Learning Mastery 机器学习算法教程](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/ml-algo?utm_source=home)
-    +   [Machine Learning Mastery 机器学习入门教程](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/ml-start?utm_source=home)
-    +   [Machine Learning Mastery Sklearn 教程](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/sklearn?utm_source=home)
-    +   [Machine Learning Mastery 统计学教程](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/stat?utm_source=home)
-    +   [Machine Learning Mastery 时间序列入门教程](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/ts-intro?utm_source=home)
-    +   [Machine Learning Mastery XGBoost 教程](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/xgboost?utm_source=home)
+    +   [应用机器学习][mlm-app-ml]／[Keras 深度学习][mlm-keras-dl]／[深度学习 NLP][mlm-dl-nlp]／[深度学习时间序列][mlm-dl-ts]／[线性代数][mlm-linalg]／[LSTM][mlm-lstm]
+    +   [机器学习算法][mlm-ml-algo]／[机器学习入门][mlm-ml-intro]／[Sklearn][mlm-sklearn]／[统计学][mlm-stat]／[时间序列入门][mlm-ts-intro]／[XGBoost][mlm-xgb]
 1.  斯坦福公开课课本/笔记
     1.  [斯坦福 CS229 机器学习中文笔记⭐↗](http://ai-start.com/ml2014?utm_source=home)
     1.  [DeepLearning.ai 深度学习中文笔记⭐↗](http://ai-start.com/dl2017?utm_source=home)
@@ -252,6 +242,19 @@
 1.  [推荐系统遇上深度学习↗](https://www.jianshu.com/c/e12d7195a9ff?utm_source=home)
 1.  [可解释的机器学习](https://github.com/apachecn/interpretable-ml-book-zh?utm_source=home)
 1.  [Python 机器学习在线指南](https://github.com/apachecn/vt-cs4624-pyml-zh?utm_source=home)
+
+[mlm-app-ml]: https://github.com/apachecn/ml-mastery-zh/blob/master/docs/applied-ml?utm_source=home
+[mlm-keras-dl]: https://github.com/apachecn/ml-mastery-zh/blob/master/docs/dl-keras?utm_source=home
+[mlm-dl-nlp]: https://github.com/apachecn/ml-mastery-zh/blob/master/docs/dl-nlp?utm_source=home
+[mlm-dl-ts]: https://github.com/apachecn/ml-mastery-zh/blob/master/docs/dl-ts?utm_source=home
+[mlm-linalg]: https://github.com/apachecn/ml-mastery-zh/blob/master/docs/linalg?utm_source=home
+[mlm-lstm]: https://github.com/apachecn/ml-mastery-zh/blob/master/docs/lstm?utm_source=home
+[mlm-ml-algo]: https://github.com/apachecn/ml-mastery-zh/blob/master/docs/ml-algo?utm_source=home
+[mlm-ml-intro]: https://github.com/apachecn/ml-mastery-zh/blob/master/docs/ml-start?utm_source=home
+[mlm-sklearn]: https://github.com/apachecn/ml-mastery-zh/blob/master/docs/sklearn?utm_source=home
+[mlm-stat]: https://github.com/apachecn/ml-mastery-zh/blob/master/docs/stat?utm_source=home
+[mlm-ts-intro]: https://github.com/apachecn/ml-mastery-zh/blob/master/docs/ts-intro?utm_source=home
+[mlm-xgb]: https://github.com/apachecn/ml-mastery-zh/blob/master/docs/xgboost?utm_source=home
 
 ## AI 综述翻译计划
 
