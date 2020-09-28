@@ -36,33 +36,14 @@
 1.  综合
     1.  [TutorialsPoint 中文系列教程](https://github.com/apachecn/tutorialspoint-ebooks-zh?utm_source=home)
     1.  [BeginnersBook 中文系列教程](https://github.com/apachecn/beginnersbook-zh?utm_source=home)
-    +   [C 语言][bb-c]／[C 语言示例][bb-c-example]／[C++][bb-cpp]／[数据库][bb-db]／[Java][bb-java]／[Java 示例][bb-java-example]／[Java IO][bb-java-io]／[Java 字符串][bb-java-str]／[JSP][bb-jsp]／[JSTL][bb-jstl]／[Kotlin][bb-kotlin]／[MongoDB][bb-mongo]／[Perl][bb-perl]／[Servlet][bb-servlet]
+        +   [C 语言][bb-c]／[C 语言示例][bb-c-example]／[C++][bb-cpp]／[数据库][bb-db]／[Java][bb-java]／[Java 示例][bb-java-example]／[Java IO][bb-java-io]
+        +   [Java 字符串][bb-java-str]／[JSP][bb-jsp]／[JSTL][bb-jstl]／[Kotlin][bb-kotlin]／[MongoDB][bb-mongo]／[Perl][bb-perl]／[Servlet][bb-servlet]
     1.  [ZetCode 中文系列教程](https://github.com/apachecn/zetcode-zh?utm_source=home)
-        +   [ZetCode 数据库教程](https://github.com/apachecn/zetcode-zh/blob/master/docs/db?utm_source=home)
-        +   [ZetCode .NET 教程](https://github.com/apachecn/zetcode-zh/blob/master/docs/dotnet?utm_source=home)
-        +   [ZetCode 图形教程](https://github.com/apachecn/zetcode-zh/blob/master/docs/graph?utm_source=home)
-        +   [ZetCode GUI 教程](https://github.com/apachecn/zetcode-zh/blob/master/docs/gui?utm_source=home)
-        +   [ZetCode Java 教程](https://github.com/apachecn/zetcode-zh/blob/master/docs/java?utm_source=home)
-        +   [ZetCode JavaScript 教程](https://github.com/apachecn/zetcode-zh/blob/master/docs/js?utm_source=home)
-        +   [ZetCode Kotlin 教程](https://github.com/apachecn/zetcode-zh/blob/master/docs/kotlin?utm_source=home)
-        +   [ZetCode 其它教程](https://github.com/apachecn/zetcode-zh/blob/master/docs/misc?utm_source=home)
-        +   [ZetCode PHP 教程](https://github.com/apachecn/zetcode-zh/blob/master/docs/php?utm_source=home)
-        +   [ZetCode Python 教程](https://github.com/apachecn/zetcode-zh/blob/master/docs/py?utm_source=home)
-        +   [ZetCode Ruby 教程](https://github.com/apachecn/zetcode-zh/blob/master/docs/ruby?utm_source=home)
-        +   [ZetCode Servlet 教程](https://github.com/apachecn/zetcode-zh/blob/master/docs/servlet?utm_source=home)
-        +   [ZetCode Spring 教程](https://github.com/apachecn/zetcode-zh/blob/master/docs/spring?utm_source=home)
-        +   [ZetCode Spring Boot 教程](https://github.com/apachecn/zetcode-zh/blob/master/docs/spring-boot?utm_source=home)
-        +   [ZetCode Symfony 教程](https://github.com/apachecn/zetcode-zh/blob/master/docs/symfony?utm_source=home)
+        +   [数据库][zetcode-db]／[.NET][zetcode-dotnet]／[图形][zetcode-graph]／[GUI][zetcode-gui]／[Java][zetcode-java]／[JavaScript][zetcode-js]／[Kotlin][zetcode-kotlin]
+        +   [其它][zetcode-misc]／[PHP][zetcode-php]／[Python][zetcode-py]／[Ruby][zetcode-ruby]／[Servlet][zetcode-servlet]／[Spring][zetcode-spring]／[Spring Boot][zetcode-spring-boot]／[Symfony][zetcode-symfony]
     1.  [Succinctly 中文系列教程](https://github.com/apachecn/succinctly-zh?utm_source=home)
     1.  [Programiz 中文系列教程](https://github.com/apachecn/programiz-zh?utm_source=home)
-        +   [Programiz C 语言教程](https://github.com/apachecn/programiz-zh/blob/master/docs/c?utm_source=home)
-        +   [Programiz C++ 教程](https://github.com/apachecn/programiz-zh/blob/master/docs/cpp?utm_source=home)
-        +   [Programiz C# 教程](https://github.com/apachecn/programiz-zh/blob/master/docs/csharp?utm_source=home)
-        +   [Programiz 数据结构和算法教程](https://github.com/apachecn/programiz-zh/blob/master/docs/dsal?utm_source=home)
-        +   [Programiz Java 教程](https://github.com/apachecn/programiz-zh/blob/master/docs/java?utm_source=home)
-        +   [Programiz Kotlin 教程](https://github.com/apachecn/programiz-zh/blob/master/docs/kotlin?utm_source=home)
-        +   [Programiz Python 教程](https://github.com/apachecn/programiz-zh/blob/master/docs/py?utm_source=home)
-        +   [Programiz Swift 教程](https://github.com/apachecn/programiz-zh/blob/master/docs/swift?utm_source=home)
+        +   [C 语言][miz-c]／[C++][miz-cpp]／[C#][miz-cs]／[数据结构和算法][miz-dsal]／[Java][miz-java]／[Kotlin][miz-kotlin]／[Python][miz-py]／[Swift][miz-swift]
     1.  [Guru99 中文系列教程](https://github.com/apachecn/guru99-zh?utm_source=home)
         +   [Guru99 软件测试教程](https://github.com/apachecn/guru99-zh/blob/master/docs/test?utm_source=home)
         +   [Guru99 SAP 教程](https://github.com/apachecn/guru99-zh/blob/master/docs/sap?utm_source=home)
@@ -86,6 +67,31 @@
 [bb-mongo]: https://github.com/apachecn/beginnersbook-zh/blob/master/docs/mongodb?utm_source=home
 [bb-perl]: https://github.com/apachecn/beginnersbook-zh/blob/master/docs/perl?utm_source=home
 [bb-servlet]: https://github.com/apachecn/beginnersbook-zh/blob/master/docs/servlet?utm_source=home
+[zetcode-db]: https://github.com/apachecn/zetcode-zh/blob/master/docs/db?utm_source=home
+[zetcode-dotnet]: https://github.com/apachecn/zetcode-zh/blob/master/docs/dotnet?utm_source=home
+[zetcode-graph]: https://github.com/apachecn/zetcode-zh/blob/master/docs/graph?utm_source=home
+[zetcode-gui]: https://github.com/apachecn/zetcode-zh/blob/master/docs/gui?utm_source=home
+[zetcode-java]: https://github.com/apachecn/zetcode-zh/blob/master/docs/java?utm_source=home
+[zetcode-js]: https://github.com/apachecn/zetcode-zh/blob/master/docs/js?utm_source=home
+[zetcode-kotlin]: https://github.com/apachecn/zetcode-zh/blob/master/docs/kotlin?utm_source=home
+[zetcode-misc]: https://github.com/apachecn/zetcode-zh/blob/master/docs/misc?utm_source=home
+[zetcode-php]: https://github.com/apachecn/zetcode-zh/blob/master/docs/php?utm_source=home
+[zetcode-py]: https://github.com/apachecn/zetcode-zh/blob/master/docs/py?utm_source=home
+[zetcode-ruby]: https://github.com/apachecn/zetcode-zh/blob/master/docs/ruby?utm_source=home
+[zetcode-servlet]: https://github.com/apachecn/zetcode-zh/blob/master/docs/servlet?utm_source=home
+[zetcode-spring]: https://github.com/apachecn/zetcode-zh/blob/master/docs/spring?utm_source=home
+[zetcode-spring-boot]: https://github.com/apachecn/zetcode-zh/blob/master/docs/spring-boot?utm_source=home
+[zetcode-symfony]: https://github.com/apachecn/zetcode-zh/blob/master/docs/symfony?utm_source=home
+[miz-c]: https://github.com/apachecn/programiz-zh/blob/master/docs/c?utm_source=home
+[miz-cpp]: https://github.com/apachecn/programiz-zh/blob/master/docs/cpp?utm_source=home
+[miz-cs]: https://github.com/apachecn/programiz-zh/blob/master/docs/csharp?utm_source=home
+[miz-dsal]: https://github.com/apachecn/programiz-zh/blob/master/docs/dsal?utm_source=home
+[miz-java]: https://github.com/apachecn/programiz-zh/blob/master/docs/java?utm_source=home
+[miz-kotlin]: https://github.com/apachecn/programiz-zh/blob/master/docs/kotlin?utm_source=home
+[miz-py]: https://github.com/apachecn/programiz-zh/blob/master/docs/py?utm_source=home
+[miz-swift]: https://github.com/apachecn/programiz-zh/blob/master/docs/swift?utm_source=home
+
+
 
 ## 后端/大数据
 
