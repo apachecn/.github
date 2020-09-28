@@ -196,9 +196,7 @@
 ## AI 教程
 
 1.  AILearning - 机器学习实战⭐
-    1.  [文字教程](https://github.com/apachecn/AiLearning?utm_source=home)
-    1.  [教学版视频](https://space.bilibili.com/97678687/channel/detail?cid=22486&utm_source=home)
-    1.  [讨论版视频](https://space.bilibili.com/97678687/channel/detail?cid=13045&utm_source=home)
+    +   [文字教程][ail-text]／[教学版视频][ail-teach]／[讨论版视频][ail-discuss]
 1.  [AI 路线图（知识树）⭐](https://github.com/apachecn/ai-roadmap?utm_source=home)
 1.  [ApacheCN TensorFlow 译文集⭐](https://github.com/apachecn/apachecn-tf-zh?utm_source=home)
     +   [使用 TensorFlow 构建机器学习项目中文版](https://github.com/apachecn/apachecn-tf-zh/blob/master/docs/build-ml-proj-tf-zh?utm_source=home)
@@ -255,6 +253,9 @@
 [mlm-stat]: https://github.com/apachecn/ml-mastery-zh/blob/master/docs/stat?utm_source=home
 [mlm-ts-intro]: https://github.com/apachecn/ml-mastery-zh/blob/master/docs/ts-intro?utm_source=home
 [mlm-xgb]: https://github.com/apachecn/ml-mastery-zh/blob/master/docs/xgboost?utm_source=home
+[ail-text]: https://github.com/apachecn/AiLearning?utm_source=home
+[ail-teach]: https://space.bilibili.com/97678687/channel/detail?cid=22486&utm_source=home
+[ail-discuss]: https://space.bilibili.com/97678687/channel/detail?cid=13045&utm_source=home
 
 ## AI 综述翻译计划
 
