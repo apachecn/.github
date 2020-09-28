@@ -1,4 +1,4 @@
-<iframe id='iframe-cover' src='docs/index.html'></iframe>
+<iframe id='iframe-cover' src='asset/cover.html'></iframe>
 <style>
     #iframe-cover { 
         border: none;
