@@ -30,11 +30,30 @@
 
 ## **组织介绍**
 
-> 我们是布客（iBooker），一个大型开源社区、自媒体和网赚社区，旗下 QQ 群共一万余人，订阅用户至少一万人。Github Star 数量超过 60k 个，在所有 Github 组织中[排名前 100](https://gitstar-ranking.com/apachecn)。旗下所有网站日 uip 超过 4k，[Alexa 排名的峰值为 20k](http://home.apachecn.org/img/about/alexa_201906.png)。我们的核心成员拥有[ CSDN 博客专家](https://blog.csdn.net/wizardforcel)和[简书程序员优秀作者](https://www.jianshu.com/u/b508a6aa98eb)认证。我们建立了公益性文档和教程翻译项目 [ApacheCN](https://github.com/apachecn)。
+> 我们是布客（iBooker），一个大型开源社区、自媒体和网赚社区，旗下 QQ 群共一万余人，订阅用户至少一万人。Github Star 数量超过 60k 个，在所有 Github 组织中[排名前 100][top100]。旗下所有网站日 uip 超过 4k，[Alexa 排名的峰值为 20k][top20k]。我们的核心成员拥有[ CSDN 博客专家][csdn-pro]和[简书程序员优秀作者][js-pro]认证。我们建立了公益性文档和教程翻译项目 [ApacheCN][apachecn]。
 > 
 > 与商业组织不同，我们并不会追逐热点，或者唯利是图。作为公益组织，我们将完成项目放在首要位置，并有足够时间把项目打磨到极致。我们希望做出广大 AI 爱好者和个人开发者真正需要的东西，打造真正有价值的长尾作品。
 > 
-> 我们要感谢 [Datawhale](http://home.apachecn.org/img/about/datawhale_qr.jpg)、[AI 有道](http://home.apachecn.org/img/about/redstone_qr.jpg)、[黄海广博士](http://home.apachecn.org/img/about/huanghaiguang_qr.jpg)、[PythonChina](https://github.com/pycn)、[苍海国际](https://www.258ch.com/)、[黑客派](https://hacpai.com/)、[GirlsInAI](https://www.weibo.com/u/2650740963)、[DataSciComp](https://iphysresearch.github.io/DataSciComp/)、[SeanCheney](https://www.jianshu.com/u/130f76596b02)、[AI 科技大本营](https://blog.csdn.net/dQCFKyQDXYm3F8rB0)、[BiliDrive](https://github.com/Hsury/BiliDrive)、[FlyAI](https://www.flyai.com/)、[Tesra](https://www.tesra.org/) 的创意和支持。
+> 我们要感谢 [Datawhale][datawhale]、[AI 有道][aiyoudao]、[黄海广博士][huanghaiguang]、[PythonChina][pycn]、[苍海国际][258ch]、[黑客派][hacpai]、[GirlsInAI][gia]、[DataSciComp][datascicomp]、[SeanCheney][seancheney]、[AI 科技大本营][aikeji]、[BiliDrive][bdrive]、[FlyAI][flyai]、[Tesra][tesra] 的创意和支持。
+
+[top100]: https://gitstar-ranking.com/apachecn
+[top20k]: http://home.apachecn.org/img/about/alexa_201906.png
+[csdn-pro]: https://blog.csdn.net/wizardforcel
+[js-pro]: https://www.jianshu.com/u/b508a6aa98eb
+[apachecn]: https://github.com/apachecn
+[datawhale]: http://home.apachecn.org/img/about/datawhale_qr.jpg
+[aiyoudao]: http://home.apachecn.org/img/about/redstone_qr.jpg
+[huanghaiguang]: http://home.apachecn.org/img/about/huanghaiguang_qr.jpg
+[pycn]: https://github.com/pycn
+[258ch]: https://www.258ch.com/
+[hacpai]: https://hacpai.com/
+[gia]: https://www.weibo.com/u/2650740963
+[datascicomp]: https://iphysresearch.github.io/DataSciComp/
+[seancheney]: https://www.jianshu.com/u/130f76596b02
+[aikeji]: https://blog.csdn.net/dQCFKyQDXYm3F8rB0
+[bdrive]: https://github.com/Hsury/BiliDrive
+[flyai]: https://www.flyai.com/
+[tesra]: https://www.tesra.org/
 
 * [主页：apachecn.org](http://apachecn.org)
 * [导航：docs.apachecn.org](https://docs.apachecn.org/)
@@ -49,10 +68,20 @@
     * [微博：@ApacheCN](https://weibo.com/u/6326715527)
     * [知乎专栏：AILearning](https://zhuanlan.zhihu.com/apachecn-mlia)
     * [公众号：ApacheCN](http://home.apachecn.org/img/about/apachecn_qr.jpg)
-    * [CSDN](https://blog.csdn.net/wizardforcel/article/category/8437073) | [博客园](https://www.cnblogs.com/apachecn) | [OSChina](https://my.oschina.net/u/1777350?tab=newest&catalogId=6512710) | [SF](https://segmentfault.com/blog/flygon) | [掘金](https://juejin.im/user/57960af3128fe10056c637e4/posts)
-    * [简书](https://www.jianshu.com/c/4ee721d0c474) | [搜狐号](https://mp.sohu.com/profile?xpt=NDhjYmViMzMtZWE2Yi00NTlmLWE3OTQtY2FjNjIwNDBlZDJl) | [头条号](https://www.toutiao.com/c/user/3901644178/) | [bilibili](http://space.bilibili.com/97678687)
+    * [CSDN][csdn]／[博客园][cnblogs]／[OSChina][osc]／[SF][sf]／[掘金][juejin]
+    * [简书][jianshu]／[搜狐号][sohu-mp]／[头条号][toutiao-mp]／[bilibili][bili]
 * **We are ApacheCN Open Source Organization, not ASF! We are fans of AI, and have no relationship with ASF!**
 * 合作 or 侵权，请联系 <apachecn@163.com> | 请抄送一份到 <wizard.z@foxmail.com>
+
+[csdn]: https://blog.csdn.net/wizardforcel/article/category/8437073
+[cnblogs]: https://www.cnblogs.com/apachecn
+[osc]: https://my.oschina.net/u/1777350?tab=newest&catalogId=6512710
+[sf]: https://segmentfault.com/blog/flygon
+[juejin]: https://juejin.im/user/57960af3128fe10056c637e4/posts
+[jianshu]: https://www.jianshu.com/c/4ee721d0c474
+[sohu-mp]: https://mp.sohu.com/profile?xpt=NDhjYmViMzMtZWE2Yi00NTlmLWE3OTQtY2FjNjIwNDBlZDJl
+[toutiao-mp]: https://www.toutiao.com/c/user/3901644178/
+[bili]: http://space.bilibili.com/97678687
 
 ![](http://home.apachecn.org/img/about/ibooker_zsxq_qr_l.jpg)
 
