@@ -147,6 +147,7 @@
 
 ## 数据科学教程
 
+1.  [QuantLearning - Python 量化交易教程整理](https://github.com/apachecn/quant-learning)
 1.  斯坦福公开课课本/笔记
     1.  [斯坦福 STATS60 课本：21 世纪的统计思维⭐](https://github.com/apachecn/stats-thinking-21-zh?utm_source=home)
     1.  [斯坦福博弈论中文笔记⭐](https://github.com/apachecn/stanford-game-theory-notes-zh?utm_source=home)
