@@ -285,7 +285,7 @@
 1.  [5 分钟商学院精细笔记](https://github.com/apachecn/5min-business-notes?utm_source=home)
 1.  [English - World Travel](https://github.com/apachecn/English?utm_source=home)
 1.  [Gainlo 面试指南](https://github.com/apachecn/gainlo-interview-guide-zh?utm_source=home)
-1.  [Evil Huawei - 华为作过的恶↗](https://github.com/evil-huawei/evil-huawei?utm_source=home)
+1.  [校招污点公司记录](https://github.com/Programming-With-Love/ShameCom)
 1.  [iBooker 布客老实人报⭐](https://zhuanlan.zhihu.com/plain-dealer?utm_source=home)
 1.  [程序媛计划：儿童性教育项目↗](https://www.cxy61.com/girl/child_sexual_education/index.html?utm_source=home)
 1.  [环材化生劝退计划](https://home.apachecn.org/docs/%E7%8E%AF%E6%9D%90%E5%8C%96%E7%94%9F%E5%8A%9D%E9%80%80?utm_source=home)
