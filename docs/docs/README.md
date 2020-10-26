@@ -289,6 +289,7 @@
 1.  [程序媛计划：儿童性教育项目↗](https://www.cxy61.com/girl/child_sexual_education/index.html?utm_source=home)
 1.  [环材化生劝退计划](https://home.apachecn.org/docs/%E7%8E%AF%E6%9D%90%E5%8C%96%E7%94%9F%E5%8A%9D%E9%80%80?utm_source=home)
 1.  [ZhangYi 的博客文章↗](http://codewithzhangyi.com/blog?utm_source=home)
+1.  [使用 Qiskit 学习量子计算](https://github.com/apachecn/lqcuq-zh)
 
 [cs183a]: https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/a?utm_source=home
 [yc2012]: https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2012?utm_source=home
