@@ -18,6 +18,7 @@
         +   [Spring][htdij-spring]／[Java][htdij-java]／[其它教程 1][htdij-misc1]／[其它教程 2][htdij-misc2] 
     1.  [JavaBeginnersTutorial 中文系列教程](https://github.com/apachecn/jbt-zh?utm_source=home)
 1.  Python
+    1.  [ApacheCN Python 译文集⭐](https://github.com/apachecn/apachecn-python-zh?utm_source=home)
     1.  [Think Python 中文第二版↗](https://github.com/apachecn/think-py-2e-zh?utm_source=home)
     1.  [笨办法学 Python · 续 中文版](https://github.com/apachecn/lmpythw-zh?utm_source=home)
     1.  [PythonSpot 中文系列教程](https://github.com/apachecn/pythonspot-zh?utm_source=home)
@@ -147,7 +148,7 @@
 
 ## 数据科学教程
 
-1.  [QuantLearning - Python 量化交易教程整理](https://github.com/apachecn/quant-learning?utm_source=home)
+1.  [QuantLearning - Python 量化交易教程整理⭐](https://github.com/apachecn/quant-learning?utm_source=home)
 1.  斯坦福公开课课本/笔记
     1.  [斯坦福 STATS60 课本：21 世纪的统计思维⭐](https://github.com/apachecn/stats-thinking-21-zh?utm_source=home)
     1.  [斯坦福博弈论中文笔记⭐](https://github.com/apachecn/stanford-game-theory-notes-zh?utm_source=home)
@@ -284,7 +285,7 @@
 1.  [5 分钟商学院精细笔记](https://github.com/apachecn/5min-business-notes?utm_source=home)
 1.  [English - World Travel](https://github.com/apachecn/English?utm_source=home)
 1.  [Gainlo 面试指南](https://github.com/apachecn/gainlo-interview-guide-zh?utm_source=home)
-1.  [Evil Huawei - 华为作过的恶↗](https://github.com/evil-huawei/evil-huawei?utm_source=home)
+1.  [校招污点公司记录](https://github.com/Programming-With-Love/ShameCom)
 1.  [iBooker 布客老实人报⭐](https://zhuanlan.zhihu.com/plain-dealer?utm_source=home)
 1.  [程序媛计划：儿童性教育项目↗](https://www.cxy61.com/girl/child_sexual_education/index.html?utm_source=home)
 1.  [环材化生劝退计划](https://home.apachecn.org/docs/%E7%8E%AF%E6%9D%90%E5%8C%96%E7%94%9F%E5%8A%9D%E9%80%80?utm_source=home)
