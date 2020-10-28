@@ -145,6 +145,7 @@
     1.  [statsmodels 中文文档⭐](https://github.com/apachecn/statsmodels_doc_zh?utm_source=home)
     1.  [seaborn 0.9 中文文档⭐](https://github.com/apachecn/seaborn-doc-zh?utm_source=home)
 1.  [SimuPy 中文文档↗](https://github.com/cycleuser/simupy-doc-cn?utm_source=home)
+1.  [PyMiner 开发者指南](https://github.com/apachecn/pyminer-dev-guide?utm_source=home)
 
 ## 数据科学教程
 
