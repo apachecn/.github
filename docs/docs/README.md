@@ -1,6 +1,6 @@
 <h1 align="center">学习资源</h1>
 
-<p align="center">集中力量办大事</p>
+<p align="center">饱和式翻译，饱和式备份，饱和式宣传</p>
 
 <!--docs-->
 
