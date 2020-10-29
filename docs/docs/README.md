@@ -214,7 +214,6 @@
 1.  [写给人类的机器学习](https://github.com/apachecn/ml-for-humans-zh?utm_source=home)
 1.  [面向机器学习的特征工程](https://github.com/apachecn/feature-engineering-for-ml-zh?utm_source=home)
 1.  [Python 数据分析与挖掘实战（带注释源码）](https://github.com/apachecn/python_data_analysis_and_mining_action?utm_source=home)
-1.  [SciPyCon 2018 Sklearn 教程](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh?utm_source=home)
 1.  [fast.ai 机器学习和深度学习中文笔记](https://github.com/apachecn/fastai-ml-dl-notes-zh?utm_source=home)
 1.  [HackCV 网站文章翻译](https://github.com/apachecn/HackCV-Translate?utm_source=home)
 1.  [数据科学和人工智能技术笔记](https://github.com/apachecn/ds-ai-tech-notes?utm_source=home)
