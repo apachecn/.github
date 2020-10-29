@@ -150,6 +150,9 @@
 ## 数据科学教程
 
 1.  [QuantLearning - Python 量化交易教程整理⭐](https://github.com/apachecn/quant-learning?utm_source=home)
+1.  [ApacheCN 数据科学译文集⭐](https://github.com/apachecn/apachecn-ds-zh?utm_source=home)
+1.  DataWhale 开源 AI 教程
+    1.  [Joyful Pandas↗](https://github.com/datawhalechina/joyful-pandas?utm_source=home)
 1.  斯坦福公开课课本/笔记
     1.  [斯坦福 STATS60 课本：21 世纪的统计思维⭐](https://github.com/apachecn/stats-thinking-21-zh?utm_source=home)
     1.  [斯坦福博弈论中文笔记⭐](https://github.com/apachecn/stanford-game-theory-notes-zh?utm_source=home)
@@ -157,16 +160,13 @@
     1.  [UCB Data8 课本：计算与推断思维⭐](https://gitee.com/apachecn/data8-textbook-zh?utm_source=home)
     1.  [UCB Prob140 课本：面向数据科学的概率论⭐](https://gitee.com/apachecn/prob140-textbook-zh?utm_source=home)
     1.  [UCB DS100 课本：数据科学的原理与技巧⭐](https://github.com/apachecn/ds100-textbook-zh?utm_source=home)
-1.  [ApacheCN 数据科学译文集⭐](https://github.com/apachecn/apachecn-ds-zh?utm_source=home)
 1.  [复杂性思维 中文第二版](https://github.com/apachecn/think-comp-2e-zh?utm_source=home)
 1.  [利用 Python 进行数据分析 · 第 2 版](https://github.com/apachecn/pyda-2e-zh?utm_source=home)
-1.  [fast.ai 数值线性代数讲义 v2](https://github.com/apachecn/fastai-num-linalg-v2-zh?utm_source=home)
-1.  [Pandas Cookbook 带注释源码](https://github.com/apachecn/pandas-cookbook-code-notes?utm_source=home)
 1.  [数据科学 IPython 笔记本](https://github.com/apachecn/ds-ipynb-zh?utm_source=home)
+1.  [数据可视化的基础知识](https://github.com/apachecn/found-data-vis-zh?utm_source=home)
+1.  [fast.ai 数值线性代数讲义 v2](https://github.com/apachecn/fastai-num-linalg-v2-zh?utm_source=home)
 1.  [UCSD COGS108 数据科学实战中文笔记](https://github.com/apachecn/ucsd-cogs108-notes?utm_source=home)
 1.  [USF MSDS501 计算数据科学中文讲义](https://github.com/apachecn/usf-msds501-notes-zh?utm_source=home)
-1.  [数据可视化的基础知识](https://github.com/apachecn/found-data-vis-zh?utm_source=home)
-1.  [Joyful Pandas↗](https://github.com/datawhalechina/joyful-pandas?utm_source=home)
 
 ## CS 教程
 
@@ -189,11 +189,16 @@
 1.  AILearning - 机器学习实战⭐
     +   [文字教程][ail-text]／[教学版视频][ail-teach]／[讨论版视频][ail-discuss]
 1.  [AI 路线图（知识树）⭐](https://github.com/apachecn/ai-roadmap?utm_source=home)
-1.  [ApacheCN TensorFlow 译文集⭐](https://github.com/apachecn/apachecn-tf-zh?utm_source=home)
+1.  [ApacheCN 深度学习译文集⭐](https://github.com/apachecn/apachecn-dl-zh?utm_source=home)
 1.  [Sklearn 与 TensorFlow 机器学习实用指南第二版⭐↗](https://github.com/apachecn/hands-on-ml-2e-zh?utm_source=home)
 1.  [Machine Learning Mastery 博客文章翻译⭐](https://github.com/apachecn/ml-mastery-zh?utm_source=home)
     +   [应用机器学习][mlm-app-ml]／[Keras 深度学习][mlm-keras-dl]／[深度学习 NLP][mlm-dl-nlp]／[深度学习时间序列][mlm-dl-ts]／[线性代数][mlm-linalg]／[LSTM][mlm-lstm]
     +   [机器学习算法][mlm-ml-algo]／[机器学习入门][mlm-ml-intro]／[Sklearn][mlm-sklearn]／[统计学][mlm-stat]／[时间序列入门][mlm-ts-intro]／[XGBoost][mlm-xgb]
+1.  DataWhale 开源 AI 教程
+    1.  [南瓜书（西瓜书公式推导解析）↗](https://github.com/datawhalechina/pumpkin-book?utm_source=home)
+    1.  [Daily Interview - 人工智能面经↗](https://github.com/datawhalechina/Daily-interview?utm_source=home)
+    1.  [李宏毅机器学习笔记↗](https://github.com/datawhalechina/Leeml-Book?utm_source=home)
+    1.  [钥匙书（机器学习理论导引笔记）↗](https://github.com/datawhalechina/key-book?utm_source=home)
 1.  斯坦福公开课课本/笔记
     1.  [斯坦福 CS229 机器学习中文笔记⭐↗](http://ai-start.com/ml2014?utm_source=home)
     1.  [DeepLearning.ai 深度学习中文笔记⭐↗](http://ai-start.com/dl2017?utm_source=home)
@@ -201,24 +206,19 @@
     1.  [斯坦福 CS234 强化学习中文笔记⭐](https://github.com/apachecn/stanford-cs234-notes-zh?utm_source=home)
 1.  UCB 公开课课本/笔记
     1.  [UCB CS294-112 深度强化学习中文笔记⭐↗](https://github.com/apachecn/ucb-cs294-112-notes-zh?utm_source=home)
+1.  [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划⭐↗](https://github.com/YZHANG1270/Girls-In-AI?utm_source=home)
 1.  [台湾大学林轩田机器学习笔记↗](https://github.com/apachecn/ntu-hsuantienlin-ml?utm_source=home)
 1.  [Python 自然语言处理 中文第二版](https://github.com/apachecn/nlp-py-2e-zh?utm_source=home)
-1.  [Scikit-learn 秘籍](https://github.com/apachecn/sklearn-cookbook-zh?utm_source=home)
+1.  [PyTorch 自然语言处理中文版](https://github.com/apachecn/NLP-with-PyTorch?utm_source=home)
 1.  [PythonProgramming.net 中文系列教程](https://github.com/apachecn/python-programming-net-zh?utm_source=home)
 1.  [写给人类的机器学习](https://github.com/apachecn/ml-for-humans-zh?utm_source=home)
 1.  [面向机器学习的特征工程](https://github.com/apachecn/feature-engineering-for-ml-zh?utm_source=home)
 1.  [Python 数据分析与挖掘实战（带注释源码）](https://github.com/apachecn/python_data_analysis_and_mining_action?utm_source=home)
 1.  [SciPyCon 2018 Sklearn 教程](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh?utm_source=home)
-1.  [TensorFlow 学习指南](https://github.com/apachecn/learning-tf-zh?utm_source=home)
 1.  [fast.ai 机器学习和深度学习中文笔记](https://github.com/apachecn/fastai-ml-dl-notes-zh?utm_source=home)
 1.  [HackCV 网站文章翻译](https://github.com/apachecn/HackCV-Translate?utm_source=home)
 1.  [数据科学和人工智能技术笔记](https://github.com/apachecn/ds-ai-tech-notes?utm_source=home)
-1.  [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划⭐↗](https://github.com/YZHANG1270/Girls-In-AI?utm_source=home)
-1.  [南瓜书（西瓜书公式推导解析）↗](https://github.com/datawhalechina/pumpkin-book?utm_source=home)
-1.  [Daily Interview - 人工智能面经↗](https://github.com/datawhalechina/Daily-interview?utm_source=home)
 1.  [百页机器学习小书](https://github.com/apachecn/ml-book-100-zh?utm_source=home)
-1.  [Natural Language Processing with PyTorch 中文版](https://github.com/apachecn/NLP-with-PyTorch?utm_source=home)
-1.  [李宏毅机器学习笔记↗](https://github.com/datawhalechina/Leeml-Book?utm_source=home)
 1.  [推荐系统遇上深度学习↗](https://www.jianshu.com/c/e12d7195a9ff?utm_source=home)
 1.  [可解释的机器学习](https://github.com/apachecn/interpretable-ml-book-zh?utm_source=home)
 1.  [Python 机器学习在线指南](https://github.com/apachecn/vt-cs4624-pyml-zh?utm_source=home)
