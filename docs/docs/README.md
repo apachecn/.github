@@ -38,7 +38,7 @@
     1.  [BeginnersBook 中文系列教程📚](https://github.com/apachecn/beginnersbook-zh?utm_source=home)
         +   [C 语言][bb-c]／[C 语言示例][bb-c-example]／[C++][bb-cpp]／[数据库][bb-db]／[Java][bb-java]／[Java 示例][bb-java-example]／[Java IO][bb-java-io]
         +   [Java 字符串][bb-java-str]／[JSP][bb-jsp]／[JSTL][bb-jstl]／[Kotlin][bb-kotlin]／[MongoDB][bb-mongo]／[Perl][bb-perl]／[Servlet][bb-servlet]
-    1.  [ZetCode 中文系列教程](https://github.com/apachecn/zetcode-zh?utm_source=home)
+    1.  [ZetCode 中文系列教程📚](https://github.com/apachecn/zetcode-zh?utm_source=home)
         +   [数据库][zetcode-db]／[.NET][zetcode-dotnet]／[图形][zetcode-graph]／[GUI][zetcode-gui]／[Java][zetcode-java]／[JavaScript][zetcode-js]／[Kotlin][zetcode-kotlin]
         +   [其它][zetcode-misc]／[PHP][zetcode-php]／[Python][zetcode-py]／[Ruby][zetcode-ruby]／[Servlet][zetcode-servlet]／[Spring][zetcode-spring]／[Spring Boot][zetcode-spring-boot]／[Symfony][zetcode-symfony]
     1.  [Succinctly 中文系列教程📚🚧](https://github.com/apachecn/succinctly-zh?utm_source=home)
@@ -176,14 +176,14 @@
 1.  [操作系统思维](https://github.com/apachecn/think-os-zh?utm_source=home)
 1.  [中国大学 MOOC 计算机操作系统笔记](https://github.com/apachecn/Computer-operating-system-notes?utm_source=home)
 1.  [简单数据结构实现](https://github.com/apachecn/DataStructure?utm_source=home)
-1.  [司镜的数据结构课程（持续更新）](https://www.bilibili.com/video/av41164819?utm_source=home)
+1.  [司镜的数据结构课程（持续更新）🎥](https://www.bilibili.com/video/av41164819?utm_source=home)
 1.  [从零编写简单的数据库](https://github.com/apachecn/misc-docs-zh/blob/master/docs/simple-db-zh?utm_source=home)
 
 ## AI 教程
 
-1.  AILearning - 机器学习实战📚
+1.  AILearning - 机器学习实战📚🎥
     +   [文字教程][ail-text]／[教学版视频][ail-teach]／[讨论版视频][ail-discuss]
-1.  [AI 路线图（知识树）](https://github.com/apachecn/ai-roadmap?utm_source=home)
+1.  [AI 路线图（知识树）📝](https://github.com/apachecn/ai-roadmap?utm_source=home)
 1.  [ApacheCN 深度学习译文集📚](https://github.com/apachecn/apachecn-dl-zh?utm_source=home)
 1.  [Sklearn 与 TensorFlow 机器学习实用指南第二版](https://github.com/apachecn/hands-on-ml-2e-zh?utm_source=home)
 1.  [Machine Learning Mastery 博客文章翻译📚🚧](https://github.com/apachecn/ml-mastery-zh?utm_source=home)
@@ -250,9 +250,9 @@
 ## AI 比赛
 
 1.  [Interview：简历指南 + LeetCode + Kaggle📚](https://github.com/apachecn/Interview?utm_source=home)
-1.  [数据科学/人工智能比赛解决方案汇总](https://github.com/apachecn/awesome-data-comp-solution?utm_source=home)
-1.  [Kaggle 学习系列视频](https://www.bilibili.com/video/av53119200?utm_source=home)
-1.  [数据科学比赛收集平台↗](https://github.com/iphysresearch/DataSciComp?utm_source=home)
+1.  [数据科学/人工智能比赛解决方案汇总📝](https://github.com/apachecn/awesome-data-comp-solution?utm_source=home)
+1.  [Kaggle 学习系列视频🎥](https://www.bilibili.com/video/av53119200?utm_source=home)
+1.  [数据科学比赛收集平台📝↗](https://github.com/iphysresearch/DataSciComp?utm_source=home)
 
 ## 安全
 
@@ -266,16 +266,16 @@
 
 ## 其它
 
-1.  [简历分享系列视频](https://www.bilibili.com/video/av53122083?utm_source=home)
+1.  [简历分享系列视频🎥](https://www.bilibili.com/video/av53122083?utm_source=home)
 1.  [斯坦福 CS183 系列 / YC 创业课系列中文笔记📚](https://github.com/apachecn/stanford-cs183-notes?utm_source=home)
     +   [CS183A 从零到一][cs183a]／[YC 2012][yc2012]／[CS183B][cs183b]／[YC 2013][yc2013]／[CS183C][cs183c]／[YC 2014 SV][yc2014sv]
     +   [YC 2014 NY][yc2014ny]／[YC 2014 EU][yc2014eu]／[YC 2016][yc2016]／[CS183F YC 2017][cs183f-yc2017]／[YC 2018][yc2018]／[YC 2019][yc2019]
-1.  [独立开发/自由职业/远程工作资源列表](https://github.com/apachecn/awesome-indie-zh?utm_source=home)
+1.  [独立开发/自由职业/远程工作资源列表📝](https://github.com/apachecn/awesome-indie-zh?utm_source=home)
 1.  [通往财富自由之路精细笔记](https://github.com/apachecn/the-way-to-wealth-freedom-notes?utm_source=home)
 1.  [5 分钟商学院精细笔记](https://github.com/apachecn/5min-business-notes?utm_source=home)
 1.  [English - World Travel](https://github.com/apachecn/English?utm_source=home)
 1.  [Gainlo 面试指南](https://github.com/apachecn/gainlo-interview-guide-zh?utm_source=home)
-1.  [校招污点公司记录](https://github.com/Programming-With-Love/ShameCom)
+1.  [校招污点公司记录📝](https://github.com/Programming-With-Love/ShameCom)
 1.  [iBooker 布客老实人报](https://zhuanlan.zhihu.com/plain-dealer?utm_source=home)
 1.  [程序媛计划：儿童性教育项目↗](https://www.cxy61.com/girl/child_sexual_education/index.html?utm_source=home)
 1.  [环材化生劝退计划](https://home.apachecn.org/docs/%E7%8E%AF%E6%9D%90%E5%8C%96%E7%94%9F%E5%8A%9D%E9%80%80?utm_source=home)
