@@ -164,9 +164,6 @@
 1.  [利用 Python 进行数据分析 · 第 2 版](https://github.com/apachecn/pyda-2e-zh?utm_source=home)
 1.  [数据科学 IPython 笔记本](https://github.com/apachecn/ds-ipynb-zh?utm_source=home)
 1.  [数据可视化的基础知识](https://github.com/apachecn/found-data-vis-zh?utm_source=home)
-1.  [fast.ai 数值线性代数讲义 v2](https://github.com/apachecn/fastai-num-linalg-v2-zh?utm_source=home)
-1.  [UCSD COGS108 数据科学实战中文笔记](https://github.com/apachecn/ucsd-cogs108-notes?utm_source=home)
-1.  [USF MSDS501 计算数据科学中文讲义](https://github.com/apachecn/usf-msds501-notes-zh?utm_source=home)
 
 ## CS 教程
 
@@ -211,16 +208,13 @@
 1.  [Python 自然语言处理 中文第二版](https://github.com/apachecn/nlp-py-2e-zh?utm_source=home)
 1.  [PyTorch 自然语言处理中文版](https://github.com/apachecn/NLP-with-PyTorch?utm_source=home)
 1.  [PythonProgramming.net 中文系列教程](https://github.com/apachecn/python-programming-net-zh?utm_source=home)
-1.  [写给人类的机器学习](https://github.com/apachecn/ml-for-humans-zh?utm_source=home)
 1.  [面向机器学习的特征工程](https://github.com/apachecn/feature-engineering-for-ml-zh?utm_source=home)
 1.  [Python 数据分析与挖掘实战（带注释源码）](https://github.com/apachecn/python_data_analysis_and_mining_action?utm_source=home)
 1.  [fast.ai 机器学习和深度学习中文笔记](https://github.com/apachecn/fastai-ml-dl-notes-zh?utm_source=home)
 1.  [HackCV 网站文章翻译](https://github.com/apachecn/HackCV-Translate?utm_source=home)
-1.  [数据科学和人工智能技术笔记](https://github.com/apachecn/ds-ai-tech-notes?utm_source=home)
 1.  [百页机器学习小书](https://github.com/apachecn/ml-book-100-zh?utm_source=home)
 1.  [推荐系统遇上深度学习↗](https://www.jianshu.com/c/e12d7195a9ff?utm_source=home)
 1.  [可解释的机器学习](https://github.com/apachecn/interpretable-ml-book-zh?utm_source=home)
-1.  [Python 机器学习在线指南](https://github.com/apachecn/vt-cs4624-pyml-zh?utm_source=home)
 
 [mlm-app-ml]: https://github.com/apachecn/ml-mastery-zh/blob/master/docs/applied-ml?utm_source=home
 [mlm-keras-dl]: https://github.com/apachecn/ml-mastery-zh/blob/master/docs/dl-keras?utm_source=home
@@ -243,7 +237,6 @@
 1.  [图嵌入综述（Arxiv 1709.07604）](https://github.com/apachecn/misc-docs-zh/blob/master/docs/ge-survey-arxiv-1709-07604-zh?utm_source=home)
 1.  [基于深度学习的推荐系统：综述和新视角](https://github.com/apachecn/misc-docs-zh/blob/master/docs/rs-survey-arxiv-1707-07435-zh?utm_source=home)
 1.  [关于卷积神经网络我们理解了什么](https://github.com/apachecn/misc-docs-zh/blob/master/docs/what-do-we-understand-about-convnet?utm_source=home)
-1.  [机器学习超级复习笔记](https://github.com/apachecn/misc-docs-zh/blob/master/docs/super-machine-learning-revision-notes?utm_source=home)
 
 ## AI 文档
 
