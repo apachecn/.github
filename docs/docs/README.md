@@ -231,12 +231,6 @@
 [ail-teach]: https://space.bilibili.com/97678687/channel/detail?cid=22486&utm_source=home
 [ail-discuss]: https://space.bilibili.com/97678687/channel/detail?cid=13045&utm_source=home
 
-## AI 综述翻译计划
-
-1.  [图嵌入综述（Arxiv 1709.07604）](https://github.com/apachecn/misc-docs-zh/blob/master/docs/ge-survey-arxiv-1709-07604-zh?utm_source=home)
-1.  [基于深度学习的推荐系统：综述和新视角](https://github.com/apachecn/misc-docs-zh/blob/master/docs/rs-survey-arxiv-1707-07435-zh?utm_source=home)
-1.  [关于卷积神经网络我们理解了什么🚧](https://github.com/apachecn/misc-docs-zh/blob/master/docs/what-do-we-understand-about-convnet?utm_source=home)
-
 ## AI 文档
 
 1.  Numpy 技术栈中文文档
