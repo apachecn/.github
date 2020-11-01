@@ -8,6 +8,7 @@
 +   [新知](https://it-ebooks.flygon.net)
 +   规范
     +   [包发布](docs/spec/pkg.md)
+    +   [配色表](docs/spec/color.md)
 +   组织
     + [关于](docs/about.md)
     + [成员](https://www.ibooker.org.cn/organization/)
