@@ -149,6 +149,7 @@
 
 1.  [QuantLearning - Python 量化交易教程整理📚](https://github.com/apachecn/quant-learning?utm_source=home)
 1.  [ApacheCN 数据科学译文集📚](https://github.com/apachecn/apachecn-ds-zh?utm_source=home)
+1.  [ApacheCN 数据科学和人工智能知识库](https://github.com/apachecn/dsai-wiki?utm_source=home)
 1.  DataWhale 开源数据科学教程↗
     1.  [Joyful Pandas](https://github.com/datawhalechina/joyful-pandas?utm_source=home)
 1.  斯坦福公开课课本/笔记
