@@ -149,7 +149,7 @@
 
 1.  [QuantLearning - Python 量化交易教程整理📚](https://github.com/apachecn/quant-learning?utm_source=home)
 1.  [ApacheCN 数据科学译文集📚](https://github.com/apachecn/apachecn-ds-zh?utm_source=home)
-1.  [ApacheCN 数据科学和人工智能知识库](https://github.com/apachecn/dsai-wiki?utm_source=home)
+1.  [ApacheCN 数据科学和人工智能知识库📚](https://github.com/apachecn/dsai-wiki?utm_source=home)
 1.  DataWhale 开源数据科学教程↗
     1.  [Joyful Pandas](https://github.com/datawhalechina/joyful-pandas?utm_source=home)
 1.  斯坦福公开课课本/笔记
@@ -272,7 +272,7 @@
 1.  [5 分钟商学院精细笔记](https://github.com/apachecn/5min-business-notes?utm_source=home)
 1.  [English - World Travel](https://github.com/apachecn/English?utm_source=home)
 1.  [Gainlo 面试指南](https://github.com/apachecn/gainlo-interview-guide-zh?utm_source=home)
-1.  [校招污点公司记录📝](https://github.com/Programming-With-Love/ShameCom)
+1.  [校招污点公司记录📝↗](https://github.com/ShameCom/ShameCom)
 1.  [iBooker 布客老实人报](https://github.com/apachecn/ibooker-plain-dealer?utm_source=home)
 1.  [程序媛计划：儿童性教育项目↗](https://www.cxy61.com/girl/child_sexual_education/index.html?utm_source=home)
 1.  [环材化生劝退计划](https://github.com/apachecn/bio-chem-env-mat-discourage?utm_source=home)
