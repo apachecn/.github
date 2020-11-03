@@ -263,6 +263,7 @@
 ## 其它
 
 1.  [简历分享系列视频🎥](https://www.bilibili.com/video/av53122083?utm_source=home)
+1.  [iBooker 团队知识库📚](https://github.com/apachecn/team-wiki?utm_source=home)
 1.  [斯坦福 CS183 系列 / YC 创业课系列中文笔记📚](https://github.com/apachecn/stanford-cs183-notes?utm_source=home)
     +   [CS183A 从零到一][cs183a]／[YC 2012][yc2012]／[CS183B][cs183b]／[YC 2013][yc2013]／[CS183C][cs183c]／[YC 2014 SV][yc2014sv]
     +   [YC 2014 NY][yc2014ny]／[YC 2014 EU][yc2014eu]／[YC 2016][yc2016]／[CS183F YC 2017][cs183f-yc2017]／[YC 2018][yc2018]／[YC 2019][yc2019]
