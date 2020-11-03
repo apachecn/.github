@@ -272,7 +272,7 @@
 1.  [English - World Travel](https://github.com/apachecn/English?utm_source=home)
 1.  [Gainlo 面试指南](https://github.com/apachecn/gainlo-interview-guide-zh?utm_source=home)
 1.  [校招污点公司记录📝](https://github.com/Programming-With-Love/ShameCom)
-1.  [iBooker 布客老实人报](https://zhuanlan.zhihu.com/plain-dealer?utm_source=home)
+1.  [iBooker 布客老实人报](https://github.com/apachecn/ibooker-plain-dealer?utm_source=home)
 1.  [程序媛计划：儿童性教育项目↗](https://www.cxy61.com/girl/child_sexual_education/index.html?utm_source=home)
 1.  [环材化生劝退计划](https://github.com/apachecn/bio-chem-env-mat-discourage?utm_source=home)
 1.  [ZhangYi 的博客文章↗](http://codewithzhangyi.com/blog?utm_source=home)
