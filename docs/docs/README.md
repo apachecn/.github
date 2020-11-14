@@ -123,6 +123,7 @@
 1.  [命令行的艺术](https://github.com/apachecn/the-art-of-command-line/blob/master/README-zh.md?utm_source=home)
 1.  [rpy2 2.8 中文文档🚧](https://github.com/apachecn/rpy2-doc-zh?utm_source=home) 
 1.  [Gitlab 中文文档🚧](https://github.com/apachecn/gitlab-doc-zh?utm_source=home)
+1.  [Kivy 中文文档↗](https://github.com/Kivy-CN/Kivy-CN?utm_source=home)
 
 ## 区块链
 
@@ -163,11 +164,12 @@
 1.  [利用 Python 进行数据分析 · 第 2 版](https://github.com/apachecn/pyda-2e-zh?utm_source=home)
 1.  [数据科学 IPython 笔记本📚](https://github.com/apachecn/ds-ipynb-zh?utm_source=home)
 1.  [数据可视化的基础知识](https://github.com/apachecn/found-data-vis-zh?utm_source=home)
+1.  [杜克 STA663 计算统计学讲义↗](https://github.com/Kivy-CN/Duke-STA-663-CN?utm_source=home)
 
 ## CS 教程
 
 1.  [计算机公开课推荐](https://github.com/apachecn/awesome-cs-courses-zh?utm_source=home)
-1.  [LeetCode，HackRank，剑指 offer，经典算法实现（已停更）📚](https://github.com/apachecn/LeetCode?utm_source=home)
+1.  [结构化算法刷题训练指南📚](https://github.com/apachecn/algo-zh?utm_source=home)
 1.  [GeeksForGeeks 翻译计划📚🚧](https://github.com/apachecn/geeksforgeeks-zh?utm_source=home)
 1.  UCB 公开课课本/笔记
     1.  [UCB CS61a 课本：SICP Python 描述](https://github.com/apachecn/sicp-py-zh?utm_source=home)
