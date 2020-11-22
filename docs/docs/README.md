@@ -197,6 +197,7 @@
     1.  [Daily Interview - 人工智能面经](https://github.com/datawhalechina/Daily-interview?utm_source=home)
     1.  [李宏毅机器学习笔记](https://github.com/datawhalechina/Leeml-Book?utm_source=home)
     1.  [钥匙书（机器学习理论导引笔记）](https://github.com/datawhalechina/key-book?utm_source=home)
+    1.  [李宏毅深度强化学习笔记](https://github.com/datawhalechina/leedeeprl-notes?utm_source=home)
 1.  斯坦福公开课课本/笔记
     1.  [斯坦福 CS229 机器学习中文笔记↗](http://ai-start.com/ml2014?utm_source=home)
     1.  [DeepLearning.ai 深度学习中文笔记↗](http://ai-start.com/dl2017?utm_source=home)
