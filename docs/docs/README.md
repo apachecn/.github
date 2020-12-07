@@ -168,6 +168,7 @@
 
 ## CS 教程
 
+1.  [ApacheCN 计算机科学译文集📚](https://github.com/apachecn/apachecn-cs-zh?utm_source=home)
 1.  [计算机公开课推荐](https://github.com/apachecn/awesome-cs-courses-zh?utm_source=home)
 1.  [结构化算法刷题训练指南📚](https://github.com/apachecn/algo-zh?utm_source=home)
 1.  [GeeksForGeeks 翻译计划📚🚧](https://github.com/apachecn/geeksforgeeks-zh?utm_source=home)
