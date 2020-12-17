@@ -66,7 +66,7 @@
 * 自媒体平台
     * [微博：@ApacheCN](https://weibo.com/u/6326715527)
     * [知乎专栏：AILearning](https://zhuanlan.zhihu.com/apachecn-mlia)
-    * [公众号：ApacheCN](http://home.apachecn.org/img/about/apachecn_qr.jpg)
+    * [公众号：ApacheCN](http://home.apachecn.org/img/qr/apachecn_qr.jpg)
     * [CSDN][csdn]／[博客园][cnblogs]／[OSChina][osc]／[SF][sf]／[掘金][juejin]
     * [简书][jianshu]／[搜狐号][sohu-mp]／[头条号][toutiao-mp]／[bilibili][bili]
 * **We are ApacheCN Open Source Organization, not ASF! We are fans of AI, and have no relationship with ASF!**
@@ -82,7 +82,7 @@
 [toutiao-mp]: https://www.toutiao.com/c/user/3901644178/
 [bili]: http://space.bilibili.com/97678687
 
-![](http://home.apachecn.org/img/about/ibooker_zsxq_qr_l.jpg)
+![](http://home.apachecn.org/img/qr/apachecn_qr.jpg)
 
 <!--endintro-->
 
@@ -123,7 +123,7 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 * 捐赠格式: <https://github.com/apachecn/home/issues/1>
 * 参考添加捐赠方式: <https://github.com/apachecn/home/issues/1>
 
-![](img/about/zfb_wx.png)
+![](img/qr/zfb_wx.png)
 
 ## **鸣谢**
 
@@ -146,9 +146,9 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 | ![](img/avatar/tesra.png) | ![](img/avatar/zlib.png) |
 | [Tesra][tesra] | [Zlibrary][zlib] |
 
-[datawhale]: http://home.apachecn.org/img/about/datawhale_qr.jpg
-[aiyoudao]: http://home.apachecn.org/img/about/redstone_qr.jpg
-[huanghaiguang]: http://home.apachecn.org/img/about/huanghaiguang_qr.jpg
+[datawhale]: http://home.apachecn.org/img/qr/datawhale_qr.jpg
+[aiyoudao]: http://home.apachecn.org/img/qr/redstone_qr.jpg
+[huanghaiguang]: http://home.apachecn.org/img/qr/huanghaiguang_qr.jpg
 [pycn]: https://github.com/pycn
 [258ch]: https://www.258ch.com/
 [hacpai]: https://hacpai.com/
@@ -164,7 +164,7 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 ## **友情链接**
 
 +   [龙哥盟](https://flygon.net)
-+   [Datawhale](http://home.apachecn.org/img/about/datawhale_qr.jpg)
++   [Datawhale](http://home.apachecn.org/img/qr/datawhale_qr.jpg)
 +   [Data Science Challenge / Competition](https://iphysresearch.github.io/DataSciComp/)
 +   [lzhpo](http://www.liuzhaopo.top)
 +   [Jaybo](https://strivebo.com)

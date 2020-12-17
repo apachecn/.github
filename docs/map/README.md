@@ -38,4 +38,4 @@
 
 ## 赞助我们
 
-![](../img/about/donate.jpg)
+![](../../img/qr/zfb_wx.png)
