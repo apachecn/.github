@@ -140,6 +140,27 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 
 ![](img/about/zfb_wx.png)
 
+## **鸣谢**
+
+| | |
+| --- | --- |
+| ![](https://avatars2.githubusercontent.com/u/46047812?s=200&v=4) | ![](https://upload.jianshu.io/collections/images/1634093/LOGO_big.jpg?imageMogr2/auto-orient/) |
+| Datawhale | AI 有道 |
+| http://wx.qlogo.cn/mmhead/Q3auHgzwzM5kMibbOB5P2uiaPYjRpMDp99Y7IbW1LlQUwMC07unOzmmg/0 | ![](https://avatars1.githubusercontent.com/u/22763052?s=200&v=4) |
+| AIStart | PythonChina |
+| ![](https://avatars3.githubusercontent.com/u/19161538?s=200&v=4) | ![](https://avatars2.githubusercontent.com/u/1627618?s=200&v=4) |
+| 苍海国际 | 黑客派/B3log |
+| ![](https://tvax2.sinaimg.cn/crop.0.0.1002.1002.180/9dff18e3ly8fyx7c506zlj20ru0ru44y.jpg?KID=imgbed,tva&amp;Expires=1608190984&amp;ssig=iPmDuFFews) | |
+| GirlsInAI | DataSciComp |
+| ![](https://upload.jianshu.io/users/upload_avatars/7178691/a5c7cd21-a016-4edc-88a6-bfea8bef609c.jpg?imageMogr2/auto-orient/) | ![](https://mc.qcloudimg.com/static/img/92ede573cdd6623dd32bed3122a4d666/B287181A-1FB8-4577-9A74-AEAFAB41C8A6.png) |
+| SeanCheney | AI 科技大本营 |
+| ![](https://avatars0.githubusercontent.com/u/26821563?s=460&u=b08a6b30d878d3d4f28e543d9a3cda7deecc3022&v=4) | ![](https://dataset.flyai.com/images/logo.png) |
+| Hsury | FlyAI |
+| ![](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=759738586,2452349655&fm=26&gp=0.jpg) | ![](https://b-ok.global/img/logo.zlibrary.png) |
+| Tesra | Zlibrary |
+
+<style>table img {max-width: 200px}</style>
+
 ## **友情链接**
 
 +   [龙哥盟](https://flygon.net)
