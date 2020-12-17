@@ -146,7 +146,7 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 | --- | --- |
 | ![](https://avatars2.githubusercontent.com/u/46047812?s=200&v=4) | ![](https://upload.jianshu.io/collections/images/1634093/LOGO_big.jpg?imageMogr2/auto-orient/) |
 | Datawhale | AI 有道 |
-| http://wx.qlogo.cn/mmhead/Q3auHgzwzM5kMibbOB5P2uiaPYjRpMDp99Y7IbW1LlQUwMC07unOzmmg/0 | ![](https://avatars1.githubusercontent.com/u/22763052?s=200&v=4) |
+| ![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM5kMibbOB5P2uiaPYjRpMDp99Y7IbW1LlQUwMC07unOzmmg/0) | ![](https://avatars1.githubusercontent.com/u/22763052?s=200&v=4) |
 | AIStart | PythonChina |
 | ![](https://avatars3.githubusercontent.com/u/19161538?s=200&v=4) | ![](https://avatars2.githubusercontent.com/u/1627618?s=200&v=4) |
 | 苍海国际 | 黑客派/B3log |
