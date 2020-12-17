@@ -47,27 +47,12 @@
 > 我们是布客（iBooker），一个大型开源社区、自媒体和网赚社区，旗下 QQ 群共一万余人，订阅用户至少一万人。Github Star 数量超过 60k 个，在所有 Github 组织中[排名前 100][top100]。旗下所有网站日 uip 超过 4k，[Alexa 排名的峰值为 20k][top20k]。我们的核心成员拥有[ CSDN 博客专家][csdn-pro]和[简书程序员优秀作者][js-pro]认证。我们建立了公益性文档和教程翻译项目 [ApacheCN][apachecn]。
 > 
 > 与商业组织不同，我们并不会追逐热点，或者唯利是图。作为公益组织，我们将完成项目放在首要位置，并有足够时间把项目打磨到极致。我们希望做出广大 AI 爱好者和个人开发者真正需要的东西，打造真正有价值的长尾作品。
-> 
-> 我们要感谢 [Datawhale][datawhale]、[AI 有道][aiyoudao]、[黄海广博士][huanghaiguang]、[PythonChina][pycn]、[苍海国际][258ch]、[黑客派][hacpai]、[GirlsInAI][gia]、[DataSciComp][datascicomp]、[SeanCheney][seancheney]、[AI 科技大本营][aikeji]、[BiliDrive][bdrive]、[FlyAI][flyai]、[Tesra][tesra] 的创意和支持。
 
 [top100]: https://gitstar-ranking.com/apachecn
 [top20k]: http://home.apachecn.org/img/about/alexa_201906.png
 [csdn-pro]: https://blog.csdn.net/wizardforcel
 [js-pro]: https://www.jianshu.com/u/b508a6aa98eb
 [apachecn]: https://github.com/apachecn
-[datawhale]: http://home.apachecn.org/img/about/datawhale_qr.jpg
-[aiyoudao]: http://home.apachecn.org/img/about/redstone_qr.jpg
-[huanghaiguang]: http://home.apachecn.org/img/about/huanghaiguang_qr.jpg
-[pycn]: https://github.com/pycn
-[258ch]: https://www.258ch.com/
-[hacpai]: https://hacpai.com/
-[gia]: https://www.weibo.com/u/2650740963
-[datascicomp]: https://iphysresearch.github.io/DataSciComp/
-[seancheney]: https://www.jianshu.com/u/130f76596b02
-[aikeji]: https://blog.csdn.net/dQCFKyQDXYm3F8rB0
-[bdrive]: https://github.com/Hsury/BiliDrive
-[flyai]: https://www.flyai.com/
-[tesra]: https://www.tesra.org/
 
 * [主页：apachecn.org](http://apachecn.org)
 * [导航：docs.apachecn.org](https://docs.apachecn.org/)
@@ -142,24 +127,39 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 
 ## **鸣谢**
 
+<style>table img {max-width: 200px}</style>
+
 | | |
 | --- | --- |
 | ![](https://avatars2.githubusercontent.com/u/46047812?s=200&v=4) | ![](https://upload.jianshu.io/collections/images/1634093/LOGO_big.jpg?imageMogr2/auto-orient/) |
-| Datawhale | AI 有道 |
+| [Datawhale][datawhale] | [AI 有道][aiyoudao] |
 | ![](http://wx.qlogo.cn/mmhead/Q3auHgzwzM5kMibbOB5P2uiaPYjRpMDp99Y7IbW1LlQUwMC07unOzmmg/0) | ![](https://avatars1.githubusercontent.com/u/22763052?s=200&v=4) |
-| AIStart | PythonChina |
+| [AIStart][huanghaiguang] | [PythonChina][pycn] |
 | ![](https://avatars3.githubusercontent.com/u/19161538?s=200&v=4) | ![](https://avatars2.githubusercontent.com/u/1627618?s=200&v=4) |
-| 苍海国际 | 黑客派/B3log |
+| [苍海国际][258ch] | [黑客派/B3log][hacpai] |
 | ![](https://tvax2.sinaimg.cn/crop.0.0.1002.1002.180/9dff18e3ly8fyx7c506zlj20ru0ru44y.jpg?KID=imgbed,tva&amp;Expires=1608190984&amp;ssig=iPmDuFFews) | |
-| GirlsInAI | DataSciComp |
+| [GirlsInAI][gia] | [DataSciComp][datascicomp] |
 | ![](https://upload.jianshu.io/users/upload_avatars/7178691/a5c7cd21-a016-4edc-88a6-bfea8bef609c.jpg?imageMogr2/auto-orient/) | ![](https://mc.qcloudimg.com/static/img/92ede573cdd6623dd32bed3122a4d666/B287181A-1FB8-4577-9A74-AEAFAB41C8A6.png) |
-| SeanCheney | AI 科技大本营 |
+| [SeanCheney][seancheney] | [AI 科技大本营][aikeji] |
 | ![](https://avatars0.githubusercontent.com/u/26821563?s=460&u=b08a6b30d878d3d4f28e543d9a3cda7deecc3022&v=4) | ![](https://dataset.flyai.com/images/logo.png) |
-| Hsury | FlyAI |
+| [Hsury/BiliDrive][bdrive] | [FlyAI][flyai] |
 | ![](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=759738586,2452349655&fm=26&gp=0.jpg) | ![](https://b-ok.global/img/logo.zlibrary.png) |
-| Tesra | Zlibrary |
+| [Tesra][tesra] | [Zlibrary][zlib] |
 
-<style>table img {max-width: 200px}</style>
+[datawhale]: http://home.apachecn.org/img/about/datawhale_qr.jpg
+[aiyoudao]: http://home.apachecn.org/img/about/redstone_qr.jpg
+[huanghaiguang]: http://home.apachecn.org/img/about/huanghaiguang_qr.jpg
+[pycn]: https://github.com/pycn
+[258ch]: https://www.258ch.com/
+[hacpai]: https://hacpai.com/
+[gia]: https://www.weibo.com/u/2650740963
+[datascicomp]: https://iphysresearch.github.io/DataSciComp/
+[seancheney]: https://www.jianshu.com/u/130f76596b02
+[aikeji]: https://blog.csdn.net/dQCFKyQDXYm3F8rB0
+[bdrive]: https://github.com/Hsury/BiliDrive
+[flyai]: https://www.flyai.com/
+[tesra]: https://www.tesra.org/
+[zlib]: https://b-ok.org
 
 ## **友情链接**
 
