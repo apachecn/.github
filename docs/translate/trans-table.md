@@ -751,7 +751,7 @@
 
     sigmoid
 
-    乙状
+    乙状(结肠)?|S 型|S 形
 
 +   deep q
 
@@ -1040,3 +1040,9 @@
     状态
     
     州
+    
++   collaborative filter
+
+    协同过滤
+    
+    协作过滤
