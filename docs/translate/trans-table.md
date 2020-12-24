@@ -1052,3 +1052,9 @@
     KL 散度
     
     KL 分歧
+    
++   Duel DQN
+
+    决斗 DQN
+    
+    对决 DQN
