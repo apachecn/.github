@@ -1058,10 +1058,16 @@
     决斗 DQN
     
     对决 DQN
-	
-+	drawing
+    
++   drawing
 
-	绘画
-	
-	图纸|工程图
-	
+    绘画
+    
+    图纸|工程图
+    
++   experience replay
+
+    经验回放
+    
+    体验(回放|重播)|经验重播
+    
