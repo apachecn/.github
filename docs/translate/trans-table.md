@@ -1112,3 +1112,9 @@
     折扣
     
     折现
+	
++	variation (autoencoder)
+
+	变分
+	
+	变(体|异)
