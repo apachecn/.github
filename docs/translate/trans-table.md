@@ -1112,9 +1112,17 @@
     折扣
     
     折现
-	
-+	variation (autoencoder)
+    
++   variation (autoencoder)
 
-	变分
-	
-	变(体|异)
+    变分
+    
+    变(体|异)
+
++   sentiment
+
+    情感
+    
+    情绪
+
+    
