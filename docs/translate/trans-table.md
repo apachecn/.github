@@ -250,7 +250,7 @@
 
 ## 程序组织
     
-+   function
++   **function**
 
     函数 \*
 
@@ -783,7 +783,7 @@
 
     样品
 
-+   error
++   **error**
 
     误差 \*
 
@@ -819,7 +819,7 @@
 
     图表|图形
 
-+   feature
++   **feature**
 
     特征
 
@@ -915,7 +915,7 @@
 
     估算
 
-+   performance
++   **performance**
 
     表现
 
