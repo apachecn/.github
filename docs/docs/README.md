@@ -10,7 +10,6 @@
     1.  [On Java 8 中文版（Java 编程思想第五版）↗](https://github.com/LingCoder/OnJava8?utm_source=home)
     1.  [Effective Java 中文第三版](https://github.com/apachecn/effective-java-3rd-chinese?utm_source=home)
     1.  [Java 编程思想](https://github.com/apachecn/thinking-in-java-zh?utm_source=home)
-    1.  [Java 8 简明教程](https://github.com/apachecn/modern-java-zh?utm_source=home)
     1.  [Java8 中文官方教程📚🚧](https://github.com/apachecn/java8-tut-zh?utm_source=home)
     1.  [JavaTutorialNetwork 中文系列教程📚](https://github.com/apachecn/jtn-zh?utm_source=home)
     1.  [HowToDoInJava 中文系列教程📚](https://github.com/apachecn/howtodoinjava-zh?utm_source=home)
@@ -153,7 +152,6 @@
     1.  [Joyful Pandas](https://github.com/datawhalechina/joyful-pandas?utm_source=home)
 1.  斯坦福公开课课本/笔记
     1.  [斯坦福 STATS60 课本：21 世纪的统计思维🚧](https://github.com/apachecn/stats-thinking-21-zh?utm_source=home)
-    1.  [斯坦福博弈论中文笔记🚧](https://github.com/apachecn/stanford-game-theory-notes-zh?utm_source=home)
 1.  UCB 公开课课本/笔记
     1.  [UCB Data8 课本：计算与推断思维](https://gitee.com/apachecn/data8-textbook-zh?utm_source=home)
     1.  [UCB Prob140 课本：面向数据科学的概率论🚧](https://gitee.com/apachecn/prob140-textbook-zh?utm_source=home)
@@ -176,10 +174,8 @@
 1.  [UIUC CS241 系统编程中文讲义🚧](https://github.com/apachecn/uiuc-cs241-notes-zh?utm_source=home)
 1.  [数据结构思维](https://github.com/apachecn/think-dast-zh?utm_source=home)
 1.  [操作系统思维](https://github.com/apachecn/think-os-zh?utm_source=home)
-1.  [中国大学 MOOC 计算机操作系统笔记](https://github.com/apachecn/Computer-operating-system-notes?utm_source=home)
 1.  [简单数据结构实现](https://github.com/apachecn/DataStructure?utm_source=home)
 1.  [司镜的数据结构课程（持续更新）🎥](https://www.bilibili.com/video/av41164819?utm_source=home)
-1.  [从零编写简单的数据库](https://github.com/apachecn/misc-docs-zh/blob/master/docs/simple-db-zh?utm_source=home)
 
 ## AI 教程
 
@@ -200,7 +196,6 @@
 1.  斯坦福公开课课本/笔记
     1.  [斯坦福 CS229 机器学习中文笔记↗](http://ai-start.com/ml2014?utm_source=home)
     1.  [DeepLearning.ai 深度学习中文笔记↗](http://ai-start.com/dl2017?utm_source=home)
-    1.  [斯坦福 CS224n 自然语言处理中文笔记🚧](https://github.com/apachecn/stanford-cs224n-notes-zh?utm_source=home) 
     1.  [斯坦福 CS234 强化学习中文笔记](https://github.com/apachecn/stanford-cs234-notes-zh?utm_source=home)
 1.  UCB 公开课课本/笔记
     1.  [UCB CS294-112 深度强化学习中文笔记](https://github.com/apachecn/ucb-cs294-112-notes-zh?utm_source=home)
@@ -211,7 +206,6 @@
 1.  [PythonProgramming.net 中文系列教程📚](https://github.com/apachecn/python-programming-net-zh?utm_source=home)
 1.  [面向机器学习的特征工程🚧](https://github.com/apachecn/feature-engineering-for-ml-zh?utm_source=home)
 1.  [Python 数据分析与挖掘实战（带注释源码）](https://github.com/apachecn/python_data_analysis_and_mining_action?utm_source=home)
-1.  [fast.ai 机器学习和深度学习中文笔记🚧](https://github.com/apachecn/fastai-ml-dl-notes-zh?utm_source=home)
 1.  [HackCV 网站文章翻译🚧](https://github.com/apachecn/HackCV-Translate?utm_source=home)
 1.  [百页机器学习小书🚧](https://github.com/apachecn/ml-book-100-zh?utm_source=home)
 1.  [推荐系统遇上深度学习↗](https://www.jianshu.com/c/e12d7195a9ff?utm_source=home)
@@ -256,8 +250,6 @@
 1.  [ApacheCN 网络安全译文集📚](https://github.com/apachecn/apachecn-sec-zh?utm_source=home)
 1.  [ApacheCN 安全知识库📚](https://github.com/apachecn/sec-wiki)
 1.  [Web Hacking 101 中文版](https://github.com/apachecn/web-hacking-101-zh?utm_source=home)
-1.  [米斯特白帽培训讲义](https://github.com/apachecn/mst-sec-lecture-notes?utm_source=home)
-1.  [安卓应用安全指南 中文版](https://github.com/apachecn/android-app-sec-guidebook-zh?utm_source=home)
 1.  [渗透测试实战第三版（红队版）↗](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation?utm_source=home)
 1.  [生成软件测试🚧](https://github.com/apachecn/fuzzingbook-zh?utm_source=home)
 1.  [CobaltStrike 4.0 中文用户手册↗](https://github.com/Snowming04/CobaltStrike4.0_related?utm_source=home)
