@@ -7,6 +7,7 @@
 ## 编程语言
 
 1.  Java
+    1.  [ApacheCN Java 译文集📚](https://github.com/apachecn/apachecn-java-zh?utm_source=home)
     1.  [On Java 8 中文版（Java 编程思想第五版）↗](https://github.com/LingCoder/OnJava8?utm_source=home)
     1.  [Effective Java 中文第三版](https://github.com/apachecn/effective-java-3rd-chinese?utm_source=home)
     1.  [Java 编程思想](https://github.com/apachecn/thinking-in-java-zh?utm_source=home)
@@ -110,6 +111,7 @@
 
 ## 工具
 
+1.  [ApacheCN Linux 译文集📚](https://github.com/apachecn/apachecn-linux-zh?utm_source=home)
 1.  Numpy 技术栈中文文档
     1.  [Numba 0.44 中文文档](https://github.com/apachecn/numba-doc-zh?utm_source=home)
     1.  [Cython 3.0 中文文档](https://github.com/apachecn/cython-doc-zh?utm_source=home) 
@@ -183,6 +185,7 @@
     +   [文字教程][ail-text]／[教学版视频][ail-teach]／[讨论版视频][ail-discuss]
 1.  [AI 路线图（知识树）📝](https://github.com/apachecn/ai-roadmap?utm_source=home)
 1.  [ApacheCN 深度学习译文集📚](https://github.com/apachecn/apachecn-dl-zh?utm_source=home)
+1.  [ApacheCN 计算机视觉译文集📚](https://github.com/apachecn/apachecn-cv-zh?utm_source=home)
 1.  [Sklearn 与 TensorFlow 机器学习实用指南第二版](https://github.com/apachecn/hands-on-ml-2e-zh?utm_source=home)
 1.  [Machine Learning Mastery 博客文章翻译📚🚧](https://github.com/apachecn/ml-mastery-zh?utm_source=home)
     +   [应用机器学习][mlm-app-ml]／[Keras 深度学习][mlm-keras-dl]／[深度学习 NLP][mlm-dl-nlp]／[深度学习时间序列][mlm-dl-ts]／[线性代数][mlm-linalg]／[LSTM][mlm-lstm]
