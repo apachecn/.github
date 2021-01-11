@@ -167,7 +167,7 @@
 ## CS 教程
 
 1.  [ApacheCN 计算机科学译文集📚](https://github.com/apachecn/apachecn-cs-zh?utm_source=home)
-1.  [计算机公开课推荐](https://github.com/apachecn/awesome-cs-courses-zh?utm_source=home)
+1.  [计算机公开课推荐📝](https://github.com/apachecn/awesome-cs-courses-zh?utm_source=home)
 1.  [结构化算法刷题训练指南📚](https://github.com/apachecn/algo-zh?utm_source=home)
 1.  [GeeksForGeeks 翻译计划📚🚧](https://github.com/apachecn/geeksforgeeks-zh?utm_source=home)
 1.  UCB 公开课课本/笔记
@@ -177,7 +177,6 @@
 1.  [数据结构思维](https://github.com/apachecn/think-dast-zh?utm_source=home)
 1.  [操作系统思维](https://github.com/apachecn/think-os-zh?utm_source=home)
 1.  [简单数据结构实现](https://github.com/apachecn/DataStructure?utm_source=home)
-1.  [司镜的数据结构课程（持续更新）🎥](https://www.bilibili.com/video/av41164819?utm_source=home)
 
 ## AI 教程
 
@@ -199,7 +198,7 @@
 1.  斯坦福公开课课本/笔记
     1.  [斯坦福 CS229 机器学习中文笔记↗](http://ai-start.com/ml2014?utm_source=home)
     1.  [DeepLearning.ai 深度学习中文笔记↗](http://ai-start.com/dl2017?utm_source=home)
-    1.  [斯坦福 CS234 强化学习中文笔记](https://github.com/apachecn/stanford-cs234-notes-zh?utm_source=home)
+    1.  [斯坦福 CS234 强化学习中文笔记🚧](https://github.com/apachecn/stanford-cs234-notes-zh?utm_source=home)
 1.  UCB 公开课课本/笔记
     1.  [UCB CS294-112 深度强化学习中文笔记](https://github.com/apachecn/ucb-cs294-112-notes-zh?utm_source=home)
 1.  [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划📚↗](https://github.com/YZHANG1270/Girls-In-AI?utm_source=home)
