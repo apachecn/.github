@@ -27,6 +27,7 @@
     1.  [JavaScript 编程精解 中文第三版](https://github.com/apachecn/eloquent-js-3e-zh?utm_source=home)
     1.  [写给不耐烦程序员的 JavaScript🚧](https://github.com/apachecn/impatient-js-zh?utm_source=home)
 1.  C
+    1.  [ApacheCN C/C++ 译文集📚](https://github.com/apachecn/apachecn-c-cpp-zh?utm_source=home)
     1.  [笨办法学 C 中文版](https://github.com/apachecn/lcthw-zh?utm_source=home)
 1.  PHP
     1.  [手把手教你写 PHP 协程扩展](https://github.com/apachecn/study?utm_source=home)
