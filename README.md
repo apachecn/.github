@@ -215,7 +215,23 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 ### Docker
 
 ```
-docker pull apachecn0/home
-docker run -tid -p <port>:80 apachecn0/home
+docker pull apachecn0/apachecn-home
+docker run -tid -p <port>:80 apachecn0/apachecn-home
+# 访问 http://localhost:{port} 查看文档
+```
+
+### PYPI
+
+```
+pip install apachecn-home
+apachecn-home <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
+### NPM
+
+```
+npm install -g apachecn-home
+apachecn-home <port>
 # 访问 http://localhost:{port} 查看文档
 ```
