@@ -4,26 +4,25 @@
 
 ---
 
-<!--
-
-## 2020 round 2
-
-+   3D 打印
-+   无人机
-+   脑机接口比赛
-+   物联网
-
 ## 2020 round 1
 
-+   数据可视化基础
-+   DS100
-+   软件测试生成
-+   stats21
-+   可解释的机器学习
-+   优达无人驾驶
-+   优达量化交易
++   [Adventures in ML](adventuresinmachinelearning.com)
 
--->
++   [SICP JS](https://sicp.comp.nus.edu.sg/)
+
++   [数据可视化的基础知识](https://github.com/apachecn/found-data-vis-zh)
+
++   【校对】[UCB DS100 课本：数据科学的原理与技巧](https://github.com/apachecn/ds100-textbook-zh)
+
+    在 [issues](https://github.com/apachecn/ds100-textbook-zh/issues/2) 中领取任务
+
++   软件测试生成
+
++   [斯坦福 STATS60 课本：21 世纪的统计思维](https://github.com/apachecn/stats-thinking-21-zh)
+
++   【校对】[可解释的机器学习](https://github.com/apachecn/interpretable-ml-book-zh)
+
+    在 [issues](https://github.com/apachecn/interpretable-ml-book-zh/issues/1) 中领取任务
 
 ## 2019 round 2
 
@@ -97,13 +96,11 @@
 +   【完结】[面向机器学习的特征工程](https://github.com/apachecn/feature-engineering-for-ml-zh) 2018.5
 +   【完结】Sklearn 与 TensorFlow 机器学习实用指南 2018.4
 
-## 短篇集
-
-+   【校对】[ApacheCN 短篇集](https://github.com/apachecn/misc-docs-zh)
-    
-    在 [issues](https://github.com/apachecn/misc-docs-zh/issues/1) 中领取任务
-
 ## 长期维护
+
++   【校对】[AI 综述翻译计划](https://home.apachecn.org/docs/#ai_1)
+
+    在 [issues](https://github.com/apachecn/misc-docs-zh/issues/1) 中领取任务
 
 +   【校对】[Sklearn 0.21 中文文档](https://github.com/apachecn/sklearn-doc-zh) 2019.7
     
@@ -121,16 +118,14 @@
 
 +   【就绪】[斯坦福 CS183 系列 / YC 创业课系列中文笔记](https://github.com/apachecn/stanford-cs183-notes)
 
++   【计划中】架构/系统设计文集
+
 ## **计划中**
 
 | 名称 | 领域 | 类型 | 优先级 |
 | --- | --- | --- | --- |
-| [Generating Software Tests](https://www.fuzzingbook.org/) | 工程 | 校对 | 1 |
-| 优达量化交易 | AI/DS | 笔记整理 | 0 |
-| 优达无人驾驶 | AI/DS | 笔记整理 | 0 |
 | [GT CS4650/7650 NLP](https://github.com/jacobeisenstein/gt-nlp-class) | AI/DS | 翻译 | -1 |
 | [algorithm archive](https://github.com/algorithm-archivists/algorithm-archive)（未完） | 理论 | 校对 | - |
 | [ModSimPy](https://github.com/AllenDowney/ModSimPy)（未完） | AI/DS | 翻译 | - |
 | [Practical Cryptography for Developers](https://cryptobook.nakov.com/)（未完） | 安全 | 校对 | - |
 | [Writing an OS in Rust](https://os.phil-opp.com/)（未完） | 系统 | 校对 | - |
-| [YC 创业课 2019](https://www.startupschool.org/latest)（未完） | 商业 | 校对 | - |

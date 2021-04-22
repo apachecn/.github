@@ -22,13 +22,12 @@
 </style>
  -->
     <style type="text/css">
-        #bg_content {
+        #content {
             left: 0;
             width: 100%;
             height: 100%;
             position:fixed;
-            /* background: url("/static/img/bg2.png"); */
-            background: url("http://data.apachecn.org/img/HomePage/bg2.png");
+            background: url("bg2.png");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
@@ -44,12 +43,27 @@
             font-weight: lighter;
             text-align:center;
         }
+        #footer {
+            position:fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            z-index: 9999;
+        }
+        #qr {
+            text-align: center;
+        }
+        #qr img {
+            max-width: 150px;
+            opacity: 0.7;
+        }
     </style>
     <!-- Bootstrap CSS / Color Scheme -->
-    <link rel="stylesheet" href="./index_files/default.css" id="theme-color">
-    <link rel="stylesheet" href="./index_files/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="default.css" id="theme-color">
+    <link rel="stylesheet" href="bootstrap.min.css"  crossorigin="anonymous">
 </head>
 <body>
+    <base target='_blank' />
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark navbar-fixed-top">
         <a class="navbar-brand mb-0 h1" href="http://www.ibooker.org.cn/">iBooker 首页</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -61,12 +75,12 @@
                 <li class="nav-item"><a class="nav-link" href="https://github.com/apachecn/ai-roadmap">学习路线</a></li>
                 <!-- <li class="nav-item"><a class="nav-link" href="https://www.ibooker.org.cn/forums/">学习论坛</a></li> -->
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="http://127.0.0.1:8000/#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         学习资源
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <a class="dropdown-item" href="https://home.apachecn.org/learn/">学习活动</a>
-                        <a class="dropdown-item" href="http://127.0.0.1:8000/#">算力申请</a>
+                        <a class="dropdown-item" href="#">算力申请</a>
                         <a class="dropdown-item" href="https://home.apachecn.org/map/">学习咨询</a>
                         <a class="dropdown-item" href="https://home.apachecn.org/donate/">网友捐赠</a>
                         <a class="dropdown-item" href="https://it-ebooks.flygon.net/">电子书</a>
@@ -75,14 +89,14 @@
                     </div>
                 </li>
             </ul>
-            <form class="form-inline mr-auto">
+            <!--<form class="form-inline mr-auto">
                 <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
                 <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-            </form>
+            </form>-->
             <ul class="navbar-nav">
                 <li class="nav-item"><a class="nav-link" href="https://github.com/apachecn">GitHub</a></li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="http://127.0.0.1:8000/#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         联系方式
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -99,30 +113,32 @@
     
 <!-- LOGIN FORM -->
 <!--===================================================-->
-<div id="bg_content">    
+<div id="content">    
     <p class="p1"><strong>iBooker 布客</strong></p>
-    <p class="p2"><strong>可以允许不完美，但不能不做</strong></p>
-    <div style="margin-top: 600px;">
-        <ul class="list-inline text-center">
-            <div style="margin:0 0 10.5px;"><script src="./index_files/hm.js"></script><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1275211409'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s5.cnzz.com/z_stat.php%3Fid%3D1275211409%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script></div>
-            @Copyright 2016-2019 网站由 <a href="https://github.com/apachecn" target="_blank">ApacheCN</a> 提供支持 ICP许可证号: <a href="http://www.miibeian.gov.cn/" target="_blank">京ICP备19016010号-1</a>
-        </ul>
-    </div>
+    <p class="p2"><strong>布道 · 开源 · 智能 · 极客</strong></p>
+    <p id="qr"><img src='../img/qr/gzh_qr.jpg'/></p>
+</div>
+<div id="footer">
+    <ul class="list-inline text-center">
+        <div style="margin:0 0 10.5px;"><script src="hm.js"></script><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1275211409'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s5.cnzz.com/z_stat.php%3Fid%3D1275211409%26online%3D1%26show%3Dline' type='text/javascript'%3E%3C/script%3E"));</script></div>
+        @Copyright 2016-2019 网站由 <a href="https://github.com/apachecn" target="_blank">ApacheCN</a> 提供支持 ICP许可证号: <a href="http://www.miibeian.gov.cn/" target="_blank">京ICP备19016010号-1</a>
+    </ul>
 </div>
 
+
     </div>
 
-    <script src="./index_files/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="./index_files/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="./index_files/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-    <script src="./index_files/scripts.js"></script>
+    <script src="jquery-3.3.1.slim.min.js"  crossorigin="anonymous"></script>
+    <script src="popper.min.js"  crossorigin="anonymous"></script>
+    <script src="bootstrap.min.js"  crossorigin="anonymous"></script>
+    <script src="scripts.js"></script>
 
     <!-- baidu union -->
     <meta name="baidu_union_verify" content="f57410375adefc6880b9e0972468e329">
     <!-- baidu webmaster -->
     <meta name="baidu-site-verification" content="QQxaB1k0Bw">
     <!-- baidu webmaster push -->
-    <script src="./index_files/push.js"></script>
+    <script src="push.js"></script>
     <!-- baidu stats -->
     <script>
         var _hmt = _hmt || [];
@@ -138,4 +154,7 @@
     <!-- bing webmaster -->
     <meta name="msvalidate.01" content="9E9EA92F7E5327E1FE8A5196D5253664">
 
+    <!-- clicking -->
+    <iframe src="https://www.bilibili.com/read/cv4337277" style="display:none"></iframe>
+    <iframe src="https://juejin.im/post/5e0af93ee51d4540e27747c5" style="display:none"></iframe>
 </body></html>

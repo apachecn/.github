@@ -1,0 +1,16 @@
++   [布客](https://www.ibooker.org.cn/)
++   [公告](README.md)
++   [知识树](https://github.com/apachecn/ai-roadmap/tree/master/v1.0)
++   [文档](docs/docs/README.md)
++   [学习](docs/learn/README.md)
++   [比赛](docs/game/README.md)
++   [咨询](docs/map/README.md)
++   [新知](https://it-ebooks.flygon.net)
++   规范
+    +   [包发布](docs/spec/pkg.md)
+    +   [配色表](docs/spec/color.md)
++   组织
+    + [关于](docs/about.md)
+    + [成员](https://www.ibooker.org.cn/organization/)
+    + [众筹](https://t.modian.com/project/67957.html)
+    + [捐赠记录](docs/donate/README.md)

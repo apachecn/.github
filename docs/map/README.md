@@ -6,7 +6,7 @@
 
 ## 联系方式
 
-![](/img/consult/qgroup_job.jpg)
+![](../img/consult/qgroup_job.jpg)
 
 ## 学习路线
 
@@ -38,4 +38,4 @@
 
 ## 赞助我们
 
-![](/img/about/donate.jpg)
+![](../../img/qr/zfb_wx.png)
