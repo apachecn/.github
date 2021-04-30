@@ -1,6 +1,6 @@
 +   [布客](https://www.ibooker.org.cn/)
 +   [公告](README.md)
-+   [知识树](https://github.com/apachecn/ai-roadmap/tree/master/v1.0)
++   [知识树](docs/tree/README.md)
 +   [文档](docs/docs/README.md)
 +   [学习](docs/learn/README.md)
 +   [比赛](docs/game/README.md)
