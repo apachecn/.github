@@ -1,4 +1,4 @@
-+   [布客](https://www.ibooker.org.cn/)
++   [布客](http://www.ibooker.org.cn/)
 +   [公告](README.md)
 +   [知识树](docs/tree/README.md)
 +   [文档](docs/docs/README.md)
