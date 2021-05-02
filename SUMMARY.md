@@ -1,4 +1,3 @@
-+   [布客](http://www.ibooker.org.cn/)
 +   [公告](README.md)
 +   [知识树](docs/tree/README.md)
 +   [文档](docs/docs/README.md)
@@ -11,6 +10,4 @@
     +   [配色表](docs/spec/color.md)
 +   组织
     + [关于](docs/about.md)
-    + [成员](https://www.ibooker.org.cn/organization/)
-    + [众筹](https://t.modian.com/project/67957.html)
     + [捐赠记录](docs/donate/README.md)
