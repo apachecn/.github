@@ -139,17 +139,17 @@ ApacheCN（负责翻译和生态）五步走规划：
 
 ## **交流方式**
 
-| 时间 | 群名称  | 群号  | 群人数  |
-| ------------ | ------------ | ------------ | ------------ |
-| 2020-10-07 | VIP 技术变现 | 1081704341 | 2000 |
-| 2019-09-17 | PyTorch 中文翻译组 | 713436582 | 500 |
-| 2019-06-18 | Paper 讨论 | 838347404 | 500 |
-| 2018-05-02 | 大数据-2 | <a href="//shang.qq.com/wpa/qunwpa?idkey=5d65b0774e5750e97e5725a201ccf158c84056ab77630223f854f57fa2fb544a" target="_blank" rel="noopener">152622464</a> | 2000 |
-| 2018-02-07 | AI+面试求职 | <a href="//shang.qq.com/wpa/qunwpa?idkey=95a5e53232d6e1629cb6ea7132d0cb4c725bd27cb35ebc3f06b1b992279f46a2" target="_blank" rel="noopener">724187166</a> | 2000 |
-| 2017-09-01 | 财务提升+情感 | <a href="//shang.qq.com/wpa/qunwpa?idkey=bcee938030cc9e1552deb3bd9617bbbf62d3ec1647e4b60d9cd6b6e8f78ddc03" target="_blank" rel="noopener">629470233</a> | 3000 |
-| 2014-04-12 | 大数据-1(满) | <a href="//shang.qq.com/wpa/qunwpa?idkey=952c3066344564ac53131f7e101948b0b5e5814390fa24bbfa69e76ff915beb7" target="_blank" rel="noopener">214293307</a> | 2000 |
+| 时间 | 群人数  | 群名称  | 群号  | 
+| --- | --- | --- | --- |
+| 2020-11-02 | 1000 | 1049896590 | 券商开户免5群 | 
+| 2020-10-07 | 2000 | 1081704341 | VIP 技术变现 | 
+| 2019-09-17 | 1000 | 713436582  | PyTorch 中文翻译组 | 
+| 2018-05-02 | 2000 | 152622464  | 大数据-2 | 
+| 2018-02-07 | 3000 | 724187166  | 面试求职 | 
+| 2017-09-01 | 2000 | 915394271  | 财务情感 | 
+| 2014-04-12 | 2000 | 214293307  | 大数据-1 | 
 
-组织口号: <strong><span style="color: #ff0000;">不装逼的朋友，我们都不想认识 。。。</span></strong>
+组织口号: <strong><span style="color: #ff0000;">不装逼的朋友，我们都不想认识 。。</span></strong>
 
 ## **协议**
 
@@ -159,9 +159,8 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 
 ## **捐赠列表**
 
-* 捐赠名单: <http://home.apachecn.org/donate/>
-* 捐赠格式: <https://github.com/apachecn/home/issues/1>
-* 参考添加捐赠方式: <https://github.com/apachecn/home/issues/1>
+* 捐赠名单: [捐赠名单.html](/docs/donate/README.md)
+* 捐赠方式: 请直接扫描绿帽二维码(微信和支付宝都行)
 
 ![](img/qr/zfb_wx.png)
 
@@ -169,20 +168,16 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 
 <style>table img {max-width: 200px}</style>
 
-| | |
-| --- | --- |
-| ![](img/avatar/datawhale.png) | ![](img/avatar/aiyoudao.png) |
-| [Datawhale][datawhale] | [AI 有道][aiyoudao] |
-| ![](img/avatar/aistart.png) | ![](img/avatar/pycn.png) |
-| [AIStart][huanghaiguang] | [PythonChina][pycn] |
-| ![](img/avatar/258ch.png) | ![](img/avatar/hacpai.png) |
-| [苍海国际][258ch] | [黑客派/B3log][hacpai] |
-| ![](img/avatar/gia.png) | |
-| [GirlsInAI][gia] | [DataSciComp][datascicomp] |
-| ![](img/avatar/seancheney.png) | ![](img/avatar/aikeji.png) |
-| [SeanCheney][seancheney] | [AI 科技大本营][aikeji] |
-| ![](img/avatar/hsury.png) | ![](img/avatar/flyai.png) |
-| [Hsury/BiliDrive][bdrive] | [FlyAI][flyai] |
+| | | |
+| --- | --- | --- |
+| ![](img/avatar/datawhale.png) | ![](img/avatar/aiyoudao.png) | ![](img/avatar/aistart.png) | 
+| [Datawhale][datawhale] | [AI 有道][aiyoudao] | [AIStart][huanghaiguang] | 
+| ![](img/avatar/pycn.png) | ![](img/avatar/258ch.png) | ![](img/avatar/hacpai.png) |
+| [PythonChina][pycn] | [苍海国际][258ch] | [黑客派/B3log][hacpai] |
+| ![](img/avatar/gia.png) | | ![](img/avatar/seancheney.png) |
+| [GirlsInAI][gia] | [DataSciComp][datascicomp] | [SeanCheney][seancheney] |
+|  ![](img/avatar/aikeji.png) | ![](img/avatar/hsury.png) | ![](img/avatar/flyai.png) |
+|  [AI 科技大本营][aikeji] | [Hsury/BiliDrive][bdrive] | [FlyAI][flyai] |
 | ![](img/avatar/tesra.png) | ![](img/avatar/zlib.png) |
 | [Tesra][tesra] | [Zlibrary][zlib] |
 
@@ -208,30 +203,3 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 +   [Data Science Challenge / Competition](https://iphysresearch.github.io/DataSciComp/)
 +   [lzhpo](http://www.liuzhaopo.top)
 +   [Jaybo](https://strivebo.com)
-
-
-## 下载
-
-### Docker
-
-```
-docker pull apachecn0/apachecn-home
-docker run -tid -p <port>:80 apachecn0/apachecn-home
-# 访问 http://localhost:{port} 查看文档
-```
-
-### PYPI
-
-```
-pip install apachecn-home
-apachecn-home <port>
-# 访问 http://localhost:{port} 查看文档
-```
-
-### NPM
-
-```
-npm install -g apachecn-home
-apachecn-home <port>
-# 访问 http://localhost:{port} 查看文档
-```
