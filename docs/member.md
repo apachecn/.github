@@ -33,11 +33,11 @@
 
 ## 企鹅委员会
 
-### ML/DL学习群
+### 面试求职群（机器学习/ML/DL/面试求职）
 
-* 群规模: 5000
-* 群企鹅: <a href="//shang.qq.com/wpa/qunwpa?idkey=bcee938030cc9e1552deb3bd9617bbbf62d3ec1647e4b60d9cd6b6e8f78ddc03" target="_blank" rel="noopener">629470233</a>
-* GitHub地址: <http://www.apachecn.org>
+* 群规模: 3000
+* 群企鹅: 724187166
+* GitHub地址: <http://apachecn.org>
 * 面向 机器/深度学习 的学习交流，群文件中暗藏丰富的学习资源，欢迎进群探索
 
 * [@LAMDA-健忘症]()  永久留任-非常感谢对群的贡献
