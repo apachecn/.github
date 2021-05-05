@@ -17,7 +17,7 @@ body {
 /* 首页头部设置 */
 #ib_header {
   max-width: 800px;
-  height: 600px;
+  height: 500px;
   margin: auto;
   /*background-image: url("headerbg.png");*/
   background-position: center center;
