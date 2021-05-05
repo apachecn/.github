@@ -37,7 +37,7 @@ body {
   height: 80px;
   display: flex;
   flex-direction: row;
-  justify-content:space-around;
+  justify-content:space-between;
   align-items: center;
   text-align:center;
 }
