@@ -126,18 +126,12 @@ ApacheCN（负责翻译和生态）五步走规划：
 
 <!--endintro-->
 
-## **学习资源**
-
-+   [编程语言](http://home.apachecn.org/translate)
-+   [后端/大数据](http://home.apachecn.org/translate)
-+   [区块链](http://home.apachecn.org/translate)
-+   [Python 数据科学](http://home.apachecn.org/translate)
-+   [CS 教程](http://home.apachecn.org/translate)
-+   [AI 教程](http://home.apachecn.org/translate)
-+   [AI 文档](http://home.apachecn.org/translate)
-+   [AI 比赛](http://home.apachecn.org/translate)
-
 ## **交流方式**
+
+> 客服人员
+
+- QQ: 529815144
+- 微信: 16619887404
 
 | 时间 | 群人数  | 群名称  | 群号  | 
 | --- | --- | --- | --- |
@@ -208,8 +202,15 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 
 ## **友情链接**
 
-+   [龙哥盟](https://flygon.net)
-+   [Datawhale](http://home.apachecn.org/img/qr/datawhale_qr.jpg)
-+   [Data Science Challenge / Competition](https://iphysresearch.github.io/DataSciComp/)
-+   [lzhpo](http://www.liuzhaopo.top)
-+   [Jaybo](https://strivebo.com)
+| 网站名称 | 网站地址  |
+| --- | --- |
+| 布客新知 | http://it-ebooks.flygon.net |
+| 龙哥盟   | https://flygon.net |
+| 极度空间 | http://likedge.top |
+| 阿中哥   | http://codefun007.xyz |
+| AIHub   | https://www.kuxai.com |
+| PyMiner | http://www.py2cn.com |
+| Datawhale | http://home.apachecn.org/img/qr/datawhale_qr.jpg |
+| Data Science Challenge / Competition | https://iphysresearch.github.io/DataSciComp |
+| lzhpo | http://www.liuzhaopo.top |
+| Jaybo | https://strivebo.com |
