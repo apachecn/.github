@@ -256,29 +256,10 @@ apachecn-home <port>
 
 1.  [Java8 中文官方教程🚧](https://github.com/apachecn/java8-tut-zh?utm_source=home)
 
-## JavaTutorialNetwork 中文系列教程
-
-1.  [JavaTutorialNetwork 中文系列教程](https://github.com/apachecn/jtn-zh?utm_source=home)
-
 ## HowToDoInJava 中文系列教程
 
 1.  [Spring](https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/spring?utm_source=home)／[Java](https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/java?utm_source=home)／[其它教程 1](https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/misc1?utm_source=home)／[其它教程 2](https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/misc2?utm_source=home)
 
-## JavaBeginnersTutorial 中文系列教程
-
-1.  [JavaBeginnersTutorial 中文系列教程](https://github.com/apachecn/jbt-zh?utm_source=home)
-
-## PythonSpot 中文系列教程
-
-1.  [PythonSpot 中文系列教程](https://github.com/apachecn/pythonspot-zh?utm_source=home)
-
-## PythonBasics 中文系列教程
-
-2.  [PythonBasics 中文系列教程](https://github.com/apachecn/pythonbasics-zh?utm_source=home)
-
-## PythonGuru 中文系列教程
-
-3.  [PythonGuru 中文系列教程](https://github.com/apachecn/pythonguru-zh?utm_source=home)
 
 ## TutorialsPoint 中文系列教程
 
@@ -306,18 +287,6 @@ apachecn-home <port>
 
 1.  [软件测试](https://github.com/apachecn/guru99-zh/blob/master/docs/test?utm_source=home)／[SAP](https://github.com/apachecn/guru99-zh/blob/master/docs/sap?utm_source=home)／[必学教程](https://github.com/apachecn/guru99-zh/blob/master/docs/must?utm_source=home)
 
-## HighScalability 中文示例🚧
-
-1.  [HighScalability 中文示例](https://github.com/apachecn/highscalability-examples-zh?utm_source=home)
-
-## QuantLearning - Python 量化交易教程整理
-
-1.  [QuantLearning - Python 量化交易教程整理📚](https://github.com/apachecn/quant-learning?utm_source=home)
-
-## ApacheCN 数据科学和人工智能知识库
-
-1.  [ApacheCN 数据科学和人工智能知识库](https://github.com/apachecn/dsai-wiki?utm_source=home)
-
 ## 数据科学 IPython 笔记本
 
 1.  [数据科学 IPython 笔记本](https://github.com/apachecn/ds-ipynb-zh?utm_source=home)
@@ -339,10 +308,6 @@ apachecn-home <port>
 
 1.  [PythonProgramming.net 中文系列教程](https://github.com/apachecn/python-programming-net-zh?utm_source=home)
 
-## ApacheCN 安全知识库
-
-1.  [ApacheCN 安全知识库](https://github.com/apachecn/sec-wiki)
-
 ## iBooker 团队知识库
 
 1.  [iBooker 团队知识库](https://github.com/apachecn/team-wiki?utm_source=home)
@@ -355,10 +320,19 @@ apachecn-home <port>
 ## Java 独立项目
 
 1.  [On Java 8 中文版（Java 编程思想第五版）↗](https://github.com/LingCoder/OnJava8?utm_source=home)
+1.  [JavaTutorialNetwork 中文系列教程](https://github.com/apachecn/jtn-zh?utm_source=home)
+1.  [JavaBeginnersTutorial 中文系列教程](https://github.com/apachecn/jbt-zh?utm_source=home)
 
 ## Python 独立项目
 
+1.  [PythonSpot 中文系列教程](https://github.com/apachecn/pythonspot-zh?utm_source=home)
+2.  [PythonBasics 中文系列教程](https://github.com/apachecn/pythonbasics-zh?utm_source=home)
+3.  [PythonGuru 中文系列教程](https://github.com/apachecn/pythonguru-zh?utm_source=home)
 1.  [Kivy 中文文档↗](https://github.com/Kivy-CN/Kivy-CN?utm_source=home)
+
+## 大数据独立项目
+
+1.  [HighScalability 中文示例](https://github.com/apachecn/highscalability-examples-zh?utm_source=home)
 
 ## 计算机科学独立项目
 
@@ -369,6 +343,8 @@ apachecn-home <port>
 1.  [AI 路线图（知识树）📝](https://github.com/apachecn/ai-roadmap?utm_source=home)
 1.  [数据科学/人工智能比赛解决方案汇总📝](https://github.com/apachecn/awesome-data-comp-solution?utm_source=home)
 1.  [Kaggle 学习系列视频🎥](https://www.bilibili.com/video/av53119200?utm_source=home)
+1.  [QuantLearning - Python 量化交易教程整理📚](https://github.com/apachecn/quant-learning?utm_source=home)
+1.  [ApacheCN 数据科学和人工智能知识库](https://github.com/apachecn/dsai-wiki?utm_source=home)
 1.  [SimuPy 中文文档↗](https://github.com/cycleuser/simupy-doc-cn?utm_source=home)
 1.  [杜克 STA663 计算统计学讲义↗](https://github.com/Kivy-CN/Duke-STA-663-CN?utm_source=home)
 1.  DataWhale 开源教程↗
@@ -387,6 +363,7 @@ apachecn-home <port>
 
 ## 网络安全独立项目
 
+1.  [ApacheCN 安全知识库](https://github.com/apachecn/sec-wiki)
 1.  [CobaltStrike 4.0 中文用户手册↗](https://github.com/Snowming04/CobaltStrike4.0_related?utm_source=home)
 
 ## 其它独立项目
