@@ -339,7 +339,7 @@ apachecn-home <port>
 
 ## GeeksForGeeks 翻译计划🚧
 
-1.  [GeeksForGeeks 数据结构和算法教程](https://github.com/apachecn/geeksforgeeks-zh/blob/master/SUMMARY.md?utm_source=home)
+1.  [数据结构和算法](https://github.com/apachecn/geeksforgeeks-zh/blob/master/SUMMARY.md?utm_source=home)
 
 ## AILearning - 机器学习实战🎥
 
@@ -369,7 +369,14 @@ apachecn-home <port>
 
 ## PythonProgramming.net 中文系列教程
 
-1.  [PythonProgramming.net 中文系列教程](https://github.com/apachecn/python-programming-net-zh?utm_source=home)
+-   [机器学习实战教程](https://github.com/apachecn/python-programming-net-zh/blob/master/doc/ml/README.md)
+-   [Matplotlib 入门教程](https://github.com/apachecn/python-programming-net-zh/blob/master/doc/matplotlib.md)
+-   [自然语言处理教程](https://github.com/apachecn/python-programming-net-zh/blob/master/doc/nltk.md)
+-   [图像和视频分析](https://github.com/apachecn/python-programming-net-zh/blob/master/doc/opencv.md)
+-   [Python 和 Pandas 数据分析教程](https://github.com/apachecn/python-programming-net-zh/blob/master/doc/pandas.md)
+-   [Python 金融教程](https://github.com/apachecn/python-programming-net-zh/blob/master/doc/quant.md)
+-   [TensorFlow 聊天机器人](https://github.com/apachecn/python-programming-net-zh/blob/master/doc/tf-chatbot.md)
+-   [TensorFlow 目标检测](https://github.com/apachecn/python-programming-net-zh/blob/master/doc/tf-object-detection.md)
 
 ## iBooker 团队知识库
 
