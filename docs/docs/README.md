@@ -576,19 +576,19 @@ apachecn-home <port>
 ## Java 独立项目
 
 1.  [On Java 8 中文版（Java 编程思想第五版）↗](https://github.com/LingCoder/OnJava8?utm_source=home)
-1.  [JavaTutorialNetwork 中文系列教程](https://github.com/apachecn/jtn-zh?utm_source=home)
-1.  [JavaBeginnersTutorial 中文系列教程](https://github.com/apachecn/jbt-zh?utm_source=home)
+1.  [JavaTutorialNetwork 中文系列教程📚](https://github.com/apachecn/jtn-zh?utm_source=home)
+1.  [JavaBeginnersTutorial 中文系列教程📚](https://github.com/apachecn/jbt-zh?utm_source=home)
 
 ## Python 独立项目
 
-1.  [PythonSpot 中文系列教程](https://github.com/apachecn/pythonspot-zh?utm_source=home)
-2.  [PythonBasics 中文系列教程](https://github.com/apachecn/pythonbasics-zh?utm_source=home)
-3.  [PythonGuru 中文系列教程](https://github.com/apachecn/pythonguru-zh?utm_source=home)
+1.  [PythonSpot 中文系列教程📚](https://github.com/apachecn/pythonspot-zh?utm_source=home)
+2.  [PythonBasics 中文系列教程📚](https://github.com/apachecn/pythonbasics-zh?utm_source=home)
+3.  [PythonGuru 中文系列教程📚](https://github.com/apachecn/pythonguru-zh?utm_source=home)
 1.  [Kivy 中文文档↗](https://github.com/Kivy-CN/Kivy-CN?utm_source=home)
 
 ## 大数据独立项目
 
-1.  [HighScalability 中文示例](https://github.com/apachecn/highscalability-examples-zh?utm_source=home)
+1.  [HighScalability 中文示例📚](https://github.com/apachecn/highscalability-examples-zh?utm_source=home)
 
 ## 计算机科学独立项目
 
@@ -600,7 +600,7 @@ apachecn-home <port>
 1.  [数据科学/人工智能比赛解决方案汇总📝](https://github.com/apachecn/awesome-data-comp-solution?utm_source=home)
 1.  [Kaggle 学习系列视频🎥](https://www.bilibili.com/video/av53119200?utm_source=home)
 1.  [QuantLearning - Python 量化交易教程整理📚](https://github.com/apachecn/quant-learning?utm_source=home)
-1.  [ApacheCN 数据科学和人工智能知识库](https://github.com/apachecn/dsai-wiki?utm_source=home)
+1.  [ApacheCN 数据科学和人工智能知识库📚](https://github.com/apachecn/dsai-wiki?utm_source=home)
 1.  [SimuPy 中文文档↗](https://github.com/cycleuser/simupy-doc-cn?utm_source=home)
 1.  [杜克 STA663 计算统计学讲义↗](https://github.com/Kivy-CN/Duke-STA-663-CN?utm_source=home)
 1.  DataWhale 开源教程↗
@@ -619,7 +619,7 @@ apachecn-home <port>
 
 ## 网络安全独立项目
 
-1.  [ApacheCN 安全知识库](https://github.com/apachecn/sec-wiki)
+1.  [ApacheCN 安全知识库📚](https://github.com/apachecn/sec-wiki)
 1.  [CobaltStrike 4.0 中文用户手册↗](https://github.com/Snowming04/CobaltStrike4.0_related?utm_source=home)
 
 ## 其它独立项目
