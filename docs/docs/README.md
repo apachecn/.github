@@ -258,7 +258,10 @@ apachecn-home <port>
 
 ## HowToDoInJava 中文系列教程
 
-1.  [Spring](https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/spring?utm_source=home)／[Java](https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/java?utm_source=home)／[其它教程 1](https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/misc1?utm_source=home)／[其它教程 2](https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/misc2?utm_source=home)
+1.  [Spring](https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/spring?utm_source=home)
+1.  [Java](https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/java?utm_source=home)
+1.  [其它教程 1](https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/misc1?utm_source=home)
+1.  [其它教程 2](https://github.com/apachecn/howtodoinjava-zh/blob/master/docs/misc2?utm_source=home)
 
 
 ## TutorialsPoint 中文系列教程
@@ -267,13 +270,38 @@ apachecn-home <port>
 
 ## BeginnersBook 中文系列教程
 
-1.  [C 语言](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/c?utm_source=home)／[C 语言示例](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/c-example?utm_source=home)／[C++](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/cpp?utm_source=home)／[数据库](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/dbms?utm_source=home)／[Java](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/java?utm_source=home)／[Java 示例](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/java-example?utm_source=home)／[Java IO](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/java-io?utm_source=home)
-1.  [Java 字符串](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/java-string?utm_source=home)／[JSP](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/jsp?utm_source=home)／[JSTL](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/jsp?utm_source=home)／[Kotlin](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/kotlin?utm_source=home)／[MongoDB](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/mongodb?utm_source=home)／[Perl](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/perl?utm_source=home)／[Servlet](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/servlet?utm_source=home)
+1.  [C 语言](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/c?utm_source=home)
+1.  [C 语言示例](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/c-example?utm_source=home)
+1.  [C++](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/cpp?utm_source=home)
+1.  [数据库](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/dbms?utm_source=home)
+1.  [Java](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/java?utm_source=home)
+1.  [Java 示例](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/java-example?utm_source=home)
+1.  [Java IO](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/java-io?utm_source=home)
+1.  [Java 字符串](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/java-string?utm_source=home)
+1.  [JSP](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/jsp?utm_source=home)
+1.  [JSTL](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/jsp?utm_source=home)
+1.  [Kotlin](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/kotlin?utm_source=home)
+1.  [MongoDB](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/mongodb?utm_source=home)
+1.  [Perl](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/perl?utm_source=home)
+1.  [Servlet](https://github.com/apachecn/beginnersbook-zh/blob/master/docs/servlet?utm_source=home)
 
 ## ZetCode 中文系列教程
 
-1.  [数据库](https://github.com/apachecn/zetcode-zh/blob/master/docs/db?utm_source=home)／[.NET](https://github.com/apachecn/zetcode-zh/blob/master/docs/dotnet?utm_source=home)／[图形](https://github.com/apachecn/zetcode-zh/blob/master/docs/graph?utm_source=home)／[GUI](https://github.com/apachecn/zetcode-zh/blob/master/docs/gui?utm_source=home)／[Java](https://github.com/apachecn/zetcode-zh/blob/master/docs/java?utm_source=home)／[JavaScript](https://github.com/apachecn/zetcode-zh/blob/master/docs/js?utm_source=home)／[Kotlin](https://github.com/apachecn/zetcode-zh/blob/master/docs/kotlin?utm_source=home)
-1.  [其它](https://github.com/apachecn/zetcode-zh/blob/master/docs/misc?utm_source=home)／[PHP](https://github.com/apachecn/zetcode-zh/blob/master/docs/php?utm_source=home)／[Python](https://github.com/apachecn/zetcode-zh/blob/master/docs/py?utm_source=home)／[Ruby](https://github.com/apachecn/zetcode-zh/blob/master/docs/ruby?utm_source=home)／[Servlet](https://github.com/apachecn/zetcode-zh/blob/master/docs/servlet?utm_source=home)／[Spring](https://github.com/apachecn/zetcode-zh/blob/master/docs/spring?utm_source=home)／[Spring Boot](https://github.com/apachecn/zetcode-zh/blob/master/docs/spring-boot?utm_source=home)／[Symfony](https://github.com/apachecn/zetcode-zh/blob/master/docs/symfony?utm_source=home)
+1.  [数据库](https://github.com/apachecn/zetcode-zh/blob/master/docs/db?utm_source=home)
+1.  [.NET](https://github.com/apachecn/zetcode-zh/blob/master/docs/dotnet?utm_source=home)
+1.  [图形](https://github.com/apachecn/zetcode-zh/blob/master/docs/graph?utm_source=home)
+1.  [GUI](https://github.com/apachecn/zetcode-zh/blob/master/docs/gui?utm_source=home)
+1.  [Java](https://github.com/apachecn/zetcode-zh/blob/master/docs/java?utm_source=home)
+1.  [JavaScript](https://github.com/apachecn/zetcode-zh/blob/master/docs/js?utm_source=home)
+1.  [Kotlin](https://github.com/apachecn/zetcode-zh/blob/master/docs/kotlin?utm_source=home)
+1.  [其它](https://github.com/apachecn/zetcode-zh/blob/master/docs/misc?utm_source=home)
+1.  [PHP](https://github.com/apachecn/zetcode-zh/blob/master/docs/php?utm_source=home)
+1.  [Python](https://github.com/apachecn/zetcode-zh/blob/master/docs/py?utm_source=home)
+1.  [Ruby](https://github.com/apachecn/zetcode-zh/blob/master/docs/ruby?utm_source=home)
+1.  [Servlet](https://github.com/apachecn/zetcode-zh/blob/master/docs/servlet?utm_source=home)
+1.  [Spring](https://github.com/apachecn/zetcode-zh/blob/master/docs/spring?utm_source=home)
+1.  [Spring Boot](https://github.com/apachecn/zetcode-zh/blob/master/docs/spring-boot?utm_source=home)
+1.  [Symfony](https://github.com/apachecn/zetcode-zh/blob/master/docs/symfony?utm_source=home)
 
 ## Succinctly 中文系列教程🚧
 
@@ -281,28 +309,63 @@ apachecn-home <port>
 
 ## Programiz 中文系列教程
 
-1.  [C 语言](https://github.com/apachecn/programiz-zh/blob/master/docs/c?utm_source=home)／[C++](https://github.com/apachecn/programiz-zh/blob/master/docs/cpp?utm_source=home)／[C#](https://github.com/apachecn/programiz-zh/blob/master/docs/csharp?utm_source=home)／[数据结构和算法](https://github.com/apachecn/programiz-zh/blob/master/docs/dsal?utm_source=home)／[Java](https://github.com/apachecn/programiz-zh/blob/master/docs/java?utm_source=home)／[Kotlin](https://github.com/apachecn/programiz-zh/blob/master/docs/kotlin?utm_source=home)／[Python](https://github.com/apachecn/programiz-zh/blob/master/docs/py?utm_source=home)／[Swift](https://github.com/apachecn/programiz-zh/blob/master/docs/swift?utm_source=home)
+1.  [C 语言](https://github.com/apachecn/programiz-zh/blob/master/docs/c?utm_source=home)
+1.  [C++](https://github.com/apachecn/programiz-zh/blob/master/docs/cpp?utm_source=home)
+1.  [C#](https://github.com/apachecn/programiz-zh/blob/master/docs/csharp?utm_source=home)
+1.  [数据结构和算法](https://github.com/apachecn/programiz-zh/blob/master/docs/dsal?utm_source=home)
+1.  [Java](https://github.com/apachecn/programiz-zh/blob/master/docs/java?utm_source=home)
+1.  [Kotlin](https://github.com/apachecn/programiz-zh/blob/master/docs/kotlin?utm_source=home)
+1.  [Python](https://github.com/apachecn/programiz-zh/blob/master/docs/py?utm_source=home)
+1.  [Swift](https://github.com/apachecn/programiz-zh/blob/master/docs/swift?utm_source=home)
 
 ## Guru99 中文系列教程🚧
 
-1.  [软件测试](https://github.com/apachecn/guru99-zh/blob/master/docs/test?utm_source=home)／[SAP](https://github.com/apachecn/guru99-zh/blob/master/docs/sap?utm_source=home)／[必学教程](https://github.com/apachecn/guru99-zh/blob/master/docs/must?utm_source=home)
+1.  [软件测试](https://github.com/apachecn/guru99-zh/blob/master/docs/test?utm_source=home)
+1.  [SAP](https://github.com/apachecn/guru99-zh/blob/master/docs/sap?utm_source=home)
+1.  [必学教程](https://github.com/apachecn/guru99-zh/blob/master/docs/must?utm_source=home)
 
 ## 数据科学 IPython 笔记本
 
-1.  [数据科学 IPython 笔记本](https://github.com/apachecn/ds-ipynb-zh?utm_source=home)
++   [TensorFlow][dsipynb-summary]
+1.  [Theano][dsipynb-summary]
+1.  [Keras][dsipynb-summary]
+1.  [Sklearn][dsipynb-summary]
+1.  [SciPy][dsipynb-summary]
+1.  [Pandas][dsipynb-summary]
+1.  [Matplotlib][dsipynb-summary]
+1.  [NumPy][dsipynb-summary]
+
+[dsipynb-summary]: https://github.com/apachecn/ds-ipynb-zh/blob/master/SUMMARY.md
 
 ## GeeksForGeeks 翻译计划🚧
 
-1.  [GeeksForGeeks 翻译计划](https://github.com/apachecn/geeksforgeeks-zh?utm_source=home)
+1.  [GeeksForGeeks 数据结构和算法教程](https://github.com/apachecn/geeksforgeeks-zh/blob/master/SUMMARY.md?utm_source=home)
 
 ## AILearning - 机器学习实战🎥
 
-1.  [文字教程](https://github.com/apachecn/AiLearning?utm_source=home)／[教学版视频](https://space.bilibili.com/97678687/channel/detail?cid=22486&utm_source=home)／[讨论版视频](https://space.bilibili.com/97678687/channel/detail?cid=13045&utm_source=home)
+- [数据分析](https://github.com/apachecn/AiLearning/blob/master/docs/da/README.md)
+- [线性代数](https://github.com/apachecn/AiLearning/blob/master/docs/linalg/README.md)
+- [机器学习](https://github.com/apachecn/AiLearning/blob/master/docs/ml/README.md)
+- [PyTorch](https://github.com/apachecn/AiLearning/blob/master/docs/pytorch/README.md)
+- [自然语言处理](https://github.com/apachecn/AiLearning/blob/master/docs/nlp/README.md)
+- [TensorFlow 2.x](https://github.com/apachecn/AiLearning/blob/master/docs/tf2/README.md)
+1.  [教学版视频](https://space.bilibili.com/97678687/channel/detail?cid=22486&utm_source=home)
+1.  [讨论版视频](https://space.bilibili.com/97678687/channel/detail?cid=13045&utm_source=home)
 
 ## Machine Learning Mastery 博客文章翻译🚧
 
-1.  [应用机器学习](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/applied-ml?utm_source=home)／[Keras 深度学习](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/dl-keras?utm_source=home)／[深度学习 NLP](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/dl-nlp?utm_source=home)／[深度学习时间序列](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/dl-ts?utm_source=home)／[线性代数](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/linalg?utm_source=home)／[LSTM](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/lstm?utm_source=home)
-1.  [机器学习算法](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/ml-algo?utm_source=home)／[机器学习入门](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/ml-start?utm_source=home)／[Sklearn](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/sklearn?utm_source=home)／[统计学](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/stat?utm_source=home)／[时间序列入门](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/ts-intro?utm_source=home)／[XGBoost](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/xgboost?utm_source=home)
+1.  [应用机器学习](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/applied-ml?utm_source=home)
+1.  [Keras 深度学习](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/dl-keras?utm_source=home)
+1.  [深度学习 NLP](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/dl-nlp?utm_source=home)
+1.  [深度学习时间序列](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/dl-ts?utm_source=home)
+1.  [线性代数](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/linalg?utm_source=home)
+1.  [LSTM](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/lstm?utm_source=home)
+1.  [机器学习算法](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/ml-algo?utm_source=home)
+1.  [机器学习入门](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/ml-start?utm_source=home)
+1.  [Sklearn](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/sklearn?utm_source=home)
+1.  [统计学](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/stat?utm_source=home)
+1.  [时间序列入门](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/ts-intro?utm_source=home)
+1.  [XGBoost](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/xgboost?utm_source=home)
 
 ## PythonProgramming.net 中文系列教程
 
@@ -314,8 +377,18 @@ apachecn-home <port>
 
 ## 斯坦福 CS183 系列 / YC 创业课系列中文笔记
 
-1.  [CS183A 从零到一](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/a?utm_source=home)／[YC 2012](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2012?utm_source=home)／[CS183B](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/b?utm_source=home)／[YC 2013](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2013?utm_source=home)／[CS183C](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/c?utm_source=home)／[YC 2014 SV](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2014-sv?utm_source=home)
-1.  [YC 2014 NY](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2014-ny?utm_source=home)／[YC 2014 EU](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2014-eu?utm_source=home)／[YC 2016](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2016?utm_source=home)／[CS183F YC 2017](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/f?utm_source=home)／[YC 2018](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2018?utm_source=home)／[YC 2019](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2019?utm_source=home)
+1.  [CS183A 从零到一](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/a?utm_source=home)
+1.  [YC 2012](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2012?utm_source=home)
+1.  [CS183B](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/b?utm_source=home)
+1.  [YC 2013](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2013?utm_source=home)
+1.  [CS183C](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/c?utm_source=home)
+1.  [YC 2014 SV](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2014-sv?utm_source=home)
+1.  [YC 2014 NY](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2014-ny?utm_source=home)
+1.  [YC 2014 EU](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2014-eu?utm_source=home)
+1.  [YC 2016](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2016?utm_source=home)
+1.  [CS183F YC 2017](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/f?utm_source=home)
+1.  [YC 2018](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2018?utm_source=home)
+1.  [YC 2019](https://github.com/apachecn/stanford-cs183-notes/blob/master/docs/sus2019?utm_source=home)
 
 ## Java 独立项目
 
