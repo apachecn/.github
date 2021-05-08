@@ -490,7 +490,7 @@ apachecn-home <port>
 
 ## 数据科学 IPython 笔记本
 
-+   [TensorFlow][dsipynb-summary]
+1.  [TensorFlow][dsipynb-summary]
 1.  [Theano][dsipynb-summary]
 1.  [Keras][dsipynb-summary]
 1.  [Sklearn][dsipynb-summary]
