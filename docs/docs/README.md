@@ -508,12 +508,12 @@ apachecn-home <port>
 ## AILearning - 机器学习实战🎥
 
 
-1.  [数据分析](https://github.com/apachecn/AiLearning/blob/master/docs/da/README.md)
-1.  [线性代数](https://github.com/apachecn/AiLearning/blob/master/docs/linalg/README.md)
-1.  [机器学习](https://github.com/apachecn/AiLearning/blob/master/docs/ml/README.md)
-1.  [PyTorch](https://github.com/apachecn/AiLearning/blob/master/docs/pytorch/README.md)
-1.  [自然语言处理](https://github.com/apachecn/AiLearning/blob/master/docs/nlp/README.md)
-1.  [TensorFlow 2.x](https://github.com/apachecn/AiLearning/blob/master/docs/tf2/README.md)
+1.  [数据分析](https://github.com/apachecn/AiLearning/blob/master/docs/da/SUMMARY.md)
+1.  [线性代数](https://github.com/apachecn/AiLearning/blob/master/docs/linalg/SUMMARY.md)
+1.  [机器学习](https://github.com/apachecn/AiLearning/blob/master/docs/ml/SUMMARY.md)
+1.  [PyTorch](https://github.com/apachecn/AiLearning/blob/master/docs/pytorch/SUMMARY.md)
+1.  [自然语言处理](https://github.com/apachecn/AiLearning/blob/master/docs/nlp/SUMMARY.md)
+1.  [TensorFlow 2.x](https://github.com/apachecn/AiLearning/blob/master/docs/tf2/SUMMARY.md)
 1.  [教学版视频](https://space.bilibili.com/97678687/channel/detail?cid=22486&utm_source=home)
 1.  [讨论版视频](https://space.bilibili.com/97678687/channel/detail?cid=13045&utm_source=home)
 
@@ -534,7 +534,7 @@ apachecn-home <port>
 
 ## PythonProgramming.net 中文系列教程
 
-1.  [机器学习实战教程](https://github.com/apachecn/python-programming-net-zh/blob/master/doc/ml/README.md)
+1.  [机器学习实战教程](https://github.com/apachecn/python-programming-net-zh/blob/master/doc/ml/SUMMARY.md)
 1.  [Matplotlib 入门教程](https://github.com/apachecn/python-programming-net-zh/blob/master/doc/matplotlib.md)
 1.  [自然语言处理教程](https://github.com/apachecn/python-programming-net-zh/blob/master/doc/nltk.md)
 1.  [图像和视频分析](https://github.com/apachecn/python-programming-net-zh/blob/master/doc/opencv.md)
@@ -545,18 +545,18 @@ apachecn-home <port>
 
 ## iBooker 团队知识库
 
-1.  [5 分钟商学院精细笔记](https://github.com/apachecn/team-wiki/blob/master/docs/business-5min-notes/README.md)
-1.  [通往财富自由之路精细笔记](https://github.com/apachecn/team-wiki/blob/master/docs/the-way-to-wealth-freedom-notes/README.md)
-1.  [原则 · 中文版](https://github.com/apachecn/team-wiki/blob/master/docs/principles-zh/README.md)
-1.  [生活黑客](https://github.com/apachecn/team-wiki/blob/master/docs/%E7%94%9F%E6%B4%BB%E9%BB%91%E5%AE%A2/README.md)
-1.  [两性](https://github.com/apachecn/team-wiki/blob/master/docs/%E4%B8%A4%E6%80%A7/README.md)
-1.  [中国社会阶层调查研究](https://github.com/apachecn/team-wiki/blob/master/docs/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E8%B0%83%E6%9F%A5%E7%A0%94%E7%A9%B6/README.md)
-1.  [培训机构分析报告](https://github.com/apachecn/team-wiki/blob/master/docs/ti-analysis/README.md)
-1.  [美国反对美国](https://github.com/apachecn/team-wiki/blob/master/docs/america-against-america/README.md)
-1.  [跨年演讲](https://github.com/apachecn/team-wiki/blob/master/docs/%E8%B7%A8%E5%B9%B4%E6%BC%94%E8%AE%B2/README.md)
+1.  [5 分钟商学院精细笔记](https://github.com/apachecn/team-wiki/blob/master/docs/business-5min-notes/SUMMARY.md)
+1.  [通往财富自由之路精细笔记](https://github.com/apachecn/team-wiki/blob/master/docs/the-way-to-wealth-freedom-notes/SUMMARY.md)
+1.  [原则 · 中文版](https://github.com/apachecn/team-wiki/blob/master/docs/principles-zh/SUMMARY.md)
+1.  [生活黑客](https://github.com/apachecn/team-wiki/blob/master/docs/%E7%94%9F%E6%B4%BB%E9%BB%91%E5%AE%A2/SUMMARY.md)
+1.  [两性](https://github.com/apachecn/team-wiki/blob/master/docs/%E4%B8%A4%E6%80%A7/SUMMARY.md)
+1.  [中国社会阶层调查研究](https://github.com/apachecn/team-wiki/blob/master/docs/%E4%B8%AD%E5%9B%BD%E7%A4%BE%E4%BC%9A%E8%B0%83%E6%9F%A5%E7%A0%94%E7%A9%B6/SUMMARY.md)
+1.  [培训机构分析报告](https://github.com/apachecn/team-wiki/blob/master/docs/ti-analysis/SUMMARY.md)
+1.  [美国反对美国](https://github.com/apachecn/team-wiki/blob/master/docs/america-against-america/SUMMARY.md)
+1.  [跨年演讲](https://github.com/apachecn/team-wiki/blob/master/docs/%E8%B7%A8%E5%B9%B4%E6%BC%94%E8%AE%B2/SUMMARY.md)
 1.  [我在拼多多的三年](https://github.com/apachecn/team-wiki/blob/master/docs/pdd_3years.md)
-1.  [资本主义个人反抗指南](https://github.com/apachecn/team-wiki/blob/master/docs/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97/README.md)
-1.  [缠中说禅 108 课](https://github.com/apachecn/team-wiki/blob/master/docs/chzhshch/README.md)
+1.  [资本主义个人反抗指南](https://github.com/apachecn/team-wiki/blob/master/docs/%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E4%B8%AA%E4%BA%BA%E5%8F%8D%E6%8A%97%E6%8C%87%E5%8D%97/SUMMARY.md)
+1.  [缠中说禅 108 课](https://github.com/apachecn/team-wiki/blob/master/docs/chzhshch/SUMMARY.md)
 
 ## 斯坦福 CS183 系列 / YC 创业课系列中文笔记
 
