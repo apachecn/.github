@@ -1,4 +1,4 @@
-# <center>【读书会】深度学习 TensorFlow - 第1期<center>
+# <center>【读书会】深度学习 TensorFlow - 第1期 | ApacheCN<center>
 
 * 【推荐】深度学习 TensorFlow 从0～1入门
 * TensorFlow 文档: <https://tensorflow.google.cn/tutorials>
@@ -23,7 +23,11 @@
         * [过拟合和欠拟合](https://tensorflow.google.cn/tutorials/keras/overfit_and_underfit)
         * [保存和恢复模型](https://tensorflow.google.cn/tutorials/keras/save_and_restore_models)
 
-----
+> 其他
 
 1. 学习快的，可以帮助协助回答问题
 2. 学习快的，可以继续往下预习后面内容
+
+---
+
+* 总结：一人可以走的很快，但是一群人却可以走的很远
