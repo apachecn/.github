@@ -1,4 +1,4 @@
-# <center>【读书会】Python自然语言处理 - 第2期<center>
+# <center>【读书会】Python自然语言处理 - 第2期 | ApacheCN<center>
 
 * 【推荐】书籍名称《Python自然语言处理》
 * 【推荐】英文地址: <https://www.nltk.org/book>
@@ -39,8 +39,10 @@
 11. 语言学数据管理
 12. 后记︰面对语言的挑战
 
----
-
-历史学习
+> 历史学习
 
 * 第一期: <https://docs.qq.com/sheet/BDRjaP2oYMYz3KfyAR4N7Y0O10JzK52mZVXO1#BB08J2>
+
+---
+
+* 总结：一人可以走的很快，但是一群人却可以走的很远

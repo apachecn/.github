@@ -1,15 +1,21 @@
-+   [公告](README.md)
-+   [知识树](docs/tree/README.md)
-+   [文档](docs/docs/README.md)
-+   [学习](docs/learn/README.md)
-+   [比赛](docs/game/README.md)
-+   [咨询](docs/map/README.md)
-+   [新知](http://it-ebooks.flygon.net)
-+   规范
-    +   [包发布](docs/spec/pkg.md)
-    +   [配色表](docs/spec/color.md)
-+   组织
++ [公告](README.md)
++ [知识树](docs/tree/README.md)
++ [文档](docs/docs/README.md)
++ [活动](docs/activity/README.md)
+    + [tf - 深度学习](docs/activity/dl-tensorflow.md)
+    + [kg - 知识图谱](docs/activity/kg-learning.md)
+    + [nlp - 自然语言处理](docs/activity/nlp-python-nltk.md)
+    + [健身计划 - 运动打卡](docs/activity/run-exercise.md)
+    + [面试求职 - 面试指导](docs/activity/job-interview.md)
+    + 投资财务
+    + [线下活动 - beijing](docs/activity/meet-beijing.md)
+    + [木头样语录](https://github.com/apachecn/home/issues/187)
++ [咨询](docs/map/README.md)
++ [新知](http://it-ebooks.flygon.net)
++ 规范
+    + [包发布](docs/spec/pkg.md)
+    + [配色表](docs/spec/color.md)
++ 组织
     + [关于我们](docs/about.md)
     + [加入我们](docs/join.md)
     + [捐赠记录](docs/donate/README.md)
-    

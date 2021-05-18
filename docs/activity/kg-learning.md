@@ -1,4 +1,4 @@
-# <center>【读书会】知识图谱 - 第1期<center>
+# <center>【读书会】知识图谱 - 第1期 | ApacheCN<center>
 
 * 【推荐】知识图谱
 * 知识图谱文档: <http://pelhans.com/2018/03/15/xiaoxiangkg-note1>
@@ -23,3 +23,7 @@
 * P9 09.第九课：知识问答I
 * P10 10.第十课：IBM watson Lite
 * P11 11.第十一课：行业知识图谱应用
+
+---
+
+* 总结：一人可以走的很快，但是一群人却可以走的很远
