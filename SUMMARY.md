@@ -8,6 +8,7 @@
 +   规范
     +   [包发布](docs/spec/pkg.md)
     +   [配色表](docs/spec/color.md)
+    +   [翻译阶段](docs/spec/trans-stg.md)
 +   组织
     + [关于我们](docs/about.md)
     + [加入我们](docs/join.md)
