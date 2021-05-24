@@ -542,6 +542,12 @@
     排序/顺序
     
     (订单|订购|预订)
+    
++   stream
+
+    流
+
+    溪流
 
 
 ## -able
@@ -1185,20 +1191,20 @@
     
     训练师
 
-+	stereo
++    stereo
 
-	立体
-	
-	立体声
-	
-+	channel
+    立体
+    
+    立体声
+    
++    channel
 
-	通道
-	
-	频道
-	
-+	translation
+    通道
+    
+    频道
+    
++    translation
 
-	平移 \*
-	
-	翻译
+    平移 \*
+    
+    翻译
