@@ -180,8 +180,6 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 
 ## **鸣谢**
 
-<style>table img {max-width: 200px}</style>
-
 | | | |
 | --- | --- | --- |
 | ![](img/avatar/datawhale.png) | ![](img/avatar/aiyoudao.png) | ![](img/avatar/aistart.png) | 
