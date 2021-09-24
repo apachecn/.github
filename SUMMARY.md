@@ -12,6 +12,7 @@
     +   [木头样语录](https://github.com/apachecn/home/issues/187)
 +   [咨询](docs/map/README.md)
 +   [新知](http://it-ebooks.flygon.net)
++   [情感](docs/loving.md)
 +   规范
     +   [包发布](docs/spec/pkg.md)
     +   [配色表](docs/spec/color.md)
