@@ -13,6 +13,10 @@
 +   [咨询](docs/map/README.md)
 +   [新知](http://it-ebooks.flygon.net)
 +   [情感](docs/loving.md)
++   行业报告
+    +   [2019](docs/report/2019.md)
+    +   [2018](docs/report/2018.md)
+    +   [2017](docs/report/2017.md)
 +   规范
     +   [包发布](docs/spec/pkg.md)
     +   [配色表](docs/spec/color.md)
