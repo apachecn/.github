@@ -13,6 +13,15 @@
 +   [咨询](docs/map/README.md)
 +   [新知](http://it-ebooks.flygon.net)
 +   [情感](docs/loving.md)
++   通识
+    +   [得到课程整理（一）](docs/general/igetget1.md)
+    +   [得到课程 CDNDrive 备份（一）](docs/general/igetget1-cdndrive.md)
+    +   [知识星球精华整理（一）](docs/general/zsxq1.md)
+    +   [知识星球 CDNDrive 备份（一）](docs/general/zsxq1-cdndrive.md)
+    +   [知识星球精华整理（二）](docs/general/zsxq2.md)
+    +   [知识星球 CDNDrive 备份（二）](docs/general/zsxq2-cdndrive.md)
+    +   [十点课堂课程整理](docs/general/shidianketang.md)
+    +   [唯库课程整理](docs/general/weiku.md)
 +   行业报告
     +   [2019](docs/report/2019.md)
     +   [2018](docs/report/2018.md)
