@@ -26,6 +26,7 @@
     +   [十点课堂课程整理](docs/general/shidianketang.md)
     +   [唯库课程整理](docs/general/weiku.md)
 +   [公开课](docs/mooc.md)
++   [开发者](docs/dev.md)
 +   行业报告
     +   [2019](docs/report/2019.md)
     +   [2018](docs/report/2018.md)
