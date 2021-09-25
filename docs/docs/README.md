@@ -2,29 +2,7 @@
 
 <p align="center">饱和式翻译，饱和式备份，饱和式宣传</p>
 
-## 下载编译
-
-**选择其中任意一种方式就行！**
-
-```
-## 方式1: Docker ##
-docker pull apachecn0/apachecn-home
-docker run -tid -p <port>:80 apachecn0/apachecn-home
-# 访问 http://localhost:{port} 查看文档
-
-## 方式2: PYPI ##
-pip install apachecn-home
-apachecn-home <port>
-# 访问 http://localhost:{port} 查看文档
-
-## 方式3: NPM ##
-npm install -g apachecn-home
-apachecn-home <port>
-# 访问 http://localhost:{port} 查看文档
-```
-
 <!--docs-->
-
 
 ## Java 译文集
 
