@@ -16,7 +16,7 @@
     +   [木头羊语录](https://github.com/apachecn/home/issues/187)
 +   [咨询](docs/map/README.md)
 +   [情感](docs/loving.md)
-+   通识
++   [通识](docs/general/README.md)
     +   [得到课程整理（一）](docs/general/igetget1.md)
     +   [得到课程 CDNDrive 备份（一）](docs/general/igetget1-cdndrive.md)
     +   [知识星球精华整理（一）](docs/general/zsxq1.md)
