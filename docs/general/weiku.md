@@ -7,8 +7,8 @@ tags:
   - 唯库
 --->
 
-<h1 align="center">唯库课程整理</h1>
-<p align="center"></p>
+# 唯库课程整理
+
 
 ---
 
