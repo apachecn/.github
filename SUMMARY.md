@@ -27,6 +27,7 @@
     +   [唯库课程整理](docs/general/weiku.md)
 +   [公开课](docs/mooc.md)
 +   [开发者](docs/dev.md)
++   [ACGN](https://acgn.flygon.net/)
 +   行业报告
     +   [2019](docs/report/2019.md)
     +   [2018](docs/report/2018.md)
