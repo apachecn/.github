@@ -1,6 +1,7 @@
 +   [公告](README.md)
 +   [知识树](docs/tree/README.md)
 +   [文档](docs/docs/README.md)
++   [计算机电子书](http://it-ebooks.apachecn.org)
 +   英语
     +   [英语学习公众号 Git 仓库备份（1）](docs/english/english1.md)
     +   [英语学习公众号 CDNDrive 备份（1）](docs/english/english1-cdndrive.md)
@@ -12,9 +13,8 @@
     +   [面试求职 - 面试指导](docs/activity/job-interview.md)
     +   投资财务
     +   [线下活动 - beijing](docs/activity/meet-beijing.md)
-    +   [木头样语录](https://github.com/apachecn/home/issues/187)
+    +   [木头羊语录](https://github.com/apachecn/home/issues/187)
 +   [咨询](docs/map/README.md)
-+   [新知](http://it-ebooks.flygon.net)
 +   [情感](docs/loving.md)
 +   通识
     +   [得到课程整理（一）](docs/general/igetget1.md)
