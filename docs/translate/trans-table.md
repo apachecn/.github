@@ -681,6 +681,20 @@
 
     抛出建议后
 
+# 测试
+
++   test double
+
+    测试替身
+	
+	测试(双打|双重|双精度)
+	
++   mock
+
+    模拟
+	
+	嘲讽
+
 # SQL
     
 +   transaction
