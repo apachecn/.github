@@ -190,8 +190,8 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 | [GirlsInAI][gia] | [DataSciComp][datascicomp] | [SeanCheney][seancheney] |
 |  ![](img/avatar/aikeji.png) | ![](img/avatar/hsury.png) | ![](img/avatar/flyai.png) |
 |  [AI 科技大本营][aikeji] | [Hsury/BiliDrive][bdrive] | [FlyAI][flyai] |
-| ![](img/avatar/tesra.png) | ![](img/avatar/zlib.png) |
-| [Tesra][tesra] | [Zlibrary][zlib] |
+| ![](img/avatar/tesra.png) | ![](img/avatar/zlib.png) | ![](img/avatar/skypool.png) |
+| [Tesra][tesra] | [Zlibrary][zlib] | [Skypool][skypool] |
 
 [datawhale]: http://home.apachecn.org/img/qr/datawhale_qr.jpg
 [aiyoudao]: http://home.apachecn.org/img/qr/redstone_qr.jpg
@@ -207,6 +207,7 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 [flyai]: https://www.flyai.com/
 [tesra]: https://www.tesra.org/
 [zlib]: https://b-ok.org
+[skypool]: https://skypool.org
 
 ## **友情链接**
 
