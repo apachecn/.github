@@ -4,7 +4,7 @@
     var [un, repo] = unRepo.split('/')
     var icp = ''
         if (location.host.includes('apachecn.org')) {
-            icp = '京ICP备19016010号-1'
+            icp = '京ICP备15026725号-2'
         } else if (location.host.includes('ibooker.org.cn')) {
             icp = '京ICP备2020035452号-1'
     }
