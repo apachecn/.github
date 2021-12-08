@@ -89,6 +89,9 @@
 -   [Kafka 学习手册中文第二版](https://github.com/apachecn/apachecn-bigdata-zh/blob/master/docs/learn-kafka-2e/SUMMARY.md)
 -   [Storm 和 Cassandra 实时分析](https://github.com/apachecn/apachecn-bigdata-zh/blob/master/docs/rt-anal-storm-cassandra/SUMMARY.md)
 -   [Spark 数据科学](https://github.com/apachecn/apachecn-bigdata-zh/blob/master/docs/spark-ds/SUMMARY.md)
+
+## 大数据译文集（二）
+
 -   [Hadoop 和 Flume 分布式日志收集](https://github.com/apachecn/apachecn-bigdata-zh-pt2/blob/master/docs/flume-dist-log-col-hadoop/SUMMARY.md)
 -   [Hadoop 初学者指南](https://github.com/apachecn/apachecn-bigdata-zh-pt2/blob/master/docs/hadoop-begin-guide/SUMMARY.md)
 -   [Hadoop MapReduce v2 秘籍](https://github.com/apachecn/apachecn-bigdata-zh-pt2/blob/master/docs/hadoop-mapreduce-v2-cb/SUMMARY.md)
@@ -392,6 +395,9 @@
 -   [精通 TypeScript](https://github.com/apachecn/apachecn-js-zh/blob/master/docs/master-ts/SUMMARY.md)
 -   [现代 JavaScript 应用](https://github.com/apachecn/apachecn-js-zh/blob/master/docs/modern-js-app/SUMMARY.md)
 -   [JavaScript 反应式编程](https://github.com/apachecn/apachecn-js-zh/blob/master/docs/react-prog-js/SUMMARY.md)
+
+## JavaScript 译文集（二）
+
 -   [使用 Meteor 构建单页 Web 应用](https://github.com/apachecn/apachecn-js-zh-pt2/blob/master/docs/bulid-single-pg-web-app-meteor/SUMMARY.md)
 -   [Deno Web 开发](https://github.com/apachecn/apachecn-js-zh-pt2/blob/master/docs/deno-web-dev/SUMMARY.md)
 -   [Meteor JS 框架入门指南](https://github.com/apachecn/apachecn-js-zh-pt2/blob/master/docs/get-start-meteor-js-frame/SUMMARY.md)
@@ -447,6 +453,9 @@
 -   [WebAssembly 游戏编程实用指南](https://github.com/apachecn/apachecn-c-cpp-zh/blob/master/docs/handson-game-dev-wasm/SUMMARY.md)
 -   [C++ 函数式编程学习手册](https://github.com/apachecn/apachecn-c-cpp-zh/blob/master/docs/learn-cpp-func-prog/SUMMARY.md)
 -   [Qt5 学习手册](https://github.com/apachecn/apachecn-c-cpp-zh/blob/master/docs/learn-qt5/SUMMARY.md)
+
+## C/C++ 译文集（二）
+
 -   [编写高效程序的艺术](https://github.com/apachecn/apachecn-c-cpp-zh-pt2/blob/master/docs/art-write-effec-prog/SUMMARY.md)
 -   [Code::Blocks 和 C++ 应用开发](https://github.com/apachecn/apachecn-c-cpp-zh-pt2/blob/master/docs/cpp-app-dev-codeblocks/SUMMARY.md)
 -   [C++ 面向对象编程揭秘](https://github.com/apachecn/apachecn-c-cpp-zh-pt2/blob/master/docs/demy-oop-cpp/SUMMARY.md)
@@ -683,6 +692,9 @@
 -   [Pytest 快速入门指南](https://github.com/apachecn/apachecn-python-zh/blob/master/docs/pytest-quick-start-guide/SUMMARY.md)
 -   [Python 统计和微积分研讨会](https://github.com/apachecn/apachecn-python-zh/blob/master/docs/stat-calc-py-workshop/SUMMARY.md)
 -   [Tkinter GUI 应用开发秘籍](https://github.com/apachecn/apachecn-python-zh/blob/master/docs/tkinter-gui-app-dev-cb/SUMMARY.md)
+
+# Python 译文集（二）
+
 -   [Python 应用计算思维](https://github.com/apachecn/apachecn-python-zh-pt2/blob/master/docs/app-comp-think-py/SUMMARY.md)
 -   [Python 代码整洁之道](https://github.com/apachecn/apachecn-python-zh-pt2/blob/master/docs/clean-code-py/SUMMARY.md)
 -   [Python 函数式编程](https://github.com/apachecn/apachecn-python-zh-pt2/blob/master/docs/func-py-prog/SUMMARY.md)
@@ -766,6 +778,9 @@
 -   [精通 Linux 安全和加固](https://github.com/apachecn/apachecn-linux-zh/blob/master/docs/master-linux-sec-hard/SUMMARY.md)
 -   [将 Linux 迁移到微软 Azure](https://github.com/apachecn/apachecn-linux-zh/blob/master/docs/migrate-linux-ms-azure/SUMMARY.md)
 -   [使用 Linux 工作](https://github.com/apachecn/apachecn-linux-zh/blob/master/docs/work-with-linux/SUMMARY.md)
+
+## Linux 译文集（二）
+
 -   [CentOS7 Linux 服务器秘籍](https://github.com/apachecn/apachecn-linux-zh-pt2/blob/master/docs/centos7-linux-svr-cb/SUMMARY.md)
 -   [CompTIA Linux 认证指南](https://github.com/apachecn/apachecn-linux-zh-pt2/blob/master/docs/comptia-linux-cert-guide/SUMMARY.md)
 -   [Linux 快速学习手册](https://github.com/apachecn/apachecn-linux-zh-pt2/blob/master/docs/learn-linux-quick/SUMMARY.md)
