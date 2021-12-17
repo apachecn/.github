@@ -572,6 +572,43 @@
 
 1.  [计算机公开课推荐📝](https://github.com/apachecn/awesome-cs-courses-zh?utm_source=home)
 
+## Datawhale AI 培养方案
+
+1.  聪明办法学Python
+    1.  [文字](https://github.com/datawhalechina/learn-python-the-smart-way)
+    1.  [视频](https://www.bilibili.com/video/BV1hv411n7Yg)
+1.  [奇妙的SQL](https://github.com/datawhalechina/wonderful-sql)
+1.  自由Excel
+    1.  [文字](https://github.com/datawhalechina/free-excel)
+    1.  [视频](https://www.bilibili.com/video/BV1r64y1h75T)
+1.  [Joyful Pandas](https://github.com/datawhalechina/joyful-pandas)
+1.  [巨硬的NumPy](https://github.com/datawhalechina/powerful-numpy)
+1.  南瓜书（西瓜书公式推导解析）
+    1.  [文字](https://github.com/datawhalechina/pumpkin-book?utm_source=home)
+    1.  [视频](https://www.bilibili.com/video/BV1w64y1x7Pi)
+1.  [动手学数据分析](https://github.com/datawhalechina/hands-on-data-analysis)
+1.  [matplotlib奇遇记](https://github.com/datawhalechina/fantastic-matplotlib)
+1.  极好的Plotly
+    1.  [文字](https://github.com/datawhalechina/wow-plotly)
+    1.  [视频](https://www.bilibili.com/video/BV1Df4y1A7aR)
+4.  [数据竞赛Baseline](https://github.com/datawhalechina/competition-baseline)
+4.  西瓜书代码实战
+    4.  [文字](https://github.com/datawhalechina/machine-learning-toy-code)
+    4.  [视频](https://www.bilibili.com/video/BV1w64y1x7Pi)
+3.  [李宏毅机器学习笔记](https://github.com/datawhalechina/Leeml-Book?utm_source=home)
+3.  深入浅出PyTorch
+    3.  [文字](https://github.com/datawhalechina/thorough-pytorch)
+    3.  [视频](https://www.bilibili.com/video/BV1e341127L)
+3.  [有趣的推荐算法](https://github.com/datawhalechina/fun-rec)
+3.  集成学习理论&实践
+    3.  [文字](https://github.com/datawhalechina/ensemble-learning)
+    3.  [视频](https://www.bilibili.com/video/BV1R54y137Q5)
+3.  [强化学习简明教程](https://github.com/datawhalechina/easy-rl)
+3.  [动手学CV](https://github.com/datawhalechina/dive-into-cv-pytorch)
+3.  [基于transformers的自然语言处理(NLP)入门](https://github.com/datawhalechina/learn-nlp-with-transformers)
+2.  [Daily Interview - 人工智能面经](https://github.com/datawhalechina/Daily-interview?utm_source=home)
+
+
 ## 数据科学 &amp; 人工智能独立项目
 
 1.  [AI 路线图（知识树）📝](https://github.com/apachecn/ai-roadmap?utm_source=home)
@@ -581,16 +618,9 @@
 1.  [ApacheCN 数据科学和人工智能知识库📚](https://github.com/apachecn/dsai-wiki?utm_source=home)
 1.  [SimuPy 中文文档↗](https://github.com/cycleuser/simupy-doc-cn?utm_source=home)
 1.  [杜克 STA663 计算统计学讲义↗](https://github.com/Kivy-CN/Duke-STA-663-CN?utm_source=home)
-1.  DataWhale 开源教程↗
-    1.  [Joyful Pandas](https://github.com/datawhalechina/joyful-pandas?utm_source=home)
-    1.  [南瓜书（西瓜书公式推导解析）](https://github.com/datawhalechina/pumpkin-book?utm_source=home)
-    2.  [Daily Interview - 人工智能面经](https://github.com/datawhalechina/Daily-interview?utm_source=home)
-    3.  [李宏毅机器学习笔记](https://github.com/datawhalechina/Leeml-Book?utm_source=home)
-    4.  [钥匙书（机器学习理论导引笔记）](https://github.com/datawhalechina/key-book?utm_source=home)
-    5.  [李宏毅深度强化学习笔记](https://github.com/datawhalechina/leedeeprl-notes?utm_source=home)
 1.  斯坦福公开课课本/笔记
-	1.  [斯坦福 CS229 机器学习中文笔记↗](http://ai-start.com/ml2014?utm_source=home)
-	2.  [DeepLearning.ai 深度学习中文笔记↗](http://ai-start.com/dl2017?utm_source=home)
+    1.  [斯坦福 CS229 机器学习中文笔记↗](http://ai-start.com/ml2014?utm_source=home)
+    2.  [DeepLearning.ai 深度学习中文笔记↗](http://ai-start.com/dl2017?utm_source=home)
 1.  [Girls In AI：面向编程零基础女孩子的AI算法工程师养成计划📚↗](https://github.com/YZHANG1270/Girls-In-AI?utm_source=home)
 1.  [推荐系统遇上深度学习↗](https://www.jianshu.com/c/e12d7195a9ff?utm_source=home)
 1.  [数据科学比赛收集平台📝↗](https://github.com/iphysresearch/DataSciComp?utm_source=home)
