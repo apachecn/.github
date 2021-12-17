@@ -192,6 +192,8 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 |  [AI 科技大本营][aikeji] | [Hsury/BiliDrive][bdrive] | [FlyAI][flyai] |
 | ![](img/avatar/tesra.png) | ![](img/avatar/zlib.png) | ![](img/avatar/skypool.png) |
 | [Tesra][tesra] | [Zlibrary][zlib] | [Skypool][skypool] |
+| ![](https://cdn.jsdelivr.net/npm/oicdn@0.0.1/wordArt.webp) | | |
+| [OI Wiki][oiwiki] | | |
 
 [datawhale]: http://home.apachecn.org/img/qr/datawhale_qr.jpg
 [aiyoudao]: http://home.apachecn.org/img/qr/redstone_qr.jpg
@@ -208,6 +210,7 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 [tesra]: https://www.tesra.org/
 [zlib]: https://b-ok.org
 [skypool]: https://skypool.org
+[oiwiki]: https://oi-wiki.org/
 
 ## **友情链接**
 
