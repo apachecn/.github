@@ -1108,6 +1108,23 @@
 ## GeeksForGeeks 翻译计划🚧
 
 1.  [数据结构和算法](https://github.com/apachecn/geeksforgeeks-zh/blob/master/SUMMARY.md?utm_source=home)
+1.  [ASP](https://github.com/apachecn/geeksforgeeks-asp-zh/blob/master/SUMMARY.md?utm_source=home)
+1.  [PHP](https://github.com/apachecn/geeksforgeeks-php-zh/blob/master/SUMMARY.md?utm_source=home)
+1.  [HTML](https://github.com/apachecn/geeksforgeeks-html-zh/blob/master/SUMMARY.md?utm_source=home)
+1.  [CSS](https://github.com/apachecn/geeksforgeeks-css-zh/blob/master/SUMMARY.md?utm_source=home)
+1.  [JavaScript](https://github.com/apachecn/geeksforgeeks-js-zh/blob/master/SUMMARY.md?utm_source=home)
+1.  [NodeJS](https://github.com/apachecn/geeksforgeeks-nodejs-zh/blob/master/SUMMARY.md?utm_source=home)
+1.  [jQuery](https://github.com/apachecn/geeksforgeeks-jquery-zh/blob/master/SUMMARY.md?utm_source=home)
+1.  [Angular/Vue/React](https://github.com/apachecn/geeksforgeeks-ng-vue-react-zh/blob/master/SUMMARY.md?utm_source=home)
+1.  [Web 杂项](https://github.com/apachecn/geeksforgeeks-web-misc-zh/blob/master/SUMMARY.md?utm_source=home)
+1.  [C/C++](https://github.com/apachecn/geeksforgeeks-c-cpp-zh/blob/master/SUMMARY.md?utm_source=home)
+1.  [Java](https://github.com/apachecn/geeksforgeeks-java-zh/blob/master/SUMMARY.md?utm_source=home)
+1.  [Python](https://github.com/apachecn/geeksforgeeks-python-zh/blob/master/SUMMARY.md?utm_source=home)
+1.  [Scala](https://github.com/apachecn/geeksforgeeks-scala-zh/blob/master/SUMMARY.md?utm_source=home)
+1.  [SQL](https://github.com/apachecn/geeksforgeeks-sql-zh/blob/master/SUMMARY.md?utm_source=home)
+1.  [C#](https://github.com/apachecn/geeksforgeeks-csharp-zh/blob/master/SUMMARY.md?utm_source=home)
+1.  [人工智能](https://github.com/apachecn/geeksforgeeks-ai-zh/blob/master/SUMMARY.md?utm_source=home)
+1.  [编程语言杂项](https://github.com/apachecn/geeksforgeeks-lang-misc-zh/blob/master/SUMMARY.md?utm_source=home)
 
 ## AILearning - 机器学习实战🎥
 
