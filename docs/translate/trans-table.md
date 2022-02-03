@@ -29,11 +29,23 @@
 
     文字
 
++   number
+
+    数字
+
+    号码
+
 +   string
 
     字符串
 
     琴?弦
+
++   declare
+
+    声明
+
+    申报
 
 +   naive
 
