@@ -212,16 +212,14 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 
 | 网站名称 | 网站地址  |
 | --- | --- |
-| 布客新知 | http://it-ebooks.flygon.net |
 | 龙哥盟   | https://flygon.net |
 | 极度空间 | http://likedge.top |
 | 阿中哥   | http://codefun007.xyz |
 | AIHub   | https://www.kuxai.com |
 | PyMiner | http://www.py2cn.com |
-| Datawhale | http://home.apachecn.org/img/qr/datawhale_qr.jpg |
-| Data Science Challenge / Competition | https://iphysresearch.github.io/DataSciComp |
 | lzhpo | http://www.liuzhaopo.top |
 | Jaybo | https://strivebo.com |
+| 跑跑后花园 | https://bbs.popkart.org/ |
 
 ## 下载编译
 
