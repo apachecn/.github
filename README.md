@@ -218,8 +218,6 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 | 阿中哥   | http://codefun007.xyz |
 | AIHub   | https://www.kuxai.com |
 | PyMiner | http://www.py2cn.com |
-| Datawhale | http://home.apachecn.org/img/qr/datawhale_qr.jpg |
-| Data Science Challenge / Competition | https://iphysresearch.github.io/DataSciComp |
 | lzhpo | http://www.liuzhaopo.top |
 | Jaybo | https://strivebo.com |
 | 跑跑后花园 | https://bbs.popkart.org/ |
