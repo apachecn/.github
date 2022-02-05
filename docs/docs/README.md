@@ -1074,6 +1074,8 @@
 ## Succinctly 中文系列教程🚧
 
 1.  [Succinctly 中文系列教程](https://github.com/apachecn/succinctly-zh?utm_source=home)
+1.  [Succinctly 中文系列教程（二）](https://github.com/apachecn/succinctly-zh-pt2?utm_source=home)
+1.  [Succinctly 中文系列教程（三）](https://github.com/apachecn/succinctly-zh-pt3?utm_source=home)
 
 ## Programiz 中文系列教程
 
