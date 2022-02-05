@@ -1077,6 +1077,89 @@
 1.  [Succinctly 中文系列教程（二）](https://github.com/apachecn/succinctly-zh-pt2?utm_source=home)
 1.  [Succinctly 中文系列教程（三）](https://github.com/apachecn/succinctly-zh-pt3?utm_source=home)
 
+## OverIQ 中文系列教程
+
++   [C 编程教程](https://github.com/apachecn/overiq-zh/blob/master/docs/001.md)
++   [C 编程示例](https://github.com/apachecn/overiq-zh/blob/master/docs/088.md)
++   [Python 教程](https://github.com/apachecn/overiq-zh/blob/master/docs/143.md)
++   [Django 1.11 教程](https://github.com/apachecn/overiq-zh/blob/master/docs/166.md)
++   [Flask 教程](https://github.com/apachecn/overiq-zh/blob/master/docs/202.md)
++   [SQLAlchemy 教程](https://github.com/apachecn/overiq-zh/blob/master/docs/222.md)
+
+## LearnETutroials 中文系列教程
+
+
+-   [人工智能中文教程](https://github.com/apachecn/learnetutorials-zh/blob/master/docs/ai/README.md)
+-   [C 中文教程](https://github.com/apachecn/learnetutorials-zh/blob/master/docs/c/README.md)
+-   [Golang 中文教程](https://github.com/apachecn/learnetutorials-zh/blob/master/docs/golang/README.md)
+-   [HTML 中文教程](https://github.com/apachecn/learnetutorials-zh/blob/master/docs/html/README.md)
+-   [Java 中文教程](https://github.com/apachecn/learnetutorials-zh/blob/master/docs/java/README.md)
+-   [机器学习中文教程](https://github.com/apachecn/learnetutorials-zh/blob/master/docs/ml/README.md)
+-   [PHP 中文教程](https://github.com/apachecn/learnetutorials-zh/blob/master/docs/php/README.md)
+-   [Python 中文教程](https://github.com/apachecn/learnetutorials-zh/blob/master/docs/python/README.md)
+-   [R 中文教程](https://github.com/apachecn/learnetutorials-zh/blob/master/docs/r/README.md)
+-   [网络安全中文教程](https://github.com/apachecn/learnetutorials-zh/blob/master/docs/sec/README.md)
+
+## StudyTonight 中文系列教程
+
+-   [C/C++ 中文教程](https://github.com/apachecn/studytonight-zh/blob/master/docs/c-cpp/README.md)
+-   [Python 中文教程](https://github.com/apachecn/studytonight-zh/blob/master/docs/python/README.md)
+-   [Web 中文教程](https://github.com/apachecn/studytonight-zh/blob/master/docs/web/README.md)
+-   [Spring 中文教程](https://github.com/apachecn/studytonight-zh/blob/master/docs/spring/README.md)
+-   [Java 中文教程](https://github.com/apachecn/studytonight-zh/blob/master/docs/java/README.md)
+-   [计算机系统中文教程](https://github.com/apachecn/studytonight-zh/blob/master/docs/sys/README.md)
+-   [数据库中文教程](https://github.com/apachecn/studytonight-zh/blob/master/docs/db/README.md)
+-   [移动开发中文教程](https://github.com/apachecn/studytonight-zh/blob/master/docs/mobi/README.md)
+-   [杂项中文教程](https://github.com/apachecn/studytonight-zh/blob/master/docs/misc/README.md)
+
+## TutorialGateway 中文系列教程
+
++   [C](https://github.com/apachecn/tutorialgateway-zh/blob/master/docs/prog/001.md)
++   [C#](https://github.com/apachecn/tutorialgateway-zh/blob/master/docs/prog/106.md)
++   [Python](https://github.com/apachecn/tutorialgateway-zh/blob/master/docs/prog/156.md)
++   [SQL](https://github.com/apachecn/tutorialgateway-zh/blob/master/docs/prog/252.md)
++   [Java](https://github.com/apachecn/tutorialgateway-zh/blob/master/docs/prog/466.md)
++   [JS](https://github.com/apachecn/tutorialgateway-zh/blob/master/docs/prog/500.md)
++   [MySQL](https://github.com/apachecn/tutorialgateway-zh/blob/master/docs/prog/570.md)
++   [C 语言示例](https://github.com/apachecn/tutorialgateway-zh/blob/master/docs/example/0001.md)
++   [C++ 示例](https://github.com/apachecn/tutorialgateway-zh/blob/master/docs/example/0370.md)
++   [Go 示例](https://github.com/apachecn/tutorialgateway-zh/blob/master/docs/example/0566.md)
++   [Python 示例](https://github.com/apachecn/tutorialgateway-zh/blob/master/docs/example/0752.md)
++   [Java 示例](https://github.com/apachecn/tutorialgateway-zh/blob/master/docs/example/1140.md)
++   [Informatica](https://github.com/apachecn/tutorialgateway-bi-zh/blob/master/docs/001.md)
++   [Talend](https://github.com/apachecn/tutorialgateway-bi-zh/blob/master/docs/063.md)
++   [Tableau](https://github.com/apachecn/tutorialgateway-bi-zh/blob/master/docs/119.md)
++   [PowerBI](https://github.com/apachecn/tutorialgateway-bi-zh/blob/master/docs/225.md)
++   [SSIS](https://github.com/apachecn/tutorialgateway-bi-zh/blob/master/docs/369.md)
++   [SSRS](https://github.com/apachecn/tutorialgateway-bi-zh/blob/master/docs/530.md)
++   [SSAS](https://github.com/apachecn/tutorialgateway-bi-zh/blob/master/docs/636.md)
++   [MDX](https://github.com/apachecn/tutorialgateway-bi-zh/blob/master/docs/648.md)
++   [R 语言教程](https://github.com/apachecn/tutorialgateway-bi-zh/blob/master/docs/678.md)
++   [Alteryx](https://github.com/apachecn/tutorialgateway-bi-zh/blob/master/docs/739.md)
++   [QlikView](https://github.com/apachecn/tutorialgateway-bi-zh/blob/master/docs/757.md)
+
+## TutorialsTeacher 中文系列教程
+
++   [C# 教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/001.md)
++   [ASP.NET Core 教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/063.md)
++   [ASP.NET MVC 教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/088.md)
++   [控制反转教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/133.md)
++   [ASP.NET Web API 教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/162.md)
++   [LINQ 教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/189.md)
++   [TypeScript 教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/236.md)
++   [Angular2 教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/278.md)
++   [AngularJS 教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/287.md)
++   [Node.js 教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/313.md)
++   [D3.js 教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/341.md)
++   [SASS 教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/362.md)
++   [jQuery 教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/383.md)
++   [JavaScript 教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/408.md)
++   [Python 教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/447.md)
++   [MongoDB 教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/509.md)
++   [SQLServer 教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/533.md)
++   [SQL 教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/584.md)
++   [HTTPS 教程](https://github.com/apachecn/tutorialsteacher-zh/blob/master/docs/624.md)
+
 ## Programiz 中文系列教程
 
 1.  [C 语言](https://github.com/apachecn/programiz-zh/blob/master/docs/c?utm_source=home)
@@ -1154,6 +1237,16 @@
 1.  [统计学](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/stat?utm_source=home)
 1.  [时间序列入门](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/ts-intro?utm_source=home)
 1.  [XGBoost](https://github.com/apachecn/ml-mastery-zh/blob/master/docs/xgboost?utm_source=home)
+1.  [计算机视觉教程](https://github.com/apachecn/ml-mastery-zh-pt2/blob/master/docs/cv/README.md)
+1.  [数据准备教程](https://github.com/apachecn/ml-mastery-zh-pt2/blob/master/docs/dataprep/README.md)
+1.  [深度学习表现教程](https://github.com/apachecn/ml-mastery-zh-pt2/blob/master/docs/dlperf/README.md)
+1.  [集成学习教程](https://github.com/apachecn/ml-mastery-zh-pt2/blob/master/docs/ensemble/README.md)
+1.  [生成对抗网络教程](https://github.com/apachecn/ml-mastery-zh-pt2/blob/master/docs/gan/README.md)
+1.  [不平衡数据教程](https://github.com/apachecn/ml-mastery-zh-pt2/blob/master/docs/imba/README.md)
+1.  [优化教程](https://github.com/apachecn/ml-mastery-zh-pt2/blob/master/docs/optim/README.md)
+1.  [概率教程](https://github.com/apachecn/ml-mastery-zh-pt2/blob/master/docs/prob/README.md)
+1.  [R 机器学习教程](https://github.com/apachecn/ml-mastery-zh-pt2/blob/master/docs/rml/README.md)
+1.  [Weka 教程](https://github.com/apachecn/ml-mastery-zh-pt2/blob/master/docs/weka/README.md)
 
 ## PythonProgramming.net 中文系列教程
 
@@ -1208,6 +1301,10 @@
 2.  [PythonBasics 中文系列教程📚](https://github.com/apachecn/pythonbasics-zh?utm_source=home)
 3.  [PythonGuru 中文系列教程📚](https://github.com/apachecn/pythonguru-zh?utm_source=home)
 1.  [Kivy 中文文档↗](https://github.com/Kivy-CN/Kivy-CN?utm_source=home)
+
+## Golang 独立项目
+
+1.  [通过示例学 Golang 2020 中文版](https://github.com/apachecn/golang-by-example-2020-zh)
 
 ## 大数据独立项目
 
