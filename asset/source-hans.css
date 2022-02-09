@@ -1,0 +1,10 @@
+@font-face
+{
+    font-family: source-hans;
+    src: url('SourceHanSansCN-Regular.otf');
+}
+
+*
+{
+    font-family: source-hans;
+}
