@@ -8,7 +8,7 @@
         } else if (location.host.includes('ibooker.org.cn')) {
             icp = '京ICP备2020035452号-1'
     }
-    var icpText = icp? `<p>ICP许可证号: <a href="http://www.miibeian.gov.cn/" target="_blank">${icp}</a></p>`: ''
+    var icpText = icp? `<p>ICP许可证号: <a href="http://beian.miit.gov.cn" target="_blank">${icp}</a></p>`: ''
     var footer = `
         <hr/>
         <div align="center">
