@@ -190,8 +190,10 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 |  [AI 科技大本营][aikeji] | [Hsury/BiliDrive][bdrive] | [FlyAI][flyai] |
 | ![](img/avatar/tesra.png) | ![](img/avatar/zlib.png) | ![](img/avatar/skypool.png) |
 | [Tesra][tesra] | [Zlibrary][zlib] | [Skypool][skypool] |
-| ![](https://cdn.jsdelivr.net/npm/oicdn@0.0.1/wordArt.webp) | | |
-| [OI Wiki][oiwiki] | | |
+| ![](https://cdn.jsdelivr.net/npm/oicdn@0.0.1/wordArt.webp) | ![](https://tvax1.sinaimg.cn/crop.0.0.1080.1080.180/0081Jg9Qly8h0x9q2zaewj30u00u00uu.jpg?KID=imgbed,tva&Expires=1654937897&ssig=o5V72Klxkc) | ![](https://wx4.sinaimg.cn/large/002aANWlly8gz8tcs7j6lj60dw0dwaao02.jpg) |
+| [OI Wiki][oiwiki] | [小宇学长][langji] | [丁鹏][dingpeng] |
+| ![](img/avatar/run.png) | | |
+| [润学][run] | | |
 
 [datawhale]: http://home.apachecn.org/img/qr/datawhale_qr.jpg
 [aiyoudao]: http://home.apachecn.org/img/qr/redstone_qr.jpg
@@ -209,6 +211,9 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 [zlib]: https://b-ok.org
 [skypool]: https://skypool.org
 [oiwiki]: https://oi-wiki.org/
+[langji]: https://weibo.com/u/7354625866
+[dingpeng]: https://s.weibo.com/weibo?q=%23%E7%9F%A5%E5%90%8D%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84%E4%BA%BA%E6%95%99%E8%82%B2%E5%84%BF%E5%AD%90%E8%A6%81%E6%B8%A3%E4%B8%80%E7%82%B9%23
+[run]: https://github.com/The-Run-Philosophy-Organization/run
 
 ## **友情链接**
 
