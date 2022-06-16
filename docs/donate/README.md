@@ -2,6 +2,7 @@
 
 此处只保留当年的记录，其它请见`/donate/yyyy`。
 
++ [2021](/docs/donate/2021.md)
 + [2020](/docs/donate/2020.md)
 + [2019](/docs/donate/2019.md)
 + [2018](/docs/donate/2018.md)
