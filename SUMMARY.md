@@ -9,6 +9,7 @@
     +   [英语学习公众号 Git 仓库备份（1）](docs/english/english1.md)
     +   [英语学习公众号 CDNDrive 备份（1）](docs/english/english1-cdndrive.md)
 +   [活动](docs/activity/README.md)
+    +   [翻译、校对、笔记整理活动](docs/activity/docs-activity.md)
     +   [tf - 深度学习](docs/activity/dl-tensorflow.md)
     +   [kg - 知识图谱](docs/activity/kg-learning.md)
     +   [nlp - 自然语言处理](docs/activity/nlp-python-nltk.md)
