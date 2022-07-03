@@ -8,7 +8,7 @@
 
 贡献指南：https://github.com/apachecn/ds-cmd-line-2e-zh/blob/master/CONTRIBUTING.md
 
-进度：5/14
+认领：5/14，完成：5/14
 
 ## 从零开始的计算机图形学【校对】
 
@@ -18,7 +18,7 @@
 
 贡献指南：https://github.com/apachecn/cg-scratch-zh/blob/master/CONTRIBUTING.md
 
-进度：0/18
+认领：0/18，完成：0/18
 
 ## 21 世纪的统计思维【校对】
 
@@ -28,7 +28,7 @@
 
 贡献指南：https://github.com/apachecn/stats-thinking-21-zh/blob/master/CONTRIBUTING.md
 
-进度：0/110
+认领：0/110，完成：0/110
 
 ## Impatient JavaScript【校对】
 
@@ -38,7 +38,7 @@
 
 项目仓库：https://github.com/apachecn/impatient-js-zh
 
-进度：33/42
+认领：33/42，完成：33/42
 
 ## UIUC CS241 系统编程中文讲义【校对】
 
@@ -48,7 +48,7 @@
 
 贡献指南：https://github.com/apachecn/uiuc-cs241-notes-zh/blob/master/CONTRIBUTING.md
 
-进度：8/78
+认领：8/78，完成：8/78
 
 ---
 
