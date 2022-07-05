@@ -50,6 +50,16 @@
 
 认领：8/78，完成：8/78
 
+OpenSUSE Leap 15.3 系统分析与调整指南【校对】
+
+整体进度：https://github.com/apachecn/opensuse-leap153-sysanal-tune-guide/issues/1
+
+贡献指南：https://github.com/apachecn/opensuse-leap153-sysanal-tune-guide/blob/master/CONTRIBUTING.md
+
+项目仓库：https://github.com/apachecn/opensuse-leap153-sysanal-tune-guide
+
+认领：0/20，完成：0/20
+
 ---
 
 ## 有用的链接
