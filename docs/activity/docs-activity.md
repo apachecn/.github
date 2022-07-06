@@ -1,6 +1,6 @@
 # ApacheCN 翻译、校对、笔记整理活动
 
-## 命令行上的数据科学第二版【校对】
+## 命令行上的数据科学第二版【校对】【千字两元】
 
 仓库：https://github.com/apachecn/ds-cmd-line-2e-zh
 
@@ -10,7 +10,7 @@
 
 认领：5/14，完成：5/14
 
-## 从零开始的计算机图形学【校对】
+## 从零开始的计算机图形学【校对】【千字三元】
 
 仓库：https://github.com/apachecn/cg-scratch-zh
 
@@ -20,7 +20,7 @@
 
 认领：0/18，完成：0/18
 
-## 21 世纪的统计思维【校对】
+## 21 世纪的统计思维【校对】【千字三元】
 
 仓库：https://github.com/apachecn/stats-thinking-21-zh
 
@@ -30,7 +30,7 @@
 
 认领：0/110，完成：0/110
 
-## Impatient JavaScript【校对】
+## Impatient JavaScript【校对】【千字两元】
 
 贡献指南：https://github.com/apachecn/impatient-js-zh/blob/master/CONTRIBUTING.md
 
@@ -40,7 +40,7 @@
 
 认领：33/42，完成：33/42
 
-## UIUC CS241 系统编程中文讲义【校对】
+## UIUC CS241 系统编程中文讲义【校对】【千字两元】
 
 仓库：https://github.com/apachecn/uiuc-cs241-notes-zh
 
@@ -50,7 +50,7 @@
 
 认领：8/78，完成：8/78
 
-## OpenSUSE Leap 15.3 系统分析与调整指南【校对】
+## OpenSUSE Leap 15.3 系统分析与调整指南【校对】【千字三元】
 
 整体进度：https://github.com/apachecn/opensuse-leap153-sysanal-tune-guide/issues/1
 
