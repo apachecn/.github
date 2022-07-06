@@ -18,7 +18,7 @@
 
 贡献指南：https://github.com/apachecn/cg-scratch-zh/blob/master/CONTRIBUTING.md
 
-认领：0/18，完成：0/18
+认领：5/18，完成：5/18
 
 ## 21 世纪的统计思维【校对】【千字三元】
 
@@ -28,7 +28,7 @@
 
 贡献指南：https://github.com/apachecn/stats-thinking-21-zh/blob/master/CONTRIBUTING.md
 
-认领：0/110，完成：0/110
+认领：5/18，完成：0/18
 
 ## Impatient JavaScript【校对】【千字两元】
 
@@ -58,7 +58,7 @@
 
 项目仓库：https://github.com/apachecn/opensuse-leap153-sysanal-tune-guide
 
-认领：0/20，完成：0/20
+认领：5/20，完成：0/20
 
 ---
 
