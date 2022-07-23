@@ -18,7 +18,7 @@
 
 贡献指南：https://github.com/apachecn/cg-scratch-zh/blob/master/CONTRIBUTING.md
 
-认领：6/18，完成：3/18
+认领：13/18，完成：4/18
 
 ## 21 世纪的统计思维【校对】【千字三元】
 
@@ -58,7 +58,7 @@
 
 项目仓库：https://github.com/apachecn/opensuse-leap153-sysanal-tune-guide
 
-认领：5/20，完成：5/20
+认领：14/20，完成：10/20
 
 ---
 
