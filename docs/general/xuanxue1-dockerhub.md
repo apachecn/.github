@@ -24,7 +24,9 @@ baimofa-rangni-gongzuo-chaoshunli <port>
 npm install -g baimofa-rangni-gongzuo-chaoshunli
 baimofa-rangni-gongzuo-chaoshunli <port>
 # 访问 http://localhost:{port} 查看文档
-```# 创造自己的神圣典礼
+```
+
+# 创造自己的神圣典礼
 
 ### Docker
 
@@ -48,7 +50,9 @@ chuangzao-zijide-shensheng-dianli <port>
 npm install -g chuangzao-zijide-shensheng-dianli
 chuangzao-zijide-shensheng-dianli <port>
 # 访问 http://localhost:{port} 查看文档
-```# 大地魔法
+```
+
+# 大地魔法
 
 ### Docker
 
@@ -72,7 +76,9 @@ dadi-mofa <port>
 npm install -g dadi-mofa
 dadi-mofa <port>
 # 访问 http://localhost:{port} 查看文档
-```# 当神秘学来敲门
+```
+
+# 当神秘学来敲门
 
 ### Docker
 
@@ -96,7 +102,9 @@ dangshenmixue-laiqiaomen <port>
 npm install -g dangshenmixue-laiqiaomen
 dangshenmixue-laiqiaomen <port>
 # 访问 http://localhost:{port} 查看文档
-```# 风系魔法
+```
+
+# 风系魔法
 
 ### Docker
 
@@ -120,7 +128,9 @@ fengxi-mofa <port>
 npm install -g fengxi-mofa
 fengxi-mofa <port>
 # 访问 http://localhost:{port} 查看文档
-```# 跟着大师学塔罗
+```
+
+# 跟着大师学塔罗
 
 ### Docker
 
@@ -144,7 +154,9 @@ genzhe-dashi-xuetaluo <port>
 npm install -g genzhe-dashi-xuetaluo
 genzhe-dashi-xuetaluo <port>
 # 访问 http://localhost:{port} 查看文档
-```# 花掉的钱都会自己流回来
+```
+
+# 花掉的钱都会自己流回来
 
 ### Docker
 
@@ -168,7 +180,9 @@ huadiaodeqian-douhui-ziji-liuhuilai <port>
 npm install -g huadiaodeqian-douhui-ziji-liuhuilai
 huadiaodeqian-douhui-ziji-liuhuilai <port>
 # 访问 http://localhost:{port} 查看文档
-```# 花影塔罗指导手册
+```
+
+# 花影塔罗指导手册
 
 ### Docker
 
@@ -192,7 +206,9 @@ huaying-taluo-zhidao-shouce <port>
 npm install -g huaying-taluo-zhidao-shouce
 huaying-taluo-zhidao-shouce <port>
 # 访问 http://localhost:{port} 查看文档
-```# 混沌魔法学习手册
+```
+
+# 混沌魔法学习手册
 
 ### Docker
 
@@ -216,7 +232,9 @@ hundun-mofa-xuexi-shouce <port>
 npm install -g hundun-mofa-xuexi-shouce
 hundun-mofa-xuexi-shouce <port>
 # 访问 http://localhost:{port} 查看文档
-```# 火系魔法
+```
+
+# 火系魔法
 
 ### Docker
 
@@ -240,7 +258,9 @@ huoxi-mofa <port>
 npm install -g huoxi-mofa
 huoxi-mofa <port>
 # 访问 http://localhost:{port} 查看文档
-```# 金钱魔法
+```
+
+# 金钱魔法
 
 ### Docker
 
@@ -264,7 +284,9 @@ jinqian-mofa <port>
 npm install -g jinqian-mofa
 jinqian-mofa <port>
 # 访问 http://localhost:{port} 查看文档
-```# 跨次元互联网：祖夫雅的魔法通道
+```
+
+# 跨次元互联网：祖夫雅的魔法通道
 
 ### Docker
 
@@ -288,7 +310,9 @@ kuaciyuan-hulianwang <port>
 npm install -g kuaciyuan-hulianwang
 kuaciyuan-hulianwang <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗葵花宝典
+```
+
+# 塔罗葵花宝典
 
 ### Docker
 
@@ -312,7 +336,9 @@ taluo-kuihua-baodian <port>
 npm install -g taluo-kuihua-baodian
 taluo-kuihua-baodian <port>
 # 访问 http://localhost:{port} 查看文档
-```# 雷曼诺卡宝典
+```
+
+# 雷曼诺卡宝典
 
 ### Docker
 
@@ -336,7 +362,9 @@ leimannuoka-baodian <port>
 npm install -g leimannuoka-baodian
 leimannuoka-baodian <port>
 # 访问 http://localhost:{port} 查看文档
-```# 梦控师
+```
+
+# 梦控师
 
 ### Docker
 
@@ -360,7 +388,9 @@ mengkongshi <port>
 npm install -g mengkongshi
 mengkongshi <port>
 # 访问 http://localhost:{port} 查看文档
-```# 魔草药配方书
+```
+
+# 魔草药配方书
 
 ### Docker
 
@@ -384,7 +414,9 @@ mocaoyao-peifangshu <port>
 npm install -g mocaoyao-peifangshu
 mocaoyao-peifangshu <port>
 # 访问 http://localhost:{port} 查看文档
-```# 魔法的基础
+```
+
+# 魔法的基础
 
 ### Docker
 
@@ -408,7 +440,9 @@ mofade-jichu <port>
 npm install -g mofade-jichu
 mofade-jichu <port>
 # 访问 http://localhost:{port} 查看文档
-```# 魔法教科书
+```
+
+# 魔法教科书
 
 ### Docker
 
@@ -432,7 +466,9 @@ mofa-jiaokeshu <port>
 npm install -g mofa-jiaokeshu
 mofa-jiaokeshu <port>
 # 访问 http://localhost:{port} 查看文档
-```# 魔法师学徒的伴侣书上
+```
+
+# 魔法师学徒的伴侣书上
 
 ### Docker
 
@@ -456,7 +492,9 @@ mofashi-xuetude-banlvshu-shang <port>
 npm install -g mofashi-xuetude-banlvshu-shang
 mofashi-xuetude-banlvshu-shang <port>
 # 访问 http://localhost:{port} 查看文档
-```# 魔法显化
+```
+
+# 魔法显化
 
 ### Docker
 
@@ -480,7 +518,9 @@ mofa-xianhua <port>
 npm install -g mofa-xianhua
 mofa-xianhua <port>
 # 访问 http://localhost:{port} 查看文档
-```# 魔法杂货的制作方法
+```
+
+# 魔法杂货的制作方法
 
 ### Docker
 
@@ -504,7 +544,9 @@ mofa-zahuode-zhizuo-fangfa <port>
 npm install -g mofa-zahuode-zhizuo-fangfa
 mofa-zahuode-zhizuo-fangfa <port>
 # 访问 http://localhost:{port} 查看文档
-```# 魔药学
+```
+
+# 魔药学
 
 ### Docker
 
@@ -528,7 +570,9 @@ moyaoxue <port>
 npm install -g moyaoxue
 moyaoxue <port>
 # 访问 http://localhost:{port} 查看文档
-```# 78度的智慧（英豪译）
+```
+
+# 78度的智慧（英豪译）
 
 ### Docker
 
@@ -552,7 +596,9 @@ qishibadude-zhihui <port>
 npm install -g qishibadude-zhihui
 qishibadude-zhihui <port>
 # 访问 http://localhost:{port} 查看文档
-```# 其实你已经很塔罗了（图文版）
+```
+
+# 其实你已经很塔罗了（图文版）
 
 ### Docker
 
@@ -576,7 +622,9 @@ qishi-niyijing-hentaluole <port>
 npm install -g qishi-niyijing-hentaluole
 qishi-niyijing-hentaluole <port>
 # 访问 http://localhost:{port} 查看文档
-```# 莎拉的白魔法
+```
+
+# 莎拉的白魔法
 
 ### Docker
 
@@ -600,7 +648,9 @@ shalade-baimofa <port>
 npm install -g shalade-baimofa
 shalade-baimofa <port>
 # 访问 http://localhost:{port} 查看文档
-```# 生命之花的灵性法则1
+```
+
+# 生命之花的灵性法则1
 
 ### Docker
 
@@ -624,7 +674,9 @@ shengmingzhihuade-lingxing-faze-vol1 <port>
 npm install -g shengmingzhihuade-lingxing-faze-vol1
 shengmingzhihuade-lingxing-faze-vol1 <port>
 # 访问 http://localhost:{port} 查看文档
-```# 生命之花的灵性法则2
+```
+
+# 生命之花的灵性法则2
 
 ### Docker
 
@@ -648,7 +700,9 @@ shengmingzhihuade-lingxing-faze-vol2 <port>
 npm install -g shengmingzhihuade-lingxing-faze-vol2
 shengmingzhihuade-lingxing-faze-vol2 <port>
 # 访问 http://localhost:{port} 查看文档
-```# 神圣魔法学
+```
+
+# 神圣魔法学
 
 ### Docker
 
@@ -672,7 +726,9 @@ shensheng-mofaxue <port>
 npm install -g shensheng-mofaxue
 shensheng-mofaxue <port>
 # 访问 http://localhost:{port} 查看文档
-```# 水系魔法
+```
+
+# 水系魔法
 
 ### Docker
 
@@ -696,7 +752,9 @@ shuixi-mofa <port>
 npm install -g shuixi-mofa
 shuixi-mofa <port>
 # 访问 http://localhost:{port} 查看文档
-```# 所罗门的大钥匙
+```
+
+# 所罗门的大钥匙
 
 ### Docker
 
@@ -720,7 +778,9 @@ suoluomende-dayaoshi <port>
 npm install -g suoluomende-dayaoshi
 suoluomende-dayaoshi <port>
 # 访问 http://localhost:{port} 查看文档
-```# 所罗门的小钥匙
+```
+
+# 所罗门的小钥匙
 
 ### Docker
 
@@ -744,7 +804,9 @@ suoluomende-xiaoyaoshi <port>
 npm install -g suoluomende-xiaoyaoshi
 suoluomende-xiaoyaoshi <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗宫廷牌
+```
+
+# 塔罗宫廷牌
 
 ### Docker
 
@@ -768,7 +830,9 @@ taluo-gongtingpai <port>
 npm install -g taluo-gongtingpai
 taluo-gongtingpai <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗解牌研究所1
+```
+
+# 塔罗解牌研究所1
 
 ### Docker
 
@@ -792,7 +856,9 @@ taluo-jiepai-yanjiusuo-vol1 <port>
 npm install -g taluo-jiepai-yanjiusuo-vol1
 taluo-jiepai-yanjiusuo-vol1 <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗解牌研究所2
+```
+
+# 塔罗解牌研究所2
 
 ### Docker
 
@@ -816,7 +882,9 @@ taluo-jiepai-yanjiusuo-vol2 <port>
 npm install -g taluo-jiepai-yanjiusuo-vol2
 taluo-jiepai-yanjiusuo-vol2 <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗解牌研究所3
+```
+
+# 塔罗解牌研究所3
 
 ### Docker
 
@@ -840,7 +908,9 @@ taluo-jiepai-yanjiusuo-vol3 <port>
 npm install -g taluo-jiepai-yanjiusuo-vol3
 taluo-jiepai-yanjiusuo-vol3 <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗解牌字典
+```
+
+# 塔罗解牌字典
 
 ### Docker
 
@@ -864,7 +934,9 @@ taluo-jiepai-zidian <port>
 npm install -g taluo-jiepai-zidian
 taluo-jiepai-zidian <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗葵花宝典
+```
+
+# 塔罗葵花宝典
 
 ### Docker
 
@@ -888,7 +960,9 @@ taluo-kuihua-baodian <port>
 npm install -g taluo-kuihua-baodian
 taluo-kuihua-baodian <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗灵数
+```
+
+# 塔罗灵数
 
 ### Docker
 
@@ -912,7 +986,9 @@ taluo-lingshu <port>
 npm install -g taluo-lingshu
 taluo-lingshu <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗冥想
+```
+
+# 塔罗冥想
 
 ### Docker
 
@@ -936,7 +1012,9 @@ taluo-mingxiang <port>
 npm install -g taluo-mingxiang
 taluo-mingxiang <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗逆位精解
+```
+
+# 塔罗逆位精解
 
 ### Docker
 
@@ -960,7 +1038,9 @@ taluo-niwei-jingjie <port>
 npm install -g taluo-niwei-jingjie
 taluo-niwei-jingjie <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗逆位牌
+```
+
+# 塔罗逆位牌
 
 ### Docker
 
@@ -984,7 +1064,9 @@ taluo-niweipai <port>
 npm install -g taluo-niweipai
 taluo-niweipai <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗牌阵之书
+```
+
+# 塔罗牌阵之书
 
 ### Docker
 
@@ -1008,7 +1090,9 @@ taluo-paizhenzhishu <port>
 npm install -g taluo-paizhenzhishu
 taluo-paizhenzhishu <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗全书(珍藏版)
+```
+
+# 塔罗全书(珍藏版)
 
 ### Docker
 
@@ -1032,7 +1116,9 @@ taluo-quanshu <port>
 npm install -g taluo-quanshu
 taluo-quanshu <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗入门经典牌阵
+```
+
+# 塔罗入门经典牌阵
 
 ### Docker
 
@@ -1056,7 +1142,9 @@ taluo-rumen-jingdian-paizhen <port>
 npm install -g taluo-rumen-jingdian-paizhen
 taluo-rumen-jingdian-paizhen <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗入门十九堂课
+```
+
+# 塔罗入门十九堂课
 
 ### Docker
 
@@ -1080,7 +1168,9 @@ taluo-rumen-shijiutangke <port>
 npm install -g taluo-rumen-shijiutangke
 taluo-rumen-shijiutangke <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗入门指南
+```
+
+# 塔罗入门指南
 
 ### Docker
 
@@ -1104,7 +1194,9 @@ taluo-rumen-zhinan <port>
 npm install -g taluo-rumen-zhinan
 taluo-rumen-zhinan <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗事典
+```
+
+# 塔罗事典
 
 ### Docker
 
@@ -1128,7 +1220,9 @@ taluo-shidian <port>
 npm install -g taluo-shidian
 taluo-shidian <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗思维
+```
+
+# 塔罗思维
 
 ### Docker
 
@@ -1152,7 +1246,9 @@ taluo-siwei <port>
 npm install -g taluo-siwei
 taluo-siwei <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗图钥
+```
+
+# 塔罗图钥
 
 ### Docker
 
@@ -1176,7 +1272,9 @@ taluo-tuyao <port>
 npm install -g taluo-tuyao
 taluo-tuyao <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗星事
+```
+
+# 塔罗星事
 
 ### Docker
 
@@ -1200,7 +1298,9 @@ taluo-xingshi <port>
 npm install -g taluo-xingshi
 taluo-xingshi <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗与心灵沟通
+```
+
+# 塔罗与心灵沟通
 
 ### Docker
 
@@ -1224,7 +1324,9 @@ taluo-yuxinling-goutong <port>
 npm install -g taluo-yuxinling-goutong
 taluo-yuxinling-goutong <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗之书解牌字典
+```
+
+# 塔罗之书解牌字典
 
 ### Docker
 
@@ -1248,7 +1350,9 @@ taluozhishu-jiepai-zidian <port>
 npm install -g taluozhishu-jiepai-zidian
 taluozhishu-jiepai-zidian <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗终极指南
+```
+
+# 塔罗终极指南
 
 ### Docker
 
@@ -1272,7 +1376,9 @@ taluo-zhongji-zhinan <port>
 npm install -g taluo-zhongji-zhinan
 taluo-zhongji-zhinan <port>
 # 访问 http://localhost:{port} 查看文档
-```# 塔罗自学指南
+```
+
+# 塔罗自学指南
 
 ### Docker
 
@@ -1296,7 +1402,9 @@ taluo-zixue-zhinan <port>
 npm install -g taluo-zixue-zhinan
 taluo-zixue-zhinan <port>
 # 访问 http://localhost:{port} 查看文档
-```# 黑魔法
+```
+
+# 黑魔法
 
 ### Docker
 
@@ -1320,7 +1428,9 @@ tujie-heimofa <port>
 npm install -g tujie-heimofa
 tujie-heimofa <port>
 # 访问 http://localhost:{port} 查看文档
-```# 托特塔罗解密
+```
+
+# 托特塔罗解密
 
 ### Docker
 
@@ -1344,7 +1454,9 @@ tuote-taruo-jiemi <port>
 npm install -g tuote-taruo-jiemi
 tuote-taruo-jiemi <port>
 # 访问 http://localhost:{port} 查看文档
-```# 威卡关系魔法
+```
+
+# 威卡关系魔法
 
 ### Docker
 
@@ -1368,7 +1480,9 @@ weika-guanxi-mofa <port>
 npm install -g weika-guanxi-mofa
 weika-guanxi-mofa <port>
 # 访问 http://localhost:{port} 查看文档
-```# 威卡魔法
+```
+
+# 威卡魔法
 
 ### Docker
 
@@ -1392,7 +1506,9 @@ weika-mofa <port>
 npm install -g weika-mofa
 weika-mofa <port>
 # 访问 http://localhost:{port} 查看文档
-```# 为人生带来奇迹的魔法书
+```
+
+# 为人生带来奇迹的魔法书
 
 ### Docker
 
@@ -1416,7 +1532,9 @@ weirensheng-dailai-qijide-mofashu <port>
 npm install -g weirensheng-dailai-qijide-mofashu
 weirensheng-dailai-qijide-mofashu <port>
 # 访问 http://localhost:{port} 查看文档
-```# 韦特塔罗指导手册
+```
+
+# 韦特塔罗指导手册
 
 ### Docker
 
@@ -1440,7 +1558,9 @@ weite-taluo-zhidao-shouce <port>
 npm install -g weite-taluo-zhidao-shouce
 weite-taluo-zhidao-shouce <port>
 # 访问 http://localhost:{port} 查看文档
-```# 向宇宙下订单
+```
+
+# 向宇宙下订单
 
 ### Docker
 
@@ -1464,7 +1584,9 @@ xiangyuzhou-xiadingdan <port>
 npm install -g xiangyuzhou-xiadingdan
 xiangyuzhou-xiadingdan <port>
 # 访问 http://localhost:{port} 查看文档
-```# 西方神秘学指津
+```
+
+# 西方神秘学指津
 
 ### Docker
 
@@ -1488,7 +1610,9 @@ xifang-shenmixue-zhijin <port>
 npm install -g xifang-shenmixue-zhijin
 xifang-shenmixue-zhijin <port>
 # 访问 http://localhost:{port} 查看文档
-```# 希腊神话占星塔罗
+```
+
+# 希腊神话占星塔罗
 
 ### Docker
 
@@ -1512,7 +1636,9 @@ xila-shenhua-zhanxing-taluo <port>
 npm install -g xila-shenhua-zhanxing-taluo
 xila-shenhua-zhanxing-taluo <port>
 # 访问 http://localhost:{port} 查看文档
-```# 新巫魔法书
+```
+
+# 新巫魔法书
 
 ### Docker
 
@@ -1536,7 +1662,9 @@ xinwu-mofashu <port>
 npm install -g xinwu-mofashu
 xinwu-mofashu <port>
 # 访问 http://localhost:{port} 查看文档
-```# 学会塔罗的16堂课
+```
+
+# 学会塔罗的16堂课
 
 ### Docker
 
@@ -1560,7 +1688,9 @@ xuehui-taluode-shiliu-tangke <port>
 npm install -g xuehui-taluode-shiliu-tangke
 xuehui-taluode-shiliu-tangke <port>
 # 访问 http://localhost:{port} 查看文档
-```# 药草女巫的365日
+```
+
+# 药草女巫的365日
 
 ### Docker
 
@@ -1584,7 +1714,9 @@ yaocao-nvwude-365ri <port>
 npm install -g yaocao-nvwude-sanliuwuri
 yaocao-nvwude-sanliuwuri <port>
 # 访问 http://localhost:{port} 查看文档
-```# 英灵魔法
+```
+
+# 英灵魔法
 
 ### Docker
 
@@ -1608,7 +1740,9 @@ yingling-mofa <port>
 npm install -g yingling-mofa
 yingling-mofa <port>
 # 访问 http://localhost:{port} 查看文档
-```# 仪式魔法全书（上）
+```
+
+# 仪式魔法全书（上）
 
 ### Docker
 
@@ -1632,7 +1766,9 @@ yishi-mofa-quanshu-shang <port>
 npm install -g yishi-mofa-quanshu-shang
 yishi-mofa-quanshu-shang <port>
 # 访问 http://localhost:{port} 查看文档
-```# 仪式魔法全书（下）
+```
+
+# 仪式魔法全书（下）
 
 ### Docker
 
@@ -1656,7 +1792,9 @@ yishi-mofa-quanshu-xia <port>
 npm install -g yishi-mofa-quanshu-xia
 yishi-mofa-quanshu-xia <port>
 # 访问 http://localhost:{port} 查看文档
-```# 与神相系的白魔女秘术
+```
+
+# 与神相系的白魔女秘术
 
 ### Docker
 
@@ -1680,7 +1818,9 @@ yushen-xiangxide-baimonv-mishu <port>
 npm install -g yushen-xiangxide-baimonv-mishu
 yushen-xiangxide-baimonv-mishu <port>
 # 访问 http://localhost:{port} 查看文档
-```# 指导灵全书
+```
+
+# 指导灵全书
 
 ### Docker
 
@@ -1704,7 +1844,9 @@ zhidaoling-quanshu <port>
 npm install -g zhidaoling-quanshu
 zhidaoling-quanshu <port>
 # 访问 http://localhost:{port} 查看文档
-```# 直觉式塔罗
+```
+
+# 直觉式塔罗
 
 ### Docker
 
@@ -1728,7 +1870,9 @@ zhijueshi-taluo <port>
 npm install -g zhijueshi-taluo
 zhijueshi-taluo <port>
 # 访问 http://localhost:{port} 查看文档
-```# 咨商塔罗
+```
+
+# 咨商塔罗
 
 ### Docker
 
