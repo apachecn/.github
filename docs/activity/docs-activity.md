@@ -50,7 +50,7 @@
 
 认领：8/78，完成：8/78
 
-## OpenSUSE Leap 15.3 系统分析与调整指南【校对】【千字三元】
+## OpenSUSE Leap 15.3 系统分析与调整指南【校对】【千字两元】
 
 整体进度：https://github.com/apachecn/opensuse-leap153-sysanal-tune-guide/issues/1
 
