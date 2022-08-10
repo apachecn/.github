@@ -8,7 +8,7 @@
 
 贡献指南：https://github.com/apachecn/ds-cmd-line-2e-zh/blob/master/CONTRIBUTING.md
 
-认领：5/14，完成：5/14
+认领：14/14，完成：5/14
 
 ## 从零开始的计算机图形学【校对】【千字三元】
 
@@ -18,7 +18,7 @@
 
 贡献指南：https://github.com/apachecn/cg-scratch-zh/blob/master/CONTRIBUTING.md
 
-认领：18/18，完成：7/18
+认领：18/18，完成：13/18
 
 ## 21 世纪的统计思维【校对】【千字三元】
 
@@ -28,7 +28,7 @@
 
 贡献指南：https://github.com/apachecn/stats-thinking-21-zh/blob/master/CONTRIBUTING.md
 
-认领：11/18，完成：5/18
+认领：18/18，完成：10/18
 
 ## Impatient JavaScript【校对】【千字两元】
 
