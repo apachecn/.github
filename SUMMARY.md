@@ -21,6 +21,7 @@
 +   [咨询](docs/map/README.md)
 +   [情感](docs/loving.md)
 +   [新知](docs/general/README.md)
+    +   [权谋资料库（一）NPM、PYPI、DockerHub 备份](docs/general/quanmou-dockerhub.md)
     +   [玄学资料库（一）NPM、PYPI、DockerHub 备份](docs/general/xuanxue1-dockerhub.md)
     +   [玄学资料库（二）NPM、PYPI、DockerHub 备份](docs/general/xuanxue2-dockerhub.md)
     +   [奸的好人 1~25 NPM、PYPI、DockerHub 备份](docs/general/jiandehaoren-dockerhub.md)
