@@ -8,6 +8,7 @@
 +   英语
     +   [英语学习公众号 Git 仓库备份（1）](docs/english/english1.md)
     +   [英语学习公众号 CDNDrive 备份（1）](docs/english/english1-cdndrive.md)
+    +   [英语学习公众号 DockerHub 备份（1）](docs/english/english1-dockerhub.md)
 +   [活动](docs/activity/README.md)
     +   [翻译、校对、笔记整理活动](docs/activity/docs-activity.md)
     +   [tf - 深度学习](docs/activity/dl-tensorflow.md)
