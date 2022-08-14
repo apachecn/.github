@@ -20,16 +20,6 @@
 
 认领：18/18，完成：13/18
 
-## 21 世纪的统计思维【校对】【千字三元】
-
-仓库：https://github.com/apachecn/stats-thinking-21-zh
-
-整体进度：https://github.com/apachecn/stats-thinking-21-zh/issues/1
-
-贡献指南：https://github.com/apachecn/stats-thinking-21-zh/blob/master/CONTRIBUTING.md
-
-认领：18/18，完成：10/18
-
 ## Impatient JavaScript【校对】【千字两元】
 
 贡献指南：https://github.com/apachecn/impatient-js-zh/blob/master/CONTRIBUTING.md
