@@ -10,16 +10,6 @@
 
 认领：14/14，完成：5/14
 
-## 从零开始的计算机图形学【校对】【千字三元】
-
-仓库：https://github.com/apachecn/cg-scratch-zh
-
-整体进度：https://github.com/apachecn/cg-scratch-zh/issues/1
-
-贡献指南：https://github.com/apachecn/cg-scratch-zh/blob/master/CONTRIBUTING.md
-
-认领：18/18，完成：13/18
-
 ## Impatient JavaScript【校对】【千字两元】
 
 贡献指南：https://github.com/apachecn/impatient-js-zh/blob/master/CONTRIBUTING.md
