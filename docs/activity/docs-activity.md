@@ -28,7 +28,7 @@
 
 贡献指南：https://github.com/apachecn/uiuc-cs241-notes-zh/blob/master/CONTRIBUTING.md
 
-认领：8/78，完成：8/78
+认领：18/78，完成：8/78
 
 ## OpenSUSE Leap 15.3 系统分析与调整指南【校对】【千字两元】
 
