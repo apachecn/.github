@@ -1,5 +1,31 @@
 # 权谋资料库（一）NPM、PYPI、DockerHub 备份
 
+## 守夜人总司令结构学 2022.8.14
+
+### Docker
+
+```
+docker pull apachecn0/shouyeren-zongsiling-jiegouxue
+docker run -tid -p <port>:80 apachecn0/shouyeren-zongsiling-jiegouxue
+# 访问 http://localhost:{port} 查看文档
+```
+
+### PYPI
+
+```
+pip install shouyeren-zongsiling-jiegouxue
+shouyeren-zongsiling-jiegouxue <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
+### NPM
+
+```
+npm install -g shouyeren-zongsiling-jiegouxue
+shouyeren-zongsiling-jiegouxue <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ## 暗黑交涉术
 
 ### Docker
