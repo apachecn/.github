@@ -1,5 +1,15 @@
 # ApacheCN 翻译、校对、笔记整理活动
 
+## InventWithPython 第一部分【校对】【千字两元】
+
+仓库：https://github.com/apachecn/invent-with-python-zh
+
+整体进度：https://github.com/apachecn/invent-with-python-zh/issues/1
+
+贡献指南：https://github.com/apachecn/invent-with-python-zh/blob/master/CONTRIBUTING.md
+
+认领：0/42，完成：0/42
+
 ## 命令行上的数据科学第二版【校对】【千字两元】
 
 仓库：https://github.com/apachecn/ds-cmd-line-2e-zh
