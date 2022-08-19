@@ -23,6 +23,7 @@
 +   [情感](docs/loving.md)
 +   [新知](docs/general/README.md)
     +   [两性情感秘籍（一）NPM、PYPI、DockerHub 备份](docs/general/loving-books-part1-dockerhub.md)
+    +   [两性情感秘籍（二）NPM、PYPI、DockerHub 备份](docs/general/loving-books-part2-dockerhub.md)
     +   [权谋资料库（一）NPM、PYPI、DockerHub 备份](docs/general/quanmou-dockerhub.md)
     +   [玄学资料库（一）NPM、PYPI、DockerHub 备份](docs/general/xuanxue1-dockerhub.md)
     +   [玄学资料库（二）NPM、PYPI、DockerHub 备份](docs/general/xuanxue2-dockerhub.md)
