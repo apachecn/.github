@@ -22,6 +22,7 @@
 +   [咨询](docs/map/README.md)
 +   [情感](docs/loving.md)
 +   [新知](docs/general/README.md)
+    +   [作曲作词编曲资料库 NPM、PYPI、DockerHub 备份](docs/general/music-dockerhub.md)
     +   [两性情感秘籍（一）NPM、PYPI、DockerHub 备份](docs/general/loving-books-part1-dockerhub.md)
     +   [两性情感秘籍（二）NPM、PYPI、DockerHub 备份](docs/general/loving-books-part2-dockerhub.md)
     +   [权谋资料库（一）NPM、PYPI、DockerHub 备份](docs/general/quanmou-dockerhub.md)
