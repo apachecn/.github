@@ -10,16 +10,6 @@
 
 认领：0/42，完成：0/42
 
-## 命令行上的数据科学第二版【校对】【千字两元】
-
-仓库：https://github.com/apachecn/ds-cmd-line-2e-zh
-
-整体进度：https://github.com/apachecn/ds-cmd-line-2e-zh/issues/1
-
-贡献指南：https://github.com/apachecn/ds-cmd-line-2e-zh/blob/master/CONTRIBUTING.md
-
-认领：14/14，完成：5/14
-
 ## Impatient JavaScript【校对】【千字两元】
 
 贡献指南：https://github.com/apachecn/impatient-js-zh/blob/master/CONTRIBUTING.md
