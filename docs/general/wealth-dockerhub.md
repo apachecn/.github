@@ -1,4 +1,4 @@
-# 权谋资料库（一）NPM、PYPI、DockerHub 备份
+# 财富资料库（一）NPM、PYPI、DockerHub 备份
 
 ## 守夜人总司令公众号备份 2022.8.14
 
