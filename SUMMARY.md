@@ -25,7 +25,7 @@
     +   [作曲作词编曲资料库 NPM、PYPI、DockerHub 备份](docs/general/music-dockerhub.md)
     +   [两性情感秘籍（一）NPM、PYPI、DockerHub 备份](docs/general/loving-books-part1-dockerhub.md)
     +   [两性情感秘籍（二）NPM、PYPI、DockerHub 备份](docs/general/loving-books-part2-dockerhub.md)
-    +   [权谋资料库（一）NPM、PYPI、DockerHub 备份](docs/general/quanmou-dockerhub.md)
+    +   [财富资料库（一）NPM、PYPI、DockerHub 备份](docs/general/wealth1-dockerhub.md)
     +   [财富资料库（二）NPM、PYPI、DockerHub 备份](docs/general/wealth2-dockerhub.md)
     +   [玄学资料库（一）NPM、PYPI、DockerHub 备份](docs/general/xuanxue1-dockerhub.md)
     +   [玄学资料库（二）NPM、PYPI、DockerHub 备份](docs/general/xuanxue2-dockerhub.md)
