@@ -3,6 +3,65 @@
 
 ---
 
+
+<!--announce-->
+
+## **公告**
+
+1.  本社区所有成员的个人行为均代表整个社区。无论你走到哪里，布客都是你的强大后盾！
+1.  我们的开源项目必须有中文的 README，如果是文档类项目，必须全部中文，否则将会被清理。请大家贡献项目时一定要留意。
+1.  我们始终与所有创作者站在一起，为创作自由而战。我们还会提供一切必要的技术支持。
+1.  请各位（尤其是培训班）不要妄图干扰我们的公益活动，否则我们将会使用可以动用的任何手段（包括户籍出道、舆论压制、线下制裁、玄学诅咒）给予还击！
+
+<!--endannounce-->
+
+## 目标
+
+1.  新型工作方式和生产关系
+    1.  远程办公
+    2.  量化交易策略
+    3.  数字货币的构建和挖掘
+2.  打通各个封闭系统，实现生态互联
+    1.  模拟器或加载器等应用适配技术
+    2.  网站和APP自动化操作，以及宣传引流技术
+3.  研发和普及零边际成本技术，促进传统行业的数字化改造
+    1.  用于文创的 3D 打印技术
+    1.  光伏设备
+    1.  其它零边际成本技术（例如AI创作）
+4.  普及现代社会的必要知识，和极客的生活方式及理念
+    1.  两性关系的破解
+    1.  全自动化的生活方式
+5.  努力打造创作自由、创作者友好的环境
+    1.  软件逆向，密码学，隐写
+
+ApacheCN（负责翻译和生态）五步走规划：
+
+1.  作品数量和轻国相当
+1.  镜像数量和笔趣阁相当
+1.  翻译完 Github 上所有教程，并入某个去中心化系统
+1.  整合和利用论文这样的稀疏知识来源，打造知识公链
+1.  培养众多新型、可持续的开源社区
+
+## 八大原则
+
++   性价比：在不牺牲体验的情况下，选择最便宜的，就是性价比。允许花时间省钱，只要省下来的钱按照市价高于时薪就能接受。
+
++   冗余：一、预估时间的时候，将极限时间x2就是最终时间（侯世达定律）。二、重要资料做好备份，本地至少两份在不同介质上。
+
++   标准化/流程化/自动化/智能化（IT 四化）：标准化是流程化的前提，流程化有助于外包，它是成功人士的唯一一个习惯。流程化也有助于自动化，即用机器解决问题。程序员的美德，就是能自动绝不手动。一个低级重复行为居然要手动，你好意思称自己是程序员嘛？
+
++   第一性原理：完成一个目标只有少数几个必要条件。只需要专注他们，不要总是有奇奇怪怪的无效假设。不要被乌合之众的观点/做法绑架。
+
++   热插拔：保证自己是个独立完整的系统，与别人合作但不依赖别人。优先磨练自己的议价能力而不是协作能力来增加选择面，保证自己可以随时中止合作关系，防止受限于任何人。遇到问题优先考虑终止合作并换人，而不是改善合作关系。
+
++   专注、迭代、极致：一次只专注于一件事情，允许不足，在多个迭代中反复改进，尽可能达到极致。
+
++   大数据：（1）大数据不仅仅指数字和表格本身，也包含情报，经验，教程，方法论这些非结构化数据。（2）收集数据来遍历每一种可能性，对抗不确定性，避免认知偏差，好处是无需亲身实践直接借助他人经验。（3）注意收集你暂时用不到，但是大家都需要的数据，并且改造你的存储设施来存的下更多数据。
+
++   跨界：用数字化改造一切，程序员的使命就是先消灭其它行业再消灭自身。
+
+## 语录
+
 > 渣男除了渣没其他缺点，舔狗除了舔没其他优点。
 > 
 > 既然我们做什么都会被喷，________________。
@@ -22,75 +81,6 @@
 > 如果花在开源上的时间和刷牙洗脸一样，那么可持续性就不是问题。
 >
 > 宣传应当是你的产品的不可分割的一部分，它和内容同等重要，并且可以借助技术做得更好。五分内容五分宣传，这就是五五开定律。
-
-<!--announce-->
-
-## **公告**
-
-1.  ApacheCN 翻译计划暂停 1~5 年。
-1.  我们的下一个目标是破解两性关系。如果你与我们的目标相同，请加入我们的情感交流群（915394271）。
-1.  我们始终与所有创作者站在一起，为创作自由而战。我们还会提供一切必要的技术支持。
-1.  我们全力支持[科研开源（DOCX）计划](https://mmcheng.net/docx/)。希望大家了解这个倡议，把这个倡议与自己的兴趣点结合，做点力所能及的事情。
-1.  我们的部分文档已备份到 PYPI、NPM 和 Docker，详情请查看各个文档 README 中的“下载”一节。
-1.  请关注我们的公众号“ApacheCN”，回复“教程/路线/比赛/报告/技术书/课程/轻小说/漫画/新知”来获取更多资源。
-
-<!--endannounce-->
-
-## 目标
-
-1.  普及 IT 技术，实现中文本地化
-2.  打通各个封闭系统，实现生态互联
-3.  研发和普及零边际成本技术，促进传统行业的数字化改造
-4.  普及现代社会的必要知识，和极客的生活方式及理念
-5.  努力打造创作自由、创作者友好的环境
-6.  探索新型开源社区的组织架构和操作流程，为开源的可持续发展贡献力量
-
-## 计划
-
-iBooker 未来会专注于以下技术：
-
-1.  量化交易策略
-2.  数字货币的构建和挖掘
-3.  软件逆向，密码学，隐写
-4.  网站和APP自动化操作，以及宣传引流技术
-5.  两性关系的破解
-6.  其它零边际成本技术（例如AI创作）
-
-ApacheCN（负责翻译和生态）五步走规划：
-
-1.  作品数量和轻国相当
-1.  镜像数量和笔趣阁相当
-1.  翻译完 Github 上所有教程，并入某个去中心化系统
-1.  整合和利用论文这样的稀疏知识来源，打造知识公链
-1.  培养众多新型、可持续的开源社区
-
-## 五大原则
-
-+   性价比：在不牺牲体验的情况下，选择最便宜的，就是性价比。允许花时间省钱，只要省下来的钱按照市价高于时薪就能接受。
-
-+   冗余：一、预估时间的时候，将极限时间x2就是最终时间（侯世达定律）。二、重要资料做好备份，本地至少两份。
-
-+   标准化/流程化：标准化是流程化的前提，流程化能够形成习惯，缓存在潜意识中，避免耗费大量精力来想怎么做。流程化也有助于外包，它是成功人士的唯一一个习惯。
-
-+   自动化/智能化：程序员的美德，就是能自动绝不手动。一个低级重复行为居然要手动，你好意思称自己是程序员嘛？
-
-+   第一性原理：完成一个目标只有少数几个必要条件。只需要专注他们，不要总是有奇奇怪怪的无效假设。不要被乌合之众的观点/做法绑架。
-
-## 已有的成功经验
-
-1.  拥抱区块链（IPFS），号召镜像站长来 PIN，而不是 git pull/docker pull  资源，更便于部署传播。（我们总共只有 10 几个 G 的资源，可以全球各个节点部署一份。）
-
-2.  用技术实现自动化，以及通过外包加速翻译任务的每个流程，以便有时间做维护工作。自动化到一定程度，负责人就只需要调度和纠错，实际翻译工作原由机器/外包完成。
-
-3.  尽量避免自己注册公司，而是挂靠别人的公司，如果非要注册，法人代表找个替罪羊来当。
-
-4.  编写翻译协作系统，集成上面的自动化翻译工具，更好地帮助译者脱离我们搞翻译。
-
-5.  尽可能授权更多培训机构，讲师，学习小组用我们的资源，搞成利益共同体，借壳商业化（同时通过交叉授权，得到更多资源，越滚越大）。
-
-6.  充分利用 LoreFree 和 ZLibrary 这种平台召集翻译或宣传。
-
-7.  把成品编码成抗剪裁的图片，扔进其它网站 CDN。
 
 <!--intro-->
 
@@ -147,8 +137,8 @@ ApacheCN（负责翻译和生态）五步走规划：
 
 | 时间 | 群人数  | 群名称  | 群号  | 
 | --- | --- | --- | --- |
+| 2021-05-19 | 1000 | 1062944139 | 读书会-财商系列书籍 | 
 | 2020-11-02 | 1000 | 1049896590 | 券商开户免5群 | 
-| 2020-10-07 | 2000 | 1081704341 | VIP 技术变现 | 
 | 2019-09-17 | 1000 | 713436582  | PyTorch 中文翻译组 | 
 | 2018-05-02 | 2000 | 152622464  | 大数据-2 | 
 | 2018-02-07 | 3000 | 724187166  | 面试求职 | 
@@ -162,6 +152,8 @@ ApacheCN（负责翻译和生态）五步走规划：
 以各项目协议为准。
 
 ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)。
+
+霞鹜文楷采用 [SIL 开放字体协议 1.1](https://github.com/lxgw/LxgwWenKai/blob/main/SIL_Open_Font_License_1.1.txt)。
 
 ## **捐赠列表**
 
@@ -182,8 +174,6 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 
 ## **鸣谢**
 
-<style>table img {max-width: 200px}</style>
-
 | | | |
 | --- | --- | --- |
 | ![](img/avatar/datawhale.png) | ![](img/avatar/aiyoudao.png) | ![](img/avatar/aistart.png) | 
@@ -194,8 +184,12 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 | [GirlsInAI][gia] | [DataSciComp][datascicomp] | [SeanCheney][seancheney] |
 |  ![](img/avatar/aikeji.png) | ![](img/avatar/hsury.png) | ![](img/avatar/flyai.png) |
 |  [AI 科技大本营][aikeji] | [Hsury/BiliDrive][bdrive] | [FlyAI][flyai] |
-| ![](img/avatar/tesra.png) | ![](img/avatar/zlib.png) |
-| [Tesra][tesra] | [Zlibrary][zlib] |
+| ![](img/avatar/tesra.png) | ![](img/avatar/zlib.png) | ![](img/avatar/skypool.png) |
+| [Tesra][tesra] | [Zlibrary][zlib] | [Skypool][skypool] |
+| ![](https://cdn.jsdelivr.net/npm/oicdn@0.0.1/wordArt.webp) | ![](https://tvax1.sinaimg.cn/crop.0.0.1080.1080.180/0081Jg9Qly8h0x9q2zaewj30u00u00uu.jpg?KID=imgbed,tva&Expires=1654937897&ssig=o5V72Klxkc) | ![](https://wx4.sinaimg.cn/large/002aANWlly8gz8tcs7j6lj60dw0dwaao02.jpg) |
+| [OI Wiki][oiwiki] | [小宇学长][langji] | [丁鹏][dingpeng] |
+| ![](img/avatar/run.png) | ![](https://pic2.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_xll.jpg?source=32738c0c) | ![](https://pic3.zhimg.com/v2-ba133a75917a5c871c07ec3e816e3f0d_xll.jpg?source=32738c0c) |
+| [润学][run] | [城市猎人][chengshilieren] | [剽悍生活][piaohanshenghuo] |
 
 [datawhale]: http://home.apachecn.org/img/qr/datawhale_qr.jpg
 [aiyoudao]: http://home.apachecn.org/img/qr/redstone_qr.jpg
@@ -211,18 +205,44 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 [flyai]: https://www.flyai.com/
 [tesra]: https://www.tesra.org/
 [zlib]: https://b-ok.org
+[skypool]: https://skypool.org
+[oiwiki]: https://oi-wiki.org/
+[langji]: https://weibo.com/u/7354625866
+[dingpeng]: https://s.weibo.com/weibo?q=%23%E7%9F%A5%E5%90%8D%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84%E4%BA%BA%E6%95%99%E8%82%B2%E5%84%BF%E5%AD%90%E8%A6%81%E6%B8%A3%E4%B8%80%E7%82%B9%23
+[run]: https://github.com/The-Run-Philosophy-Organization/run
+[chengshilieren]: https://www.zhihu.com/people/cheng-shi-xi-ren-6
+[piaohanshenghuo]: https://piaohanshenghuo.com/
 
 ## **友情链接**
 
 | 网站名称 | 网站地址  |
 | --- | --- |
-| 布客新知 | http://it-ebooks.flygon.net |
 | 龙哥盟   | https://flygon.net |
 | 极度空间 | http://likedge.top |
 | 阿中哥   | http://codefun007.xyz |
 | AIHub   | https://www.kuxai.com |
 | PyMiner | http://www.py2cn.com |
-| Datawhale | http://home.apachecn.org/img/qr/datawhale_qr.jpg |
-| Data Science Challenge / Competition | https://iphysresearch.github.io/DataSciComp |
 | lzhpo | http://www.liuzhaopo.top |
 | Jaybo | https://strivebo.com |
+| 跑跑后花园 | https://bbs.popkart.org/ |
+
+## 下载编译
+
+**选择其中任意一种方式就行！**
+
+```
+## 方式1: Docker ##
+docker pull apachecn0/apachecn-home
+docker run -tid -p <port>:80 apachecn0/apachecn-home
+# 访问 http://localhost:{port} 查看文档
+
+## 方式2: PYPI ##
+pip install apachecn-home
+apachecn-home <port>
+# 访问 http://localhost:{port} 查看文档
+
+## 方式3: NPM ##
+npm install -g apachecn-home
+apachecn-home <port>
+# 访问 http://localhost:{port} 查看文档
+```
