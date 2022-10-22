@@ -39,6 +39,7 @@
     +   [玄学资料库（九）NPM、PYPI、DockerHub 备份](docs/general/xuanxue9-dockerhub.md)
     +   [玄学资料库（十）NPM、PYPI、DockerHub 备份](docs/general/xuanxue10-dockerhub.md)
     +   [玄学资料库（十一）NPM、PYPI、DockerHub 备份](docs/general/xuanxue11-dockerhub.md)
+    +   [玄学资料库（十二）NPM、PYPI、DockerHub 备份](docs/general/xuanxue12-dockerhub.md)
     +   [奸的好人 1~25 NPM、PYPI、DockerHub 备份](docs/general/jiandehaoren-dockerhub.md)
     +   [得到课程整理（一）](docs/general/igetget1.md)
     +   [得到课程 CDNDrive 备份（一）](docs/general/igetget1-cdndrive.md)
