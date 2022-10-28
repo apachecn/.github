@@ -48,8 +48,6 @@
     +   [玄学资料库（十二）NPM、PYPI、DockerHub 备份](docs/general/xuanxue12-dockerhub.md)
     +   [玄学资料库（十三）NPM、PYPI、DockerHub 备份](docs/general/xuanxue13-dockerhub.md)
     +   [奸的好人 1~25 NPM、PYPI、DockerHub 备份](docs/general/jiandehaoren-dockerhub.md)
-    +   [得到课程整理（一）](docs/general/igetget1.md)
-    +   [得到课程 CDNDrive 备份（一）](docs/general/igetget1-cdndrive.md)
 +   [公开课](docs/mooc.md)
 +   [开发者](docs/dev.md)
 +   [ACGN](https://acgn.flygon.net/)
