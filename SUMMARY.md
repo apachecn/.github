@@ -31,6 +31,7 @@
     +   [财富资料库（一）NPM、PYPI、DockerHub 备份](docs/general/wealth1-dockerhub.md)
     +   [财富资料库（二）NPM、PYPI、DockerHub 备份](docs/general/wealth2-dockerhub.md)
     +   [财富资料库（三）NPM、PYPI、DockerHub 备份](docs/general/wealth3-dockerhub.md)
+    +   [财富资料库（四）NPM、PYPI、DockerHub 备份](docs/general/wealth4-dockerhub.md)
     +   [玄学资料库（一）NPM、PYPI、DockerHub 备份](docs/general/xuanxue1-dockerhub.md)
     +   [玄学资料库（二）NPM、PYPI、DockerHub 备份](docs/general/xuanxue2-dockerhub.md)
     +   [玄学资料库（三）NPM、PYPI、DockerHub 备份](docs/general/xuanxue3-dockerhub.md)
