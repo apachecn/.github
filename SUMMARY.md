@@ -16,6 +16,8 @@
     +   [英语学习公众号 DockerHub 备份（十二、十三、十四）](docs/english/english12-13-14-dockerhub.md)
     +   [英语学习公众号 DockerHub 备份（十五、十六）](docs/english/english15-16-dockerhub.md)
     +   [英语学习公众号 DockerHub 备份（十七、十八、十九）](docs/english/english17-18-19-dockerhub.md)
++   日语
+    +   [日语学习公众号 DockerHub 备份（一、二、三）](docs/japanese/japanese1-2-3-dockerhub.md)
 +   [活动](docs/activity/README.md)
     +   [翻译、校对、笔记整理活动](docs/activity/docs-activity.md)
     +   [tf - 深度学习](docs/activity/dl-tensorflow.md)
