@@ -19,6 +19,7 @@
 +   日语
     +   [日语学习公众号 DockerHub 备份（一、二、三）](docs/japanese/japanese1-2-3-dockerhub.md)
     +   [日语学习公众号 DockerHub 备份（四、五、六）](docs/japanese/japanese4-5-6-dockerhub.md)
+    +   [日语学习公众号 DockerHub 备份（七、八、九）](docs/japanese/japanese7-8-9-dockerhub.md)
     +   [日语学习公众号 DockerHub 备份（十、十一、十二）](docs/japanese/japanese10-11-12-dockerhub.md)
 +   [活动](docs/activity/README.md)
     +   [翻译、校对、笔记整理活动](docs/activity/docs-activity.md)
