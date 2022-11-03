@@ -2,9 +2,6 @@
 +   [知识树](docs/tree/README.md)
 +   [文档](docs/docs/README.md)
 +   [计算机电子书](http://it-ebooks.apachecn.org)
-+   [红丸十二条军规](docs/redpill12.md)
-+   [舆论战策略十条](docs/pub-opin-war.md)
-+   [Hack Everything 十条](docs/hack-everything-10.md)
 +   英语
     +   [英语学习公众号 Git 仓库备份（1）](docs/english/english1.md)
     +   [英语学习公众号 CDNDrive 备份（1）](docs/english/english1-cdndrive.md)
