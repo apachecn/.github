@@ -29,7 +29,9 @@
     +   [线下活动 - beijing](docs/activity/meet-beijing.md)
     +   [木头羊语录](https://github.com/apachecn/home/issues/187)
 +   [咨询](docs/map/README.md)
-+   [情感](docs/loving.md)
++   情感
+    +   [两性情感秘籍（一）NPM、PYPI、DockerHub 备份](docs/loving/loving-books-part1-dockerhub.md)
+    +   [两性情感秘籍（二）NPM、PYPI、DockerHub 备份](docs/loving/loving-books-part2-dockerhub.md)
 +   财富
     +   [财富资料库（一）NPM、PYPI、DockerHub 备份](docs/wealth/wealth1-dockerhub.md)
     +   [财富资料库（二）NPM、PYPI、DockerHub 备份](docs/wealth/wealth2-dockerhub.md)
@@ -63,8 +65,6 @@
     +   [玄学资料库（二十）NPM、PYPI、DockerHub 备份](docs/xuanxue/xuanxue20-dockerhub.md)
 +   [新知](docs/general/README.md)
     +   [作曲作词编曲资料库 NPM、PYPI、DockerHub 备份](docs/general/music-dockerhub.md)
-    +   [两性情感秘籍（一）NPM、PYPI、DockerHub 备份](docs/general/loving-books-part1-dockerhub.md)
-    +   [两性情感秘籍（二）NPM、PYPI、DockerHub 备份](docs/general/loving-books-part2-dockerhub.md)
 +   [公开课](docs/mooc.md)
 +   [开发者](docs/dev.md)
 +   [ACGN](https://acgn.flygon.net/)
