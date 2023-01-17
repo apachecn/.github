@@ -157,35 +157,35 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 * 捐赠名单: [捐赠名单.html](/docs/donate/README.md)
 * 捐赠方式: 请直接扫描绿帽二维码(微信和支付宝都行)
 
-![](img/qr/zfb_wx.png)
+![](docs/img/qr/zfb_wx.png)
 
 ## GitHub Star Rank
 
 > 全球组织排名
 
-![](img/donate/starrank_org.png)
+![](docs/img/donate/starrank_org.png)
 
 > 组织内部排名
 
-![](img/donate/starrank_github.png)
+![](docs/img/donate/starrank_github.png)
 
 ## **鸣谢**
 
 | | | |
 | --- | --- | --- |
-| ![](img/avatar/datawhale.png) | ![](img/avatar/aiyoudao.png) | ![](img/avatar/aistart.png) | 
+| ![](docs/img/avatar/datawhale.png) | ![](docs/img/avatar/aiyoudao.png) | ![](docs/img/avatar/aistart.png) | 
 | [Datawhale][datawhale] | [AI 有道][aiyoudao] | [AIStart][huanghaiguang] | 
-| ![](img/avatar/pycn.png) | ![](img/avatar/258ch.png) | ![](img/avatar/hacpai.png) |
+| ![](docs/img/avatar/pycn.png) | ![](docs/img/avatar/258ch.png) | ![](docs/img/avatar/hacpai.png) |
 | [PythonChina][pycn] | [苍海国际][258ch] | [黑客派/B3log][hacpai] |
-| ![](img/avatar/gia.png) | | ![](img/avatar/seancheney.png) |
+| ![](docs/img/avatar/gia.png) | | ![](docs/img/avatar/seancheney.png) |
 | [GirlsInAI][gia] | [DataSciComp][datascicomp] | [SeanCheney][seancheney] |
-|  ![](img/avatar/aikeji.png) | ![](img/avatar/hsury.png) | ![](img/avatar/flyai.png) |
+|  ![](docs/img/avatar/aikeji.png) | ![](docs/img/avatar/hsury.png) | ![](docs/img/avatar/flyai.png) |
 |  [AI 科技大本营][aikeji] | [Hsury/BiliDrive][bdrive] | [FlyAI][flyai] |
-| ![](img/avatar/tesra.png) | ![](img/avatar/zlib.png) | ![](img/avatar/skypool.png) |
+| ![](docs/img/avatar/tesra.png) | ![](docs/img/avatar/zlib.png) | ![](docs/img/avatar/skypool.png) |
 | [Tesra][tesra] | [Zlibrary][zlib] | [Skypool][skypool] |
 | ![](https://cdn.jsdelivr.net/npm/oicdn@0.0.1/wordArt.webp) | ![](https://tvax1.sinaimg.cn/crop.0.0.1080.1080.180/0081Jg9Qly8h0x9q2zaewj30u00u00uu.jpg?KID=imgbed,tva&Expires=1654937897&ssig=o5V72Klxkc) | ![](https://wx4.sinaimg.cn/large/002aANWlly8gz8tcs7j6lj60dw0dwaao02.jpg) |
 | [OI Wiki][oiwiki] | [小宇学长][langji] | [丁鹏][dingpeng] |
-| ![](img/avatar/run.png) | ![](https://pic2.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_xll.jpg?source=32738c0c) | ![](https://pic3.zhimg.com/v2-ba133a75917a5c871c07ec3e816e3f0d_xll.jpg?source=32738c0c) |
+| ![](docs/img/avatar/run.png) | ![](https://pic2.zhimg.com/v2-abed1a8c04700ba7d72b45195223e0ff_xll.jpg?source=32738c0c) | ![](https://pic3.zhimg.com/v2-ba133a75917a5c871c07ec3e816e3f0d_xll.jpg?source=32738c0c) |
 | [润学][run] | [城市猎人][chengshilieren] | [剽悍生活][piaohanshenghuo] |
 
 [datawhale]: http://home.apachecn.org/img/qr/datawhale_qr.jpg
