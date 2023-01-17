@@ -65,6 +65,7 @@
     +   [玄学资料库（十九）NPM、PYPI、DockerHub 备份](docs/xuanxue/xuanxue19-dockerhub.md)
     +   [玄学资料库（二十）NPM、PYPI、DockerHub 备份](docs/xuanxue/xuanxue20-dockerhub.md)
 +   [新知](docs/general/README.md)
+    +   [超星图书馆图书下载教程](docs/general/superstar-book-dl.md)
     +   [作曲作词编曲资料库 NPM、PYPI、DockerHub 备份](docs/general/music-dockerhub.md)
 +   [公开课](docs/mooc.md)
 +   [开发者](docs/dev.md)
