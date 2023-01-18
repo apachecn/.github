@@ -31,7 +31,9 @@
 +   [咨询](docs/map/README.md)
 +   情感
     +   [两性情感秘籍（一）NPM、PYPI、DockerHub 备份](docs/loving/loving-books-part1-dockerhub.md)
+    +   [两性情感秘籍（一）百度秒传下载](docs/loving/loving-books-part1-miaochuan.md)
     +   [两性情感秘籍（二）NPM、PYPI、DockerHub 备份](docs/loving/loving-books-part2-dockerhub.md)
+    +   [两性情感秘籍（二）百度秒传下载](docs/loving/loving-books-part2-miaochuan.md)
 +   财富
     +   [财富资料库（一）NPM、PYPI、DockerHub 备份](docs/wealth/wealth1-dockerhub.md)
     +   [财富资料库（二）NPM、PYPI、DockerHub 备份](docs/wealth/wealth2-dockerhub.md)
