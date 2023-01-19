@@ -25,6 +25,8 @@
                  data-ad-slot="2543897000"></ins>
           </div>
         </div>
+		<hr/>
+		<div id="gitalk-container" ></div>
     `
     var plugin = function(hook) {
       hook.afterEach(function(html) {
@@ -32,6 +34,8 @@
       })
       hook.doneEach(function() {
         (adsbygoogle = window.adsbygoogle || []).push({})
+        new Gitalk(window.$docsify.gitalk)
+            .render(window.$docsify.gitalk.container)
       })
     }
     var plugins = window.$docsify.plugins || []

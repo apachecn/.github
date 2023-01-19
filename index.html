@@ -90,6 +90,16 @@
         errorText: 'Error',
         successText: 'OK!',
       },
+      gitalk: {
+        clientID: '8bf005dd930e269fc5bb',
+        clientSecret: '0225bd9f28d69628e98af4f34672ce8289090070',
+        repo: 'home',
+        owner: 'apachecn',
+        admin: ['jiangzhonglian', 'wizardforcel'],
+        id: md5(location.pathname),
+        distractionFreeMode: false,
+        container: 'gitalk-container',
+      },
     }
   </script>
   <script src="asset/docsify.min.js"></script>
@@ -109,18 +119,5 @@
   <script src="asset/gitalk.min.js"></script>
   <script src="asset/gitalk/gitalk.min.js"></script>
   <script src="asset/gitalk/md5.min.js"></script>
-  <div id="gitalk-container" ></div>
-  <script type="text/javascript">
-      var gitalk = new Gitalk({
-      clientID: '8bf005dd930e269fc5bb',
-      clientSecret: '0225bd9f28d69628e98af4f34672ce8289090070',
-      repo: 'home',
-      owner: 'apachecn',
-      admin: ['jiangzhonglian', 'wizardforcel'],
-      id: md5(location.pathname),
-      distractionFreeMode: false
-      })
-      gitalk.render('gitalk-container')
-  </script>
 </body>
 </html>
