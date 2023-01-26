@@ -44,6 +44,7 @@
     +   [财富资料库（七）NPM、PYPI、DockerHub 备份](docs/wealth/wealth7-dockerhub.md)
     +   [生财有术知识星球整理（一）NPM、PYPI、DockerHub 备份](docs/wealth/scys1-dockerhub.md)
     +   [奸的好人 1~25 NPM、PYPI、DockerHub 备份](docs/wealth/jiandehaoren-dockerhub.md)
+    +   [上海交大安泰经管课件 NPM、PYPI、DockerHub 备份](docs/wealth/sjtu-econmgt-dockerhub.md)
 +   玄学
     +   [玄学资料库 1~10 百度秒传下载](docs/xuanxue/xuanxue1to10-miaochuan.md)
     +   [玄学资料库 11~20 百度秒传下载](docs/xuanxue/xuanxue11to20-miaochuan.md)
