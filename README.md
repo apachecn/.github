@@ -161,7 +161,7 @@ ApacheCN 账号下没有协议的项目，一律视为 [CC BY-NC-SA 4.0](https:/
 * 捐赠名单: [捐赠名单.html](/docs/donate/README.md)
 * 捐赠方式: 请直接扫描绿帽二维码(微信和支付宝都行)
 
-![](docs/img/qr/zfb_wx.png)
+<!-- ![](docs/img/qr/zfb_wx.png) -->
 
 ## GitHub Star Rank
 
