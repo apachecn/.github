@@ -1,6 +1,6 @@
 # 超星图书馆图书下载教程
 
-1.  [（可选）了解秒传代码是什么](https://home.apachecn.org/#/docs/miaochuan)
+1.  [（可选）了解秒传代码是什么](https://www.apachecn.org/#/docs/miaochuan)
 1.  [安装油猴插件](https://www.tampermonkey.net/)
 1.  [安装秒传脚本](https://greasyfork.org/zh-CN/scripts/424574)
 1.  [安装文献互助脚本](https://greasyfork.org/zh-CN/scripts/435569)

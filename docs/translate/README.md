@@ -98,7 +98,7 @@
 
 ## 长期维护
 
-+   【校对】[AI 综述翻译计划](https://home.apachecn.org/docs/#ai_1)
++   【校对】[AI 综述翻译计划](https://www.apachecn.org/docs/#ai_1)
 
     在 [issues](https://github.com/apachecn/misc-docs-zh/issues/1) 中领取任务
 

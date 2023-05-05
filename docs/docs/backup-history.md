@@ -10,7 +10,7 @@
 	
 	2022 年秘义之光管理层发生矛盾，QQ群被拆，大量资料流离失所。我们当机立断重新扫描或收集资料，对其优化并备份
 	
-	<https://home.apachecn.org/#/docs/xuanxue/xuanxue1to10-miaochuan>
+	<https://www.apachecn.org/#/docs/xuanxue/xuanxue1to10-miaochuan>
 	
 3.  GiantessNight
 	

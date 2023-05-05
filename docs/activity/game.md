@@ -31,7 +31,7 @@ ApacheCN 与 FlyAI 合作，为大家提供了一波可以用 GPU 打比赛的�
 
 可以参考 ApacheCN 制作的以下学习资源。
 
-+   [ApacheCN 数据科学/人工智能/机器学习学习资源](http://home.apachecn.org/translate/)
++   [ApacheCN 数据科学/人工智能/机器学习学习资源](http://www.apachecn.org/translate/)
 +   [AILearning - 机器学习实战](https://github.com/apachecn/AiLearning)
 +   [Sklearn 与 TensorFlow 机器学习实用指南](https://github.com/apachecn/hands-on-ml-zh)
 +   [Machine Learning Mastery 博客文章翻译](https://github.com/apachecn/ml-mastery-zh)
