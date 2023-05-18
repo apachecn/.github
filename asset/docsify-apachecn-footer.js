@@ -18,6 +18,7 @@
         <p><span id="cnzz_stat_icon_${cnzzId}"></span></p>
         ${icpText}
         <!-- <p><a href="https://get.brightdata.com/apachecn" target="_blank"><img src="{{ '/assets/images/partnerstack.gif' | url }}" /></a><p> -->
+        <div class="wwads-cn wwads-horizontal" data-id="206" style="max-width:680px"></div>
         <div style="text-align:center;margin:0 0 10.5px;">
           <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3565452474788507" crossorigin="anonymous"></script>
           <!-- ApacheCNWide -->

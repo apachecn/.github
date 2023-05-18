@@ -54,7 +54,7 @@
 - 微信/QQ: 529815144 【片刻】
 - 【推荐: 建议加QQ，再邀请微信群（包括: 财务微信群、正经微信群、不正经微信群） - 目前已经封了8个微信群】
 - 其中为了防止被封，有TG群: <https://t.me/dafeiyang> 【本群不维护，封群后提供新QQ群的位置】
-- 【欢迎白嫖】羊村 ChatGPT (没套路，无需注册，免费使用): <https://ailake.top/chat>
+- 【欢迎白嫖】羊村 ChatGPT (没套路，无需注册，免费使用，建议用Chrome浏览器): <https://ailake.top/chat>
 
 ![](docs/img/weixin/ChatGPT.jpg)
 
