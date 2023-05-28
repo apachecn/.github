@@ -12,20 +12,20 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Mobirise v5.8.12, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href={{ "assets/images/screenshot.png"|url }} type="image/x-icon">
+  <link rel="shortcut icon" href="{{ "assets/images/screenshot.png"|url }}" type="image/x-icon">
   <meta name="description" content="">
 
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
-  <link rel="stylesheet" href={{ "assets/web/assets/mobirise-icons2/mobirise2.css"|url }} >
-  <link rel="stylesheet" href={{ "assets/bootstrap/css/bootstrap.min.css"|url }} >
-  <link rel="stylesheet" href={{ "assets/bootstrap/css/bootstrap-grid.min.css"|url }} >
-  <link rel="stylesheet" href={{ "assets/bootstrap/css/bootstrap-reboot.min.css"|url }} >
-  <link rel="stylesheet" href={{ "assets/dropdown/css/style.css"|url }} >
-  <link rel="stylesheet" href={{ "assets/socicon/css/styles.css"|url }} >
-  <link rel="stylesheet" href={{ "assets/theme/css/style.css"|url }} >
+  <link rel="stylesheet" href="{{ "assets/web/assets/mobirise-icons2/mobirise2.css"|url }}" >
+  <link rel="stylesheet" href="{{ "assets/bootstrap/css/bootstrap.min.css"|url }}" >
+  <link rel="stylesheet" href="{{ "assets/bootstrap/css/bootstrap-grid.min.css"|url }}" >
+  <link rel="stylesheet" href="{{ "assets/bootstrap/css/bootstrap-reboot.min.css"|url }}" >
+  <link rel="stylesheet" href="{{ "assets/dropdown/css/style.css"|url }}" >
+  <link rel="stylesheet" href="{{ "assets/socicon/css/styles.css"|url }}" >
+  <link rel="stylesheet" href="{{ "assets/theme/css/style.css"|url }}" >
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,700;1,400;1,700&display=swap&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,700;1,400;1,700&display=swap&display=swap"></noscript>
-  <link rel="preload" as="style" href={{ "assets/mobirise/css/mbr-additional.css"|url }} ><link rel="stylesheet" href={{ "assets/mobirise/css/mbr-additional.css"|url }}  type="text/css">
+  <link rel="preload" as="style" href="{{ "assets/mobirise/css/mbr-additional.css"|url }}" ><link rel="stylesheet" href="{{ "assets/mobirise/css/mbr-additional.css"|url }}"  type="text/css">
 
   <!-- google webmaster -->
   <meta name="google-site-verification" content="pyo9N70ZWyh8JB43bIu633mhxesJ1IcwWCZlM3jUfFo" />
@@ -107,6 +107,12 @@
   {%- block footer %}
   {%- include "footer.html" %}
   {% endblock %}
+
+  <script src="{{ "assets/bootstrap/js/bootstrap.bundle.min.js"|url }}" ></script>
+  <script src="{{ "assets/smoothscroll/smooth-scroll.js"|url }}" ></script>
+  <script src="{{ "assets/ytplayer/index.js"|url }}" ></script>
+  <script src="{{ "assets/dropdown/js/navbar-dropdown.js"|url }}" ></script>
+  <script src="{{ "assets/theme/js/script.js"|url }}" ></script>
   <!--
   MkDocs version      : {{ mkdocs_version }}
   Docs Build Date UTC : {{ build_date_utc }}

@@ -688,6 +688,9 @@ a {
 .cid-sFCw1qGFAI .navbar-dropdown {
   position: relative !important;
 }
+.cid-sFCw1qGFAI .navbar-dropdown {
+  position: absolute !important;
+}
 .cid-sFCw1qGFAI .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -783,7 +786,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  position: absolute;
   background: #fafafa;
 }
 .cid-sFCw1qGFAI .navbar.opened {
@@ -1197,6 +1200,9 @@ a {
 .cid-sFCw1qGFAI .navbar-dropdown {
   position: relative !important;
 }
+.cid-sFCw1qGFAI .navbar-dropdown {
+  position: absolute !important;
+}
 .cid-sFCw1qGFAI .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -1292,7 +1298,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  position: absolute;
   background: #fafafa;
 }
 .cid-sFCw1qGFAI .navbar.opened {
@@ -1616,6 +1622,9 @@ a {
 .cid-sFCw1qGFAI .navbar-dropdown {
   position: relative !important;
 }
+.cid-sFCw1qGFAI .navbar-dropdown {
+  position: absolute !important;
+}
 .cid-sFCw1qGFAI .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -1711,7 +1720,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  position: absolute;
   background: #fafafa;
 }
 .cid-sFCw1qGFAI .navbar.opened {
@@ -2040,6 +2049,9 @@ a {
 .cid-sFCw1qGFAI .navbar-dropdown {
   position: relative !important;
 }
+.cid-sFCw1qGFAI .navbar-dropdown {
+  position: absolute !important;
+}
 .cid-sFCw1qGFAI .dropdown-item:before {
   font-family: Moririse2 !important;
   content: "\e966";
@@ -2135,7 +2147,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  position: absolute;
   background: #fafafa;
 }
 .cid-sFCw1qGFAI .navbar.opened {
