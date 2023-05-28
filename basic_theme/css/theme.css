@@ -1,0 +1,8 @@
+body {
+    margin: 1em;
+}
+
+.active a {
+    color: red;
+    font-weight: bold;
+}

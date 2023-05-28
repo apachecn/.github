@@ -1,0 +1,13 @@
+site_name: ApacheCN
+site_url: https://apachecn.org
+repo_url: https://github.com/apachecn/home
+
+theme:
+    name: null
+    custom_dir: basic_theme
+
+nav:
+    - Home: index.md
+    - About: about.md
+    - Cooperate: cooperate.md
+    - BBS: bbs.md

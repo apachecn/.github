@@ -1,0 +1,115 @@
+<!--
+  This Basic theme serves as an example for how to create other
+  themes by demonstrating the features with minimal HTML and CSS.
+  Comments like this will be through the code to explain briefly
+  what each feature is and point you to the MkDocs documentation
+  to find out more.
+-->
+<!DOCTYPE html>
+<head>
+  <!-- Site made with Mobirise Website Builder v5.8.12, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v5.8.12, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href={{ "assets/images/screenshot.png"|url }} type="image/x-icon">
+  <meta name="description" content="">
+
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
+  <link rel="stylesheet" href={{ "assets/web/assets/mobirise-icons2/mobirise2.css"|url }} >
+  <link rel="stylesheet" href={{ "assets/bootstrap/css/bootstrap.min.css"|url }} >
+  <link rel="stylesheet" href={{ "assets/bootstrap/css/bootstrap-grid.min.css"|url }} >
+  <link rel="stylesheet" href={{ "assets/bootstrap/css/bootstrap-reboot.min.css"|url }} >
+  <link rel="stylesheet" href={{ "assets/dropdown/css/style.css"|url }} >
+  <link rel="stylesheet" href={{ "assets/socicon/css/styles.css"|url }} >
+  <link rel="stylesheet" href={{ "assets/theme/css/style.css"|url }} >
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,700;1,400;1,700&display=swap&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,700;1,400;1,700&display=swap&display=swap"></noscript>
+  <link rel="preload" as="style" href={{ "assets/mobirise/css/mbr-additional.css"|url }} ><link rel="stylesheet" href={{ "assets/mobirise/css/mbr-additional.css"|url }}  type="text/css">
+
+  <!-- google webmaster -->
+  <meta name="google-site-verification" content="pyo9N70ZWyh8JB43bIu633mhxesJ1IcwWCZlM3jUfFo" />
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-8DP4GX97XY"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-8DP4GX97XY');
+  </script>
+
+  <!--
+    You can include external assets of course, but be aware that it means the
+    documentation may not work well offline.
+  -->
+  <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css">
+
+  <link rel="stylesheet" href="{{ "css/theme.css"|url }}">
+
+
+  <!--
+    extra_ess contains paths to CSS files in the users
+    documentation directory or a list of CSS files defined in
+    their mkdocs.yml.
+
+    http://www.mkdocs.org/user-guide/configuration/#extra_css
+  -->
+  {% for path in config.extra_css %}
+    <link href="{{ path|url }}" rel="stylesheet">
+  {% endfor %}
+
+  <!--
+    To include static assets from our theme, just add
+    {{ base_url }} beforehand which will be the relative path to
+    the root of the documentation.
+  -->
+  <script
+  src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+  integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+  crossorigin="anonymous"></script>
+  <script src="{{ "js/theme.js"|url }}"></script>
+
+  {% block extrahead %}
+  {% endblock %}
+
+  <!--
+    extra_javascript contains paths to JavaScript files in the
+    users documentation directory or a list of JavaScript files
+    defined in their mkdocs.yml.
+
+    http://www.mkdocs.org/user-guide/configuration/#extra_javascript
+  -->
+  {% for path in config.extra_javascript %}
+    <script src="{{ path|url }}"></script>
+  {% endfor %}
+</head>
+
+<body>
+  <!-- <hr/> -->
+  {% block header %}
+  {% include "header.html" %}
+  {% endblock %}
+
+  <!-- <hr/> -->
+  <div style="width:{% if page.is_homepage %} 100% {% endif %} 90%;margin: 0 auto;">
+    {% block content %}
+    {% if page is none %}
+      {% include '404.html' %}
+    {% else %}
+      <!-- Existing content block code -->
+      {{ page.content }}
+    {% endif %}
+    {% endblock %}
+  </div>
+
+  <!-- <hr/> -->
+  {%- block footer %}
+  {%- include "footer.html" %}
+  {% endblock %}
+  <!--
+  MkDocs version      : {{ mkdocs_version }}
+  Docs Build Date UTC : {{ build_date_utc }}
+  -->
+</body>
+</html>
