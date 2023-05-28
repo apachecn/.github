@@ -64,7 +64,7 @@
                         </div>
                     </div>
                     <div class="text-box">
-                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>养老方向</strong></h4>
+                        <h4 class="icon-title card-title mbr-black mbr-fonts-style display-7"><strong>退休方向</strong></h4>
                         <h5 class="mbr-text mbr-black mbr-fonts-style display-4">脱离职场，你规划什么样的人生</h5>
                     </div>
                 </div>
