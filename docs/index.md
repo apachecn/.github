@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <div class="col-12 col-md-4 image-wrapper">
-                <img src="assets/images/screenshot.png" alt="Mobirise Website Builder">
+                <img src="assets/images/weixin_gzh.png" alt="Mobirise Website Builder">
             </div>
             <div class="col-12 col-md">
                 <div class="text-wrapper">
