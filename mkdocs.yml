@@ -1,5 +1,5 @@
 site_name: ApacheCN
-site_url: https://apachecn.org
+site_url: https://www.apachecn.org
 repo_url: https://github.com/apachecn/home
 
 theme:
@@ -11,3 +11,4 @@ nav:
     - About: about.md
     - Cooperate: cooperate.md
     - BBS: bbs.md
+    - 404: 404.md
