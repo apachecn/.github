@@ -1,8 +1,13 @@
 <br />
+<br />
+<br />
+<br />
+<br />
+
 ## 商业合作
 
 - 微信/QQ联系: 529815144 【片刻】
-- 邮箱联系: <a href='mailto:apachecn@163.com'><font color="red">apachecn@163.com</font></a>
+- 注: 广告位合作(物美价廉)，邮箱联系: <a href='mailto:apachecn@163.com'><font color="red">apachecn@163.com</font></a>
 
 ## 交流方式
 
@@ -55,13 +60,13 @@ table.tftable td {font-size:12px;border-width: 1px;padding: 8px;border-style: so
     <td>2021-05-19</td>
     <td>1000</td>
     <td>1062944139</td>
-    <td>财富书籍 - 资料群（建议加微信群交流）</td>
+    <td>金融 - 文库书籍群1（交流：建议加微信群）</td>
     </tr>
     <tr>
     <td>2020-11-02</td>
     <td>1000</td>
-    <td><s>1049896590<s></td>
-    <td>暂停：财富资料备份群（备份群）</td>
+    <td>1049896590</td>
+    <td>金融 - 文库书籍群2（交流：建议加微信群）</td>
     </tr>
     <tr>
     <td>2022-10-23</td>
