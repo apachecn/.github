@@ -1,7 +1,7 @@
 ## Hi, 帽友们 👋
 
 - 组织首页: <https://www.apachecn.org>
-- 组织翻译: <https://docs.apachecn.org>
+- 组织资源: <https://docs.apachecn.org>
 - 组织公告: <https://github.com/orgs/apachecn/discussions/204>
 - 组织成员: <https://github.com/orgs/apachecn/discussions/244>
 
