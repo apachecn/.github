@@ -10,7 +10,7 @@
                     <p class="mbr-text mbr-fonts-style display-7">
                         由 iBooker布客团队 建立的公益性文档和教程翻译项目</p>
                     <div class="mbr-section-btn mt-3"><a class="btn btn-secondary display-4" href="https://docs.apachecn.org">从哪里来</a>
-                        <a class="btn btn-primary display-4" href="https://chat.ibooker.org.cn/">到哪里去</a></div>
+                        <a class="btn btn-primary display-4" href="https://al.ibooker.org.cn/">到哪里去</a></div>
                 </div>
             </div>
         </div>

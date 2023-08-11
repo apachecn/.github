@@ -4,6 +4,7 @@
 - 组织资源: <https://docs.apachecn.org>
 - 组织公告: <https://github.com/orgs/apachecn/discussions/204>
 - 组织成员: <https://github.com/orgs/apachecn/discussions/244>
+- AiLake:  支持 AI画图 + AI助手 <https://al.ibooker.org.cn>
 
 <!--
 
