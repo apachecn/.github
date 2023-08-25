@@ -1,8 +1,27 @@
 body {
-    margin: 1em;
+  margin: 1em;
 }
 
 .active a {
-    color: red;
-    font-weight: bold;
+  color: red;
+  font-weight: bold;
+}
+
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 20%;
+  max-height: 50%;
+}
+.popup img {
+  max-width: 100%;
+  max-height: 100%;
+}
+.close-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
 }
