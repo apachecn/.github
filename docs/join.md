@@ -58,8 +58,8 @@ table.tftable td {font-size:12px;border-width: 1px;padding: 8px;border-style: so
 </thead>
 <tbody>
     <tr>
-    <td>2023-08-5</td>
-    <td>500</td>
+    <td>2023-08-25</td>
+    <td>10000</td>
     <td><a href="https://pd.qq.com/s/h1mrhjheg" target="_blank">频道ID: h211491i00
 </a></td>
     <td><a href="#" onclick="openPopup('/assets/images/pindao.jpg');">【频道】大肥羊学校</a></td>
