@@ -67,8 +67,8 @@ table.tftable td {font-size:12px;border-width: 1px;padding: 8px;border-style: so
     <tr>
     <td>2023-05-01</td>
     <td>500</td>
-    <td>529815144[微信邀请]</td>
-    <td>ChatGPT(1~6群) 免费白嫖</td>
+    <td>微信号：529815144 [推荐 - 加微信交流]</td>
+    <td>正经群、金融群、ChatGPT白嫖群</td>
     </tr>
     <tr>
     <td>2021-05-19</td>
