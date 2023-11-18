@@ -2,8 +2,8 @@
 
 - 组织首页: <https://www.apachecn.org>
 - 组织资源: <https://docs.apachecn.org>
-- 组织BBS: <https://bbs.apachecn.org/> | 帽友名人榜
-- 组织加群: <https://www.apachecn.org/join> | 微信群更好玩 
+- 组织BBS: <https://bbs.apachecn.org> | 帽友名人榜「🔥」
+- 组织加群: <https://www.apachecn.org/join> | 微信群热闹上瘾 
 - 组织频道: <https://pd.qq.com/s/h1mrhjheg> | 大肥羊学校（测试）
 - 组织公告: <https://github.com/orgs/apachecn/discussions/204>
 - 组织成员: <https://github.com/orgs/apachecn/discussions/244>
