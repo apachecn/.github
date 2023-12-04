@@ -67,7 +67,7 @@ table.tftable td {font-size:12px;border-width: 1px;padding: 8px;border-style: so
     <tr>
     <td>2023-05-01</td>
     <td>500</td>
-    <td>微信号：529815144 [推荐 - 加微信交流]</td>
+    <td>微信号：529815144 | [<font color="red">🔥主推</font> - 微信交流]</td>
     <td>正经群、金融群、ChatGPT白嫖群</td>
     </tr>
     <tr>
@@ -89,16 +89,10 @@ table.tftable td {font-size:12px;border-width: 1px;padding: 8px;border-style: so
     <td>金融 - 文库书籍群3</td>
     </tr>
     <tr>
-    <td>2017-09-01</td>
-    <td>2000</td>
-    <td>915394271</td>
-    <td>职场装逼群 3</td>
-    </tr>
-    <tr>
     <td>2019-09-17</td>
-    <td>1000</td>
-    <td><a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=5u_aAU-YlY3fH-m8meXTJzBEo2boQIUs&jump_from=webapi&authKey=CVZcReMt/vKdTXZBQ8ly+jWncXiSzzWOlrx5hybX5pSrKu6s0fvGX54+vHHlgYNt">713436582</a></td>
-    <td>IT中文翻译组</td>
+    <td>2000</td>
+    <td><a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=5u_aAU-YlY3fH-m8meXTJzBEo2boQIUs&jump_from=webapi&authKey=CVZcReMt/vKdTXZBQ8ly+jWncXiSzzWOlrx5hybX5pSrKu6s0fvGX54+vHHlgYNt"><font color="red">713436582</font></a></td>
+    <td>【羊村】帽友正经群 | <font color="red">🔥主推</font></td>
     </tr>
     <tr>
     <td>2018-05-02</td>
@@ -117,6 +111,12 @@ table.tftable td {font-size:12px;border-width: 1px;padding: 8px;border-style: so
     <td></td>
     <td></td>
     <td></td>
+    </tr>
+    <tr>
+    <td>2017-09-01</td>
+    <td>2000</td>
+    <td><s>915394271<s>（2023-12-01 封）</td>
+    <td>3.职场装逼群</td>
     </tr>
     <tr>
     <td>2023-01-01</td>
