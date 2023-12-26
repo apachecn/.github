@@ -86,13 +86,13 @@ table.tftable td {font-size:12px;border-width: 1px;padding: 8px;border-style: so
     <td>2022-10-23</td>
     <td>2000</td>
     <td>979932878</td>
-    <td>金融 - 文库书籍群3</td>
+    <td>【羊村】帽友摸鱼 5群</td>
     </tr>
     <tr>
     <td>2019-09-17</td>
     <td>2000</td>
     <td><a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=5u_aAU-YlY3fH-m8meXTJzBEo2boQIUs&jump_from=webapi&authKey=CVZcReMt/vKdTXZBQ8ly+jWncXiSzzWOlrx5hybX5pSrKu6s0fvGX54+vHHlgYNt"><font color="red">713436582</font></a></td>
-    <td>【羊村】帽友正经群 | <font color="red">🔥主推</font></td>
+    <td>【羊村】帽友翻译群 | <font color="red">🔥主推</font></td>
     </tr>
     <tr>
     <td>2018-05-02</td>
