@@ -137,5 +137,28 @@
   MkDocs version      : {{ mkdocs_version }}
   Docs Build Date UTC : {{ build_date_utc }}
   -->
+
+  <script>
+    function adsCallbackWideScreen(data) {
+        document.getElementById('ads_banner_WideScreen').innerHTML = data.html;
+    }
+
+    // Create a script element to load the JSONP file
+    var script = document.createElement('script');
+    script.src = 'https://data.dafeiyang.cn/ads/banner_WideScreen.jsonp?callback=adsCallbackWideScreen';
+    document.body.appendChild(script);
+  </script>
+
+  <script>
+    function adsCallbackNarrowScreen(data) {
+        document.getElementById('ads_banner_NarrowScreen').innerHTML = data.html;
+    }
+
+    // Create a script element to load the JSONP file
+    var script = document.createElement('script');
+    script.src = 'https://data.dafeiyang.cn/ads/banner_NarrowScreen.jsonp?callback=adsCallbackNarrowScreen';
+    document.body.appendChild(script);
+  </script>
+
 </body>
 </html>
