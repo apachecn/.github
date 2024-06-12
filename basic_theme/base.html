@@ -139,24 +139,24 @@
   -->
 
   <script>
-    function adsCallbackWideScreen(data) {
-        document.getElementById('ads_banner_WideScreen').innerHTML = data.html;
+    function cooCallbackWideScreen(data) {
+        document.getElementById('coo_banner_WideScreen').innerHTML = data.html;
     }
 
     // Create a script element to load the JSONP file
     var script = document.createElement('script');
-    script.src = 'https://data.dafeiyang.cn/ads/banner_WideScreen.jsonp?callback=adsCallbackWideScreen';
+    script.src = 'https://data.dafeiyang.cn/cooperate/banner_WideScreen.jsonp?callback=cooCallbackWideScreen';
     document.body.appendChild(script);
   </script>
 
   <script>
-    function adsCallbackNarrowScreen(data) {
-        document.getElementById('ads_banner_NarrowScreen').innerHTML = data.html;
+    function cooCallbackNarrowScreen(data) {
+        document.getElementById('coo_banner_NarrowScreen').innerHTML = data.html;
     }
 
     // Create a script element to load the JSONP file
     var script = document.createElement('script');
-    script.src = 'https://data.dafeiyang.cn/ads/banner_NarrowScreen.jsonp?callback=adsCallbackNarrowScreen';
+    script.src = 'https://data.dafeiyang.cn/cooperate/banner_NarrowScreen.jsonp?callback=cooCallbackNarrowScreen';
     document.body.appendChild(script);
   </script>
 
