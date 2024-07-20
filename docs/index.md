@@ -18,7 +18,7 @@
 </section>
 
 <!-- This div will be populated with the ad content -->
-<div id="coo_banner_WideScreen" style="min-height: 150px;"></div>
+<div id="coo_WideScreen_banner" style="min-height: 150px;"></div>
 
 <section data-bs-version="5.1" class="features23 cid-sFAyHxWQ1N" id="features24-20">
     <div class="container">

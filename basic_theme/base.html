@@ -12,21 +12,21 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Mobirise v5.8.12, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-  <link rel="shortcut icon" href="{{ "assets/images/screenshot.png"|url }}" type="image/x-icon">
+  <link rel="shortcut icon" href="{{ 'assets/images/screenshot.png' |url }}" type="image/x-icon">
   <meta name="description" content="ApacheCN - 可能是东半球最大的 AI 社区">
   <meta name="keywords" content="数据科学,数据分析,机器学习,人工智能,深度学习,推荐系统,NLP,CV,回归,分类,聚类,降维,朴素贝叶斯,决策树,SVM,KMeans,PCA,SVD,Logistic,DNN,CNN,LSTM,RNN,GAN,自编码器,sklearn,scikit-learn,TensorFlow,PyTorch,Python,NumPy,Matplotlib,Pandas">
   <meta name="author" content="ApacheCN">
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
-  <link rel="stylesheet" href="{{ "assets/web/assets/mobirise-icons2/mobirise2.css"|url }}" >
-  <link rel="stylesheet" href="{{ "assets/bootstrap/css/bootstrap.min.css"|url }}" >
-  <link rel="stylesheet" href="{{ "assets/bootstrap/css/bootstrap-grid.min.css"|url }}" >
-  <link rel="stylesheet" href="{{ "assets/bootstrap/css/bootstrap-reboot.min.css"|url }}" >
-  <link rel="stylesheet" href="{{ "assets/dropdown/css/style.css"|url }}" >
-  <link rel="stylesheet" href="{{ "assets/socicon/css/styles.css"|url }}" >
-  <link rel="stylesheet" href="{{ "assets/theme/css/style.css"|url }}" >
+  <link rel="stylesheet" href="{{ 'assets/web/assets/mobirise-icons2/mobirise2.css' |url }}" >
+  <link rel="stylesheet" href="{{ 'assets/bootstrap/css/bootstrap.min.css' |url }}" >
+  <link rel="stylesheet" href="{{ 'assets/bootstrap/css/bootstrap-grid.min.css' |url }}" >
+  <link rel="stylesheet" href="{{ 'assets/bootstrap/css/bootstrap-reboot.min.css' |url }}" >
+  <link rel="stylesheet" href="{{ 'assets/dropdown/css/style.css' |url }}" >
+  <link rel="stylesheet" href="{{ 'assets/socicon/css/styles.css' |url }}" >
+  <link rel="stylesheet" href="{{ 'assets/theme/css/style.css' |url }}" >
   <link rel="preload" href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,700;1,400;1,700&display=swap&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,700;1,400;1,700&display=swap&display=swap"></noscript>
-  <link rel="preload" as="style" href="{{ "assets/mobirise/css/mbr-additional.css"|url }}" ><link rel="stylesheet" href="{{ "assets/mobirise/css/mbr-additional.css"|url }}"  type="text/css">
+  <link rel="preload" as="style" href="{{ 'assets/mobirise/css/mbr-additional.css' |url }}" ><link rel="stylesheet" href="{{ 'assets/mobirise/css/mbr-additional.css' |url }}"  type="text/css">
 
   <!-- google ads -->
   <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3565452474788507" crossorigin="anonymous"></script> -->
@@ -65,9 +65,8 @@
   -->
   <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css">
 
-  <link rel="stylesheet" href="{{ "css/theme.css"|url }}">
-
-
+  <link rel="stylesheet" href="{{ 'css/theme.css' |url }}">
+  <link rel="stylesheet" href="{{ 'css/marquee.css' |url }}">
   <!--
     extra_ess contains paths to CSS files in the users
     documentation directory or a list of CSS files defined in
@@ -88,7 +87,7 @@
   src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
   integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
   crossorigin="anonymous"></script>
-  <script src="{{ "js/theme.js"|url }}"></script>
+  <script src="{{ 'js/theme.js' |url }}"></script>
 
   {% block extrahead %}
   {% endblock %}
@@ -128,37 +127,15 @@
   {%- include "footer.html" %}
   {% endblock %}
 
-  <script src="{{ "assets/bootstrap/js/bootstrap.bundle.min.js"|url }}" ></script>
-  <script src="{{ "assets/smoothscroll/smooth-scroll.js"|url }}" ></script>
-  <script src="{{ "assets/ytplayer/index.js"|url }}" ></script>
-  <script src="{{ "assets/dropdown/js/navbar-dropdown.js"|url }}" ></script>
-  <script src="{{ "assets/theme/js/script.js"|url }}" ></script>
+  <script src="{{ 'assets/bootstrap/js/bootstrap.bundle.min.js' |url }}" ></script>
+  <script src="{{ 'assets/smoothscroll/smooth-scroll.js' |url }}" ></script>
+  <script src="{{ 'assets/ytplayer/index.js' |url }}" ></script>
+  <script src="{{ 'assets/dropdown/js/navbar-dropdown.js' |url }}" ></script>
+  <script src="{{ 'assets/theme/js/script.js' |url }}" ></script>
+  <script src="{{ 'js/marquee.js' |url }}" ></script>
   <!--
   MkDocs version      : {{ mkdocs_version }}
   Docs Build Date UTC : {{ build_date_utc }}
   -->
-
-  <script>
-    function cooCallbackWideScreen(data) {
-        document.getElementById('coo_banner_WideScreen').innerHTML = data.html;
-    }
-
-    // Create a script element to load the JSONP file
-    var script = document.createElement('script');
-    script.src = 'https://data.dafeiyang.cn/coo/banner_WideScreen.jsonp?callback=cooCallbackWideScreen';
-    document.body.appendChild(script);
-  </script>
-
-  <script>
-    function cooCallbackNarrowScreen(data) {
-        document.getElementById('coo_banner_NarrowScreen').innerHTML = data.html;
-    }
-
-    // Create a script element to load the JSONP file
-    var script = document.createElement('script');
-    script.src = 'https://data.dafeiyang.cn/coo/banner_NarrowScreen.jsonp?callback=cooCallbackNarrowScreen';
-    document.body.appendChild(script);
-  </script>
-
 </body>
 </html>

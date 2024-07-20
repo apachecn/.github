@@ -1,0 +1,12 @@
+/* 滚动广告 */
+.marquee {
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.twemoji.mastodon {
+  --md-icon-size: 1.125em;
+  display: inline-flex;
+  height: var(--md-icon-size);
+  vertical-align: text-top;
+}
