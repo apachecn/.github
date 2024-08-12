@@ -7,7 +7,7 @@
 - 组织频道: <https://pd.qq.com/s/h1mrhjheg> | 大肥羊学校（测试）
 - 组织公告: <https://github.com/orgs/apachecn/discussions/204>
 - 组织成员: <https://github.com/orgs/apachecn/discussions/244>
-- AILake: [免费白嫖]支持 AI画图 + AI助手 <https://al.ibooker.org.cn>
+- AILake: [免费白嫖]支持 AI画图 + AI助手 <https://hot.ailake.cn>
 
 <!--
 
