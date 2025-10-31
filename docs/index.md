@@ -9,8 +9,8 @@
                     <h1 class="mbr-section-title mbr-fonts-style mb-3 display-2"><strong>ApacheCN&nbsp;</strong></h1>
                     <p class="mbr-text mbr-fonts-style display-7">
                         由 iBooker布客团队 建立的公益性文档和教程翻译项目</p>
-                    <div class="mbr-section-btn mt-3"><a class="btn btn-secondary display-4" href="https://docs.apachecn.org">从哪里来</a>
-                        <a class="btn btn-primary display-4" href="https://hot.ailake.cn/">到哪里去</a></div>
+                    <div class="mbr-section-btn mt-3"><a class="btn btn-secondary display-4" href="https://docs.apachecn.org">学习资料</a>
+                        <a class="btn btn-primary display-4" href="https://xiaren.ink">娱乐放松</a></div>
                 </div>
             </div>
         </div>
