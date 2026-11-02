@@ -1,6 +1,6 @@
 ## Hi, 帽友们 👋
 
-- 组织资源: <https://www.apachecn.org>
+- 组织资源: <https://apachecn.org>
 - 组织社区: <https://itdog.org> | 帽友名人榜「🔥」
 - 组织加群: <https://apachecn.org/community> | 微信群热闹上瘾 
 
